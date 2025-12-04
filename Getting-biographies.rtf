@@ -1,0 +1,356 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\froman\fcharset0 Times-Roman;\f2\froman\fcharset0 Times-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red109\green109\blue109;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c50196\c50196\c50196;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid201\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid202\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
+\margl1440\margr1440\vieww24540\viewh15940\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You are an expert Python developer and web scraping engineer.\
+\
+I want you to help me design and implement a **Python script** that scrapes biographical information about Chilean MPs from the website of the Biblioteca del Congreso Nacional (BCN) and outputs a **single JSON file** with a list of records (one record per person) following a specific JSON structure.\
+\
+The site is:\
+\
+- Main listing example (parliamentarians by period):\
+  https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html?categ=por_periodo&periodo=1990-2018&pagina=7&=1#listado_parlamentarios\
+\
+From that listing, each name links to a detail page of the form:\
+\
+- Example detail page:\
+  https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Felipe_Jos%C3%A9_Kast_Sommerhoff\
+\
+Each detail page contains:\
+- An \'93infobox\'94 on the right with a lot of structured information (name, birth, profession, party, parliamentary career, public offices, external links, etc.).\
+- A main body with several sections (family and youth, studies, political career, recognitions, legislatures, etc.).\
+- A \'93Labor Parlamentaria\'94 section with tabs like: \'93Labor Legislativa\'94, \'93Incidentes\'94, \'93Homenajes\'94, \'93Comisiones y grupos\'94, \'93Permisos y otros\'94.\
+\
+Inside **\'93Comisiones y grupos\'94** there are buttons, one of which is:\
+\
+```html\
+<button class="tablinks2 btn btn-default" onclick="openTab2(event, '949')">Intervenci\'f3n en Comision</button>\
+```\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\fs24 \cf0 When the user clicks \'93Intervenci\'f3n en Comision\'94, the browser makes an AJAX/XHR request to an endpoint like:\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\fs26 \cf0 getParticipaciones.html?id=949&id_persona=4030
+\f1\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls1\ilvl0
+\f0\fs26 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 id=949
+\f1\fs24  means the type of record \'93Intervenci\'f3n en Comision\'94.\
+\ls1\ilvl0
+\f0\fs26 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 id_persona
+\f1\fs24  is the person identifier (for Felipe Jos\'e9 Kast Sommerhoff, the example id_persona is 4030).\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf0 The response of that AJAX request is an HTML fragment containing a table, with at least two columns:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 FECHA (e.g., \'939 de Septiembre de 2025\'94)\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 T\'cdTULO (e.g., \'93INFORME DE LA COMISI\'d3N DE RELACIONES EXTERIORES reca\'fddo en el proyecto de acuerdo\'85\'94)\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\b \cf0 My goal
+\f1\b0 \
+I want a Python scraper that:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls3\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Goes through all the listing pages for a given period (e.g., 1990\'962018, but design it so I can easily extend it to other periods).\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 For each person listed:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sa240\partightenfactor0
+\ls3\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Follows the link to the detail page.\
+\ls3\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Extracts the most relevant biographical and parliamentary information from the HTML.\
+\ls3\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Finds the 
+\f0\fs26 id_persona
+\f1\fs24  needed for the AJAX call (you will need to inspect the HTML / JS pattern and parse it robustly).\
+\ls3\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Performs an HTTP request to the 
+\f0\fs26 getParticipaciones.html
+\f1\fs24  endpoint with 
+\f0\fs26 id=949
+\f1\fs24  and that 
+\f0\fs26 id_persona
+\f1\fs24 .\
+\ls3\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Parses the returned HTML table and collects all rows as \'93Intervenci\'f3n en Comision\'94 records (date + title; include any URL if the title is a link).\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls3\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Assembles all this information into a 
+\f2\b Python data structure
+\f1\b0  that matches the JSON schema below.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Writes a single JSON file, e.g. 
+\f0\fs26 bcn_diputados.json
+\f1\fs24 , which is a list of objects, one per parliamentarian.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf0 Please:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls4\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Use the 
+\f0\fs26 requests
+\f1\fs24  library for HTTP and 
+\f0\fs26 BeautifulSoup
+\f1\fs24  (bs4) or 
+\f0\fs26 lxml
+\f1\fs24  for HTML parsing.\
+\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Be respectful in scraping: add small delays between requests, allow for later rate limiting, and keep the code easy to configure (e.g., base URL, sleep time).\
+\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Make your code modular and well-commented (functions like 
+\f0\fs26 get_person_links_from_listing
+\f1\fs24 , 
+\f0\fs26 parse_person_page
+\f1\fs24 , 
+\f0\fs26 fetch_intervenciones_en_comision
+\f1\fs24 , etc.).\
+\pard\pardeftab720\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f2\b\fs28 \cf0 \strokec2 TARGET JSON SCHEMA\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 I want each person represented as a JSON object that 
+\f2\b follows this structure as closely as possible
+\f1\b0 . Obviously, not all fields will be available for all MPs, but the code should fill what it can and use 
+\f0\fs26 null
+\f1\fs24  or empty lists when data is missing.\
+Use this as the \'93ideal\'94 schema:\
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \{\
+  "id_bcn": "Felipe_Jose_Kast_Sommerhoff",\
+  "id_persona": 4030,\
+  "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Felipe_Jos%C3%A9_Kast_Sommerhoff",\
+\
+  "metadatos": \{\
+    "titulo_pagina": "Felipe Jos\'e9 Kast Sommerhoff. Rese\'f1as biogr\'e1ficas parlamentarias",\
+    "descripcion": "Breve descripci\'f3n de la ficha, tomada de la meta tag DC.description si existe.",\
+    "anio_version": 2020\
+  \},\
+\
+  "antecedentes_personales": \{\
+    "nombre_completo": "Felipe Jos\'e9 Kast Sommerhoff",\
+    "nombres": "Felipe Jos\'e9",\
+    "apellido_paterno": "Kast",\
+    "apellido_materno": "Sommerhoff",\
+    "fecha_nacimiento": "1977-06-09",\
+    "fecha_nacimiento_texto": "9 de junio de 1977",\
+    "lugar_nacimiento": "Santiago",\
+    "nacionalidad": "chilena",\
+    "grado_academico": "Doctor en Pol\'edticas P\'fablicas; Mag\'edster en Econom\'eda",\
+    "profesion": "Ingeniero comercial",\
+    "partido_principal": "Evoluci\'f3n Pol\'edtica (Ev\'f3poli)",\
+    "imagen_ficha_url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/\'85/foto.jpg",\
+    "enlaces_externos": \{\
+      "ficha_senado": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichaSenador&id=1223",\
+      "wikipedia": "https://es.wikipedia.org/wiki/Felipe_Kast"\
+    \}\
+  \},\
+\
+  "trayectoria_parlamentaria": [\
+    \{\
+      "camara": "Senado",\
+      "cargo": "Senador",\
+      "periodo_inicio": "2018",\
+      "periodo_fin": "2026",\
+      "circunscripcion": "Regi\'f3n de La Araucan\'eda (11\'aa)",\
+      "region": "La Araucan\'eda",\
+      "partido": "Evoluci\'f3n Pol\'edtica (Ev\'f3poli)"\
+    \},\
+    \{\
+      "camara": "C\'e1mara de Diputados",\
+      "cargo": "Diputado",\
+      "periodo_inicio": "2014",\
+      "periodo_fin": "2018",\
+      "distrito": "Distrito N\'ba 22",\
+      "region": "Regi\'f3n Metropolitana de Santiago",\
+      "partido": "Evoluci\'f3n Pol\'edtica (Ev\'f3poli)",\
+      "antecesor": "Alberto Eugenio Cardemil Herrera"\
+    \}\
+  ],\
+\
+  "cargos_publicos": [\
+    \{\
+      "cargo": "Ministro de Planificaci\'f3n",\
+      "institucion": "Gobierno de Chile",\
+      "presidente": "Sebasti\'e1n Pi\'f1era Echenique",\
+      "fecha_inicio": "2010-03-11",\
+      "fecha_fin": "2011-07-18"\
+    \},\
+    \{\
+      "cargo": "Delegado Presidencial para Aldeas y Campamentos de Emergencia",\
+      "institucion": "Gobierno de Chile",\
+      "presidente": "Sebasti\'e1n Pi\'f1era Echenique",\
+      "fecha_inicio": "2011-08-04",\
+      "fecha_fin": "2012-12-31"\
+    \}\
+  ],\
+\
+  "biografia": \{\
+    "familia_y_juventud": "Texto plano de la secci\'f3n correspondiente.",\
+    "estudios_y_vida_laboral": "Texto plano de la secci\'f3n correspondiente.",\
+    "trayectoria_politica_y_publica": "Texto plano de la secci\'f3n correspondiente.",\
+    "reconocimientos": [\
+      "Reconocimiento 1\'85",\
+      "Reconocimiento 2\'85"\
+    ]\
+  \},\
+\
+  "legislaturas": [\
+    \{\
+      "periodo": "2018-2026",\
+      "camara": "Senado",\
+      "texto_resumen": "P\'e1rrafos de la secci\'f3n 'Legislatura 2018-2026'.",\
+      "comisiones_mencionadas": [\
+        "Comisi\'f3n permanente de Derechos Humanos, Nacionalidad y Ciudadan\'eda",\
+        "Comisi\'f3n permanente de Intereses Mar\'edtimos, Pesca y Acuicultura",\
+        "Comisi\'f3n Especial Mixta de Presupuestos",\
+        "Cuarta Subcomisi\'f3n Mixta de Presupuestos"\
+      ],\
+      "otros_roles": [\
+        "Jefe del Comit\'e9 Ev\'f3poli e Independientes en el Senado"\
+      ]\
+    \},\
+    \{\
+      "periodo": "2014-2018",\
+      "camara": "C\'e1mara de Diputados",\
+      "texto_resumen": "P\'e1rrafos de la secci\'f3n 'Legislatura 2014-2018'.",\
+      "comisiones_mencionadas": [\
+        "Econom\'eda, Fomento; Micro, Peque\'f1a y Mediana Empresa; Protecci\'f3n de los Consumidores y Turismo",\
+        "Derechos Humanos y Pueblos Originarios",\
+        "Educaci\'f3n",\
+        "Comisi\'f3n Especial Investigadora sobre compras de tierras para personas y comunidades ind\'edgenas"\
+      ]\
+    \}\
+  ],\
+\
+  "labor_parlamentaria": \{\
+    "descripcion_general": "Texto introductorio de la secci\'f3n 'Labor Parlamentaria'.",\
+    "tabs": \{\
+      "labor_legislativa": \{\
+        "tipos": [\
+          "Intervenci\'f3n",\
+          "Mociones",\
+          "Indicaci\'f3n en Sala",\
+          "Proyecto de Acuerdo",\
+          "Proyecto de Resoluci\'f3n",\
+          "Moci\'f3n Inadmisible"\
+        ]\
+      \},\
+      "incidentes": \{\
+        "tipos": [\
+          "Acusaci\'f3n constitucional",\
+          "Adhesi\'f3n",\
+          "Intervenci\'f3n Petici\'f3n de oficio",\
+          "Petici\'f3n de oficio"\
+        ]\
+      \},\
+      "homenajes": \{\
+        "tipos": ["Homenaje"]\
+      \},\
+      "comisiones_y_grupos": \{\
+        "tipos": [\
+          \{\
+            "codigo_tipo": 949,\
+            "nombre": "Intervenci\'f3n en Comision"\
+          \},\
+          \{\
+            "codigo_tipo": 900,\
+            "nombre": "Integraci\'f3n"\
+          \},\
+          \{\
+            "codigo_tipo": 918,\
+            "nombre": "Nombramiento"\
+          \},\
+          \{\
+            "codigo_tipo": 931,\
+            "nombre": "Renuncia"\
+          \},\
+          \{\
+            "codigo_tipo": 942,\
+            "nombre": "Autor de Informe de Delegaci\'f3n Parlamentaria"\
+          \},\
+          \{\
+            "codigo_tipo": 948,\
+            "nombre": "Indicacion en Comision"\
+          \}\
+        ]\
+      \}\
+    \},\
+\
+    "intervencion_en_comision": \{\
+      "endpoint": "getParticipaciones.html?id=949&id_persona=4030",\
+      "registros": [\
+        \{\
+          "fecha_texto": "9 de Septiembre de 2025",\
+          "fecha_iso": "2025-09-09",\
+          "titulo": "INFORME DE LA COMISI\'d3N DE RELACIONES EXTERIORES reca\'eddo en el proyecto de acuerdo, en segundo tr\'e1mite constitucional, que aprueba el Acuerdo para el Establecimiento del Fondo de Adaptaci\'f3n Clim\'e1tica y Respuesta Integral a Desastres Naturales, hecho en Nueva York, Estados Unidos de Am\'e9rica, el 19 de septiembre de 2023. BOLET\'cdN N\'b0 17.644-10.",\
+          "url_detalle": null\
+        \}\
+        // ...m\'e1s filas seg\'fan la tabla devuelta por el endpoint.\
+      ]\
+    \}\
+  \},\
+\
+  "mociones_en_ley": \{\
+    "texto_resumen": "Texto de la subsecci\'f3n 'Mociones en Ley' si existe.",\
+    "observacion": "Si la lista completa de mociones est\'e1 en un enlace externo, anotar esa URL aqu\'ed.",\
+    "enlace_listado_completo": "https://www.bcn.cl/.../mociones?parlamentario=4030"\
+  \},\
+\
+  "notas": [\
+    \{\
+      "id": 1,\
+      "texto": "Contenido de la nota 1 tal como aparece en la secci\'f3n 'Notas'.",\
+      "url": "http://bcn.cl/25zs9"\
+    \}\
+    // \'85m\'e1s notas.\
+  ]\
+\}\
+\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\fs24 \cf0 Important: you do 
+\f2\b not
+\f1\b0  have to fill every field for every MP; the priority is:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Correctly follow all listing pages and person pages.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Robustly parse the infobox data (name, birth date, party, parliamentary roles).\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Correctly call the 
+\f0\fs26 getParticipaciones.html
+\f1\fs24  endpoint for each 
+\f0\fs26 id_persona
+\f1\fs24  with 
+\f0\fs26 id=949
+\f1\fs24  and 
+\f2\b extract all rows of the Intervenci\'f3n en Comision table
+\f1\b0  (date + title), putting them into 
+\f0\fs26 labor_parlamentaria.intervencion_en_comision.registros
+\f1\fs24 .\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf0 Please start by outlining the scraping strategy, then implement the Python code step by step, explaining key parsing decisions where the HTML is subtle.\
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \
+}
