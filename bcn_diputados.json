@@ -1,0 +1,3036 @@
+[
+  {
+    "id_bcn": "Marcos_Aurelio_Aburto_Ochoa",
+    "id_persona": 331,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Marcos_Aurelio_Aburto_Ochoa",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Marcos Aurelio Aburto Ochoa - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Marcos Aburto Ochoa (Valdivia, 25 de mayo de 1916 - Santiago, 6 de junio de 2008). Abogado, ex Ministro de la Corte Suprema de Justicia y su President",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Marcos Aurelio Aburto Ochoa",
+      "nombres": "Marcos Aurelio",
+      "apellido_paterno": "Aburto",
+      "apellido_materno": "Ochoa",
+      "fecha_nacimiento": "1916-05-25",
+      "fecha_nacimiento_texto": "25 de Mayo de 1916Valdivia",
+      "lugar_nacimiento": "Valdivia",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Marcos_Aburto"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=331",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Enrique_Accorsi_Opazo",
+    "id_persona": 2200,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Enrique_Accorsi_Opazo",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Enrique Accorsi Opazo - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Enrique Accorsi (Santiago, 17 de agosto de 1948). Médico, ex dirigente gremial y político chileno del Partido Por la Democracia. Diputado por el Distr",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Enrique Accorsi Opazo",
+      "nombres": "Enrique",
+      "apellido_paterno": "Accorsi",
+      "apellido_materno": "Opazo",
+      "fecha_nacimiento": "1948-08-17",
+      "fecha_nacimiento_texto": "17 de Agosto de 1948Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Médico",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=800",
+        "wikipedia": "http://es.wikipedia.org/wiki/Enrique_Accorsi"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2200",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "María_Candelaria_Acevedo_Sáez",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/María_Candelaria_Acevedo_Sáez",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica María Candelaria Acevedo Sáez - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "María Candelaria Acevedo (Coronel, 12 de septiembre de 1958). Defensora de Derechos Humanos, activista, feminista, dirigenta social y política del Par",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "María Candelaria Acevedo Sáez",
+      "nombres": "María Candelaria",
+      "apellido_paterno": "Acevedo",
+      "apellido_materno": "Sáez",
+      "fecha_nacimiento": "1958-09-12",
+      "fecha_nacimiento_texto": "12 de Septiembre de 1958Coronel",
+      "lugar_nacimiento": "Coronel",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": null,
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1096#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Mario_Alberto_Acuña_Cisternas",
+    "id_persona": 1344,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Mario_Alberto_Acuña_Cisternas",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Mario Alberto Acuña Cisternas - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Mario Acuña Cisternas (Coronel, 26 de septiembre de 1951). Ingeniero Agrónomo y político del Partido Demócrata Cristiano. Diputado por el Distrito N° ",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Mario Alberto Acuña Cisternas",
+      "nombres": "Mario Alberto",
+      "apellido_paterno": "Acuña",
+      "apellido_materno": "Cisternas",
+      "fecha_nacimiento": "1951-09-26",
+      "fecha_nacimiento_texto": "26 de Septiembre de 1951",
+      "lugar_nacimiento": null,
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniero Agrónomo",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Mario_Acuña_Cisternas"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=1344",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Eric_Aedo_Jeldres",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Eric_Aedo_Jeldres",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Eric Aedo Jeldres - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Eric Aedo Jeldres (Los Ángeles, 13 de julio de 1968). Administrador de Programas Sociales y político del Partido Demócrata Cristiano. Diputado por el ",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Eric Aedo Jeldres",
+      "nombres": "Eric",
+      "apellido_paterno": "Aedo",
+      "apellido_materno": "Jeldres",
+      "fecha_nacimiento": "1968-07-13",
+      "fecha_nacimiento_texto": "13 de Julio de 1968Los Ángeles",
+      "lugar_nacimiento": "Los Ángeles",
+      "nacionalidad": null,
+      "grado_academico": "Magíster en Política y Gobierno",
+      "profesion": "Administrador de Programas Sociales",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1097#ficha-diputados",
+        "wikipedia": "http://es.wikipedia.org/wiki/Eric_Aedo"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "René_Aedo_Ormeño",
+    "id_persona": 2555,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/René_Aedo_Ormeño",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica René Aedo Ormeño - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "René Aedo Ormeño (Trehuaco, 4 de febrero de 1960). Médico cirujano y político del Partido Renovación Nacional. Diputado por el Distrito N° 5, Región d",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "René Aedo Ormeño",
+      "nombres": "René",
+      "apellido_paterno": "Aedo",
+      "apellido_materno": "Ormeño",
+      "fecha_nacimiento": "1960-02-04",
+      "fecha_nacimiento_texto": "4 de Febrero de 1960",
+      "lugar_nacimiento": null,
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Médico Cirujano",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/René_Aedo"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2555",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Sergio_Aguiló_Melo",
+    "id_persona": 3883,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Sergio_Aguiló_Melo",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Sergio Aguiló Melo - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Sergio Aguiló Melo (Santiago, 9 de febrero de 1953). Ingeniero comercial y político del Partido Socialista de Chile. Diputado por el distrito Nº 37, R",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Sergio Aguiló Melo",
+      "nombres": "Sergio",
+      "apellido_paterno": "Aguiló",
+      "apellido_materno": "Melo",
+      "fecha_nacimiento": "1953-02-09",
+      "fecha_nacimiento_texto": "9 de Febrero de 1953Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniero Comercial",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Sergio_Aguiló"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=3883",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Yovana_Ahumada_Palma",
+    "id_persona": 5188,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Yovana_Ahumada_Palma",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Yovana Ahumada Palma - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Yovana Ahumada Palma (Antofagasta, 24 de febrero de 1973). Técnica agropecuaria y política del Partido Social Cristiano. Diputada por el 3er Distrito,",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Yovana Ahumada Palma",
+      "nombres": "Yovana",
+      "apellido_paterno": "Ahumada",
+      "apellido_materno": "Palma",
+      "fecha_nacimiento": "1973-12-24",
+      "fecha_nacimiento_texto": "24 de Diciembre de 1973Antofagasta",
+      "lugar_nacimiento": "Antofagasta",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Técnica agropecuaria",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1098#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=5188",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Raúl_Florcita_Alarcón_Rojas",
+    "id_persona": 4613,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Raúl_Florcita_Alarcón_Rojas",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Raúl Florcita Alarcón Rojas - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Raúl Alarcón Rojas (Curicó, 15 de octubre de 1945). Profesor normalista, músico y político Independiente, ex militante Partido Humanista. Diputado por",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Raúl Florcita Alarcón Rojas",
+      "nombres": "Raúl Florcita",
+      "apellido_paterno": "Alarcón",
+      "apellido_materno": "Rojas",
+      "fecha_nacimiento": "1945-10-15",
+      "fecha_nacimiento_texto": "15 de Octubre de 1945",
+      "lugar_nacimiento": null,
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Profesor normalista y Músico",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1008",
+        "wikipedia": "http://es.wikipedia.org/wiki/Florcita_Motuda"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4613",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Gustavo_Alessandri_Balmaceda",
+    "id_persona": 2302,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gustavo_Alessandri_Balmaceda",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Gustavo Alessandri Balmaceda - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Gustavo Alessandri Balmaceda (Santiago, 8 de marzo de 1961). Empresario y político del Partido Renovación Nacional. Diputado por el Distrito N° 26, La",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Gustavo Alessandri Balmaceda",
+      "nombres": "Gustavo",
+      "apellido_paterno": "Alessandri",
+      "apellido_materno": "Balmaceda",
+      "fecha_nacimiento": "1961-03-08",
+      "fecha_nacimiento_texto": "8 de Marzo de 1961",
+      "lugar_nacimiento": null,
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Empresario",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Gustavo_Alessandri_Balmaceda"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2302",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Jorge_Iván_Alessandri_Vergara",
+    "id_persona": 4604,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Jorge_Iván_Alessandri_Vergara",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Jorge Iván Alessandri Vergara - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Jorge Alessandri Vergara  (Santiago, 8 de junio de 1979). Abogado y político del Partido Unión Demócrata Independiente. Diputado por el 10º Distrito, ",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Jorge Iván Alessandri Vergara",
+      "nombres": "Jorge Iván",
+      "apellido_paterno": "Alessandri",
+      "apellido_materno": "Vergara",
+      "fecha_nacimiento": "1979-06-08",
+      "fecha_nacimiento_texto": "8 de Junio de 1979Santiago de Chile",
+      "lugar_nacimiento": "Santiago de Chile",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1009#ficha-diputados",
+        "wikipedia": "http://es.wikipedia.org/wiki/Jorge_Alessandri_Vergara"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4604",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "René_Alinco_Bustos",
+    "id_persona": 135,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/René_Alinco_Bustos",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica René Alinco Bustos - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "René Alinco Bustos (2 de junio de 1958). Obrero de la construcción, dirigente sindical y político independiente de ascendencia mapuche y huilliche. Di",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "René Alinco Bustos",
+      "nombres": "René",
+      "apellido_paterno": "Alinco",
+      "apellido_materno": "Bustos",
+      "fecha_nacimiento": "1958-06-02",
+      "fecha_nacimiento_texto": "2 de Junio de 1958",
+      "lugar_nacimiento": null,
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Obrero de la construcción",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=803",
+        "wikipedia": "http://es.wikipedia.org/wiki/Hip%C3%B3lito_Solari_Yrigoyen"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=135",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Andrés_Allamand_Zavala",
+    "id_persona": 2056,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Andrés_Allamand_Zavala",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Andrés Allamand Zavala - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Andrés Allamand Zavala (Santiago, 7 de febrero de 1956). Abogado y político de Renovación Nacional. Senador por la 7ª Circunscripción, Región Metropol",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Andrés Allamand Zavala",
+      "nombres": "Andrés",
+      "apellido_paterno": "Allamand",
+      "apellido_materno": "Zavala",
+      "fecha_nacimiento": "1956-02-07",
+      "fecha_nacimiento_texto": "7 de Febrero de 1956Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_senado": "http://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=905",
+        "wikipedia": "http://es.wikipedia.org/wiki/Andres_Allamand"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2056",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "María_Isabel_Allende_Bussi",
+    "id_persona": 3494,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/María_Isabel_Allende_Bussi",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica María Isabel Allende Bussi - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Isabel Allende Bussi (Santiago, 18 de enero de 1945). Socióloga y política del Partido Socialista de Chile. Senadora por la 6ª Circunscripción, Región",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "María Isabel Allende Bussi",
+      "nombres": "María Isabel",
+      "apellido_paterno": "Allende",
+      "apellido_materno": "Bussi",
+      "fecha_nacimiento": "1945-01-18",
+      "fecha_nacimiento_texto": "18 de Enero de 1945Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Socióloga",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_senado": "http://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=985",
+        "wikipedia": "http://es.wikipedia.org/wiki/Isabel_Allende_Bussi"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=3494",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Claudio_Alvarado_Andrade",
+    "id_persona": 1,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Claudio_Alvarado_Andrade",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Claudio Alvarado Andrade - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Claudio Alvarado Andrade (Castro, 7 de febrero de 1960). Ingeniero Comercial y político de la Unión Demócrata Independiente. Senador por la 16ª Circun",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Claudio Alvarado Andrade",
+      "nombres": "Claudio",
+      "apellido_paterno": "Alvarado",
+      "apellido_materno": "Andrade",
+      "fecha_nacimiento": "1960-02-07",
+      "fecha_nacimiento_texto": "7 de Febrero de 1960Castro",
+      "lugar_nacimiento": "Castro",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniero Comercial; Licenciado en Administración de Empresas",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_senado": "https://senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1312",
+        "wikipedia": "http://es.wikipedia.org/wiki/Claudio_Alvarado_Andrade"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=1",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Miguel_Ángel_Alvarado_Ramírez",
+    "id_persona": 4544,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Miguel_Ángel_Alvarado_Ramírez",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Miguel Ángel Alvarado Ramírez - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Miguel Ángel Alvarado (Ovalle, 10 de julio de 1961). Médico cirujano, político del Partido Por la Democracia. Diputado por el Distrito Nº 9, Región de",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Miguel Ángel Alvarado Ramírez",
+      "nombres": "Miguel Ángel",
+      "apellido_paterno": "Alvarado",
+      "apellido_materno": "Ramírez",
+      "fecha_nacimiento": "1961-07-10",
+      "fecha_nacimiento_texto": "10 de Julio de 1961Ovalle",
+      "lugar_nacimiento": "Ovalle",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Médico cirujano",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Miguel_Ángel_Alvarado"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4544",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Sebastián_Diego_Álvarez_Ramírez",
+    "id_persona": 4587,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Sebastián_Diego_Álvarez_Ramírez",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Sebastián Diego Álvarez Ramírez - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Sebastián Álvarez Ramírez (Santiago, 13 de noviembre de 1970). Comunicador Social, publicista y político del Partido Evolución Política (Evópoli). Dip",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Sebastián Diego Álvarez Ramírez",
+      "nombres": "Sebastián Diego",
+      "apellido_paterno": "Álvarez",
+      "apellido_materno": "Ramírez",
+      "fecha_nacimiento": "1970-11-13",
+      "fecha_nacimiento_texto": "13 de Noviembre de 1970Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Comunicador social y publicista",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1010",
+        "wikipedia": "http://es.wikipedia.org/wiki/Sebastián_Álvarez_Ramírez"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4587",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Pedro_Pablo_Álvarez-Salamanca_Büchi",
+    "id_persona": 1616,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Pedro_Pablo_Álvarez-Salamanca_Büchi",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Pedro Pablo Álvarez-Salamanca Büchi - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Pedro Pablo Álvarez Salamanca (Santiago, 10 de abril de 1948-Viña del Mar, 3 de septiembre de 2008). Profesor de Estado en Biología y Ciencias, Empres",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Pedro Pablo Álvarez-Salamanca Büchi",
+      "nombres": "Pedro Pablo",
+      "apellido_paterno": "Álvarez-Salamanca",
+      "apellido_materno": "Büchi",
+      "fecha_nacimiento": "1948-04-10",
+      "fecha_nacimiento_texto": "10 de Abril de 1948Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Profesor de Estado en Biología y Ciencias; Empresario Agrícola",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Pedro_Álvarez-Salamanca"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=1616",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Pedro_Pablo_Álvarez-Salamanca_Ramírez",
+    "id_persona": 994,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Pedro_Pablo_Álvarez-Salamanca_Ramírez",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Pedro Pablo Álvarez-Salamanca Ramírez - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Pedro Álvarez-Salamanca Ramírez (Talca, 18 de febrero de 1976). Agricultor y político del Partido Unión Demócrata Independiente. Diputado por el 17° D",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Pedro Pablo Álvarez-Salamanca Ramírez",
+      "nombres": "Pedro Pablo",
+      "apellido_paterno": "Álvarez-Salamanca",
+      "apellido_materno": "Ramírez",
+      "fecha_nacimiento": "1976-02-18",
+      "fecha_nacimiento_texto": "18 de Febrero de 1976Talca",
+      "lugar_nacimiento": "Talca",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": null,
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Pedro_Álvarez-Salamanca_Ramírez"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=994",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Jenny_Paola_Álvarez_Vera",
+    "id_persona": 4509,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Jenny_Paola_Álvarez_Vera",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Jenny Paola Álvarez Vera - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Jenny Álvarez (Castro, 30 de marzo de 1974). Administradora Bancaria, Contadora y política del Partido Socialista de Chile. Diputada por el 26° Distri",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Jenny Paola Álvarez Vera",
+      "nombres": "Jenny Paola",
+      "apellido_paterno": "Álvarez",
+      "apellido_materno": "Vera",
+      "fecha_nacimiento": "1974-03-30",
+      "fecha_nacimiento_texto": "30 de Marzo de 1974Castro",
+      "lugar_nacimiento": "Castro",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Administradora bancaria y Contadora",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=968",
+        "wikipedia": "http://es.wikipedia.org/wiki/Jenny_Álvarez"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4509",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Rodrigo_Alvarez_Zenteno",
+    "id_persona": 1011,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Rodrigo_Alvarez_Zenteno",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Rodrigo Alvarez Zenteno - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Rodrigo Álvarez Zenteno (Punta Arenas, 30 de julio de 1966). Doctor en Derecho, abogado y político de la Unión Demócrata Independiente. Diputado por e",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Rodrigo Alvarez Zenteno",
+      "nombres": "Rodrigo",
+      "apellido_paterno": "Alvarez",
+      "apellido_materno": "Zenteno",
+      "fecha_nacimiento": "1966-07-30",
+      "fecha_nacimiento_texto": "30 de Julio de 1966Punta Arenas",
+      "lugar_nacimiento": "Punta Arenas",
+      "nacionalidad": null,
+      "grado_academico": "Doctor en Derecho",
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Rodrigo_Álvarez_Zenteno"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=1011",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "María_Soledad_Alvear_Valenzuela",
+    "id_persona": 2274,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/María_Soledad_Alvear_Valenzuela",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica María Soledad Alvear Valenzuela - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Soledad Alvear Valenzuela (Santiago, 17 de septiembre de 1950). Abogada y política independiente. Senadora por la 8ª Circunscripción Santiago Oriente,",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "María Soledad Alvear Valenzuela",
+      "nombres": "María Soledad",
+      "apellido_paterno": "Alvear",
+      "apellido_materno": "Valenzuela",
+      "fecha_nacimiento": "1950-09-17",
+      "fecha_nacimiento_texto": "17 de Septiembre de 1950Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogada",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {}
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2274",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Sandra_Haydée_Amar_Mancilla",
+    "id_persona": 4616,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Sandra_Haydée_Amar_Mancilla",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Sandra Haydée Amar Mancilla - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Sandra Amar Mancilla (Punta Arenas, 24 de noviembre de 1955). Asistente social y política Independiente. Diputada por el 28º Distrito, Región de Magal",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Sandra Haydée Amar Mancilla",
+      "nombres": "Sandra Haydée",
+      "apellido_paterno": "Amar",
+      "apellido_materno": "Mancilla",
+      "fecha_nacimiento": "1955-11-24",
+      "fecha_nacimiento_texto": "24 de Noviembre de 1955Punta Arenas",
+      "lugar_nacimiento": "Punta Arenas",
+      "nacionalidad": null,
+      "grado_academico": "Magister en Gestión Estratégica Pública y Desarrollo Local",
+      "profesion": "Asistente Social",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=1011",
+        "wikipedia": "http://es.wikipedia.org/wiki/Sandra_Amar"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4616",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Osvaldo_Raúl_Andrade_Lara",
+    "id_persona": 3643,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Osvaldo_Raúl_Andrade_Lara",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Osvaldo Raúl Andrade Lara - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Osvaldo Andrade Lara (Santiago, 2 de junio de 1953). Abogado y político del Partido Socialista de Chile. Diputado por el Distrito Nº 29, Región Metrop",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Osvaldo Raúl Andrade Lara",
+      "nombres": "Osvaldo Raúl",
+      "apellido_paterno": "Andrade",
+      "apellido_materno": "Lara",
+      "fecha_nacimiento": "1953-06-02",
+      "fecha_nacimiento_texto": "02 de Junio de 1953Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": "Licenciado",
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=924",
+        "wikipedia": "http://es.wikipedia.org/wiki/Osvaldo_Andrade"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=3643",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Armando_Arancibia_Calderón",
+    "id_persona": 2461,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Armando_Arancibia_Calderón",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Armando Arancibia Calderón - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Armando Arancibia (Santiago, 6 de enero de 1941 - Santiago, 24 de febrero de 2016). Abogado y político del Partido Socialista de Chile. Diputado por e",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Armando Arancibia Calderón",
+      "nombres": "Armando",
+      "apellido_paterno": "Arancibia",
+      "apellido_materno": "Calderón",
+      "fecha_nacimiento": "1941-01-06",
+      "fecha_nacimiento_texto": "6 de Enero de 1941Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Armando_Arancibia"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2461",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Jorge_Patricio_Arancibia_Reyes",
+    "id_persona": 2425,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Jorge_Patricio_Arancibia_Reyes",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Jorge Patricio Arancibia Reyes - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Jorge Arancibia (Santiago, 17 de septiembre de 1939). Ingeniero de Armas, magíster en Ciencias Navales y Marítimas, oficial del Estado Mayor, almirant",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Jorge Patricio Arancibia Reyes",
+      "nombres": "Jorge Patricio",
+      "apellido_paterno": "Arancibia",
+      "apellido_materno": "Reyes",
+      "fecha_nacimiento": "1939-09-17",
+      "fecha_nacimiento_texto": "17 de Septiembre de 1939Santiago, Chile",
+      "lugar_nacimiento": "Santiago, Chile",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Oficial de Marina ; Ingeniero en Armas",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Jorge_Arancibia"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2425",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Carmen_Gloria_Aravena_Acuña",
+    "id_persona": 4593,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Carmen_Gloria_Aravena_Acuña",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Carmen Gloria Aravena Acuña - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Carmen Gloria Aravena Acuña (Temuco, 6 de enero de 1967). Ingeniera Agrónoma y política independiente. Senadora por la 11ª Circunscripción, Región de ",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Carmen Gloria Aravena Acuña",
+      "nombres": "Carmen Gloria",
+      "apellido_paterno": "Aravena",
+      "apellido_materno": "Acuña",
+      "fecha_nacimiento": "1967-01-06",
+      "fecha_nacimiento_texto": "6 de Enero de 1967Temuco",
+      "lugar_nacimiento": "Temuco",
+      "nacionalidad": null,
+      "grado_academico": "Magister en Desarrollo Humano, Local y Territorial",
+      "profesion": "Ingeniera Agrónoma",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_senado": "http://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1221",
+        "wikipedia": "http://es.wikipedia.org/wiki/Carmen_Gloria_Aravena"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4593",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Nicanor_De_la_Cruz_Araya",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Nicanor_De_la_Cruz_Araya",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Nicanor De la Cruz Araya - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Nicanor De la Cruz Araya (Combarbalá, 4 de marzo de 1938). Minero, dirigente sindical y político del Partido Socialista de Chile. Diputado por el Dist",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Nicanor De la Cruz Araya",
+      "nombres": "Nicanor De la",
+      "apellido_paterno": "Cruz",
+      "apellido_materno": "Araya",
+      "fecha_nacimiento": "1938-03-04",
+      "fecha_nacimiento_texto": "4 de Marzo de 1938Combarbalá",
+      "lugar_nacimiento": "Combarbalá",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Minero",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Nicanor_de_la_Cruz"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Jaime_Araya_Guerrero",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Jaime_Araya_Guerrero",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Jaime Araya Guerrero - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Jaime Araya Guerrero (Antofagasta, 4 de febrero de 1976). Abogado y político independiente. Diputado por el 3er Distrito, Región de Antofagasta, perío",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Jaime Araya Guerrero",
+      "nombres": "Jaime",
+      "apellido_paterno": "Araya",
+      "apellido_materno": "Guerrero",
+      "fecha_nacimiento": "1976-02-04",
+      "fecha_nacimiento_texto": "04 de Febrero de 1976Antofagasta",
+      "lugar_nacimiento": "Antofagasta",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1099#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Pedro_Araya_Guerrero",
+    "id_persona": 339,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Pedro_Araya_Guerrero",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Pedro Araya Guerrero - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Pedro Araya Guerrero (Antofagasta, 16 de junio de 1974). Abogado y político independiente. Senador por la 3a Circunscripción, Región de Antofagasta, p",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Pedro Araya Guerrero",
+      "nombres": "Pedro",
+      "apellido_paterno": "Araya",
+      "apellido_materno": "Guerrero",
+      "fecha_nacimiento": "1974-06-16",
+      "fecha_nacimiento_texto": "16 de Junio de 1974Antofagasta",
+      "lugar_nacimiento": "Antofagasta",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_senado": "http://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1110",
+        "wikipedia": "http://es.wikipedia.org/wiki/Pedro_Araya_Guerrero"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=339",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Cristián_Araya_Lerdo_de_Tejada",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Cristián_Araya_Lerdo_de_Tejada",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Cristián Araya Lerdo de Tejada - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Cristián Araya Lerdo de Tejada (Santiago, 30 de septiembre de 1988). Abogado, Psicólogo y político del Partido Republicano. Diputado por el 11° Distri",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Cristián Araya Lerdo de Tejada",
+      "nombres": "Cristián Araya Lerdo",
+      "apellido_paterno": "de",
+      "apellido_materno": "Tejada",
+      "fecha_nacimiento": "1988-09-30",
+      "fecha_nacimiento_texto": "30 de Septiembre de 1988Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": "Magíster en Psicología de las Organizaciones",
+      "profesion": "Abogado, Psicólogo",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1100#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Mónica_Arce_Castro",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Mónica_Arce_Castro",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Mónica Arce Castro - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Mónica Arce Castro (Santiago, 2 de marzo de 1986). Ingeniera logística y política independiente. Diputada por el 12° Distrito, Región Metropolitana de",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Mónica Arce Castro",
+      "nombres": "Mónica",
+      "apellido_paterno": "Arce",
+      "apellido_materno": "Castro",
+      "fecha_nacimiento": "1986-03-02",
+      "fecha_nacimiento_texto": "2 de Marzo de 1986Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniera Logística",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1101#ficha-diputados",
+        "wikipedia": "http://es.wikipedia.org/wiki/Mónica_Arce"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Gonzalo_Arenas_Hödar",
+    "id_persona": 690,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gonzalo_Arenas_Hödar",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Gonzalo Arenas Hödar - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Gonzalo Arenas Hödar (Valparaíso, 13 de diciembre de 1972). Abogado, docente y político del Partido Unión Demócrata Independiente. Diputado por el Dis",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Gonzalo Arenas Hödar",
+      "nombres": "Gonzalo",
+      "apellido_paterno": "Arenas",
+      "apellido_materno": "Hödar",
+      "fecha_nacimiento": "1972-12-13",
+      "fecha_nacimiento_texto": "13 de Diciembre de 1972",
+      "lugar_nacimiento": null,
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=809",
+        "wikipedia": "http://es.wikipedia.org/wiki/Gonzalo_Arenas"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=690",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Rafael_Arratia_Valdebenito",
+    "id_persona": 1975,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Rafael_Arratia_Valdebenito",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Rafael Arratia Valdebenito - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Rafael Arratia (Quillota, 12 de mayo de 1946). Médico Oftalmólogo y político del Partido Demócrata Cristiano. Diputado por el Distrito N° 35, VI Regió",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Rafael Arratia Valdebenito",
+      "nombres": "Rafael",
+      "apellido_paterno": "Arratia",
+      "apellido_materno": "Valdebenito",
+      "fecha_nacimiento": "1946-05-12",
+      "fecha_nacimiento_texto": "12 de Mayo de 1946",
+      "lugar_nacimiento": null,
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Médico Oftalmólogo",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Rafael_Arratia"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=1975",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Claudio_Eugenio_Arriagada_Macaya",
+    "id_persona": 4518,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Claudio_Eugenio_Arriagada_Macaya",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Claudio Eugenio Arriagada Macaya - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Claudio Arriagada (Santiago, 22 de octubre de 1955). Político del Partido Demócrata Cristiano. Diputado por el Distrito Nº 25, Región Metropolitana, p",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Claudio Eugenio Arriagada Macaya",
+      "nombres": "Claudio Eugenio",
+      "apellido_paterno": "Arriagada",
+      "apellido_materno": "Macaya",
+      "fecha_nacimiento": "1955-10-22",
+      "fecha_nacimiento_texto": "22 de Octubre de 1955Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": null,
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=969",
+        "wikipedia": "http://es.wikipedia.org/wiki/Claudio_Arriagada"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4518",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Roberto_Arroyo_Muñoz",
+    "id_persona": 5252,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Roberto_Arroyo_Muñoz",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Roberto Arroyo Muñoz - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Roberto Arroyo Muñoz (Concepción, 29 de noviembre de 1963). Cirujano dentista y político del Partido Social Cristiano. Diputado por el 20° Distrito, R",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Roberto Arroyo Muñoz",
+      "nombres": "Roberto",
+      "apellido_paterno": "Arroyo",
+      "apellido_materno": "Muñoz",
+      "fecha_nacimiento": "1963-11-29",
+      "fecha_nacimiento_texto": "29 de Noviembre de 1963Concepción",
+      "lugar_nacimiento": "Concepción",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Cirujano dentista",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1102#ficha-diputados",
+        "wikipedia": "http://es.wikipedia.org/wiki/Roberto_Enrique_Arroyo"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=5252",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Gabriel_Ascencio_Mansilla",
+    "id_persona": 1777,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gabriel_Ascencio_Mansilla",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Gabriel Ascencio Mansilla - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Gabriel Ascencio Mansilla (Coyhaique, 25 de octubre de 1953). Abogado y político del Partido Demócrata Cristiano. Diputado por el 26° Distrito, Región",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Gabriel Ascencio Mansilla",
+      "nombres": "Gabriel",
+      "apellido_paterno": "Ascencio",
+      "apellido_materno": "Mansilla",
+      "fecha_nacimiento": "1953-10-25",
+      "fecha_nacimiento_texto": "25 de Octubre de 1953Coyhaique",
+      "lugar_nacimiento": "Coyhaique",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=810",
+        "wikipedia": "http://es.wikipedia.org/wiki/Gabriel_Ascencio"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=1777",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Danisa_Astudillo_Peiretti",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Danisa_Astudillo_Peiretti",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Danisa Astudillo Peiretti - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Danisa Astudillo Peiretti (Salitrera Victoria, Iquique, 3 de mayo de 1975). Ingeniera comercial, feminista y política del Partido Socialista de Chile.",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Danisa Astudillo Peiretti",
+      "nombres": "Danisa",
+      "apellido_paterno": "Astudillo",
+      "apellido_materno": "Peiretti",
+      "fecha_nacimiento": "1975-05-03",
+      "fecha_nacimiento_texto": "03 de Mayo de 1975Salitrera Victoria, Iquique",
+      "lugar_nacimiento": "Salitrera Victoria, Iquique",
+      "nacionalidad": null,
+      "grado_academico": "Magíster en Gestión Pública",
+      "profesion": "Ingeniera comercial",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1103#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Pepe_Auth_Stewart",
+    "id_persona": 1390,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Pepe_Auth_Stewart",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Pepe Auth Stewart - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Pepe Auth (Santiago, 6 de marzo de 1957). Egresado en Ciencias Pecuarias y Medicina Veterinaria, Master en Sociología y político independiente. Diputa",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Pepe Auth Stewart",
+      "nombres": "Pepe",
+      "apellido_paterno": "Auth",
+      "apellido_materno": "Stewart",
+      "fecha_nacimiento": "1957-03-06",
+      "fecha_nacimiento_texto": "6 de Marzo de 1957Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": null,
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=925",
+        "wikipedia": "http://es.wikipedia.org/wiki/Pepe_Auth"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=1390",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Nelson_Jaime_Ávila_Contreras",
+    "id_persona": 662,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Nelson_Jaime_Ávila_Contreras",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Nelson Jaime Ávila Contreras - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Nelson Ávila (Los Andes, 29 de noviembre de 1942). Administrador público y político del Partido Radical Social Demócrata, el militante del Partido por",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Nelson Jaime Ávila Contreras",
+      "nombres": "Nelson Jaime",
+      "apellido_paterno": "Ávila",
+      "apellido_materno": "Contreras",
+      "fecha_nacimiento": "1942-11-29",
+      "fecha_nacimiento_texto": "29 de Noviembre de 1942Los Andes",
+      "lugar_nacimiento": "Los Andes",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Administrador Público",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Nelson_%C3%81vila"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=662",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Mariana_Aylwin_Oyarzún",
+    "id_persona": 1717,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Mariana_Aylwin_Oyarzún",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Mariana Aylwin Oyarzún - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Mariana Aylwin Oyarzún (Santiago, 13 de julio de 1949). Profesora y política independiente. Diputada por el Distrito N° 26, comuna de La Florida, Regi",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Mariana Aylwin Oyarzún",
+      "nombres": "Mariana",
+      "apellido_paterno": "Aylwin",
+      "apellido_materno": "Oyarzún",
+      "fecha_nacimiento": "1949-07-13",
+      "fecha_nacimiento_texto": "13 de Julio de 1949Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Profesora de Estado en Historia, Geografía y Educación Cívica",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Mariana_Aylwin"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=1717",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Ignacio_Balbontín_Arteaga",
+    "id_persona": 2947,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Ignacio_Balbontín_Arteaga",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Ignacio Balbontín Arteaga - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Ignacio Balbontín Arteaga (Santiago, 18 de junio de 1940-Santiago, 18 de agosto de 2015). Sociólogo y político del Partido Demócrata Cristiano. Diputa",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Ignacio Balbontín Arteaga",
+      "nombres": "Ignacio",
+      "apellido_paterno": "Balbontín",
+      "apellido_materno": "Arteaga",
+      "fecha_nacimiento": "1940-06-18",
+      "fecha_nacimiento_texto": "18 de Junio de 1940Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": "Postgrado en la Universidad de Lovaina, Bélgica",
+      "profesion": "Sociólogo",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {}
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2947",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Nino_Baltolu_Rasera",
+    "id_persona": 899,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Nino_Baltolu_Rasera",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Nino Baltolu Rasera - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Nino Baltolu Rasera (Cochabamba, Bolivia, 28 de septiembre de 1956). Empresario y político del Partido Unión Demócrata Independiente. Diputado por el ",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Nino Baltolu Rasera",
+      "nombres": "Nino",
+      "apellido_paterno": "Baltolu",
+      "apellido_materno": "Rasera",
+      "fecha_nacimiento": "1956-09-28",
+      "fecha_nacimiento_texto": "28 de Septiembre de 1956Bolivia",
+      "lugar_nacimiento": "Bolivia",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": null,
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=926",
+        "wikipedia": "http://es.wikipedia.org/wiki/Nino_Baltolu"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=899",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Chiara_Barchiesi_Chávez",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Chiara_Barchiesi_Chávez",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Chiara Barchiesi Chávez - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Chiara Barchiesi Chávez (Viña del Mar, 22 de diciembre de 1996). Ingeniera Agrónoma y política del Partido Republicano de Chile. Diputada por el 6° Di",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Chiara Barchiesi Chávez",
+      "nombres": "Chiara",
+      "apellido_paterno": "Barchiesi",
+      "apellido_materno": "Chávez",
+      "fecha_nacimiento": "1996-12-22",
+      "fecha_nacimiento_texto": "22 de Diciembre de 1996Viña del Mar",
+      "lugar_nacimiento": "Viña del Mar",
+      "nacionalidad": null,
+      "grado_academico": "Magíster en Fisiología y Producción Vegetal",
+      "profesion": "Ingeniera Agrónoma",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1104#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Boris_Anthony_Barrera_Moreno",
+    "id_persona": 4560,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Boris_Anthony_Barrera_Moreno",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Boris Anthony Barrera Moreno - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Boris Barrera Moreno  (Santiago de Chile, 3 de mayo de 1970). Político del Partido Comunista de Chile. Diputado por el 9º Distrito, Región Metropolita",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Boris Anthony Barrera Moreno",
+      "nombres": "Boris Anthony",
+      "apellido_paterno": "Barrera",
+      "apellido_materno": "Moreno",
+      "fecha_nacimiento": "1970-05-03",
+      "fecha_nacimiento_texto": "3 de Mayo de 1970Santiago de Chile",
+      "lugar_nacimiento": "Santiago de Chile",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": null,
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1012#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4560",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Arturo_Barrios_Oteíza",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Arturo_Barrios_Oteíza",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Arturo Barrios Oteíza - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Arturo Barrios Oteíza (Santiago, 22 de julio de 1967). Profesor de Historia y Geografía y político del Partido Socialista de Chile (PS). Diputado por ",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Arturo Barrios Oteíza",
+      "nombres": "Arturo",
+      "apellido_paterno": "Barrios",
+      "apellido_materno": "Oteíza",
+      "fecha_nacimiento": "1967-07-22",
+      "fecha_nacimiento_texto": "22 de Julio de 1967Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Profesor de Historia y Geografía",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=1185"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": null,
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Ramón_José_Barros_Montero",
+    "id_persona": 3625,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Ramón_José_Barros_Montero",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Ramón José Barros Montero - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Ramón José Barros Montero (Santiago, 5 de marzo de 1958). Ingeniero agrónomo y político del Partido Unión Demócrata Independiente. Diputado por el 16°",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Ramón José Barros Montero",
+      "nombres": "Ramón José",
+      "apellido_paterno": "Barros",
+      "apellido_materno": "Montero",
+      "fecha_nacimiento": "1958-03-05",
+      "fecha_nacimiento_texto": "5 de Marzo de 1958Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniero Agrónomo",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=811",
+        "wikipedia": "http://es.wikipedia.org/wiki/Ramón_Barros_Montero"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=3625",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Héctor_Barría_Angulo",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Héctor_Barría_Angulo",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Héctor Barría Angulo - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Héctor Barría Angulo (Llanquihue, 24 de abril de 1980). Administrador Público y político del Partido Demócrata Cristiano. Diputado por el 25° distrito",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Héctor Barría Angulo",
+      "nombres": "Héctor",
+      "apellido_paterno": "Barría",
+      "apellido_materno": "Angulo",
+      "fecha_nacimiento": "1980-04-24",
+      "fecha_nacimiento_texto": "24 de Abril de 1980Llanquihue",
+      "lugar_nacimiento": "Llanquihue",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Administrador Público",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1105#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Francisco_Bartolucci_Johnston",
+    "id_persona": 3054,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Francisco_Bartolucci_Johnston",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Francisco Bartolucci Johnston - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Francisco Bartolucci Johnston (Santiago, 24 de diciembre 1949). Abogado, académico y político del Partido Unión Demócrata Independiente. Diputado por ",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Francisco Bartolucci Johnston",
+      "nombres": "Francisco",
+      "apellido_paterno": "Bartolucci",
+      "apellido_materno": "Johnston",
+      "fecha_nacimiento": "1949-11-24",
+      "fecha_nacimiento_texto": "24 de Noviembre de 1949Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Francisco_Bartolucci"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=3054",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Eugenio_Bauer_Jouanne",
+    "id_persona": 2904,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Eugenio_Bauer_Jouanne",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Eugenio Bauer Jouanne - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Eugenio Bauer Jouanne (20 de mayo de 1947) es dibujante técnico y político chileno del Partido Unión Demócrata Independiente. Diputado por la Región d",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Eugenio Bauer Jouanne",
+      "nombres": "Eugenio",
+      "apellido_paterno": "Bauer",
+      "apellido_materno": "Jouanne",
+      "fecha_nacimiento": "1947-05-20",
+      "fecha_nacimiento_texto": "20 de Mayo de 1947",
+      "lugar_nacimiento": null,
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Dibujante Técnico",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=812"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": null,
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2904",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Francisco_Leandro_Bayo_Veloso",
+    "id_persona": 2952,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Francisco_Leandro_Bayo_Veloso",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Francisco Leandro Bayo Veloso - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Francisco Bayo Veloso (Angol, 13 de marzo de 1933). Médico cirujano y político. Diputado por el Distrito N° 48, Región de la Araucanía, entre 1990 y 1",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Francisco Leandro Bayo Veloso",
+      "nombres": "Francisco Leandro",
+      "apellido_paterno": "Bayo",
+      "apellido_materno": "Veloso",
+      "fecha_nacimiento": "1933-03-13",
+      "fecha_nacimiento_texto": "13 de Marzo de 1933Angol",
+      "lugar_nacimiento": "Angol",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Médico Cirujano",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {}
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2952",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Germán_Becker_Alvear",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Germán_Becker_Alvear",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Germán Becker Alvear - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Germán Becker Alvear (Temuco, 13 de marzo de 1955). Ingeniero civil y político del Partido Renovación Nacional. Diputado por el Distrito Nº 50, Región",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Germán Becker Alvear",
+      "nombres": "Germán",
+      "apellido_paterno": "Becker",
+      "apellido_materno": "Alvear",
+      "fecha_nacimiento": "1955-03-13",
+      "fecha_nacimiento_texto": "13 de Marzo de 1955Temuco",
+      "lugar_nacimiento": "Temuco",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniero Civil",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=813",
+        "wikipedia": "http://es.wikipedia.org/wiki/Germán_Becker_Alvear"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Miguel_Becker_Alvear",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Miguel_Becker_Alvear",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Miguel Becker Alvear - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Miguel Becker Alvear (Temuco, 7 de octubre de 1960). Empresario y político de Renovación Nacional. Diputado por el 23er distrito, Región de La Araucan",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Miguel Becker Alvear",
+      "nombres": "Miguel",
+      "apellido_paterno": "Becker",
+      "apellido_materno": "Alvear",
+      "fecha_nacimiento": "1960-10-07",
+      "fecha_nacimiento_texto": "7 de Octubre de 1960Temuco",
+      "lugar_nacimiento": "Temuco",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": null,
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1106#ficha-diputados",
+        "wikipedia": "http://es.wikipedia.org/wiki/Miguel_Becker"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "María_Francisca_Bello_Campos",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/María_Francisca_Bello_Campos",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica María Francisca Bello Campos - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "María Francisca Bello Campos (Santiago, 17 de septiembre de 1987). Psicóloga, feminista y política del Partido Frente Amplio. Diputada por el 6° Distr",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "María Francisca Bello Campos",
+      "nombres": "María Francisca",
+      "apellido_paterno": "Bello",
+      "apellido_materno": "Campos",
+      "fecha_nacimiento": "1987-09-17",
+      "fecha_nacimiento_texto": "17 de Septiembre de 1987Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Psicóloga",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1107#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Jaime_Andrés_Bellolio_Avaria",
+    "id_persona": 4526,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Jaime_Andrés_Bellolio_Avaria",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Jaime Andrés Bellolio Avaria - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Jaime Bellolio Avaria (Santiago, 29 de noviembre de 1980). Ingeniero Comercial, Máster en Políticas Públicas y político del Partido Unión Demócrata In",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Jaime Andrés Bellolio Avaria",
+      "nombres": "Jaime Andrés",
+      "apellido_paterno": "Bellolio",
+      "apellido_materno": "Avaria",
+      "fecha_nacimiento": "1980-11-29",
+      "fecha_nacimiento_texto": "29 de Noviembre de 1980Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": "Máster en Políticas Públicas",
+      "profesion": "Ingeniero comercial",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=970",
+        "wikipedia": "http://es.wikipedia.org/wiki/Jaime_Bellolio"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4526",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Juan_Beltrán_Silva",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Juan_Beltrán_Silva",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Juan Beltrán Silva - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Juan Beltrán Silva (Curacautín, 19 de diciembre de 1962). Ingeniero en Administración y político de Renovación Nacional. Diputado por el 22° distrito,",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Juan Beltrán Silva",
+      "nombres": "Juan",
+      "apellido_paterno": "Beltrán",
+      "apellido_materno": "Silva",
+      "fecha_nacimiento": "1962-12-19",
+      "fecha_nacimiento_texto": "19 de Diciembre de 1962Curacautín",
+      "lugar_nacimiento": "Curacautín",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniero en Administración",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1108#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Gustavo_Benavente_Vergara",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gustavo_Benavente_Vergara",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Gustavo Benavente Vergara - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Gustavo Benavente Vergara (San Isidro, 13 de agosto de 1966). Abogado y político del Partido Unión Demócrata Independiente. Diputado por el 18° Distri",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Gustavo Benavente Vergara",
+      "nombres": "Gustavo",
+      "apellido_paterno": "Benavente",
+      "apellido_materno": "Vergara",
+      "fecha_nacimiento": "1966-08-13",
+      "fecha_nacimiento_texto": "13 de Agosto de 1966San Isidro",
+      "lugar_nacimiento": "San Isidro",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1109#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Bernardo_José_Berger_Fett",
+    "id_persona": 4528,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Bernardo_José_Berger_Fett",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Bernardo José Berger Fett - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Bernardo Berger Fett (Valdivia, 4 de octubre de 1946). Administrador de empresas y político independiente. Diputado por el 24° Distrito, Región de Los",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Bernardo José Berger Fett",
+      "nombres": "Bernardo José",
+      "apellido_paterno": "Berger",
+      "apellido_materno": "Fett",
+      "fecha_nacimiento": "1946-10-04",
+      "fecha_nacimiento_texto": "04 de Octubre de 1946Valdivia",
+      "lugar_nacimiento": "Valdivia",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Administrador público",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=971#ficha-diputados",
+        "wikipedia": "http://es.wikipedia.org/wiki/Bernardo_Berger"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4528",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Alejandro_Javier_Bernales_Maldonado",
+    "id_persona": 4552,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Alejandro_Javier_Bernales_Maldonado",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Alejandro Javier Bernales Maldonado - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Alejandro Javier Bernales Maldonado (Valdivia, 2 de febrero de 1979). Diseñador gráfico y político del Partido Liberal de Chile. Diputado por el 26º D",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Alejandro Javier Bernales Maldonado",
+      "nombres": "Alejandro Javier",
+      "apellido_paterno": "Bernales",
+      "apellido_materno": "Maldonado",
+      "fecha_nacimiento": "1979-02-02",
+      "fecha_nacimiento_texto": "2 de Febrero de 1979Valdivia",
+      "lugar_nacimiento": "Valdivia",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Diseñador gráfico",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1013#ficha-diputados",
+        "wikipedia": "http://es.wikipedia.org/wiki/Alejandro_Bernales"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4552",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Mario_Bertolino_Rendic",
+    "id_persona": 86,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Mario_Bertolino_Rendic",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Mario Bertolino Rendic - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Mario Bertolino (La Serena, 3 de febrero de 1954). Médico veterinario, empresario agrícola, ganadero y político chileno del Partido Renovación Naciona",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Mario Bertolino Rendic",
+      "nombres": "Mario",
+      "apellido_paterno": "Bertolino",
+      "apellido_materno": "Rendic",
+      "fecha_nacimiento": "1954-02-03",
+      "fecha_nacimiento_texto": "3 de Febrero de 1954La Serena",
+      "lugar_nacimiento": "La Serena",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Médico Veterinario",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=814",
+        "wikipedia": "http://es.wikipedia.org/wiki/Mario_Bertolino"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=86",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Carlos_Antonio_Karim_Bianchi_Chelech",
+    "id_persona": 1274,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Carlos_Antonio_Karim_Bianchi_Chelech",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Carlos Antonio Karim Bianchi Chelech - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Carlos Bianchi Chelech (Punta Arenas, 4 de noviembre de 1960). Administrador Público y político independiente. Diputado por el 28° Distrito, Región de",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Carlos Antonio Karim Bianchi Chelech",
+      "nombres": "Carlos Antonio Karim",
+      "apellido_paterno": "Bianchi",
+      "apellido_materno": "Chelech",
+      "fecha_nacimiento": "1960-11-04",
+      "fecha_nacimiento_texto": "04 de Noviembre de 1960Punta Arenas",
+      "lugar_nacimiento": "Punta Arenas",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Administrador Público",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_senado": "http://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=907",
+        "wikipedia": "http://es.wikipedia.org/wiki/Carlos_Bianchi_Chelech‎"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=1274",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Karim_Antonio_Bianchi_Retamales",
+    "id_persona": 4605,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Karim_Antonio_Bianchi_Retamales",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Karim Antonio Bianchi Retamales - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Karim Antonio Bianchi Retamales (Punta Arenas, 31 de enero de 1983). Ingeniero comercial, egresado de derecho y político independiente. Senador por la",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Karim Antonio Bianchi Retamales",
+      "nombres": "Karim Antonio",
+      "apellido_paterno": "Bianchi",
+      "apellido_materno": "Retamales",
+      "fecha_nacimiento": "1983-01-31",
+      "fecha_nacimiento_texto": "31 de Enero de 1983Punta Arenas",
+      "lugar_nacimiento": "Punta Arenas",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniero Comercial y egresado de Derecho",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=1014",
+        "ficha_senado": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1324"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4605",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Sergio_Bitar_Chacra",
+    "id_persona": 3141,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Sergio_Bitar_Chacra",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Sergio Bitar Chacra - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Sergio Bitar Chacra (Santiago de Chile, 30 de diciembre de 1940). Ingeniero Civil, economista y político del Partido por la Democracia. Senador por la",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Sergio Bitar Chacra",
+      "nombres": "Sergio",
+      "apellido_paterno": "Bitar",
+      "apellido_materno": "Chacra",
+      "fecha_nacimiento": "1940-12-30",
+      "fecha_nacimiento_texto": "30 de Diciembre de 1940Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": "Magíster en Economía en la Universidad de Harvard en Estados Unidos",
+      "profesion": "Ingeniero Civil",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Sergio_Bitar"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=3141",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Sergio_Enrique_Bobadilla_Muñoz",
+    "id_persona": 2861,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Sergio_Enrique_Bobadilla_Muñoz",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Sergio Enrique Bobadilla Muñoz - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Sergio Bobadilla Muñoz (Concepción, 25 de marzo de 1958). Ingeniero en ejecución industrial y político del Partido Unión Demócrata Independiente. Dipu",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Sergio Enrique Bobadilla Muñoz",
+      "nombres": "Sergio Enrique",
+      "apellido_paterno": "Bobadilla",
+      "apellido_materno": "Muñoz",
+      "fecha_nacimiento": "1958-03-25",
+      "fecha_nacimiento_texto": "25 de Marzo de 1958",
+      "lugar_nacimiento": null,
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniero en Ejecución Industrial",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=815#ficha-diputados",
+        "wikipedia": "http://es.wikipedia.org/wiki/Sergio_Bobadilla"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2861",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Edgardo_Boeninger_Kausel",
+    "id_persona": 2070,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Edgardo_Boeninger_Kausel",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Edgardo Boeninger Kausel - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Edgardo Boeninger (Santiago, 23 de agosto de 1925 - Santiago, 13 de septiembre de 2009). Ingeniero civil, ingeniero comercial, académico y político de",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Edgardo Boeninger Kausel",
+      "nombres": "Edgardo",
+      "apellido_paterno": "Boeninger",
+      "apellido_materno": "Kausel",
+      "fecha_nacimiento": "1925-08-23",
+      "fecha_nacimiento_texto": "23 de Agosto de 1925Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Ingeniero Civil e Ingeniero Comercial",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {}
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2070",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Carlos_Bombal_Otaegui",
+    "id_persona": 2721,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Carlos_Bombal_Otaegui",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Carlos Bombal Otaegui - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Carlos Bombal (Santiago, 26 de noviembre de 1950). Abogado y político del Partido Unión Demócrata Independiente. Senador por la 8ª Circunscripción San",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Carlos Bombal Otaegui",
+      "nombres": "Carlos",
+      "apellido_paterno": "Bombal",
+      "apellido_materno": "Otaegui",
+      "fecha_nacimiento": "1950-11-26",
+      "fecha_nacimiento_texto": "26 de Noviembre de 1950Santiago",
+      "lugar_nacimiento": "Santiago",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Carlos_Bombal"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2721",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Gabriel_Boric_Font",
+    "id_persona": 4536,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gabriel_Boric_Font",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Gabriel Boric Font - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Gabriel Boric Font (Punta Arenas, 11 de febrero de 1986). Egresado de la carrera de Derecho y político del Partido Convergencia Social. Presidente de ",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Gabriel Boric Font",
+      "nombres": "Gabriel",
+      "apellido_paterno": "Boric",
+      "apellido_materno": "Font",
+      "fecha_nacimiento": "1986-02-11",
+      "fecha_nacimiento_texto": "11 de Febrero de 1986Punta Arenas",
+      "lugar_nacimiento": "Punta Arenas",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Egresado de Derecho",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "http://www.camara.cl/camara/diputado_detalle.aspx?prmid=972",
+        "wikipedia": "http://es.wikipedia.org/wiki/Gabriel_Boric"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=4536",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Carlos_Hernán_Bosselin_Correa",
+    "id_persona": 2379,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Carlos_Hernán_Bosselin_Correa",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Carlos Hernán Bosselin Correa - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Hernán Bosselin Correa (Concepción, 31 de diciembre de 1943). Abogado y político del Partido Demócrata Cristiano. Diputado por el Distrito N°18, Regió",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Carlos Hernán Bosselin Correa",
+      "nombres": "Carlos Hernán",
+      "apellido_paterno": "Bosselin",
+      "apellido_materno": "Correa",
+      "fecha_nacimiento": "1943-12-31",
+      "fecha_nacimiento_texto": "31 de Diciembre de 1943Concepción",
+      "lugar_nacimiento": "Concepción",
+      "nacionalidad": null,
+      "grado_academico": null,
+      "profesion": "Abogado",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "wikipedia": "http://es.wikipedia.org/wiki/Hernán_Bosselin"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=2379",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Ana_María_Bravo_Castro",
+    "id_persona": 0,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Ana_María_Bravo_Castro",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Ana María Bravo Castro - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Ana María Bravo Castro (Valdivia, 3 de diciembre de 1973). Abogada y política del Partido Socialista. Diputada por el 24° distrito, Región de Los Ríos",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Ana María Bravo Castro",
+      "nombres": "Ana María",
+      "apellido_paterno": "Bravo",
+      "apellido_materno": "Castro",
+      "fecha_nacimiento": "1973-12-03",
+      "fecha_nacimiento_texto": "3 de Diciembre de 1973Valdivia",
+      "lugar_nacimiento": "Valdivia",
+      "nacionalidad": null,
+      "grado_academico": "Licenciada en Ciencias Jurídicas y Sociales",
+      "profesion": "Abogada",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1112#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=0",
+        "registros": []
+      }
+    },
+    "notas": []
+  },
+  {
+    "id_bcn": "Marta_Bravo_Salinas",
+    "id_persona": 5262,
+    "url_canonica": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Marta_Bravo_Salinas",
+    "metadatos": {
+      "titulo_pagina": "Reseña Biográfica Marta Bravo Salinas - Reseñas biográficas - Historia Política - Biblioteca del Congreso Nacional de Chile",
+      "descripcion": "Marta Bravo Salinas (Chillán, 25 de febrero de 1976). Kinesióloga, médica general y política del Partido Unión Demócrata Independiente. Diputada por e",
+      "anio_version": 2020
+    },
+    "antecedentes_personales": {
+      "nombre_completo": "Marta Bravo Salinas",
+      "nombres": "Marta",
+      "apellido_paterno": "Bravo",
+      "apellido_materno": "Salinas",
+      "fecha_nacimiento": "1976-02-25",
+      "fecha_nacimiento_texto": "25 de Febrero de 1976Chillán",
+      "lugar_nacimiento": "Chillán",
+      "nacionalidad": null,
+      "grado_academico": "Doctora en Medicina",
+      "profesion": "Médica general, Kinesiologa",
+      "partido_principal": null,
+      "imagen_ficha_url": null,
+      "enlaces_externos": {
+        "ficha_camara": "https://www.camara.cl/diputados/detalle/grupos_interpalamentarios.aspx?prmId=1113#ficha-diputados"
+      }
+    },
+    "trayectoria_parlamentaria": [],
+    "cargos_publicos": [],
+    "biografia": {
+      "familia_y_juventud": "",
+      "estudios_y_vida_laboral": "",
+      "trayectoria_politica_y_publica": "",
+      "reconocimientos": []
+    },
+    "legislaturas": [],
+    "labor_parlamentaria": {
+      "intervencion_en_comision": {
+        "endpoint": "getParticipaciones.html?id=949&id_persona=5262",
+        "registros": []
+      }
+    },
+    "notas": []
+  }
+]
