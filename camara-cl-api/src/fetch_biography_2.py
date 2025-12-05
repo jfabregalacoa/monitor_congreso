@@ -503,17 +503,26 @@ class BCNBiographyScraperV2:
             # Regex for permanent commissions
             # Look for "comisiones permanentes de" followed by content until a period
             # Improved regex to capture until the end of the sentence
-            perm_match = re.search(r'(?:integró|integrante de|participó en) las comisiones permanentes de\s+(.*?)(?:\.|$)', full_text, re.IGNORECASE | re.DOTALL)
+            # Also handling singular "la comisión permanente de" and "continuó en"
+            perm_match = re.search(r'(?:integró|integrante de|participó en|continuó en)\s+(?:las?|la)\s+comisi(?:ones|ón)\s+permanente(?:s)?\s+de\s+(.*?)(?:\.|$)', full_text, re.IGNORECASE | re.DOTALL)
             if perm_match:
                 comm_text = perm_match.group(1)
-                # Split by semicolons, commas and 'y'
-                # First replace ' y ' and '; ' with ','
-                comm_text = re.sub(r'\s+y\s+', ', ', comm_text)
-                comm_text = re.sub(r';\s*', ', ', comm_text)
                 
-                parts = [c.strip() for c in comm_text.split(',')]
-                # Filter out long sentences that might have been captured by mistake if the period was missing
-                comisiones_permanentes = [p for p in parts if p and len(p) < 100]
+                # Split by semicolons as requested by user to avoid splitting complex commission names
+                parts = comm_text.split(';')
+                
+                cleaned_parts = []
+                for p in parts:
+                    p = p.strip()
+                    # Remove leading 'y ' if present (e.g. "; y Conducta Parlamentaria")
+                    if p.lower().startswith('y '):
+                        p = p[2:].strip()
+                    
+                    # Filter out long sentences that might have been captured by mistake
+                    if p and len(p) < 150:
+                        cleaned_parts.append(p)
+                
+                comisiones_permanentes = cleaned_parts
 
             # Regex for special commissions
             # "Comisión Especial de ..." or "Comisiones Especiales de ..."
