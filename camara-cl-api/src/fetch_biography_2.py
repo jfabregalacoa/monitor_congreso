@@ -231,10 +231,21 @@ class BCNBiographyScraperV2:
             start_span = cell.find('span', property='time:hasBeginning')
             end_span = cell.find('span', property='time:hasEnd')
             
+            def extract_year(text):
+                if not text: return None
+                try:
+                    return int(text)
+                except ValueError:
+                    # Handle cases like "21 de junio 2005"
+                    match = re.search(r'\d{4}', text)
+                    if match:
+                        return int(match.group(0))
+                    return None
+
             if start_span:
-                item['anio_inicio'] = int(start_span.get_text(strip=True))
+                item['anio_inicio'] = extract_year(start_span.get_text(strip=True))
             if end_span:
-                item['anio_termino'] = int(end_span.get_text(strip=True))
+                item['anio_termino'] = extract_year(end_span.get_text(strip=True))
                 
             # Extract Cargo
             # It's often the text before the years in that same div
