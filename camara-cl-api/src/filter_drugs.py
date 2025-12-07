@@ -23,6 +23,19 @@ except ImportError:
 import requests
 from urllib.parse import urlparse, urlunparse
 
+# Additional imports for vote aggregation and XML parsing
+try:
+    import pandas as pd  # type: ignore
+    HAS_PANDAS = True
+except ImportError:
+    HAS_PANDAS = False
+
+import xml.etree.ElementTree as ET
+
+# Global caches to avoid repeated I/O and network calls
+period_df_cache: Dict[str, Any] = {}
+militancia_cache: Dict[str, Any] = {}
+
 # Intentar importar librerías para extracción de texto
 try:
     from docx import Document
@@ -130,6 +143,176 @@ def normalize_text(text: Optional[str]) -> str:
 
 
 DRUG_KEYWORDS = [normalize_text(k) for k in DRUG_KEYWORDS_RAW]
+
+# ======================================================================
+#  VOTE CATEGORIZATION AND PARTY AGGREGATION HELPERS
+#
+#  These helper functions make it possible to parse the roll‑call matrices
+#  (where each vote appears as a column keyed by its ID) and to map the
+#  raw vote strings (e.g. "Afirmativo", "En Contra", "Abstención") to a
+#  simplified set of categories (apruebo, rechazo, abstencion, otro). They
+#  also fetch the party affiliation of a diputado at the time of a vote
+#  by calling the Cámara de Diputados web service【390651737376531†L8-L14】.  Caches
+#  are used to minimise redundant file loading and network requests.
+# ======================================================================
+
+def map_vote_to_category(raw_vote: Any) -> str:
+    """
+    Map a raw vote string to one of the categories: 'apruebo', 'rechazo',
+    'abstencion' or 'otro'. Afirmativo -> apruebo; En Contra -> rechazo;
+    Abstención -> abstencion; anything else (Dispensado, Pareja,
+    Incompatible, etc.) -> otro.
+    """
+    if not isinstance(raw_vote, str):
+        return 'otro'
+    norm = normalize_text(raw_vote).strip()
+    if not norm:
+        return 'otro'
+    if norm.startswith('afirmativo'):
+        return 'apruebo'
+    if norm.startswith('en contra'):
+        return 'rechazo'
+    if norm.startswith('abstencion'):
+        return 'abstencion'
+    return 'otro'
+
+
+def load_matrix_for_period(period: str, details_dir: str) -> Optional[Any]:
+    """
+    Load the roll‑call matrix CSV for a given period.  The CSV files are
+    typically named 'matriz__periodo_YYYY_MM.csv' and reside either in the
+    same directory as the details file, in the project root's
+    'Harvard Dataverse/Roll calls' directory, or alongside this script.  The
+    DataFrame is cached so that repeated calls for the same period avoid
+    reloading the file.
+    """
+    if not HAS_PANDAS:
+        return None
+    if period in period_df_cache:
+        return period_df_cache[period]
+    matrix_filename = f"matriz__periodo_{period}.csv"
+    # Determine candidate locations
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(os.path.dirname(script_dir))
+    candidate_paths = [
+        os.path.join(details_dir, matrix_filename),
+        os.path.join(script_dir, matrix_filename),
+        os.path.join(os.getcwd(), matrix_filename),
+        os.path.join(project_root, 'Harvard Dataverse', 'Roll calls', matrix_filename),
+    ]
+    for candidate in candidate_paths:
+        if os.path.exists(candidate):
+            try:
+                df = pd.read_csv(candidate)
+                period_df_cache[period] = df
+                return df
+            except Exception:
+                # Continue searching on failure
+                continue
+    # Not found
+    return None
+
+
+def get_vote_categories(period: str, vote_id: str, details_dir: str) -> Dict[str, List[str]]:
+    """
+    For a given period and vote ID, return a dictionary mapping each
+    category ('apruebo', 'rechazo', 'abstencion', 'otro') to the list of
+    diputado IDs (as strings) who cast that type of vote. If the
+    period's matrix or the vote column cannot be located, empty lists
+    are returned.
+    """
+    categories = {'apruebo': [], 'rechazo': [], 'abstencion': [], 'otro': []}
+    df = load_matrix_for_period(period, details_dir)
+    if df is None:
+        return categories
+    if vote_id not in df.columns:
+        return categories
+    col = df[vote_id]
+    # Pandas 2.x removed the `iteritems` method in favour of `items`.
+    for idx, raw_vote in col.items():
+        if pd.isna(raw_vote):
+            continue
+        dip_id = str(df.at[idx, 'DiputadoId'])
+        cat = map_vote_to_category(str(raw_vote))
+        categories.setdefault(cat, []).append(dip_id)
+    return categories
+
+
+def fetch_militancias_for_diputado(dip_id: str) -> List[Tuple[str, str, str]]:
+    """
+    Fetch the militancia history for a diputado.  Returns a list of
+    (start_date, end_date, party_id) tuples.  End dates may be empty; if so,
+    '9999-12-31' is used as an open‑ended period.  Results are cached.
+    """
+    if dip_id in militancia_cache:
+        return militancia_cache[dip_id]
+    # Utilizar el servicio WSDiputado para obtener el detalle del diputado.
+    # La URL de HTTP GET se especifica en la documentación del servicio【821946896054339†L134-L145】.
+    url = (
+        "https://opendata.camara.cl/camaradiputados/WServices/"
+        f"WSDiputado.asmx/retornarDiputado?prmDiputadoId={dip_id}"
+    )
+    militancias: List[Tuple[str, str, str]] = []
+    try:
+        # Incluir un User-Agent para evitar bloqueos de algunos servidores
+        resp = requests.get(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+            },
+            timeout=15,
+            allow_redirects=True,
+        )
+        if resp.status_code != 200:
+            militancia_cache[dip_id] = militancias
+            return militancias
+    except Exception:
+        militancia_cache[dip_id] = militancias
+        return militancias
+    try:
+        root = ET.fromstring(resp.content)
+    except ET.ParseError:
+        militancia_cache[dip_id] = militancias
+        return militancias
+    for mil in root.findall('.//{*}Militancia'):
+        fi = mil.find('{*}FechaInicio')
+        ft = mil.find('{*}FechaTermino')
+        partido = mil.find('{*}Partido')
+        pid = None
+        if partido is not None:
+            alias = partido.find('{*}Alias')
+            pid_tag = partido.find('{*}Id')
+            name_tag = partido.find('{*}Nombre')
+            if alias is not None and alias.text:
+                pid = alias.text.strip()
+            elif pid_tag is not None and pid_tag.text:
+                pid = pid_tag.text.strip()
+            elif name_tag is not None and name_tag.text:
+                pid = name_tag.text.strip()
+        start_date = fi.text.strip()[:10] if fi is not None and fi.text else None
+        end_date = ft.text.strip()[:10] if ft is not None and ft.text else None
+        if start_date and pid:
+            militancias.append((start_date, end_date or '9999-12-31', pid))
+    militancias.sort(key=lambda x: x[0])
+    militancia_cache[dip_id] = militancias
+    return militancias
+
+
+def get_party_for_date(dip_id: str, vote_date: str) -> str:
+    """
+    Given a diputado ID and a vote date (ISO format), return the party
+    affiliation on that date.  If no matching militancia period is
+    found, returns 'SIN_PARTIDO'.  If the militancia history is empty,
+    returns 'SIN_PARTIDO'.
+    """
+    militancias = fetch_militancias_for_diputado(dip_id)
+    if not militancias:
+        return 'SIN_PARTIDO'
+    vote_day = vote_date[:10] if vote_date else ''
+    for start, end, pid in militancias:
+        if start <= vote_day <= end:
+            return pid
+    return militancias[-1][2] if militancias else 'SIN_PARTIDO'
 
 
 def is_drug_related(item: Dict[str, Any]) -> bool:
@@ -385,6 +568,10 @@ def process_details_file(path: str) -> List[Dict[str, Any]]:
     results: List[Dict[str, Any]] = []
     base_name = os.path.basename(path)
 
+    # Determine the directory where this details file resides.  This is used
+    # to locate the corresponding roll‑call matrix CSV for the period.
+    details_dir = os.path.dirname(path)
+
     for item in data:
         if not isinstance(item, dict):
             continue
@@ -408,6 +595,43 @@ def process_details_file(path: str) -> List[Dict[str, Any]]:
         nuevo["doc_type"] = doc_type
         nuevo["doc_texto"] = doc_texto
         nuevo["doc_extraction_ok"] = extraction_ok
+        # -----------------------------------------------------------------
+        # Extended fields: obtain vote categories and party aggregation
+        # Only proceed if the details file name encodes a period such as
+        # 'details__periodo_YYYY_MM.json' and pandas is available.  If
+        # either condition fails, we still include empty lists/dict.
+        period = None
+        if base_name.startswith("details__periodo_") and base_name.endswith(".json"):
+            period = base_name[len("details__periodo_"):-len(".json")]
+        if period and HAS_PANDAS:
+            vid = str(item.get('vote_id', ''))
+            categories = get_vote_categories(period, vid, details_dir)
+            # Store lists of diputado IDs per category
+            nuevo['apruebo_ids'] = categories.get('apruebo', [])
+            nuevo['rechazo_ids'] = categories.get('rechazo', [])
+            nuevo['abstencion_ids'] = categories.get('abstencion', [])
+            nuevo['otro_ids'] = categories.get('otro', [])
+            # Aggregate by party
+            vote_date = str(item.get('fecha', ''))
+            party_counts: Dict[str, Dict[str, int]] = {}
+            for cat_name, dip_list in categories.items():
+                for dip in dip_list:
+                    party = get_party_for_date(dip, vote_date)
+                    if party not in party_counts:
+                        party_counts[party] = {
+                            'apruebo': 0,
+                            'rechazo': 0,
+                            'abstencion': 0,
+                            'otro': 0,
+                        }
+                    party_counts[party][cat_name] += 1
+            nuevo['votos_por_partido'] = party_counts
+        else:
+            nuevo['apruebo_ids'] = []
+            nuevo['rechazo_ids'] = []
+            nuevo['abstencion_ids'] = []
+            nuevo['otro_ids'] = []
+            nuevo['votos_por_partido'] = {}
 
         results.append(nuevo)
 
