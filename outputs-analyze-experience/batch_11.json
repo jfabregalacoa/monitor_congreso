@@ -1,0 +1,331 @@
+[
+  {
+    "id_csv": 867,
+    "nombres": {
+      "csv": "Cristián Monckeberg Bruner",
+      "bcn": "Cristián Monckeberg Bruner"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Máster en Derecho de Empresas. Trabajó en el sector bancario y en un estudio jurídico privado por aproximadamente 12 años antes de dedicarse plenamente a la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro de Vivienda y Urbanismo",
+        "Ministro de Desarrollo Social y Familia",
+        "Ministro Secretario General de la Presidencia"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 19,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Larga trayectoria en Renovación Nacional, desde la juventud hasta la presidencia del partido. Fue Concejal, Diputado por tres periodos y ocupó tres carteras ministeriales de alto nivel."
+    },
+    "scores": {
+      "score_profesional": 5.4,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 868,
+    "nombres": {
+      "csv": "Nicolás Monckeberg Díaz",
+      "bcn": "Nicolás Monckeberg Díaz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Magíster en Gobierno. Su carrera profesional se ha centrado en el ámbito público y político desde sus inicios, sin experiencia significativa en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado",
+        "Presidente de la Cámara de Diputados"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro del Trabajo y Previsión Social",
+        "Embajador de Chile en Argentina"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 25,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Destacada trayectoria política, desde presidente de la Juventud RN, Concejal, Diputado por cuatro periodos (incluyendo la presidencia de la Cámara), Ministro y Embajador."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 869,
+    "nombres": {
+      "csv": "Manuel Monsalve Benavides",
+      "bcn": "Manuel Zacarías Monsalve Benavides"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Cirujano con Magíster en Gobierno y Gerencia Pública. Posee una sólida experiencia técnica en el sector público de salud, incluyendo roles de dirección de consultorios y servicios de salud."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario del Interior"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Larga trayectoria en el Partido Socialista, incluyendo cargos directivos nacionales como Secretario General. Fue Concejal, Diputado por cuatro periodos y Subsecretario del Interior."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 870,
+    "nombres": {
+      "csv": "Carlos Montes Cisternas",
+      "bcn": "Carlos Montes Cisternas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Economista",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudió Economía y fue profesor universitario en México. Su experiencia profesional se centra en el ámbito académico y de centros de estudio, sin roles técnicos directos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador",
+        "Presidente del Senado"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro de Vivienda y Urbanismo"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 35,
+      "anos_militancia_partidos": 55,
+      "justificacion_breve": "Extensa y destacada trayectoria política, desde dirigente estudiantil y fundador de partidos (MAPU, PPD) hasta 6 periodos como Diputado, 2 como Senador, Presidente del Senado y Ministro de Vivienda."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 9.8
+    }
+  },
+  {
+    "id_csv": 871,
+    "nombres": {
+      "csv": "Iván Moreira Barros",
+      "bcn": "Iván Moreira Barros"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Relacionador Público",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Relacionador Público con experiencia administrativa en municipalidades y asesoría en Televisión Nacional. No se detalla experiencia en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 41,
+      "anos_militancia_partidos": 53,
+      "justificacion_breve": "Muy extensa trayectoria política, desde la juventud partidista, directivo municipal, alcalde, 5 periodos como Diputado y 3 como Senador. Ha ocupado importantes cargos directivos en la UDI."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 872,
+    "nombres": {
+      "csv": "Jaime Mulet Martínez",
+      "bcn": "Jaime Mulet Martínez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 16,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con MBA. Amplia experiencia en el ejercicio libre de la profesión, asesorando empresas y sindicatos, además de roles técnicos como abogado delegado de la Defensa Fiscal y Seremi de Justicia."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Justicia"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 21,
+      "anos_militancia_partidos": 44,
+      "justificacion_breve": "Larga trayectoria política desde dirigente universitario, pasando por cargos directivos en varios partidos (DC, PRI, FREVS, siendo presidente de los dos últimos). Fue Seremi de Justicia y 5 periodos como Diputado."
+    },
+    "scores": {
+      "score_profesional": 7.2,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 873,
+    "nombres": {
+      "csv": "Adriana Muñoz D'Albora",
+      "bcn": "Adriana Muñoz D&#39;Albora"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Socióloga",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Socióloga con Magíster y candidata a Doctorado. Amplia experiencia como investigadora en instituciones nacionales e internacionales, consultora y roles técnicos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Presidenta de la Cámara de Diputados",
+        "Senadora",
+        "Vicepresidenta del Senado",
+        "Presidenta del Senado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 30,
+      "anos_militancia_partidos": 57,
+      "justificacion_breve": "Muy extensa trayectoria política, desde dirigente estudiantil, fundadora de partidos (PPD), presidenta de su partido, 5 periodos como Diputada (incluyendo presidencia de la Cámara) y 2 como Senadora (incluyendo presidencia del Senado)."
+    },
+    "scores": {
+      "score_profesional": 8.8,
+      "score_politico": 9.8
+    }
+  },
+  {
+    "id_csv": 874,
+    "nombres": {
+      "csv": "Claudia Nogueira Fernández",
+      "bcn": "Claudia Nogueira Fernández"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogada",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 9,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con experiencia en un estudio jurídico privado y como profesora universitaria. Su carrera profesional se desarrolló antes de su ingreso al parlamento."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "Trayectoria política centrada en 3 periodos consecutivos como Diputada. Fue fundadora y dirigenta universitaria de la Unión Demócrata Independiente."
+    },
+    "scores": {
+      "score_profesional": 4.8,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 875,
+    "nombres": {
+      "csv": "Iván Norambuena Farías",
+      "bcn": "Iván Ernesto Norambuena Farías"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administrador de Empresas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Administrador de Empresas con experiencia ejecutiva en el sector privado y roles administrativos/técnicos en el sector público (municipalidades y asesoría parlamentaria)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 33,
+      "anos_militancia_partidos": 44,
+      "justificacion_breve": "Larga trayectoria política, desde la juventud partidista, alcalde designado y 5 periodos consecutivos como Diputado. Ha ocupado cargos directivos regionales en la UDI."
+    },
+    "scores": {
+      "score_profesional": 3.8,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 876,
+    "nombres": {
+      "csv": "Marco Antonio Núñez Lozano",
+      "bcn": "Marco Antonio Núñez Lozano"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Cirujano con Doctorado en Salud y Políticas Públicas. Amplia experiencia como consultor internacional, profesor universitario y director de servicio de salud público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Presidente de la Cámara de Diputados"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente de la Región de Valparaíso"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Trayectoria política desde dirigente estudiantil, fundador y primer presidente de la Juventud PPD. Fue Intendente regional, Diputado por tres periodos y Presidente de la Cámara de Diputados."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 8.5
+    }
+  }
+]

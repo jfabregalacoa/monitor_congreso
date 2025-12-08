@@ -1,0 +1,318 @@
+[
+  {
+    "id_csv": 847,
+    "nombres": {
+      "csv": "Carolina Goic Boroevic",
+      "bcn": "Carolina Goic Boroevic"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Asistente Social / Economía",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Asistente Social con Magíster en Economía. Experiencia técnica en SERNAM y SERPLAC antes de ingresar a cargos de elección popular."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada (2 periodos)",
+        "Senadora (1 periodo)"
+      ],
+      "cargos_gobierno_central": [
+        "Seremi de Planificación y Coordinación"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 19,
+      "anos_militancia_partidos": 22,
+      "justificacion_breve": "Larga trayectoria en cargos de elección popular (2 periodos de Diputada, 1 de Senadora) y un cargo de gobierno central (Seremi). Fue presidenta de su partido y candidata presidencial."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 848,
+    "nombres": {
+      "csv": "Rodrigo González Torres",
+      "bcn": "Rodrigo René González Torres"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Filosofía / Docencia",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Doctor en Filosofía con una sólida carrera académica en Chile y en el extranjero antes de dedicarse plenamente a la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde de Viña del Mar (2 periodos)",
+        "Diputado (5 periodos)"
+      ],
+      "cargos_gobierno_central": [
+        "Seremi de Educación"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 28,
+      "anos_militancia_partidos": 39,
+      "justificacion_breve": "Muy extensa trayectoria política, incluyendo fundación de partidos, cargos de elección popular (Alcalde y 5 periodos de Diputado) y cargos de gobierno central (Seremi). Rol directivo partidista importante."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 849,
+    "nombres": {
+      "csv": "Patricio Hales Dib",
+      "bcn": "Jorge Patricio Arancibia Reyes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Naval / Oficial de Marina",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Larga y distinguida carrera militar en la Armada de Chile, alcanzando el grado de Almirante y Comandante en Jefe. Magíster en Ciencias Navales y experiencia docente."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senador (1 periodo)",
+        "Convencional Constitucional"
+      ],
+      "cargos_gobierno_central": [
+        "Embajador de Chile en Turquía"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 11,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Larga carrera militar de alto nivel, seguida por un periodo como Senador, Embajador y Convencional Constitucional. Tuvo roles directivos en su partido."
+    },
+    "scores": {
+      "score_profesional": 8.5,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 850,
+    "nombres": {
+      "csv": "Javier Hernández Hernández",
+      "bcn": "Javier Ricardo Hernández Hernández"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina Veterinaria",
+      "nivel_educacion_texto": "Universitario (Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Veterinario con experiencia en roles técnicos y administrativos en el sector público (Secretaría General de Gobierno, Junaeb, asesorías municipales) antes de su carrera parlamentaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (5 periodos)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "Muy extensa trayectoria parlamentaria con 5 periodos como Diputado. Tuvo un rol directivo partidista y participó en campañas presidenciales."
+    },
+    "scores": {
+      "score_profesional": 4.5,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 851,
+    "nombres": {
+      "csv": "Amelia Herrera Silva",
+      "bcn": "Amelia Herrera Silva"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario (Egresada)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresada de Derecho, pero sin experiencia profesional explícita fuera de la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala (1 periodo)",
+        "Alcaldesa de Quilpué (2 periodos)",
+        "Diputada (1 periodo)",
+        "Consejera Regional (1 periodo)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 21,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Larga trayectoria en cargos de elección popular a nivel local, regional y nacional (Concejala, Alcaldesa, Diputada, CORE). Tuvo roles directivos importantes en Renovación Nacional."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 852,
+    "nombres": {
+      "csv": "Jorge Insunza Gregorio de las Heras",
+      "bcn": "Jorge Insunza Gregorio de Las Heras"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Análisis Político / Consultoría",
+      "nivel_educacion_texto": "Universitario (Egresado de Derecho)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 13,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresado de Derecho con especialización en análisis político. Desarrolló una carrera como analista político y empresario consultor por más de una década, además de experiencia académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2 periodos)"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro Secretario General de la Presidencia"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 41,
+      "justificacion_breve": "Trayectoria política desde joven, incluyendo militancia en varios partidos y roles directivos en el PPD. Fue Diputado por dos periodos y Ministro Secretario General de la Presidencia."
+    },
+    "scores": {
+      "score_profesional": 5.6,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 853,
+    "nombres": {
+      "csv": "Marta Isasi Barbieri",
+      "bcn": "Marta Eliana Isasi Barbieri"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería en Administración de Empresas",
+      "nivel_educacion_texto": "Universitario (Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniera en Administración de Empresas con experiencia en el sector privado (Corporación Habitacional de la Cámara Chilena de la Construcción) antes de su carrera parlamentaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada (2 periodos)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 6,
+      "justificacion_breve": "Dos periodos como Diputada, inicialmente por un partido regionalista y luego como independiente."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 854,
+    "nombres": {
+      "csv": "Enrique Jaramillo Becker",
+      "bcn": "Enrique Jaramillo Becker"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Economía Bancaria / Agricultura",
+      "nivel_educacion_texto": "Técnico / Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 21,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Formación técnica en economía bancaria. Larga experiencia como ejecutivo bancario y director ejecutivo en el sector agrícola, además de roles en federaciones gremiales y un cargo técnico en el Banco Central."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (5 periodos)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Muy extensa trayectoria parlamentaria con 5 periodos consecutivos como Diputado, llegando a ser Primer Vicepresidente de la Cámara."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 855,
+    "nombres": {
+      "csv": "Carlos Abel Jarpa Wevar",
+      "bcn": "Carlos Abel Jarpa Wevar"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina / Oftalmología",
+      "nivel_educacion_texto": "Universitario (Título Profesional + Especialización)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico oftalmólogo con especializaciones y una larga carrera en el Servicio Nacional de Salud. También cuenta con experiencia académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (6 periodos)"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador de la Provincia de Ñuble"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 30,
+      "anos_militancia_partidos": 36,
+      "justificacion_breve": "Muy extensa trayectoria política, incluyendo 6 periodos como Diputado y un periodo como Gobernador. Ocupó importantes roles directivos a nivel nacional y regional en su partido."
+    },
+    "scores": {
+      "score_profesional": 6.5,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 856,
+    "nombres": {
+      "csv": "Tucapel Jiménez Fuentes",
+      "bcn": "Tucapel Francisco Jiménez Fuentes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Eléctrica",
+      "nivel_educacion_texto": "Universitario (Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 13,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero de Ejecución Eléctrico con experiencia en el sector privado en Suecia y Chile, incluyendo la fundación de su propia empresa de asesorías."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (4 periodos)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 23,
+      "justificacion_breve": "Larga trayectoria parlamentaria con 4 periodos consecutivos como Diputado."
+    },
+    "scores": {
+      "score_profesional": 4.6,
+      "score_politico": 7.0
+    }
+  }
+]

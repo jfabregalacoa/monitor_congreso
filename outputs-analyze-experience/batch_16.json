@@ -1,0 +1,334 @@
+[
+  {
+    "id_csv": 917,
+    "nombres": {
+      "csv": "Gastón Von Mühlenbrock Zamora",
+      "bcn": "Gastón Von Mühlenbrock Zamora"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Empresas",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 11,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Magíster en Administración, 11 años en gerencia privada y 10 años en roles técnicos en el sector público (Odeplan, Ministerio del Interior)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 30,
+      "anos_militancia_partidos": 22,
+      "justificacion_breve": "Larga trayectoria como Diputado (5 periodos) y experiencia previa en la administración pública (Odeplan, Ministerio del Interior)."
+    },
+    "scores": {
+      "score_profesional": 6.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 918,
+    "nombres": {
+      "csv": "Patricio Walker Prieto",
+      "bcn": "Patricio Walker Prieto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con Magíster en Derecho Regulatorio, extensa experiencia académica como profesor universitario y rol técnico como asesor legislativo en el Ministerio de Vivienda."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 38,
+      "justificacion_breve": "Muy extensa trayectoria parlamentaria (3 periodos Diputado, 1 periodo Senador), presidencias de ambas cámaras y liderazgo partidista como presidente nacional de la JDC."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 919,
+    "nombres": {
+      "csv": "Felipe Ward Edwards",
+      "bcn": "Felipe Ward Edwards"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 2,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con Magíster, experiencia en investigación en think tank y asesoría técnica municipal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro de Bienes Nacionales",
+        "Ministro Secretario General de la Presidencia",
+        "Ministro de Vivienda y Urbanismo"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Larga trayectoria como Diputado (3 periodos) y Ministro en tres carteras clave, además de liderazgo juvenil partidista."
+    },
+    "scores": {
+      "score_profesional": 4.4,
+      "score_politico": 7.8
+    }
+  },
+  {
+    "id_csv": 920,
+    "nombres": {
+      "csv": "Marcelo Schilling Rodríguez",
+      "bcn": "Marcelo Schilling Rodríguez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Investigación y Administración Pública",
+      "nivel_educacion_texto": "Universitario (incompleto)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 22,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Amplia experiencia en administración, gestión y consultoría en sectores privados y organismos internacionales, además de roles técnicos en el sector público (OCDE, Subsecretaría de Bienes Nacionales de México)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Convencional Constituyente"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Ejecutivo DISPI",
+        "Asesor Ministro del Interior",
+        "Subsecretario de Desarrollo Regional y Administrativo",
+        "Embajador de Chile en Francia",
+        "Embajador de Chile ante UNESCO",
+        "Asesor Ministro del Interior"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 29,
+      "anos_militancia_partidos": 56,
+      "justificacion_breve": "Muy extensa trayectoria en cargos de gobierno central (Subsecretario, Embajador, jefe de seguridad), larga militancia y roles directivos partidistas (Secretario General PS), además de 4 periodos como Diputado."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 921,
+    "nombres": {
+      "csv": "Lily Pérez San Martín",
+      "bcn": "Lily Jovanka Pérez San Martín"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Publicidad y Comunicaciones",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Publicista con experiencia en comunicaciones y medios de prensa (Instituto Libertad, diario La Nación)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala",
+        "Diputada",
+        "Senadora"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 36,
+      "justificacion_breve": "Muy extensa trayectoria en cargos de elección popular (Concejala, 3 periodos Diputada, 1 periodo Senadora), y roles directivos importantes en dos partidos (Secretaria General RN, Presidenta Amplitud)."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.8
+    }
+  },
+  {
+    "id_csv": 922,
+    "nombres": {
+      "csv": "Felipe Harboe Bascuñán",
+      "bcn": "Felipe Harboe Bascuñán"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho y Políticas Públicas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con especializaciones relevantes, experiencia académica como profesor universitario y participación en think tanks y fundaciones de políticas públicas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador",
+        "Convencional Constituyente"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe de Gabinete Subsecretario de Economía",
+        "Jefe de Gabinete Intendencia Metropolitana",
+        "Secretario Ejecutivo Consejo Regional de Seguridad Ciudadana",
+        "Subsecretario de Carabineros",
+        "Subsecretario del Interior",
+        "Ministro del Interior (suplente)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 26,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Muy extensa trayectoria en cargos de gobierno central (Subsecretario de Interior y Carabineros), 2 periodos como Diputado, 1 periodo como Senador, y Convencional Constituyente. Liderazgo partidista."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.7
+    }
+  },
+  {
+    "id_csv": 923,
+    "nombres": {
+      "csv": "Pedro Pablo Álvarez-Salamanca Ramírez",
+      "bcn": "Pedro Pablo Álvarez-Salamanca Ramírez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Agricultura y Gestión Agrícola",
+      "nivel_educacion_texto": "Universitario (egresado)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Empresario agrícola con experiencia en viticultura, egresado de Derecho."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Gobernador Regional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Trayectoria como Diputado (3 periodos) y electo Gobernador Regional."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 924,
+    "nombres": {
+      "csv": "Osvaldo Andrade Lara",
+      "bcn": "Osvaldo Raúl Andrade Lara"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho Laboral y Gestión Pública",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado laboralista con extensa experiencia en gestión de empresas públicas sanitarias y administración municipal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro del Trabajo y Previsión Social"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 34,
+      "anos_militancia_partidos": 56,
+      "justificacion_breve": "Muy extensa trayectoria en cargos de elección popular (2 periodos Diputado, Presidente de la Cámara), Ministro de Estado, y Presidente del Partido Socialista con larga militancia."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 925,
+    "nombres": {
+      "csv": "Pepe Auth Stewart",
+      "bcn": "Pepe Auth Stewart"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Sociología y Ciencias Sociales",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Master en Sociología, extensa experiencia en investigación en ciencias sociales, consultoría estratégica y análisis político, con roles de asesoría técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Embajador de Chile en Suecia",
+        "Asesor Ministerio Secretaría General de la Presidencia"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 17,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "Larga trayectoria como Diputado (3 periodos, Vicepresidente de la Cámara), Embajador, y Presidente de uno de los partidos fundadores de la Concertación."
+    },
+    "scores": {
+      "score_profesional": 8.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 926,
+    "nombres": {
+      "csv": "Nino Baltolu Rasera",
+      "bcn": "Nino Baltolu Rasera"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Empresarial y Gestión",
+      "nivel_educacion_texto": "Técnico / Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 36,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Extensa trayectoria como empresario y gerente en el sector privado, con roles de liderazgo gremial y en instituciones de formación técnica (CFT)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Consejero Regional",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Trayectoria en cargos de elección popular a nivel local, regional y nacional (Concejal, CORE, 2 periodos Diputado)."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 6.5
+    }
+  }
+]

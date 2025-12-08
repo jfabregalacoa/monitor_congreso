@@ -1,0 +1,323 @@
+[
+  {
+    "id_csv": 887,
+    "nombres": {
+      "csv": "Carlos Recondo Lavanderos",
+      "bcn": "Carlos Recondo Lavanderos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Veterinario",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Sólida formación profesional con un Magíster y experiencia técnica relevante en el sector público (INDAP), incluyendo un cargo de Director Nacional."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Consejero Regional (CORE)",
+        "Consejero Constitucional"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde (designado)",
+        "Director Nacional del Instituto de Desarrollo Agropecuario (INDAP)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 30,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "Extensa y variada trayectoria política, con múltiples períodos como Diputado, roles electos a nivel regional y constitucional, cargos ejecutivos designados de alto nivel y liderazgo partidista regional."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 888,
+    "nombres": {
+      "csv": "Alberto Robles Pantoja",
+      "bcn": "Alberto Robles Pantoja"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano, Urólogo",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Fuerte base médica con especialización, Magíster en Administración Pública, experiencia docente universitaria y roles técnico-administrativos significativos en el sector público de salud."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Salud (Seremi)",
+        "Director del Servicio de Salud"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "Sólida carrera parlamentaria con cuatro períodos como Diputado, complementada con importantes cargos ejecutivos designados a nivel regional y liderazgo partidista."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 889,
+    "nombres": {
+      "csv": "Manuel Rojas Molina",
+      "bcn": "Manuel Rojas Molina"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Profesor de Estado en Educación Física",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Grado universitario en Educación Física con experiencia laboral en el sector privado antes de su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 26,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Larga trayectoria política con cuatro períodos como Diputado y una destacada gestión como Alcalde electo por casi una década."
+    },
+    "scores": {
+      "score_profesional": 2.8,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 890,
+    "nombres": {
+      "csv": "Fulvio Rossi Ciocca",
+      "bcn": "Fulvio Rossi Ciocca"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano, Traumatólogo",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación médica sólida con especialización y experiencia en el ejercicio libre de la profesión antes de su ingreso a la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Destacada carrera parlamentaria que incluye dos períodos como Diputado y uno como Senador, además de haber ocupado la presidencia y secretaría general de su partido a nivel nacional."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 891,
+    "nombres": {
+      "csv": "Karla Rubilar Barahona",
+      "bcn": "Karla Rubilar Barahona"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médica cirujana",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Sólida formación médica con Magíster en Salud Pública, experiencia docente y roles técnicos en el sistema de salud público y municipal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Intendenta",
+        "Ministra Secretaria General de Gobierno",
+        "Ministra de Desarrollo Social y Familia"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 17,
+      "anos_militancia_partidos": 9,
+      "justificacion_breve": "Impresionante trayectoria política con tres períodos como Diputada y roles ejecutivos de altísimo nivel, incluyendo una Intendencia y dos Ministerios."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 892,
+    "nombres": {
+      "csv": "María Antonieta Saa Díaz",
+      "bcn": "María Antonieta Saa Díaz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Profesora de Castellano",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Formación universitaria en pedagogía, experiencia docente, roles en ONG y participación en programas técnicos de alfabetización en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Consejera Regional (CORE)",
+        "Concejala"
+      ],
+      "cargos_gobierno_central": [
+        "Alcaldesa (designada)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 34,
+      "anos_militancia_partidos": 54,
+      "justificacion_breve": "Extraordinaria carrera política con cinco períodos como Diputada, múltiples roles electos a nivel local y regional, un cargo ejecutivo designado y liderazgo en la directiva central de varios partidos, incluyendo la vicepresidencia del PPD."
+    },
+    "scores": {
+      "score_profesional": 4.8,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 893,
+    "nombres": {
+      "csv": "Jorge Sabag Villalobos",
+      "bcn": "Jorge Eduardo Sabag Villalobos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero civil, Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Doble titulación universitaria en Ingeniería Civil y Derecho, con más de una década de experiencia profesional en el sector privado en ambas áreas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 21,
+      "justificacion_breve": "Larga y consistente carrera parlamentaria con cuatro períodos como Diputado, incluyendo un rol de liderazgo como Segundo Vicepresidente de la Cámara."
+    },
+    "scores": {
+      "score_profesional": 4.4,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 894,
+    "nombres": {
+      "csv": "Eduardo Saffirio Suárez",
+      "bcn": "Eduardo Saffirio Suárez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Doctorado (candidato)",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Excepcional formación académica con candidatura a Doctorado, extensa trayectoria como profesor universitario y director de escuela de Derecho, investigador y asesor legislativo."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Sólida carrera parlamentaria con dos períodos como Diputado, complementada con un importante rol de liderazgo nacional en la Juventud Demócrata Cristiana."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 895,
+    "nombres": {
+      "csv": "Felipe Salaberry Soto",
+      "bcn": "Felipe Salaberry Soto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Grado universitario en Ingeniería Comercial con experiencia en asesorías económicas y financieras en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Consistente carrera política con tres períodos como Diputado, un período como Concejal y roles de liderazgo en la juventud y la directiva nacional de su partido."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 896,
+    "nombres": {
+      "csv": "Roberto Sepúlveda Hermosilla",
+      "bcn": "Roberto Sepúlveda Hermosilla"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación como Médico Cirujano con una década de ejercicio profesional antes de dedicarse a la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Sólida trayectoria en el gobierno local, incluyendo dos períodos como Concejal y uno como Alcalde, culminando con un período como Diputado."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 5.5
+    }
+  }
+]

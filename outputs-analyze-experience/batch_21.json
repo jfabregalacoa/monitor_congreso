@@ -1,0 +1,318 @@
+[
+  {
+    "id_csv": 967,
+    "nombres": {
+      "csv": "Issa Kort Garriga",
+      "bcn": "Issa Farid Kort Garriga"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Historia",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Historiador con Magíster en Administración, 5 años como gerente en sector privado y 9 años de experiencia docente universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Seremi de Cultura",
+        "Representante Permanente de Chile ante la OEA"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 15,
+      "justificacion_breve": "Tres periodos como Diputado, Seremi de Cultura, Representante ante la OEA y Secretario General de la UDI, mostrando una sólida trayectoria política y partidista."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 968,
+    "nombres": {
+      "csv": "Jenny Álvarez Vera",
+      "bcn": "Jenny Paola Álvarez Vera"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Bancaria y Contabilidad",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación técnica en administración bancaria y contabilidad, sin experiencia profesional documentada fuera de la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernadora de la Provincia de Chiloé"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 11,
+      "anos_militancia_partidos": 36,
+      "justificacion_breve": "Larga militancia en el PS, Concejala, Gobernadora y dos periodos como Diputada, con una trayectoria ascendente en cargos de elección popular."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 969,
+    "nombres": {
+      "csv": "Claudio Arriagada Macaya",
+      "bcn": "Claudio Eugenio Arriagada Macaya"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comercio",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Educación media y experiencia en comercio sin detalles de duración, su carrera se ha centrado en la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Larga y destacada trayectoria como Alcalde por cinco periodos, Presidente de la AChM y un periodo como Diputado, con fuerte liderazgo partidista a nivel municipal."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 970,
+    "nombres": {
+      "csv": "Jaime Bellolio Avaria",
+      "bcn": "Jaime Andrés Bellolio Avaria"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial / Políticas Públicas",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Comercial con Máster en Políticas Públicas, 3 años de experiencia en fundaciones/consultoría y 7 años de docencia universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Alcalde"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro Secretario General de Gobierno"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 21,
+      "justificacion_breve": "Presidente FEUC, dos periodos como Diputado, Ministro Secretario General de Gobierno y futuro Alcalde, con rol directivo en la UDI, demostrando una carrera política ascendente y de alto perfil."
+    },
+    "scores": {
+      "score_profesional": 4.6,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 971,
+    "nombres": {
+      "csv": "Bernardo Berger Fett",
+      "bcn": "Bernardo José Berger Fett"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Empresas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Administrador de Empresas con 10 años de experiencia privada y 14 años en roles técnicos/administrativos en el sector público antes de su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 47,
+      "anos_militancia_partidos": 28,
+      "justificacion_breve": "Extensa trayectoria política con 47 años de servicio público, incluyendo múltiples periodos como Concejal, Alcalde (designado y electo) y Diputado, demostrando gran experiencia en cargos de elección popular."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 972,
+    "nombres": {
+      "csv": "Gabriel Boric Font",
+      "bcn": "Gabriel Boric Font"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario (Egresado)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresado de Derecho con experiencia como ayudante de cátedra, sin trayectoria profesional fuera del ámbito político y estudiantil."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Presidente de la República"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 16,
+      "justificacion_breve": "Líder estudiantil, dos periodos como Diputado y actual Presidente de la República, con una rápida y ascendente carrera política desde la militancia universitaria y fundación de partidos."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 973,
+    "nombres": {
+      "csv": "Karol Cariola Oliva",
+      "bcn": "Karol Aída Cariola Oliva"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Obstetricia y Puericultura",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Matrona titulada, con experiencia laboral limitada fuera de la política, su carrera se ha desarrollado principalmente en el ámbito público y partidista."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 21,
+      "justificacion_breve": "Líder estudiantil y juvenil comunista, tres periodos como Diputada y Presidenta de la Cámara, con una sólida trayectoria partidista y de representación."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 974,
+    "nombres": {
+      "csv": "Loreto Carvajal Ambiado",
+      "bcn": "María Loreto Carvajal Ambiado"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario (Egresada)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresada de Derecho, sin experiencia profesional documentada fuera de su carrera política y cargos de confianza."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Amplia trayectoria política con 20 años de servicio público, incluyendo tres periodos como Concejala, dos como Diputada y dos como Senadora, además de ser Primera Vicepresidenta de la Cámara."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 975,
+    "nombres": {
+      "csv": "Daniella Cicardini Milla",
+      "bcn": "Daniella Valentina Cicardini Milla"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Biología Marina",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Bióloga Marina titulada, sin experiencia profesional documentada fuera de su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Tres periodos como Diputada y Segunda Vicepresidenta de la Cámara, con una trayectoria política enfocada en el poder legislativo."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 976,
+    "nombres": {
+      "csv": "Juan Antonio Coloma Álamos",
+      "bcn": "Juan Antonio Coloma Álamos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con Magíster en Participación Ciudadana, 1 año de experiencia en fundación y 5 años en roles técnicos/jurídicos en el sector público antes de ser legislador."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Tres periodos como Diputado, con experiencia en roles técnicos públicos y una destacada trayectoria partidista, incluyendo Vicepresidente de la Juventud, miembro de la Comisión Política y Secretario General de la UDI."
+    },
+    "scores": {
+      "score_profesional": 4.2,
+      "score_politico": 7.5
+    }
+  }
+]

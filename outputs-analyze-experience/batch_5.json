@@ -1,0 +1,319 @@
+[
+  {
+    "id_csv": 806,
+    "nombres": {
+      "csv": "Pedro Pablo Alvarez-Salamanca Büchi",
+      "bcn": "Pedro Pablo Álvarez-Salamanca Büchi"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación y Agronomía",
+      "nivel_educacion_texto": "Universitario (Profesor de Estado) + Postgrado",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 13,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesor de Estado con postgrado y 13 años de docencia universitaria, además de empresario agrícola."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde de San Clemente (designado)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 27,
+      "anos_militancia_partidos": 38,
+      "justificacion_breve": "Larga trayectoria como alcalde designado y 5 periodos como diputado."
+    },
+    "scores": {
+      "score_profesional": 5.5,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 807,
+    "nombres": {
+      "csv": "Rodrigo Alvarez Zenteno",
+      "bcn": "Rodrigo Alvarez Zenteno"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 16,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Doctorado y Master de Harvard, extensa carrera docente universitaria y ejercicio profesional en estudios de abogados."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario de Hacienda",
+        "Ministro de Energía"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "3 periodos como diputado (incluyendo presidencia de la Cámara), Subsecretario, Ministro y Vicepresidente nacional de la UDI."
+    },
+    "scores": {
+      "score_profesional": 8.5,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 808,
+    "nombres": {
+      "csv": "Pedro Araya Guerrero",
+      "bcn": "Pedro Araya Guerrero"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario (Licenciatura/Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con licenciatura, pero con muy poca experiencia profesional dedicada fuera de la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 22,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Larga y ascendente trayectoria, 3 periodos como diputado y 3 periodos como senador, además de roles directivos nacionales en partidos."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 809,
+    "nombres": {
+      "csv": "Gonzalo Arenas Hödar",
+      "bcn": "Gonzalo Arenas Hödar"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho e Historia",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con Doctorado en Historia, extensa carrera docente y de investigación, y experiencia en asesoría legal privada y técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Consejero Constitucional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 9,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "2 periodos como diputado y Consejero Constitucional, con importantes roles directivos nacionales en la UDI (Secretario General, Vicepresidente)."
+    },
+    "scores": {
+      "score_profesional": 7.5,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 810,
+    "nombres": {
+      "csv": "Gabriel Ascencio Mansilla",
+      "bcn": "Gabriel Ascencio Mansilla"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario (Licenciatura/Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con experiencia en derechos humanos y desarrollo local, y un rol técnico-judicial actual en el Tribunal Calificador de Elecciones."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador de la Provincia de Chiloé",
+        "Embajador de Chile en Ecuador"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 29,
+      "anos_militancia_partidos": 56,
+      "justificacion_breve": "Muy extensa trayectoria, 6 periodos como diputado (incluyendo presidencia de la Cámara), Gobernador y Embajador."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 10.0
+    }
+  },
+  {
+    "id_csv": 811,
+    "nombres": {
+      "csv": "Ramón Barros Montero",
+      "bcn": "Ramón José Barros Montero"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Agrónomo",
+      "nivel_educacion_texto": "Universitario (Licenciatura/Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero agrónomo con un periodo de ejercicio libre de la profesión antes de su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Larga trayectoria como diputado, con 5 periodos consecutivos."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 812,
+    "nombres": {
+      "csv": "Eugenio Bauer Jouanne",
+      "bcn": "Eugenio Bauer Jouanne"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Dibujante Técnico",
+      "nivel_educacion_texto": "Universitario (Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 25,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Dibujante técnico con título universitario y una larga trayectoria en empresas privadas de ingeniería y construcción, además de roles consultivos técnicos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Consejero Regional (CORE)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 12,
+      "justificacion_breve": "3 periodos como diputado y experiencia como Consejero Regional."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 813,
+    "nombres": {
+      "csv": "Germán Becker Alvear",
+      "bcn": "Germán Becker Alvear"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Civil",
+      "nivel_educacion_texto": "Universitario (Licenciatura/Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 13,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero civil con experiencia gerencial en el sector privado y asesoría técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado",
+        "Consejero Constitucional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 19,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "4 periodos como diputado, Concejal y Consejero Constitucional, con presidencia regional de RN."
+    },
+    "scores": {
+      "score_profesional": 5.5,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 814,
+    "nombres": {
+      "csv": "Mario Bertolino Rendic",
+      "bcn": "Mario Bertolino Rendic"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Veterinario y Empresario Agrícola",
+      "nivel_educacion_texto": "Universitario (Licenciatura/Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 17,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico veterinario con una larga trayectoria como empresario agrícola, ganadero y martillero, además de experiencia directiva en el sector privado y público técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "4 periodos como diputado, con experiencia en roles de gestión pública y cofundador de su partido."
+    },
+    "scores": {
+      "score_profesional": 6.5,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 815,
+    "nombres": {
+      "csv": "Sergio Bobadilla Muñoz",
+      "bcn": "Sergio Enrique Bobadilla Muñoz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero en Ejecución Industrial",
+      "nivel_educacion_texto": "Universitario (Título Profesional) + Diplomado",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero en Ejecución Industrial con diplomado, pero sin experiencia profesional dedicada fuera del ámbito público/político."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde de Los Álamos (designado)",
+        "Alcalde de Florida (designado)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 27,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "Larga trayectoria como alcalde (designado y electo) y 4 periodos como diputado."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 10.0
+    }
+  }
+]

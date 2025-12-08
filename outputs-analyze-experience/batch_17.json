@@ -1,0 +1,316 @@
+[
+  {
+    "id_csv": 927,
+    "nombres": {
+      "csv": "Pedro Browne Urrejola",
+      "bcn": "Pedro Pablo Browne Urrejola"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Civil",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Civil con una sólida carrera de 12 años en el sector inmobiliario y de construcción, incluyendo roles gerenciales. No posee experiencia académica ni técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 9,
+      "justificacion_breve": "Dos periodos como Diputado y roles directivos partidistas (Vicepresidente RN, Secretario General Amplitud). Su trayectoria política es significativa a nivel parlamentario y partidista."
+    },
+    "scores": {
+      "score_profesional": 4.4,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 928,
+    "nombres": {
+      "csv": "Giovanni Calderón Bassi",
+      "bcn": "Giovanni Oscar Calderón Bassi"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Doctor en Derecho con una destacada carrera académica como profesor universitario. Cuenta con experiencia como asesor legislativo y un cargo técnico en Corfo, lo que demuestra expertiz en su campo."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 22,
+      "justificacion_breve": "Un periodo como Diputado. Su militancia partidista es extensa, pero no ha ocupado cargos directivos nacionales de alto nivel. Su experiencia política se centra en su rol parlamentario."
+    },
+    "scores": {
+      "score_profesional": 7.6,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 929,
+    "nombres": {
+      "csv": "Cristián Campos Jara",
+      "bcn": "Cristián Araya Lerdo de Tejada"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Psicología y Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Posee un Magíster y doble titulación en Psicología y Derecho, lo que indica una sólida formación académica. Sin embargo, no se registra experiencia profesional significativa fuera del ámbito político."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 8,
+      "justificacion_breve": "Ha sido Concejal y actualmente es Diputado, lo que marca el inicio de una carrera política en cargos de elección popular. No ha tenido roles directivos partidistas nacionales ni cargos de gobierno central."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 930,
+    "nombres": {
+      "csv": "Lautaro Carmona Soto",
+      "bcn": "Lautaro Carmona Soto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Administrador Público con experiencia académica como profesor. Su trayectoria profesional se ha desarrollado principalmente en el ámbito político y partidista, con limitada experiencia no política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 56,
+      "justificacion_breve": "Dos periodos como Diputado y una trayectoria partidista excepcionalmente larga y de alto nivel, incluyendo Secretario General y Presidente del Partido Comunista. Es una figura histórica del partido."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 931,
+    "nombres": {
+      "csv": "Juan Luis Castro González",
+      "bcn": "Juan Luis Castro González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Cirujano con Magíster y especialidad en Medicina Interna y Hematología. Cuenta con una extensa experiencia clínica en hospitales públicos y privados, además de consulta particular."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 40,
+      "justificacion_breve": "Tres periodos como Diputado y actualmente Senador. Su larga militancia en el Partido Socialista y su liderazgo gremial como Presidente del Colegio Médico de Chile le otorgan una vasta experiencia política."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 932,
+    "nombres": {
+      "csv": "Eduardo Cerda García",
+      "bcn": "Eduardo Antonio Cerda García"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Agrónoma",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Agrónomo con una larga y exitosa trayectoria como empresario agrícola, incluyendo la creación de una empresa exportadora. Su experiencia es sólida en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 29,
+      "anos_militancia_partidos": 55,
+      "justificacion_breve": "Una de las trayectorias políticas más extensas, con múltiples periodos como Diputado (5), Alcalde y Concejal. Ocupó cargos directivos clave en la Democracia Cristiana y la Alianza Democrática, demostrando un liderazgo político de larga data."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 933,
+    "nombres": {
+      "csv": "Aldo Cornejo González",
+      "bcn": "Aldo Cornejo González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con experiencia en la fiscalía de un banco y ejercicio libre de la profesión, además de docencia universitaria. Su carrera profesional es sólida y relevante para su campo."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Alcalde"
+      ],
+      "cargos_gobierno_central": [
+        "Asesor político de Ministro"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 26,
+      "anos_militancia_partidos": 48,
+      "justificacion_breve": "Cinco periodos como Diputado (incluyendo Presidente de la Cámara) y un periodo como Alcalde de Valparaíso. También fue asesor de un ministro. Su extensa militancia y cargos de elección popular lo posicionan como una figura política de gran experiencia."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 934,
+    "nombres": {
+      "csv": "Fuad Chahin Valenzuela",
+      "bcn": "Fuad Eduardo Chahin Valenzuela"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 9,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con experiencia en litigación y defensa de consumidores, además de docencia universitaria. Su carrera profesional se ha combinado con roles públicos y partidistas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Convencional Constitucional"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial",
+        "Director de División de Organizaciones Sociales"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Dos periodos como Diputado, Convencional Constitucional y cargos de gobierno central (Seremi, Director DOS). Fue Presidente de la Democracia Cristiana, lo que denota una trayectoria política de alto impacto y liderazgo partidista."
+    },
+    "scores": {
+      "score_profesional": 4.8,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 935,
+    "nombres": {
+      "csv": "Rojo Edwards Silva",
+      "bcn": "José Manuel Rojo Edwards Silva"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Civil Industrial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Civil Industrial con un Magíster en Políticas Públicas de Harvard. Ha tenido experiencia en emprendimiento social, finanzas y desarrollo internacional, mostrando una base profesional diversa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 14,
+      "justificacion_breve": "Dos periodos como Diputado y actualmente Senador. Fue Presidente del Partido Republicano, lo que indica un rol de liderazgo importante en la formación y consolidación de una nueva fuerza política."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 936,
+    "nombres": {
+      "csv": "Cristina Girardi Lavín",
+      "bcn": "Cristina Girardi Lavín"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Antropología",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresada de Antropología con especialización en antropología de la salud y experiencia como investigadora. Su carrera profesional fuera de la política es limitada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala",
+        "Alcaldesa",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 28,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Una extensa y exitosa carrera en cargos de elección popular: Concejala, tres periodos como Alcaldesa de Cerro Navia y tres periodos como Diputada. Su trayectoria política es muy sólida y de larga duración."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 8.0
+    }
+  }
+]

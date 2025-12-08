@@ -1,0 +1,314 @@
+[
+  {
+    "id_csv": 877,
+    "nombres": {
+      "csv": "Sergio Ojeda Uribe",
+      "bcn": "Sergio Ojeda Uribe"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 18,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con 18 años de ejercicio privado y presidencia de asociación de académicos. Sin experiencia técnica pública directa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 28,
+      "anos_militancia_partidos": 45,
+      "justificacion_breve": "7 periodos como Diputado (28 años) y roles de liderazgo provincial/regional en la DC y Concertación. Larga militancia."
+    },
+    "scores": {
+      "score_profesional": 6.5,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 878,
+    "nombres": {
+      "csv": "Carlos Olivares Zepeda",
+      "bcn": "Carlos Olivares Zepeda"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 17,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Médico Cirujano con 17 años de ejercicio profesional en el sector privado. Sin experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 23,
+      "justificacion_breve": "3 periodos como Diputado (12 años) y Presidente nacional del Partido Regionalista Independiente (PRI)."
+    },
+    "scores": {
+      "score_profesional": 5.5,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 879,
+    "nombres": {
+      "csv": "José Miguel Ortiz Novoa",
+      "bcn": "José Miguel Ortiz Novoa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Profesor de Educación Básica",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 8,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Profesor de Educación Básica con 8 años de docencia y experiencia como director provincial de Educación."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 32,
+      "anos_militancia_partidos": 64,
+      "justificacion_breve": "8 periodos como Diputado (32 años) y miembro de la Comisión Política Nacional de la DC, con una muy larga militancia."
+    },
+    "scores": {
+      "score_profesional": 4.5,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 880,
+    "nombres": {
+      "csv": "Clemira Pacheco Rivas",
+      "bcn": "Clemira Pacheco Rivas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Profesora Básica y Diferencial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 19,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Profesora con Magíster, 19 años en ONG/dirección de colegio y experiencia técnica en proyectos de Sernac/Fosis."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "3 periodos como Diputada (12 años) y dirección política nacional/regional del Partido Socialista."
+    },
+    "scores": {
+      "score_profesional": 7.5,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 881,
+    "nombres": {
+      "csv": "Osvaldo Palma Flores",
+      "bcn": "Osvaldo Palma Flores"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Cirujano con 20 años de ejercicio en sector público (hospital) y privado, además de agricultura."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 18,
+      "justificacion_breve": "3 periodos como Diputado (12 años). Sin roles partidistas de alto nivel mencionados."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 882,
+    "nombres": {
+      "csv": "Iván Paredes Fierro",
+      "bcn": "Iván Paredes Fierro"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administrador de Empresas",
+      "nivel_educacion_texto": "Técnico / Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Administrador de Empresas con estudios, pero sin experiencia profesional técnica o privada detallada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Coordinador Regional de Seguridad Pública"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 36,
+      "justificacion_breve": "Concejal, Alcalde (6 años) y 2 periodos como Diputado (8 años), además de Coordinador Regional de Seguridad Pública."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 883,
+    "nombres": {
+      "csv": "Denise Pascal Allende",
+      "bcn": "Denise Pascal Allende"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Cientista Política, Diseñadora Paisajista",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 17,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Cientista Política y Diseñadora Paisajista con 17 años de experiencia privada/internacional y 8 años en roles técnicos públicos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernadora"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 43,
+      "justificacion_breve": "Gobernadora (6 años) y 3 periodos como Diputada (12 años), con roles en la Comisión Política y Vicepresidencia Nacional del PS."
+    },
+    "scores": {
+      "score_profesional": 6.5,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 884,
+    "nombres": {
+      "csv": "Darío Paya Mira",
+      "bcn": "Darío Paya Mira"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 2,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con breve ejercicio privado y experiencia como profesor ayudante universitario. Sin experiencia técnica pública directa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Embajador"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 28,
+      "justificacion_breve": "4 periodos como Diputado (16 años), Embajador ante la OEA (4 años) y Secretario General Nacional de la UDI."
+    },
+    "scores": {
+      "score_profesional": 3.5,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 885,
+    "nombres": {
+      "csv": "José Pérez Arriagada",
+      "bcn": "José Pérez Arriagada"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnico Agrícola, Perito Forestal",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 25,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Técnico Agrícola y Perito Forestal con 25 años de experiencia privada y 10 años en roles técnicos públicos (INDAP, CONAF)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Alcalde"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 38,
+      "justificacion_breve": "6 periodos como Diputado (24 años) y Vicepresidente Nacional del PRSD, además de Alcalde electo."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 886,
+    "nombres": {
+      "csv": "Jaime Quintana Leal",
+      "bcn": "Jaime Quintana Leal"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Profesor de Estado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesor de Estado con Licenciatura en Letras y 12 años de docencia universitaria. Sin experiencia técnica pública directa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe de Gabinete de Intendencia Regional"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 28,
+      "anos_militancia_partidos": 40,
+      "justificacion_breve": "2 periodos como Diputado (8 años), 2 periodos como Senador (16 años, incluyendo Presidencia del Senado) y Presidente Nacional del PPD."
+    },
+    "scores": {
+      "score_profesional": 5.5,
+      "score_politico": 9.0
+    }
+  }
+]

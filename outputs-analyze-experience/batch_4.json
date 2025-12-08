@@ -1,0 +1,320 @@
+[
+  {
+    "id_csv": 234,
+    "nombres": {
+      "csv": "Mario Varela Herrera",
+      "bcn": "Mario Varela Herrera"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnico en Plásticos",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación técnica, sin mención de ejercicio profesional fuera de la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 15,
+      "justificacion_breve": "Un período como diputado, con un rol directivo partidista menor."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 239,
+    "nombres": {
+      "csv": "Edmundo Villouta Concha",
+      "bcn": "Edmundo Villouta Concha"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comerciante",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Carrera comercial, educación secundaria, con roles gremiales/técnicos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Regidor",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 62,
+      "justificacion_breve": "Larga trayectoria en cargos de elección popular, incluyendo cuatro períodos como diputado y roles locales importantes."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 242,
+    "nombres": {
+      "csv": "Néstor Jofré Núñez",
+      "bcn": "Néstor Jofré Núñez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Químico Industrial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 25,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero químico con experiencia en la industria salitrera y como empresario radial."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado",
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Economía"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 23,
+      "justificacion_breve": "Trayectoria variada en cargos de elección popular y designados a nivel regional, incluyendo un breve período como diputado."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 660,
+    "nombres": {
+      "csv": "Manuel Matta Aragay",
+      "bcn": "Manuel José Ramón Matta Aragay"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con experiencia en asesoría sindical y docencia universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Embajador"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 27,
+      "anos_militancia_partidos": 47,
+      "justificacion_breve": "Larga y destacada trayectoria política, incluyendo múltiples períodos como diputado y senador, roles diplomáticos y liderazgo partidista."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 800,
+    "nombres": {
+      "csv": "Enrique Accorsi Opazo",
+      "bcn": "Enrique Accorsi Opazo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Universitario (Especialista)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con especialización, amplia experiencia en hospitales públicos y privados, y docencia universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 14,
+      "justificacion_breve": "Tres períodos como diputado, con una destacada trayectoria gremial médica a nivel nacional e internacional."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 801,
+    "nombres": {
+      "csv": "René Aedo Ormeño",
+      "bcn": "René Aedo Ormeño"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Universitario (Especialista)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con especialización y extensa experiencia en hospitales públicos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 21,
+      "anos_militancia_partidos": 17,
+      "justificacion_breve": "Un período como diputado, con roles directivos regionales en su partido."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 802,
+    "nombres": {
+      "csv": "Sergio Aguiló Melo",
+      "bcn": "Sergio Aguiló Melo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 6,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero comercial con posgrado, experiencia docente y en asesoría a organizaciones sindicales."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 32,
+      "anos_militancia_partidos": 46,
+      "justificacion_breve": "Muy extensa trayectoria parlamentaria (siete períodos como diputado) y roles de liderazgo en diversos partidos de izquierda."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 803,
+    "nombres": {
+      "csv": "René Alinco Bustos",
+      "bcn": "René Alinco Bustos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Obrero de la construcción",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Obrero de la construcción con experiencia laboral en Chile y Argentina."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Larga trayectoria como dirigente sindical y cuatro períodos como diputado, además de concejal."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 804,
+    "nombres": {
+      "csv": "Isabel Allende Bussi",
+      "bcn": "María Isabel Allende Bussi"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Socióloga",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Socióloga con dos maestrías, experiencia como investigadora, docente y en roles técnicos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Senadora"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 36,
+      "anos_militancia_partidos": 56,
+      "justificacion_breve": "Muy destacada y extensa trayectoria política, incluyendo múltiples períodos como diputada y senadora, presidencia de ambas cámaras y liderazgo nacional del Partido Socialista."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 10.0
+    }
+  },
+  {
+    "id_csv": 805,
+    "nombres": {
+      "csv": "Claudio Alvarado Andrade",
+      "bcn": "Claudio Alvarado Andrade"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero comercial con experiencia en banca privada y roles administrativos técnicos en municipios."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario General de la Presidencia",
+        "Subsecretario de Desarrollo Regional y Administrativo",
+        "Ministro Secretario General de la Presidencia"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 34,
+      "anos_militancia_partidos": 36,
+      "justificacion_breve": "Larga trayectoria en cargos de elección popular (cuatro períodos como diputado, uno como senador) y altos cargos de gobierno (subsecretario y ministro)."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.5
+    }
+  }
+]

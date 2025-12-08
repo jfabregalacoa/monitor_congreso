@@ -1,0 +1,342 @@
+[
+  {
+    "id_csv": 957,
+    "nombres": {
+      "csv": "Víctor Torres Jeldes",
+      "bcn": "Víctor Marcelo Torres Jeldes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con experiencia docente universitaria y varios cargos técnicos en el sector público de salud antes de su carrera política. No registra experiencia en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Diputado",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador provincial de San Antonio",
+        "Superintendente de Salud"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "Larga trayectoria parlamentaria (3 periodos como Diputado), cargos ejecutivos de alto nivel (Gobernador, Superintendente) y liderazgo partidista nacional (Vicepresidente DC)."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 958,
+    "nombres": {
+      "csv": "Joaquín Tuma Zedan",
+      "bcn": "Joaquín Tuma Zedan"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Empresario / Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 38,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Extensa y destacada carrera empresarial y gremial en el sector privado, con roles de gerencia general y presidencia de asociaciones comerciales. Obtuvo el título de abogado tardíamente."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal de Temuco",
+        "Diputado",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 17,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Sólida trayectoria en cargos de elección popular a nivel local (Concejal) y nacional (2 periodos como Diputado), además de experiencia como Consejero Regional."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 959,
+    "nombres": {
+      "csv": "Enrique Van Rysselberghe Herrera",
+      "bcn": "Enrique Van Rysselberghe Herrera"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Altos grados académicos (MBA, Post MBA, Magíster) y experiencia directiva y docente en el ámbito universitario. No registra experiencia en el sector privado fuera de la academia."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal de Concepción",
+        "Concejal de Concepción",
+        "Diputado",
+        "Diputado",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 25,
+      "anos_militancia_partidos": 26,
+      "justificacion_breve": "Extensa y ascendente carrera política, desde Concejal, pasando por 3 periodos como Diputado, hasta Senador. Larga militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 960,
+    "nombres": {
+      "csv": "Orlando Vargas Pizarro",
+      "bcn": "Orlando Severo Vargas Pizarro"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnico Mecánico / Empresario",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 38,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación técnica, pero con una muy extensa y exitosa carrera como empresario en el rubro de eventos y comunicaciones, incluyendo la fundación y dirección de empresas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal de Arica",
+        "Diputado",
+        "Alcalde de Arica"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 19,
+      "anos_militancia_partidos": 16,
+      "justificacion_breve": "Fuerte arraigo local con liderazgo vecinal, Concejal y Alcalde electo, además de un periodo como Diputado. Trayectoria política diversa y de largo aliento."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 961,
+    "nombres": {
+      "csv": "Pedro Velásquez Seguel",
+      "bcn": "Pedro Antonio Velásquez Seguel"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado / Contador General",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 6,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Contador general y abogado con algunos años de experiencia en el sector privado antes de su extensa carrera política. Su título de abogado fue obtenido durante su carrera pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde de Coquimbo",
+        "Alcalde de Coquimbo",
+        "Alcalde de Coquimbo",
+        "Alcalde de Coquimbo",
+        "Diputado",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 21,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Muy extensa y destacada carrera como Alcalde (4 periodos) y dos periodos como Diputado. Fuerte liderazgo local y regional."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 962,
+    "nombres": {
+      "csv": "Carlos Vilches Guzmán",
+      "bcn": "Carlos Alfredo Vilches Guzmán"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero en Metalurgia",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero en metalurgia con experiencia en el sector minero privado y en empresas públicas técnicas. Retomó actividades empresariales después de su carrera parlamentaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Diputado",
+        "Diputado",
+        "Diputado",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial",
+        "Gobernador de la Provincia de Copiapó"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 22,
+      "anos_militancia_partidos": 27,
+      "justificacion_breve": "Muy extensa y consistente carrera parlamentaria (5 periodos como Diputado), complementada con cargos ejecutivos regionales (SRM, Gobernador)."
+    },
+    "scores": {
+      "score_profesional": 5.4,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 963,
+    "nombres": {
+      "csv": "Matías Walker Prieto",
+      "bcn": "Matías Walker Prieto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 11,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con experiencia en un estudio jurídico privado y en la dirección de una fundación educacional antes de dedicarse plenamente a la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal por Lo Barnechea",
+        "Diputado",
+        "Diputado",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "Larga y ascendente carrera política, desde Concejal, 3 periodos como Diputado, hasta Senador. Ha ocupado importantes roles de liderazgo partidista nacional (Presidente DC, Vicepresidente Demócratas) y en el Senado."
+    },
+    "scores": {
+      "score_profesional": 4.2,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 964,
+    "nombres": {
+      "csv": "Mónica Zalaquett Said",
+      "bcn": "Mónica Beatriz Zalaquett Said"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Empresaria / Comunicadora",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 25,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Amplia y diversa experiencia en el sector privado como empresaria, gerente comercial y comunicadora en radio y televisión, tanto en Chile como en Bolivia."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretaria de Turismo",
+        "Ministra de la Mujer y la Equidad de Género"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 22,
+      "justificacion_breve": "Trayectoria política marcada por un periodo como Diputada y roles ejecutivos de alto nivel en el gobierno central, incluyendo Subsecretaria y Ministra de Estado."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 965,
+    "nombres": {
+      "csv": "Cristian Letelier Aguilar",
+      "bcn": "Cristián Omar Letelier Aguilar"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con sólida formación y experiencia en el ejercicio privado de la profesión, roles académicos como profesor universitario y cargos técnicos en el sector público y judicial (Ministro TC)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Un periodo como Diputado, pero con importante liderazgo partidista nacional (Presidente JDC, miembro Comisión Política UDI) y un largo y relevante cargo en el Tribunal Constitucional."
+    },
+    "scores": {
+      "score_profesional": 6.8,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 966,
+    "nombres": {
+      "csv": "Joel Rosales Guzmán",
+      "bcn": "Joel Rosales Guzmán"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administrador de empresas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 6,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios en administración de empresas y experiencia posterior en sus propias empresas. Su carrera se centró principalmente en el servicio público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal de Los Ángeles",
+        "Concejal de Los Ángeles",
+        "Concejal de Los Ángeles",
+        "Alcalde de Los Ángeles",
+        "Alcalde de Los Ángeles",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde de Laja"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 30,
+      "anos_militancia_partidos": 28,
+      "justificacion_breve": "Muy extensa y diversa trayectoria en el servicio público, incluyendo cargos técnicos municipales, Alcalde designado, múltiples periodos como Concejal y Alcalde electo, y un periodo como Diputado."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 7.0
+    }
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "id_csv": 897,
+    "nombres": {
+      "csv": "Alejandra Sepúlveda Orbenes",
+      "bcn": "Alejandra Sepúlveda Orbenes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina Veterinaria",
+      "nivel_educacion_texto": "Magíster (Egresada)",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médica veterinaria con magíster (egresada), experiencia en proyectos de investigación universitaria y roles técnicos de gestión en INDAP por 9 años."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senadora",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 31,
+      "anos_militancia_partidos": 28,
+      "justificacion_breve": "Larga y destacada trayectoria parlamentaria (5 periodos de diputada, 1 de senadora), incluyendo la presidencia de la Cámara de Diputados. Ha ocupado roles directivos nacionales en varios partidos."
+    },
+    "scores": {
+      "score_profesional": 5.6,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 898,
+    "nombres": {
+      "csv": "Gabriel Silber Romo",
+      "bcn": "Gabriel Silber Romo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 2,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con magíster en Derecho Público. Su experiencia laboral fuera de la política se limita a un breve periodo como asesor jurídico independiente."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 27,
+      "justificacion_breve": "Cuatro periodos consecutivos como diputado, incluyendo la vicepresidencia de la Cámara. Larga trayectoria en la Juventud Demócrata Cristiana con roles directivos nacionales."
+    },
+    "scores": {
+      "score_profesional": 3.4,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 899,
+    "nombres": {
+      "csv": "Laura Soto González",
+      "bcn": "Laura Soto González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario (Licenciatura/Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogada con experiencia como Jueza de Policía Local y en la Armada, además de ejercicio libre de la profesión y trabajo pro-bono en derechos humanos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senadora",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Embajadora"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 27,
+      "anos_militancia_partidos": 53,
+      "justificacion_breve": "Amplia y destacada trayectoria política, incluyendo un periodo como senadora, tres como diputada y embajadora. Fue fundadora y presidenta regional de partidos importantes."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 900,
+    "nombres": {
+      "csv": "Alejandro Sule Fernández",
+      "bcn": "Alejandro Miguel Sule Fernández"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Eléctrica",
+      "nivel_educacion_texto": "Universitario (Posgrado)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero eléctrico con posgrado en gestión empresarial. Cuenta con una década y media de experiencia como empresario en comercio exterior y en un instituto en México."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 44,
+      "justificacion_breve": "Un periodo como diputado. Posee una muy larga militancia en el Partido Radical y ha ocupado roles en su directiva nacional, incluyendo la segunda vicepresidencia."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 901,
+    "nombres": {
+      "csv": "Raúl Sunico Galdames",
+      "bcn": "Raúl Súnico Galdames"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Empresas",
+      "nivel_educacion_texto": "Universitario (Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero en Administración de Empresas con una extensa experiencia en gestión pública regional en roles técnicos y de coordinación, sumando más de 12 años en diversas funciones."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario",
+        "Seremi",
+        "Intendente"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 31,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Un periodo como diputado, complementado con una sólida carrera en cargos de gobierno central de alto nivel (Subsecretario, Seremi, Intendente subrogante) y roles en la Comisión Política del Partido Socialista."
+    },
+    "scores": {
+      "score_profesional": 3.5,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 902,
+    "nombres": {
+      "csv": "Jorge Tarud Daccarett",
+      "bcn": "Jorge Tarud Daccarett"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Egresado Universitario",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresado de Derecho, sin haber obtenido el título profesional. Su trayectoria laboral se ha centrado exclusivamente en la política y la diplomacia."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Embajador"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 25,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "Cuatro periodos consecutivos como diputado y una destacada carrera diplomática como embajador en múltiples países. Fue militante fundador del PPD y ha ocupado roles directivos en partidos."
+    },
+    "scores": {
+      "score_profesional": 1.5,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 903,
+    "nombres": {
+      "csv": "Carolina Tohá Morales",
+      "bcn": "Carolina Tohá Morales"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ciencia Política",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Doctora en Ciencia Política con experiencia académica como profesora universitaria, consultora y en roles técnicos de gestión pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Alcaldesa"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretaria",
+        "Ministra"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 38,
+      "justificacion_breve": "Amplia y destacada trayectoria política, incluyendo dos periodos como diputada, alcaldesa de Santiago y tres cargos ministeriales de alto nivel, entre ellos Ministra del Interior. Fue presidenta nacional del PPD."
+    },
+    "scores": {
+      "score_profesional": 6.6,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 904,
+    "nombres": {
+      "csv": "Eugenio Tuma Zedan",
+      "bcn": "Eugenio Tuma Zedan"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial / Contabilidad",
+      "nivel_educacion_texto": "Universitario (Licenciatura/Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero comercial y contador auditor con experiencia en la Corporación de Fomento de la Producción (CORFO), presidencia de una empresa pública y como empresario privado en la IX Región."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 30,
+      "anos_militancia_partidos": 34,
+      "justificacion_breve": "Larga y destacada trayectoria parlamentaria (4 periodos de diputado, 1 de senador), incluyendo la vicepresidencia del Senado. Ha ocupado roles directivos en el Partido por la Democracia."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 905,
+    "nombres": {
+      "csv": "Marisol Turres Figueroa",
+      "bcn": "Marisol Turres Figueroa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario (Licenciatura/Título Profesional)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con una década de experiencia en el ejercicio libre de la profesión antes de su ingreso al parlamento."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 23,
+      "justificacion_breve": "Tres periodos consecutivos como diputada. Fue presidenta distrital de la Unión Demócrata Independiente en su distrito."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 906,
+    "nombres": {
+      "csv": "Jorge Ulloa Aguillón",
+      "bcn": "Jorge Iván Ulloa Aguillón"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Historia y Geografía / Ciencia Política",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Profesor de Historia y Geografía con magíster en Ciencia Política. Amplia experiencia académica (subdirector, director, profesor universitario) y en gestión educativa pública, además de actividades agrícolas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente",
+        "Embajador"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 37,
+      "anos_militancia_partidos": 36,
+      "justificacion_breve": "Muy larga y destacada trayectoria parlamentaria (7 periodos consecutivos como diputado), además de Intendente regional y Embajador. Fue fundador y vicepresidente nacional de la UDI."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 9.5
+    }
+  }
+]

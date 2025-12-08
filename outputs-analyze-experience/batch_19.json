@@ -1,0 +1,317 @@
+[
+  {
+    "id_csv": 947,
+    "nombres": {
+      "csv": "Ricardo Rincón González",
+      "bcn": "Ricardo Enrique Rincón González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con licenciatura, pocos años de ejercicio privado y cargos públicos más bien de confianza política que técnicos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe de Gabinete de Intendente",
+        "Secretario Ejecutivo CONACE",
+        "Asesor Ministerio de Defensa"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 21,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Tres periodos como diputado, cargos de confianza política regional y larga trayectoria partidista desde la juventud."
+    },
+    "scores": {
+      "score_profesional": 2.6,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 948,
+    "nombres": {
+      "csv": "Gaspar Rivas Sánchez",
+      "bcn": "Gaspar Alberto Rivas Sánchez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 8,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con licenciatura, varios años de ejercicio independiente y emprendimiento, pero sin especializaciones o roles técnicos de alto nivel."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Primer Vicepresidente de la Cámara de Diputadas y Diputados"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 14,
+      "justificacion_breve": "Tres periodos como diputado, incluyendo la vicepresidencia de la Cámara, lo que denota una trayectoria consolidada en el poder legislativo."
+    },
+    "scores": {
+      "score_profesional": 3.6,
+      "score_politico": 7.8
+    }
+  },
+  {
+    "id_csv": 949,
+    "nombres": {
+      "csv": "Marcela Sabat Fernández",
+      "bcn": "Marcela Constanza Sabat Fernández"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Gestión/Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios universitarios en Derecho y diplomado en Marketing, con experiencia laboral en estudio jurídico y empresa privada, pero sin titulación profesional clara o roles técnicos de alta especialización."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Senadora"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 26,
+      "justificacion_breve": "Tres periodos como diputada y un periodo como senadora, además de ocupar cargos directivos nacionales en su partido, lo que demuestra una sólida carrera política."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 950,
+    "nombres": {
+      "csv": "René Saffirio Espinoza",
+      "bcn": "René Fernando Saffirio Espinoza"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con licenciatura, experiencia en la Vicaría de la Solidaridad y como abogado integrante de la Corte de Apelaciones, lo que le otorga una base técnica sólida."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado",
+        "Gobernador Regional"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Justicia"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 40,
+      "anos_militancia_partidos": 48,
+      "justificacion_breve": "Amplia trayectoria en cargos de elección popular (alcalde, diputado, gobernador regional) y cargos de gobierno regional (Seremi), además de importantes roles partidistas y una militancia muy prolongada."
+    },
+    "scores": {
+      "score_profesional": 4.4,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 951,
+    "nombres": {
+      "csv": "David Sandoval Plaza",
+      "bcn": "David Sandoval Plaza"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Contador General, Geógrafo",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 9,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Doble titulación (Contador General y Geógrafo), con experiencia en el sector privado y un rol técnico-administrativo en el sector público (secretario municipal)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde (designado)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 51,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "Trayectoria política excepcional con múltiples periodos como alcalde (designado y electo), dos periodos como diputado y un periodo como senador, sumando una vasta experiencia en el servicio público."
+    },
+    "scores": {
+      "score_profesional": 4.8,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 952,
+    "nombres": {
+      "csv": "Alejandro Santana Tirachini",
+      "bcn": "Alejandro Santana Tirachini"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial, Contador Auditor",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 22,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Doble titulación universitaria y Magíster, con una extensa y relevante carrera en el sector privado (subgerente en Banmédica) y experiencia académica como profesor universitario."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Gobernador Regional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 22,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Tres periodos como diputado y un periodo como gobernador regional electo, lo que indica una trayectoria política consolidada en cargos de representación y ejecutivos regionales."
+    },
+    "scores": {
+      "score_profesional": 8.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 953,
+    "nombres": {
+      "csv": "Frank Sauerbaum Muñoz",
+      "bcn": "Frank Carlos Sauerbaum Muñoz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 11,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Comercial con Magíster (MBA) y una década de experiencia gerencial en una empresa multinacional, lo que demuestra una sólida base técnica y de gestión."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Tres periodos como diputado, con una larga militancia partidista desde la juventud y roles de liderazgo estudiantil y juvenil en su partido."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 954,
+    "nombres": {
+      "csv": "Ernesto Silva Méndez",
+      "bcn": "Ernesto Silva Méndez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado, Ciencia Política",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Doctorado en Ciencia Política y Magíster en Políticas Públicas, con una destacada carrera académica como profesor y vicerrector universitario, además de experiencia en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Dos periodos como diputado y, crucialmente, presidente nacional de la Unión Demócrata Independiente, lo que lo posiciona como una figura política de alto nivel."
+    },
+    "scores": {
+      "score_profesional": 6.6,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 955,
+    "nombres": {
+      "csv": "Arturo Squella Ovalle",
+      "bcn": "Arturo Squella Ovalle"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado, Derechos Humanos",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 6,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Magíster en Derechos Humanos, experiencia en una fundación y como académico universitario, lo que le otorga una base profesional y técnica relevante."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 21,
+      "justificacion_breve": "Dos periodos como diputado y, más recientemente, presidente nacional del Partido Republicano, lo que lo establece como una figura política de alto liderazgo."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 956,
+    "nombres": {
+      "csv": "Guillermo Teillier Del Valle",
+      "bcn": "Guillermo León Teillier del Valle"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Profesor de Castellano",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios universitarios en Pedagogía y algunos años de docencia, pero su carrera profesional fue breve antes de dedicarse plenamente a la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 66,
+      "justificacion_breve": "Tres periodos como diputado, pero lo más relevante es su rol como presidente del Partido Comunista de Chile por casi dos décadas, su liderazgo en la clandestinidad y una militancia excepcionalmente larga, lo que lo convierte en una figura política de máxima relevancia histórica y partidista."
+    },
+    "scores": {
+      "score_profesional": 2.8,
+      "score_politico": 10.0
+    }
+  }
+]

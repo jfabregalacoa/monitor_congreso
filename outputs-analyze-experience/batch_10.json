@@ -1,0 +1,316 @@
+[
+  {
+    "id_csv": 857,
+    "nombres": {
+      "csv": "José Antonio Kast Rist",
+      "bcn": "José Antonio Kast Rist"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con experiencia en la fundación de un estudio jurídico propio y como profesor ayudante universitario."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Larga trayectoria como diputado (4 periodos), concejal, y roles directivos en partidos (Secretario General UDI, fundador y presidente Partido Republicano). Múltiples candidaturas presidenciales."
+    },
+    "scores": {
+      "score_profesional": 4.5,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 858,
+    "nombres": {
+      "csv": "Juan Carlos Latorre Carmona",
+      "bcn": "Juan Carlos Latorre Carmona"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Civil",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero Civil con Magíster, experiencia académica y en organismos internacionales técnicos (CEPAL, PNUD), además de liderazgo en el Colegio de Ingenieros."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario de Obras Públicas"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 22,
+      "anos_militancia_partidos": 45,
+      "justificacion_breve": "Larga trayectoria como diputado (4 periodos), Subsecretario de Obras Públicas, y presidente de la Democracia Cristiana."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 859,
+    "nombres": {
+      "csv": "Antonio Leal Labrín",
+      "bcn": "Antonio Leal Labrín"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Sociólogo",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Sociólogo con Doctorado en Filosofía, extensa carrera académica y de investigación en Chile y Europa, y experiencia como director de escuela universitaria y miembro de directorio de TVN."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Asesor político en el Ministerio Secretaría General de la Presidencia"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 22,
+      "anos_militancia_partidos": 56,
+      "justificacion_breve": "Larga trayectoria como diputado (3 periodos), asesor de gobierno, y roles directivos en varios partidos (Secretario General PDI, Vicepresidente PPD)."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 860,
+    "nombres": {
+      "csv": "Roberto León Ramírez",
+      "bcn": "Roberto León Ramírez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 6,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con experiencia en ejercicio libre de la profesión y como empresario en diversos rubros."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 48,
+      "justificacion_breve": "Muy larga trayectoria como diputado (5 periodos) y diversos roles directivos a nivel comunal y provincial en la Democracia Cristiana."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 861,
+    "nombres": {
+      "csv": "Juan Lobos Krause",
+      "bcn": "Juan Lobos Krause"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con especialización en Cirugía General y experiencia en el sector público de salud, incluyendo un cargo directivo en un hospital."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Dos periodos como diputado."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 862,
+    "nombres": {
+      "csv": "Pablo Lorenzini Basso",
+      "bcn": "Pablo Lorenzini Basso"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Economista, Contador Auditor",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 16,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Doctor en Economía y Contador Auditor con extensa experiencia gerencial y de auditoría en el sector privado y en empresas públicas, además de una sólida trayectoria académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 50,
+      "justificacion_breve": "Muy larga trayectoria como diputado (6 periodos), incluyendo la presidencia de la Cámara de Diputados, y diversos roles directivos en la Democracia Cristiana."
+    },
+    "scores": {
+      "score_profesional": 9.2,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 863,
+    "nombres": {
+      "csv": "Rosauro Martínez Labbé",
+      "bcn": "Rosauro Martínez Labbé"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Agricultor",
+      "nivel_educacion_texto": "Técnico / Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 21,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Agricultor con más de dos décadas de experiencia en el sector agrícola antes de ingresar a la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde de Chillán"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 27,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Muy larga trayectoria como diputado (6 periodos) y alcalde designado."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 864,
+    "nombres": {
+      "csv": "Juan Masferrer Pellizzari",
+      "bcn": "Juan Masferrer Pellizzari"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnico en Motores a Reacción",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Técnico en Motores a Reacción con experiencia como jefe comercial en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde de la Comuna de Las Cabras",
+        "Embajador en Guatemala"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 33,
+      "anos_militancia_partidos": 27,
+      "justificacion_breve": "Muy larga trayectoria como diputado (5 periodos), alcalde designado y embajador."
+    },
+    "scores": {
+      "score_profesional": 3.5,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 865,
+    "nombres": {
+      "csv": "Patricio Melero Abaroa",
+      "bcn": "Patricio Melero Abaroa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Agrónomo",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Agrónomo con experiencia como profesor ayudante universitario."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde de Pudahuel",
+        "Ministro del Trabajo y Previsión Social"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 36,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Muy extensa trayectoria como diputado (8 periodos), alcalde designado, Ministro de Estado y presidente de la UDI."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 866,
+    "nombres": {
+      "csv": "Fernando Meza Moncada",
+      "bcn": "Fernando Meza Moncada"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con Doctorado en Medicina, amplia experiencia en salud pública en España y Chile, incluyendo roles directivos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 55,
+      "justificacion_breve": "Muy larga trayectoria como diputado (5 periodos) y roles directivos importantes en el Partido Radical Social Demócrata, incluyendo la presidencia interina."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.0
+    }
+  }
+]

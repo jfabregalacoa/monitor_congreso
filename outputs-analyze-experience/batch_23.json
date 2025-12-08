@@ -1,0 +1,322 @@
+[
+  {
+    "id_csv": 987,
+    "nombres": {
+      "csv": "Giorgio Jackson Drago",
+      "bcn": "Kenneth Giorgio Jackson Drago"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Civil Industrial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Civil Industrial con título universitario. Experiencia académica como profesor e investigador asistente, pero sin experiencia significativa en el sector privado o roles técnicos estatales."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro de la Secretaría General de la Presidencia",
+        "Ministro de Desarrollo Social"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 11,
+      "justificacion_breve": "Dos periodos como Diputado y dos cargos ministeriales de alto nivel. Fundador de Revolución Democrática y líder estudiantil destacado. Trayectoria política ascendente y de alta visibilidad."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 988,
+    "nombres": {
+      "csv": "Felipe Kast Sommerhoff",
+      "bcn": "Felipe José Kast Sommerhoff"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial, Economía",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Doctorado de Harvard y Magíster en Economía. Profesor universitario y consultor para organismos internacionales. Experiencia privada limitada a un think tank."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro de Planificación",
+        "Delegado Presidencial para las Aldeas y Campamentos de Emergencia"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 12,
+      "justificacion_breve": "Amplia trayectoria con cargos de elección popular (Diputado, Senador) y de gobierno central (Ministro, Delegado Presidencial). Fundador y presidente de su partido, con precandidatura presidencial."
+    },
+    "scores": {
+      "score_profesional": 7.5,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 989,
+    "nombres": {
+      "csv": "Joaquín Lavín León",
+      "bcn": "Joaquín José Lavín León"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración y Dirección de Empresas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Licenciado en Administración, con experiencia en consultoría de marketing y producción de eventos. Sin experiencia académica o técnica pública relevante."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 12,
+      "justificacion_breve": "Tres periodos como Diputado, con experiencia en campañas políticas y un cargo administrativo municipal. Sin cargos de gobierno central o liderazgo partidista nacional."
+    },
+    "scores": {
+      "score_profesional": 2.8,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 990,
+    "nombres": {
+      "csv": "Daniel Melo Contreras",
+      "bcn": "Daniel Alexander Melo Contreras"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Sociología",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Sociólogo con Magíster. Experiencia técnica en el sector público como gestor territorial. Sin experiencia privada o académica como profesor."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 9,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Dos periodos como Diputado. Larga trayectoria en la Juventud Socialista (Presidente Nacional) y en la directiva del Partido Socialista. Fuerte militancia y liderazgo partidista."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 991,
+    "nombres": {
+      "csv": "Vlado Mirosevic Verdugo",
+      "bcn": "Vlado Mirosevic Verdugo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ciencia Política",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Cientista político con Magíster. Experiencia en dirección de medios digitales y publicaciones de investigación. Sin roles técnicos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 11,
+      "justificacion_breve": "Tres periodos como Diputado y Presidente de la Cámara de Diputados. Fundador y presidente del Partido Liberal. Trayectoria legislativa destacada con liderazgo en el Congreso."
+    },
+    "scores": {
+      "score_profesional": 4.6,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 992,
+    "nombres": {
+      "csv": "Juan Enrique Morano Cornejo",
+      "bcn": "Juan Enrique Morano Cornejo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnico de Procesos Industriales",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 22,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Técnico con extensa experiencia en el sector privado (más de 20 años en seguros y gestión comercial). También fue profesor universitario y en el Ministerio de Educación."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado",
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Gobierno"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 56,
+      "justificacion_breve": "Muy extensa trayectoria política con cargos locales (Concejal, Alcalde por 2 periodos, CORE), legislativos (Diputado) y de gobierno central (Seremi). Liderazgo partidista regional y militancia de más de 50 años."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 993,
+    "nombres": {
+      "csv": "Daniel Núñez Arancibia",
+      "bcn": "Daniel Ignacio Núñez Arancibia"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Sociología",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 8,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Sociólogo con Magíster. Experiencia en dirección de instituto de ciencias y como secretario general de universidad privada. Profesor universitario."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 36,
+      "justificacion_breve": "Dos periodos como Diputado y un periodo como Senador. Secretario General de las Juventudes Comunistas y miembro del Comité Central y Comisión Política del Partido Comunista. Larga militancia y liderazgo partidista."
+    },
+    "scores": {
+      "score_profesional": 5.6,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 994,
+    "nombres": {
+      "csv": "Paulina Núñez Urrutia",
+      "bcn": "Paulina Andrea Núñez Urrutia"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogada",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con Magíster y candidata a Doctora. Experiencia en firma de abogados y como profesora universitaria. Sin roles técnicos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Secretaria Regional Ministerial de Gobierno"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 19,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Dos periodos como Diputada y un periodo como Senadora. Seremi de Gobierno y múltiples periodos como Vicepresidenta de Renovación Nacional. Trayectoria política sólida y con liderazgo partidista."
+    },
+    "scores": {
+      "score_profesional": 4.2,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 995,
+    "nombres": {
+      "csv": "Diego Paulsen Kehr",
+      "bcn": "Diego Alfredo Paulsen Kehr"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con título universitario. Experiencia como fundador y jefe de operaciones en empresa privada. Sin experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 9,
+      "justificacion_breve": "Dos periodos como Diputado y Presidente de la Cámara de Diputados. Experiencia como asesor de bancada. Trayectoria legislativa destacada con un rol de liderazgo en el Congreso."
+    },
+    "scores": {
+      "score_profesional": 2.8,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 996,
+    "nombres": {
+      "csv": "Jaime Pilowsky Greene",
+      "bcn": "Jaime Enrique Jiménez Villavicencio"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con título universitario. Sin experiencia significativa en el sector privado, académico o roles técnicos estatales."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe de Gabinete en la Intendencia Metropolitana",
+        "Gobernador de la Provincia de Melipilla",
+        "Asesor del Ministro de Vivienda y Urbanismo"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 23,
+      "justificacion_breve": "Dos periodos como Diputado y cargos de gobierno central como Gobernador y Jefe de Gabinete. Liderazgo partidista a nivel universitario y comunal."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 7.0
+    }
+  }
+]
