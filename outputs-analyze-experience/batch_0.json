@@ -1,0 +1,311 @@
+[
+  {
+    "id_csv": 74,
+    "nombres": {
+      "csv": "Jaime Naranjo Ortiz",
+      "bcn": "Jaime Naranjo Ortiz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Agrónomo",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Magíster en Economía Agraria, experiencia en investigación y consultoría privada, extensa trayectoria docente universitaria y rol técnico en Ministerio de Agricultura."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 28,
+      "anos_militancia_partidos": 39,
+      "justificacion_breve": "Larga y destacada trayectoria parlamentaria (5 periodos como Diputado, 1 como Senador), con roles de liderazgo en el Congreso y cargos directivos nacionales en el Partido Socialista."
+    },
+    "scores": {
+      "score_profesional": 6.4,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 132,
+    "nombres": {
+      "csv": "Francisco Bayo Veloso",
+      "bcn": "Francisco Leandro Bayo Veloso"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Universitario con Postgrados",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con postgrados en especialidad, experiencia clínica en hospital público y roles administrativos técnicos en salud pública (director regional, jefe de departamento)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Regidor",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 29,
+      "anos_militancia_partidos": 22,
+      "justificacion_breve": "Amplia experiencia en cargos de elección popular (regidor, alcalde, 4 periodos como Diputado) y un cargo de gobierno central (Seremi)."
+    },
+    "scores": {
+      "score_profesional": 5.4,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 137,
+    "nombres": {
+      "csv": "Eliana Caraball Martínez",
+      "bcn": "Eliana Caraball Martínez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Arquitecta",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Arquitecta con formación especializada, extensa experiencia como investigadora y profesora universitaria, y rol de liderazgo en empresa pública portuaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 17,
+      "anos_militancia_partidos": 49,
+      "justificacion_breve": "Larga militancia en el PDC, 3 periodos como Diputada y liderazgo parlamentario como Primera Vicepresidenta de la Cámara."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 140,
+    "nombres": {
+      "csv": "Patricio Cornejo Vidaurrázaga",
+      "bcn": "Patricio Cornejo Vidaurrázaga"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Universitario con Postgrados",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con postgrados, extensa carrera en el sector público de salud, incluyendo roles de dirección de servicio de salud y asesoría legislativa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 21,
+      "anos_militancia_partidos": 39,
+      "justificacion_breve": "Larga militancia en la DC, 2 periodos como Diputado y experiencia en cargos partidistas locales y gremiales."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 150,
+    "nombres": {
+      "csv": "Camilo Escalona Medina",
+      "bcn": "Camilo Escalona Medina"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Político",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Solo estudios secundarios, sin trayectoria profesional o técnica fuera del ámbito político."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 46,
+      "justificacion_breve": "Extensa y prominente carrera política, incluyendo 3 periodos como Diputado, 2 como Senador, múltiples presidencias del Partido Socialista y la presidencia del Senado."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 10.0
+    }
+  },
+  {
+    "id_csv": 151,
+    "nombres": {
+      "csv": "Mario Escobar Urbina",
+      "bcn": "Mario Escobar Urbina"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Profesor de Estado en Educación Física",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Magíster en Educación, experiencia en asesoría y medios, docencia en instituto profesional y roles administrativos en corporaciones municipales."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 7,
+      "justificacion_breve": "Un periodo como Diputado y rol de consejero regional en su partido, con una trayectoria política relativamente corta."
+    },
+    "scores": {
+      "score_profesional": 7.8,
+      "score_politico": 3.0
+    }
+  },
+  {
+    "id_csv": 155,
+    "nombres": {
+      "csv": "José Antonio Galilea Vidaurre",
+      "bcn": "José Antonio Galilea Vidaurre"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnico Agrícola",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Técnico agrícola con experiencia empresarial en el rubro, rol de Rector universitario y miembro de directorios en entidades públicas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro de Agricultura"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Larga trayectoria parlamentaria con 4 periodos como Diputado y un cargo de alto nivel en el gobierno central como Ministro de Agricultura."
+    },
+    "scores": {
+      "score_profesional": 5.8,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 158,
+    "nombres": {
+      "csv": "Guido Girardi Lavín",
+      "bcn": "Guido Girardi Lavín"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con Magíster y especializaciones, experiencia clínica, docente universitario y roles administrativos técnicos en salud pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 28,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "Extensa y prominente carrera política, incluyendo 3 periodos como Diputado, 2 como Senador, múltiples presidencias del PPD y la presidencia del Senado."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 159,
+    "nombres": {
+      "csv": "Rosa González Román",
+      "bcn": "Rosa González Román"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Empresaria minera",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 19,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Periodista con extensa experiencia como empresaria minera y liderazgo gremial, además de un rol administrativo en una corporación de desarrollo público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Dos periodos como Diputada, con una militancia partidista más corta y sin roles directivos nacionales."
+    },
+    "scores": {
+      "score_profesional": 6.8,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 161,
+    "nombres": {
+      "csv": "María Pía Guzmán Mena",
+      "bcn": "María Pía Guzmán Mena"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogada",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 19,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogada con extensa práctica privada, experiencia académica como ayudante de cátedra y roles técnicos significativos en el Ministerio de Justicia y comisiones de reforma legal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 17,
+      "justificacion_breve": "Dos periodos como Diputada y roles directivos importantes a nivel nacional en Renovación Nacional (Secretaria Ejecutiva, Jefa de Gabinete del Presidente)."
+    },
+    "scores": {
+      "score_profesional": 7.8,
+      "score_politico": 5.5
+    }
+  }
+]
