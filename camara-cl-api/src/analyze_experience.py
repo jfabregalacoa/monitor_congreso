@@ -179,7 +179,18 @@ def call_model_with_batch(model, batch_data, prompt_base, max_attempts=5):
             is_retryable = any(x in msg.lower() for x in ["429", "500", "503", "overloaded", "quota"])
             
             if is_retryable and attempt < max_attempts:
-                time.sleep(INITIAL_RETRY_DELAY * attempt)
+                # Extraer tiempo de espera sugerido si existe
+                wait_time = INITIAL_RETRY_DELAY * attempt
+                if "retry in" in msg.lower():
+                    try:
+                        match = re.search(r"retry in (\d+(\.\d+)?)s", msg.lower())
+                        if match:
+                            wait_time = float(match.group(1)) + 1.0 # +1s buffer
+                    except:
+                        pass
+                
+                print(f"  Reintentando en {wait_time:.1f}s...")
+                time.sleep(wait_time)
                 continue
             else:
                 error_str = msg
@@ -221,16 +232,11 @@ def main():
     # Inicializar modelo
     model = genai.GenerativeModel(MODEL_NAME)
     
-    # 4. Loop (LIMITADO A 1 BATCH POR AHORA)
-    LIMIT_BATCHES = 1 # <--- CONFIGURACIÓN TEMPORAL
+    # 4. Loop
     
     all_results = []
     
     for i, batch in enumerate(batches):
-        if i >= LIMIT_BATCHES:
-            print(f"Límite de prueba alcanzado ({LIMIT_BATCHES} lotes). Deteniendo.")
-            break
-            
         print(f"\n--- Procesando Lote {i+1}/{len(batches)} ({len(batch)} diputados) ---")
         
         # Verificar si ya existe output (opcional, para resume)
