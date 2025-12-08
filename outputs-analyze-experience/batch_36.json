@@ -1,0 +1,316 @@
+[
+  {
+    "id_csv": 1118,
+    "nombres": {
+      "csv": "Ricardo Cifuentes Lillo",
+      "bcn": "Ricardo Cifuentes Lillo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Historia y Geografía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesor de Historia y Geografía con estudios universitarios. Experiencia académica como Vicerrector, pero sin experiencia privada o técnica pública destacada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Presidente de la Cámara de Diputadas y Diputados",
+        "Subsecretario de Desarrollo Regional y Administrativo",
+        "Intendente de la Región de Coquimbo"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Amplia trayectoria en cargos de gobierno central y representación, incluyendo la presidencia de la Cámara de Diputadas y Diputados. Larga data en servicio público."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 1119,
+    "nombres": {
+      "csv": "Sara Concha Smith",
+      "bcn": "Sara Concha Smith"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Fonoaudiología",
+      "nivel_educacion_texto": "Técnico / Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudiante de Fonoaudiología con título técnico de Secretaria. Poca experiencia profesional técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 4,
+      "justificacion_breve": "Trayectoria política reciente, marcada por su elección como Diputada. Militancia activa en partido político."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1120,
+    "nombres": {
+      "csv": "María Luisa Cordero Velásquez",
+      "bcn": "María Luisa Cordero Velásquez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina (Psiquiatría)",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 24,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médica cirujana y psiquiatra con amplia experiencia en el ejercicio libre de la profesión y cargos técnicos en el sector público (Instituto Psiquiátrico)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Experiencia política limitada a su rol como Diputada, con una incursión previa como candidata a la Convención Constitucional. No registra cargos de gobierno central ni roles partidistas relevantes."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1121,
+    "nombres": {
+      "csv": "Eduardo Cornejo Lagos",
+      "bcn": "Eduardo Cornejo Lagos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Administrador público con estudios universitarios. Experiencia en cargos técnicos dentro del sector público (SUBDERE, Administrador Regional)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador Provincial",
+        "Jefe Unidad Regional SUBDERE",
+        "Administrador Regional"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Amplia trayectoria política local y regional, incluyendo cargos de Gobernador Provincial y Administrador Regional, además de ser electo Diputado. Larga militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1122,
+    "nombres": {
+      "csv": "Luis Alberto Cuello Peña y Lillo",
+      "bcn": "Luis Cuello Peña y Lillo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con ejercicio libre de la profesión y asesoría a organizaciones sociales. Poca experiencia en el sector público técnico o académico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 7,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Experiencia política centrada en su rol como Diputado y asesoría a bancadas parlamentarias. Poca trayectoria en cargos de elección popular o de gobierno."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1123,
+    "nombres": {
+      "csv": "Gonzalo De la Carrera Correa",
+      "bcn": "Gonzalo De La Carrera Correa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero comercial con una extensa carrera en el sector privado, incluyendo roles directivos en empresas y isapres. No registra experiencia académica ni técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Vicepresidente de ENAP"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 1,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Experiencia política reciente como Diputado y un breve paso por la vicepresidencia de ENAP. Intentó ser alcalde sin éxito. No registra militancia partidista formal."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1124,
+    "nombres": {
+      "csv": "Tomás De Rementería Venegas",
+      "bcn": "Tomás De Rementería Venegas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 6,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con estudios de doctorado y máster en derecho constitucional. Experiencia académica como profesor e investigador, y experiencia técnica en el sector público (Dirección General de Aguas)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senador",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 7,
+      "anos_militancia_partidos": 16,
+      "justificacion_breve": "Trayectoria política que incluye ser Diputado y posteriormente Senador. Inicios en política juvenil y militancia en partido político."
+    },
+    "scores": {
+      "score_profesional": 8.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1125,
+    "nombres": {
+      "csv": "Viviana Delgado Riquelme",
+      "bcn": "Viviana Delgado Riquelme"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnico en Ventas y Publicidad",
+      "nivel_educacion_texto": "Técnico / Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios técnicos en ventas y publicidad, y diplomados en liderazgo y gestión pública. Poca experiencia profesional técnica o académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Experiencia política marcada por su rol como Diputada y activismo social y medioambiental. No registra cargos de gobierno central ni roles partidistas relevantes."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1126,
+    "nombres": {
+      "csv": "Felipe Donoso Castro",
+      "bcn": "Felipe Donoso Castro"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ciencias Jurídicas y Sociales",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Egresado de Ciencias Jurídicas y Sociales con experiencia en administración financiera privada y como jefe de gabinete de un senador (cargo técnico-político)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador Provincial"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria política que incluye ser Gobernador Provincial y Diputado. Vinculación familiar con la política."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1127,
+    "nombres": {
+      "csv": "Lorena Fries Monleón",
+      "bcn": "Lorena Fries Monleón"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho (Derechos Humanos)",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogada con máster en derecho internacional de los derechos humanos y doctorado en curso. Amplia experiencia académica y técnica en el sector público (INDH, Subsecretaría de DDHH)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretaria de Derechos Humanos"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Experiencia política destacada como Subsecretaria de DDHH y Directora del INDH, además de ser Diputada. Inicios en política juvenil y militancia en partidos de izquierda."
+    },
+    "scores": {
+      "score_profesional": 9.0,
+      "score_politico": 7.5
+    }
+  }
+]

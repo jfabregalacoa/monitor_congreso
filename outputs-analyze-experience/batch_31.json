@@ -1,0 +1,319 @@
+[
+  {
+    "id_csv": 1068,
+    "nombres": {
+      "csv": "Camila Rojas Valderrama",
+      "bcn": "Camila Ruzlay Rojas Valderrama"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesional con estudios de postgrado en Administración Pública y experiencia académica como ayudante e investigadora. No registra experiencia privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 18,
+      "justificacion_breve": "Amplia trayectoria en dirigencia estudiantil, culminando como Presidenta de la FECh y vocera de la CONFECh. Dos periodos como Diputada. Militancia desde la secundaria."
+    },
+    "scores": {
+      "score_profesional": 5.6,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1069,
+    "nombres": {
+      "csv": "Leonidas Romero Sáez",
+      "bcn": "Leonidas Andrés Romero Sáez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comercio / Ferretería",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 25,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación técnica y extensa experiencia en el rubro del comercio (ferretería y maderas)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Larga trayectoria política local (Concejal, Alcalde) y dos periodos como Diputado. Ex militante de RN y UDI."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 1070,
+    "nombres": {
+      "csv": "Patricio Rosas Barrientos",
+      "bcn": "Patricio Eduardo Rosas Barrientos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con estudios de Magíster y Diplomados. Amplia experiencia en cargos directivos de salud pública (Director CESFAM, Director Hospital)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Dos periodos como Diputado. Previamente tuvo cargos directivos en el sector salud público. Ex militante PS."
+    },
+    "scores": {
+      "score_profesional": 7.6,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1071,
+    "nombres": {
+      "csv": "Gastón Saavedra Chandía",
+      "bcn": "Gastón René Saavedra Chandía"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería de Transporte Marítimo y Puertos",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 17,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero con formación técnica y universitaria. Amplia experiencia laboral en el sector portuario y como dirigente sindical."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Larga trayectoria política local (Concejal, Alcalde), dos periodos como Diputado y actual Senador. Dirigente sindical y político desde joven."
+    },
+    "scores": {
+      "score_profesional": 5.4,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 1072,
+    "nombres": {
+      "csv": "Gustavo Sanhueza Dueñas",
+      "bcn": "Gustavo Adolfo Sanhueza Dueñas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Contador Auditor / Ingeniero Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación universitaria en Ingeniería Comercial y Contador Auditor. No se detalla experiencia profesional fuera de la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Consejero Regional",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Trayectoria política consolidada: Concejal, Consejero Regional, Diputado y Senador. Vicepresidente nacional de la UDI."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 1073,
+    "nombres": {
+      "csv": "Juan Santana Castillo",
+      "bcn": "Juan Rubén Santana Castillo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodismo",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Periodista titulado, con breve experiencia laboral en el sector público y militancia juvenil."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejero Regional",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 7,
+      "anos_militancia_partidos": 16,
+      "justificacion_breve": "Inició su carrera política como dirigente estudiantil y Consejero Regional. Dos periodos como Diputado. Presidente de la Juventud Socialista."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1074,
+    "nombres": {
+      "csv": "Marisela Santibáñez Novoa",
+      "bcn": "Marisela del Carmen Santibáñez Novoa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Actuación / Medios de Comunicación",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Actriz y comunicadora con amplia trayectoria en televisión, radio y publicidad. No registra formación técnica específica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Dos periodos como Diputada. Previamente postuló a otros cargos de elección popular. Militó en el PRO y luego en el Partido Comunista."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1075,
+    "nombres": {
+      "csv": "Diego Schalper Sepúlveda",
+      "bcn": "Diego Ignacio Schalper Sepúlveda"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Doctor en Derecho con estudios de Magíster y Licenciatura. Profesor universitario y con experiencia en fundaciones."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 18,
+      "justificacion_breve": "Dos periodos como Diputado. Previamente fue dirigente estudiantil universitario. Miembro de RN."
+    },
+    "scores": {
+      "score_profesional": 8.8,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1076,
+    "nombres": {
+      "csv": "Alexis Sepúlveda Soto",
+      "bcn": "Alexis Edgardo Sepúlveda Soto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Comercial titulado. No se detalla experiencia profesional fuera de la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial",
+        "Intendente"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Dos periodos como Diputado. Previamente fue Intendente y SEREMI. Presidente Regional del Partido Radical."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 1077,
+    "nombres": {
+      "csv": "Raúl Soto Mardones",
+      "bcn": "Álvaro Antonio Elizalde Soto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Máster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Máster en Derecho Constitucional. Principalmente dedicado a la función pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro Secretario General de Gobierno",
+        "Superintendente de Seguridad Social",
+        "Ministro del Interior y Seguridad Pública",
+        "Secretario General de la Presidencia"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 25,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Amplia trayectoria política: Presidente del Partido Socialista, Senador, Ministro de Estado (Segpres, Interior, Segegob) y Superintendente. Ex dirigente estudiantil."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 10.0
+    }
+  }
+]

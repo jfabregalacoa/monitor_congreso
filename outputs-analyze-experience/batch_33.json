@@ -1,0 +1,317 @@
+[
+  {
+    "id_csv": 1088,
+    "nombres": {
+      "csv": "Camilo Morán Bahamondes",
+      "bcn": "Camilo Morán Bahamondes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Administrador Público con diplomado en Comunicación Política. Experiencia como asesor en el gobierno central."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Asesor en Ministerio Secretaría General de Gobierno"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 12,
+      "justificacion_breve": "Inició su carrera política como concejal y ha tenido roles de asesoría en el gobierno central. Ha sido coordinador y miembro de la comisión política de su partido."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1089,
+    "nombres": {
+      "csv": "Nora Cuevas Contreras",
+      "bcn": "Nora Cuevas Contreras"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Relaciones Públicas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 16,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Relacionadora Pública con experiencia laboral en la administración universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcaldesa",
+        "Concejala"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Amplia trayectoria en cargos de elección popular a nivel local, incluyendo múltiples periodos como alcaldesa y concejala. Militante activa de su partido."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1090,
+    "nombres": {
+      "csv": "Tomás Andrés Fuentes Barros",
+      "bcn": "Tomás Fuentes Barros"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ciencia Política",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Cientista Político con Magíster en Comunicación Estratégica. Experiencia en política e inteligencia electoral."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Subdirector de Injuv",
+        "Jefe de Gabinete Subsecretario de Fuerzas Armadas",
+        "Asesor en Secretaría General de la Presidencia"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 15,
+      "justificacion_breve": "Inició su carrera política en la juventud de su partido, fue concejal y ocupó cargos de alto nivel en el gobierno central. Ha sido vicepresidente de su partido."
+    },
+    "scores": {
+      "score_profesional": 5.6,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1091,
+    "nombres": {
+      "csv": "Rubén Moraga Mamani",
+      "bcn": "Rubén Joaquín Moraga Mamani"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Biología Marina",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Doctor en Ciencias Biológicas, Biólogo Marino. Académico e investigador universitario, con experiencia en dirección de investigación."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Gobernador Provincial"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 39,
+      "justificacion_breve": "Gobernador Provincial y dirigente de su partido a nivel regional. Su trayectoria política se ha desarrollado principalmente en el ámbito partidista y de servicio público técnico."
+    },
+    "scores": {
+      "score_profesional": 7.2,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1092,
+    "nombres": {
+      "csv": "Marcela Sandoval Osorio",
+      "bcn": "Marcela Paz Alejandra Sandoval Osorio"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodismo",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Periodista con Magíster en Literatura. Experiencia como investigadora en SERNAC y en el Museo de la Memoria, además de docencia universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Directora Ejecutiva Nacional de PRODEMU",
+        "Ministra de Bienes Nacionales"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 9,
+      "justificacion_breve": "Dirigenta nacional de su partido, con roles de alta responsabilidad en el gobierno central como Ministra y Directora Ejecutiva. Intentó ser electa diputada en dos ocasiones."
+    },
+    "scores": {
+      "score_profesional": 6.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1093,
+    "nombres": {
+      "csv": "Patricia Rubio Escobar",
+      "bcn": "Patricia Irene Rubio Escobar"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación de Párvulos",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Educadora de Párvulos con experiencia en coordinación de proyectos educativos municipales y docencia en programas de educación emocional."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Concejala por un periodo y con roles de dirigencia regional en su partido. Ha participado activamente en campañas electorales."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1094,
+    "nombres": {
+      "csv": "Cristian Labbé Martínez",
+      "bcn": "Cristián Labbé Martínez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Marketing",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Estudios en Administración y Marketing, con diplomado en Comunicación Digital. Experiencia en empresas de marketing y dirección de agencia."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [
+        "Director Ejecutivo Corporación de Deportes y Parque Mahuida"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Consejero Regional con alta votación y luego Diputado. Exmilitante de la UDI, se ha sumado a un nuevo partido. Participó en un reality show."
+    },
+    "scores": {
+      "score_profesional": 4.4,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1095,
+    "nombres": {
+      "csv": "Juan Manuel Masferrer Vidal",
+      "bcn": "Juan Manuel Masferrer Vidal"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con experiencia en dirección de asuntos estudiantiles y liderazgo en universidades."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Intendente Regional",
+        "Subsecretario de Desarrollo Regional y Administrativo"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 3,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Intendente Regional y Subsecretario de Desarrollo Regional. Ha sido candidato a Consejero Regional y miembro de la comisión política de su partido."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 1096,
+    "nombres": {
+      "csv": "María Candelaria Acevedo Sáez",
+      "bcn": "María Candelaria Acevedo Sáez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Contabilidad",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios de contabilidad y experiencia en trabajo de cuidados no remunerado. Su trayectoria principal es en activismo social y político."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 1,
+      "anos_militancia_partidos": 51,
+      "justificacion_breve": "Dirigenta social y defensora de Derechos Humanos con una larga militancia en su partido. Fue electa diputada y ha sido candidata a otros cargos de elección popular."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1097,
+    "nombres": {
+      "csv": "Eric Aedo Jeldres",
+      "bcn": "Eric Aedo Jeldres"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Programas Sociales",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Administrador de Programas Sociales con Magíster en Política y Gobierno. Experiencia en dirección universitaria y en programas sociales."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador Provincial",
+        "Secretario Regional Ministerial de Bienes Nacionales"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 7,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Gobernador Provincial, SEREMI y Concejal. Ha sido candidato a Gobernador Regional y es un militante activo de su partido."
+    },
+    "scores": {
+      "score_profesional": 5.6,
+      "score_politico": 7.5
+    }
+  }
+]

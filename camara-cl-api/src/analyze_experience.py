@@ -27,7 +27,7 @@ SECONDS_WINDOW = 60
 INITIAL_RETRY_DELAY = 5
 MAX_RETRY_DELAY = 60
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-2.5-flash-lite"
 
 # API Key
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")

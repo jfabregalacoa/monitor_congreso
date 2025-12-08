@@ -1,0 +1,326 @@
+[
+  {
+    "id_csv": 1078,
+    "nombres": {
+      "csv": "Jaime Tohá González",
+      "bcn": "Jaime Manuel Tohá González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Forestal",
+      "nivel_educacion_texto": "Doctorado Honoris Causa",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero Forestal con estudios de especialización en Francia y España. Reconocido con Doctorado Honoris Causa. Experiencia como Director del Instituto Forestal y experto forestal de la FAO. No se detallan años de experiencia privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro de Agricultura",
+        "Ministro de Energía",
+        "Ministro de Economía",
+        "Ministro de Obras Públicas",
+        "Intendente de la Región del Biobío",
+        "Embajador en Cuba",
+        "Coordinador Nacional del Programa de Desarrollo Zonas de Rezago",
+        "Presidente del Consejo Directivo de la Comisión Chilena de Energía Nuclear"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Amplia trayectoria en altos cargos de gobierno central y regional, incluyendo múltiples ministerios e intendencias. También fue Consejero Regional. Mínima información sobre militancia partidista explícita."
+    },
+    "scores": {
+      "score_profesional": 7.2,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 1079,
+    "nombres": {
+      "csv": "Sebastián Torrealba Alvarado",
+      "bcn": "Sebastián Torrealba Alvarado"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Cientista Político",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Cientista Político con MBA. Fundó una empresa privada. No se detallan años de experiencia privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Asesor del Gabinete Estratégico del SERNAC",
+        "Director Regional del SENCE",
+        "Jefe de Gabinete del Alcalde de Lo Barnechea"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Trayectoria política iniciada localmente como Concejal, con experiencia en cargos de gobierno central de nivel medio y liderazgo partidista comunal. Múltiples periodos como Concejal y Diputado."
+    },
+    "scores": {
+      "score_profesional": 4.2,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1080,
+    "nombres": {
+      "csv": "Virginia Troncoso Hellman",
+      "bcn": "Virginia Eugenia Troncoso Hellman"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Agricultura",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Se dedicó a actividades agrícolas. No se detallan estudios superiores ni experiencia profesional técnica específica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcaldesa"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Amplia trayectoria política local como Concejal y Alcaldesa por tres periodos. No registra cargos de gobierno central. Militancia partidista relevante."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1081,
+    "nombres": {
+      "csv": "Francisco Undurraga Gazitúa",
+      "bcn": "Juan Francisco Undurraga Gazitúa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Publicidad",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Técnico en Publicidad con experiencia en producción de radio y TV, gerencia de marketing y fundación de empresa. Vendió su empresa en 2016."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 6,
+      "justificacion_breve": "Experiencia como empresario y luego incursión en política partidista, llegando a ser presidente de su partido. Ha sido Diputado por dos periodos."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1082,
+    "nombres": {
+      "csv": "Cristóbal Urruticoechea Ríos",
+      "bcn": "Cristóbal Ignacio de Loyola Urruticoechea Ríos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Diseño Gráfico Publicitario",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 8,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Diseñador Gráfico Publicitario con experiencia en diseño y jefatura en empresas privadas y fundaciones."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 15,
+      "justificacion_breve": "Inició su carrera política como Concejal, luego fue candidato a alcalde y posteriormente electo Diputado por dos periodos. Ha militado en varios partidos."
+    },
+    "scores": {
+      "score_profesional": 4.6,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1083,
+    "nombres": {
+      "csv": "Esteban Velásquez Núñez",
+      "bcn": "Esteban Jorge Velásquez Núñez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Profesor de Estado con Magíster en Educación. Experiencia como profesor de aula, orientador, director de colegios y Director Regional de Junaeb."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Director Regional de Junaeb"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Amplia trayectoria política local y nacional, siendo Concejal, Alcalde por dos periodos, Diputado y actualmente Senador. También tuvo un cargo técnico en el sector público."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 9.8
+    }
+  },
+  {
+    "id_csv": 1084,
+    "nombres": {
+      "csv": "Daniel Verdessi Belemmi",
+      "bcn": "Daniel Ángel Verdessi Belemmi"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Cirujano especializado en cirugía. Fue Director del Servicio de Salud Valparaíso–San Antonio y subdirector médico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Director del Servicio de Salud Valparaíso–San Antonio"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Experiencia en administración pública de salud y carrera política como Concejal y Diputado. Intentó ser Senador."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1085,
+    "nombres": {
+      "csv": "Pablo Vidal Rojas",
+      "bcn": "Pablo Esteban Vidal Rojas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Geografía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Geógrafo con experiencia en gestión de riesgos, ordenamiento territorial y relaciones comunitarias en el sector público (SUBDERE) y privado (empresa energética)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Inició su trayectoria política en el movimiento estudiantil, fue parte de la fundación de Revolución Democrática y luego Diputado. Ha tenido roles de coordinación territorial y política."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1086,
+    "nombres": {
+      "csv": "Gonzalo Winter Etcheberry",
+      "bcn": "Gonzalo Rodolfo Winter Etcheberry"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con experiencia como director del Centro de Estudios de la FECH y asesor legislativo. No se detallan años de ejercicio profesional privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 15,
+      "justificacion_breve": "Trayectoria política iniciada en el movimiento estudiantil, fue parte de la fundación de Revolución Democrática y Movimiento Autonomista. Ha sido Diputado por dos periodos y candidato presidencial."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 1087,
+    "nombres": {
+      "csv": "Gael Yeomans Araya",
+      "bcn": "Cristián Araya Lerdo de Tejada"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Psicología / Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado y Psicólogo con Magíster en Psicología de las Organizaciones. No se detallan años de ejercicio profesional privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Inició su carrera política como Concejal y luego fue electo Diputado. También tuvo roles en pastoral juvenil y fue bombero voluntario."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 6.5
+    }
+  }
+]

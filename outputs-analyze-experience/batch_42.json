@@ -1,0 +1,255 @@
+[
+  {
+    "id_csv": 1178,
+    "nombres": {
+      "csv": "Héctor Ulloa Aguilera",
+      "bcn": "Héctor Ulloa Aguilera"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con título universitario. No se detalla experiencia privada o técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria local como concejal y actual diputado. No se especifica militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1179,
+    "nombres": {
+      "csv": "Alberto Undurraga Vicuña",
+      "bcn": "Alberto Undurraga Vicuña"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial / Economía",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 2,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero Comercial con Magíster, experiencia en sector privado y académico, además de roles técnicos en el SERNAC."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro de Obras Públicas",
+        "Director Nacional SERNAC"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "Amplia trayectoria política: Alcalde, Ministro, Director de SERNAC, Diputado y Presidente de partido."
+    },
+    "scores": {
+      "score_profesional": 7.2,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 1180,
+    "nombres": {
+      "csv": "Consuelo Veloso Ávila",
+      "bcn": "Consuelo Veloso Ávila"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudiante de Derecho, sin experiencia profesional detallada ni técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 6,
+      "justificacion_breve": "Inicios en política estudiantil y activismo, actual diputada. Exmilitante de partido."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 1181,
+    "nombres": {
+      "csv": "Nelson Venegas Salazar",
+      "bcn": "Nelson Venegas Salazar"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Magíster, con ejercicio profesional en ámbitos público y privado, pero sin roles técnicos específicos detallados."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Amplia trayectoria política: Alcalde por tres periodos, dirigente de partido y actual diputado."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1182,
+    "nombres": {
+      "csv": "Sebastián Videla Castillo",
+      "bcn": "Sebastián Videla Castillo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comunicación / Artes Escénicas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Actor y comunicador social con estudios universitarios y diplomado. No se detalla experiencia privada o técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 3,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria como comunicador social con roles de asesoría y coordinación municipal, y actual diputado."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 1183,
+    "nombres": {
+      "csv": "Flor Weisse Novoa",
+      "bcn": "Flor Weisse Novoa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniera Comercial con título universitario. No se detallan años de experiencia privada ni roles técnicos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala",
+        "Consejera Regional",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernadora de Provincia"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria política local y regional: Concejala, Gobernadora, Consejera Regional y actual Diputada."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1184,
+    "nombres": {
+      "csv": "Roberto Celedón Fernández",
+      "bcn": "Roberto Antonio Celedón Fernández"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con dos Magísteres. Experiencia en derechos humanos y laboral, pero sin roles técnicos específicos detallados."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Convencional Constituyente",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Larga trayectoria política independiente, fundador de partido, preso político, abogado DDHH, Convencional Constituyente y actual Diputado."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1185,
+    "nombres": {
+      "csv": "Arturo Barrios Oteíza",
+      "bcn": "Arturo Barrios Oteíza"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Historia y Geografía (Docencia)",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesor de Historia y Geografía con experiencia docente y como asesor educativo. No se detallan años de experiencia privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subdirector Consejo de la Cultura"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "Dirigente estudiantil, dirigente de partido (Juventud Socialista, Secretario General, Vicepresidente), asesor gubernamental y actual diputado."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 7.5
+    }
+  }
+]

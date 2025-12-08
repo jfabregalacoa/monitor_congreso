@@ -1,0 +1,328 @@
+[
+  {
+    "id_csv": 1017,
+    "nombres": {
+      "csv": "Álvaro Carter Fernández",
+      "bcn": "Álvaro Jorge Carter Fernández"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Diseño Industrial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Diseñador Industrial con estudios universitarios. No se detalla experiencia profesional privada o pública técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 6,
+      "justificacion_breve": "Dos periodos como Diputado. Militancia en RN y luego en Partido Republicano."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1018,
+    "nombres": {
+      "csv": "Natalia Castillo Muñoz",
+      "bcn": "Natalia Valentina Castillo Muñoz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogada con diplomados. Experiencia como procuradora en el Consejo de Defensa del Estado y ejercicio libre de la profesión."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Candidata a Alcaldesa"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 8,
+      "justificacion_breve": "Un periodo como Diputada. Candidatura previa a alcaldesa. Militancia en Revolución Democrática."
+    },
+    "scores": {
+      "score_profesional": 4.8,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1019,
+    "nombres": {
+      "csv": "José Miguel Castro Bascuñán",
+      "bcn": "José Miguel Castro Bascuñán"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina Veterinaria",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Médico Veterinario con Magíster en Gestión Ambiental. Amplia experiencia privada y en empresa propia."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dos periodos como Diputado. Militancia en RN."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1020,
+    "nombres": {
+      "csv": "Ricardo Celis Araya",
+      "bcn": "Ricardo Patricio Celis Araya"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Cirujano, Gineco-obstetra. Experiencia clínica extensa, docencia universitaria y cargos técnicos en salud pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Concejal",
+        "Candidato a Alcalde",
+        "Candidato a Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 9,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Intendente, Diputado y Concejal. Larga trayectoria política."
+    },
+    "scores": {
+      "score_profesional": 7.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1021,
+    "nombres": {
+      "csv": "Andrés Celis Montt",
+      "bcn": "Andrés Celis Montt"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresado de Derecho. No se detalla ejercicio profesional privado o experiencia técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "Cuatro periodos como Concejal y dos como Diputado. Larga militancia en RN."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1022,
+    "nombres": {
+      "csv": "Sofía Cid Versalovic",
+      "bcn": "Sofía Slovena Cid Versalovic"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Economía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniera Comercial con mención en Economía. Amplia experiencia en el sector privado y como SEREMI de Economía."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Consejera Regional",
+        "Candidata a Alcaldesa"
+      ],
+      "cargos_gobierno_central": [
+        "Secretaria Regional Ministerial de Economía"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 9,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "SEREMI, Consejera Regional, Diputada. Vicepresidenta de RN y luego militante del Partido Republicano."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1023,
+    "nombres": {
+      "csv": "Miguel Crispi Serrano",
+      "bcn": "Miguel Ernesto Crispi Serrano"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Sociología",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Sociólogo con Magíster en Políticas Públicas. Experiencia académica y como asesor en el Ministerio de Educación."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario de Desarrollo Regional",
+        "Jefe de asesores de La Moneda"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 4,
+      "justificacion_breve": "Diputado, Subsecretario y asesor presidencial. Presidente de FEUC y fundador de Revolución Democrática."
+    },
+    "scores": {
+      "score_profesional": 6.6,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1024,
+    "nombres": {
+      "csv": "Luciano Cruz-Coke Carvallo",
+      "bcn": "Luciano Cruz Coke Carvallo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Actuación",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Actor con estudios en el extranjero y Licenciatura en Cine Documental. Amplia trayectoria artística."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senador",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro Presidente del Consejo Nacional de la Cultura y las Artes"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Ministro, Diputado y Senador. Fundador de Evópoli."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 1025,
+    "nombres": {
+      "csv": "Catalina Del Real Mihovilovic",
+      "bcn": "María Catalina Del Real Mihovilovic"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Economía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniera Comercial con experiencia en administración y finanzas, y como consultora PNUD."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Jefa de gabinete",
+        "Administradora Regional GORE"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Concejala, Jefa de Gabinete, Administradora Regional, Diputada. Vicepresidenta de RN y luego militante del Partido Republicano."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1026,
+    "nombres": {
+      "csv": "Mario Desbordes Jiménez",
+      "bcn": "Mario Guillermo Desbordes Jiménez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con diplomados. Experiencia en Gendarmería y asesorías privadas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Candidato a Alcalde",
+        "Candidato Presidencial"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario de Investigaciones",
+        "Ministro de Defensa"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 21,
+      "justificacion_breve": "Subsecretario, Ministro, Diputado, Candidato Presidencial y Alcalde. Presidente de RN."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 9.5
+    }
+  }
+]

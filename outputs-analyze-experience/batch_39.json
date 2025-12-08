@@ -1,0 +1,298 @@
+[
+  {
+    "id_csv": 1148,
+    "nombres": {
+      "csv": "Javiera Morales Alvarado",
+      "bcn": "Javiera Morales Alvarado"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con estudios de postgrado en el extranjero (LSE, UCL). Experiencia privada en estudio jurídico y académica como ayudante y docente. No se identifican cargos técnicos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Asesora legislativa en el ministerio de Educación"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria política reciente, marcada por su rol como asesora legislativa y su elección como diputada. No registra militancia partidista previa a su cargo actual."
+    },
+    "scores": {
+      "score_profesional": 7.2,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1149,
+    "nombres": {
+      "csv": "Carla Morales Maldonado",
+      "bcn": "Carla Morales Maldonado"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Trabajo Social",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título profesional de Trabajadora Social. No se detalla experiencia privada, académica o técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Consejera Regional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 16,
+      "justificacion_breve": "Amplia trayectoria política local y regional, incluyendo presidencia del Consejo Regional. Militancia activa en RN desde 2008."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1150,
+    "nombres": {
+      "csv": "Benjamín Moreno Bascur",
+      "bcn": "Benjamín Moreno Bascur"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Agrónoma",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título profesional de Ingeniero Agrónomo. No se detalla experiencia privada, académica o técnica en el sector público. Experiencia como dirigente estudiantil en área deportiva."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Jefe de Gabinete de José Antonio Kast"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 1,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Inicia su carrera política como Jefe de Gabinete y luego electo diputado. No registra militancia partidista previa."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1151,
+    "nombres": {
+      "csv": "Camila Musante Müller",
+      "bcn": "Camila Musante Müller"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con Magíster en Derecho Ambiental. Experiencia académica como fundadora y académica de observatorios y centros de estudio. No se detalla experiencia privada o técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria política reciente, marcada por su activismo social y elección como diputada. No registra cargos previos ni militancia partidista formal."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1152,
+    "nombres": {
+      "csv": "Gloria Naveillan Arriagada",
+      "bcn": "Gloria Naveillan Arriagada"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Publicidad",
+      "nivel_educacion_texto": "Técnico / Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios en Publicidad. Experiencia laboral en agencias de publicidad y empresas. No se detalla experiencia académica o técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Relacionadora pública de la Municipalidad de Colina",
+        "Asesoría a senadora Carmen Gloria Aravena"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 1,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Inicia su carrera política como relacionadora pública y asesora, luego electa diputada. No registra militancia partidista previa."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1153,
+    "nombres": {
+      "csv": "Coca Ericka Ñanco Vásquez",
+      "bcn": "Coca Ericka Ñanco Vásquez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Agronomía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudiante de Agronomía. Participación en concursos literarios. No se detalla experiencia profesional, académica o técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Activista feminista y mapuche, presidenta regional de RD. Electa diputada. No registra cargos previos."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1154,
+    "nombres": {
+      "csv": "Mauricio Ojeda Rebolledo",
+      "bcn": "Mauricio Ojeda Rebolledo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodismo",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Periodista con amplia experiencia en medios de comunicación (radio, TV). No se detalla experiencia académica o técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Seremi de Gobierno",
+        "Gobernador Provincial",
+        "Director de desarrollo comunitario"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Experiencia previa en el servicio público como Seremi y Gobernador, además de jefe de comunicaciones. Electo diputado."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1155,
+    "nombres": {
+      "csv": "Rubén Darío Oyarzo Figueroa",
+      "bcn": "Rubén Oyarzo Figueroa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Contabilidad y Auditoría / Ingeniería Comercial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Contador Auditor e Ingeniero Comercial con estudios de postgrado. Amplia experiencia en el sector privado en áreas de finanzas y contabilidad."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Inicia su carrera política como dirigente social y consejero comunal. Electo diputado. Militancia en el PDG y luego en el PR."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1156,
+    "nombres": {
+      "csv": "Hernán Palma Pérez",
+      "bcn": "Hernán Palma Pérez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 30,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Médico Cirujano con más de tres décadas de ejercicio libre de la profesión. Experiencia en rehabilitación. No se detalla experiencia académica o técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 30,
+      "justificacion_breve": "Larga trayectoria política como militante humanista, activista de DDHH y candidato en diversas elecciones. Electo diputado."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1157,
+    "nombres": {
+      "csv": "Marlene Pérez Cartes",
+      "bcn": "Marlene Pérez Cartes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Trabajo Social / Comunicación",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresada de Trabajo Social y con experiencia como comunicadora de radio y televisión. No se detalla experiencia académica o técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejera Regional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria política como Consejera Regional y candidata a alcaldesa. Cercana a la UDI. Electa diputada."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.5
+    }
+  }
+]

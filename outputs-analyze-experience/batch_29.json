@@ -1,0 +1,322 @@
+[
+  {
+    "id_csv": 1047,
+    "nombres": {
+      "csv": "Karin Luck Urban",
+      "bcn": "Karin Claudia Luck Urban"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Relaciones Públicas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título de Relaciones Públicas. Diplomado en Alta Dirección Municipal. Experiencia en coordinación y análisis en el sector público, pero no en roles técnicos especializados. No se detalla experiencia privada específica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejera Regional"
+      ],
+      "cargos_gobierno_central": [
+        "Analista División Relaciones Políticas e Institucionales (Ministerio Secretaría General de la Presidencia)",
+        "Coordinadora División de Investigaciones (Ministerio del Interior y Seguridad Pública)",
+        "Analista Subsecretaría (Ministerio de Vivienda y Urbanismo)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Amplia trayectoria en cargos de coordinación y análisis en ministerios, además de ser Consejera Regional y tener roles directivos en su partido. Su experiencia privada es limitada y se enfoca en roles de apoyo político."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1048,
+    "nombres": {
+      "csv": "Carolina Marzán Pinto",
+      "bcn": "Marta Carolina Marzán Pinto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Actuación / Docencia",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Licenciada en Arte, mención Teatro. Experiencia como actriz y docente universitaria. No se detallan años de experiencia privada como actriz fuera de trabajos puntuales para municipalidades o producciones."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dos periodos como Diputada, con una trayectoria previa en el ámbito artístico y docente. Fue Presidenta regional de su partido. Su experiencia política es principalmente legislativa."
+    },
+    "scores": {
+      "score_profesional": 4.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1049,
+    "nombres": {
+      "csv": "Cosme Mellado Pino",
+      "bcn": "Cosme Leopoldo Mellado Pino"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comercio / Ventas",
+      "nivel_educacion_texto": "Técnico Profesional",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios de técnico profesional en ventas y publicidad. Trayectoria laboral como agente de ventas y socio de empresa importadora. No se especifica años de experiencia privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Larga trayectoria política local como Alcalde y Concejal, además de dos periodos como Diputado. Experiencia como dirigente social y partidista. Su formación profesional es básica."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 1050,
+    "nombres": {
+      "csv": "Miguel Mellado Suazo",
+      "bcn": "José Miguel Alberto Durana Semir"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Contador Auditor",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título de Contador Público Auditor. No se detallan años de experiencia privada o pública técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senador",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador de Arica",
+        "Intendente de la Región de Arica y Parinacota"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Senador, Gobernador e Intendente, además de Concejal. Amplia experiencia en cargos de alta responsabilidad política y de gobierno. Fue presidente distrital y regional de su partido."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 1051,
+    "nombres": {
+      "csv": "Claudia Mix Jiménez",
+      "bcn": "Mario Guillermo Desbordes Jiménez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho / Carabineros",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado y ex oficial de Carabineros. Diplomado en Ciencias Policiales y Administración de Empresas. No se detallan años de experiencia privada o pública técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario de Investigaciones",
+        "Ministro de Defensa"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputado, Subsecretario y Ministro de Defensa. Presidente de su partido. Amplia trayectoria política y de gobierno. Experiencia previa como oficial de Carabineros y en Gendarmería."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 1052,
+    "nombres": {
+      "csv": "Andrés Molina Magofke",
+      "bcn": "José Sergio Andrés Molina Magofke"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Civil Industrial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Civil Industrial. Experiencia como ejecutivo de empresas y dirigente gremial. No se detallan años de experiencia privada o pública técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente de la Región de La Araucanía"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Intendente y Diputado. Fundador y Presidente de su partido. Amplia experiencia en dirigencia gremial empresarial."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1053,
+    "nombres": {
+      "csv": "Cristhian Moreira Barros",
+      "bcn": "Cristhian Patricio Moreira Barros"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Corredor de Propiedades",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesión de Corredor de Propiedades. No se detallan estudios formales ni años de experiencia privada o pública técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dos periodos como Diputado y dos como Concejal. Amplia trayectoria política local y legislativa. Hermano de un ex Diputado y Senador."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1054,
+    "nombres": {
+      "csv": "Francesca Muñoz González",
+      "bcn": "Francesca Elizabeth Andrea Muñoz González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Pedagogía en Inglés",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesora de Inglés. Experiencia docente en institutos profesionales y escuelas. No se detallan años de experiencia privada o pública técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dos periodos como Diputada. Candidata a alcaldesa previamente. Su trayectoria política es principalmente legislativa. Militó en RN y luego en el Partido Social Cristiano."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1055,
+    "nombres": {
+      "csv": "Nicolás Noman Garrido",
+      "bcn": "Nicolás José Noman Garrido"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado. Experiencia como Gerente de Responsabilidad Social en empresa de energía. No se detallan años de experiencia privada o pública técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador de Copiapó",
+        "Intendente subrogante de Atacama"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputado, Gobernador e Intendente subrogante. Vicepresidente nacional de su partido. Experiencia en el sector público y político desde joven, con participación en campañas."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1056,
+    "nombres": {
+      "csv": "Emilia Nuyado Ancapichún",
+      "bcn": "Emilia Iris Nuyado Ancapichún"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Contabilidad / Planificación Social",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios de Contabilidad y Planificación Social. No se detallan años de experiencia privada o pública técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Concejala"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dos periodos como Diputada y cuatro como Concejala. Amplia trayectoria política local y legislativa. Consejera Nacional de CONADI. Dirigente social con más de 25 años de experiencia."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 8.5
+    }
+  }
+]
