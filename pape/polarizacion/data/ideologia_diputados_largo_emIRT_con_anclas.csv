@@ -1,0 +1,2575 @@
+"","DiputadoId","NombreId","Periodo","IC_low","Ideologia","IC_high"
+"1",807,"Rodrigo Alvarez Zenteno","Periodo_1",0.341583743834171,0.304338291621568,0.267092839408965
+"2",807,"Rodrigo Alvarez Zenteno","Periodo_2",0.371179193381701,0.331043144694473,0.290907096007245
+"3",807,"Rodrigo Alvarez Zenteno","Periodo_3",NA,NA,NA
+"4",807,"Rodrigo Alvarez Zenteno","Periodo_4",NA,NA,NA
+"5",807,"Rodrigo Alvarez Zenteno","Periodo_5",NA,NA,NA
+"6",807,"Rodrigo Alvarez Zenteno","Periodo_6",NA,NA,NA
+"7",810,"Gabriel Ascencio Mansilla","Periodo_1",-0.661053823387331,-0.698299275598752,-0.735544727810174
+"8",810,"Gabriel Ascencio Mansilla","Periodo_2",-0.571617030046401,-0.611744668171945,-0.651872306297488
+"9",810,"Gabriel Ascencio Mansilla","Periodo_3",-0.329612010097152,-0.299845601033737,-0.270079191970322
+"10",810,"Gabriel Ascencio Mansilla","Periodo_4",NA,NA,NA
+"11",810,"Gabriel Ascencio Mansilla","Periodo_5",-0.0801430337041363,-0.0505661443996175,-0.0209892550950988
+"12",810,"Gabriel Ascencio Mansilla","Periodo_6",NA,NA,NA
+"13",813,"Germán Becker Alvear","Periodo_1",-0.0640626201201535,-0.101308072331575,-0.138553524542996
+"14",813,"Germán Becker Alvear","Periodo_2",0.255236226513514,0.21510858838797,0.174980950262427
+"15",813,"Germán Becker Alvear","Periodo_3",0.930059239627791,0.95982564869132,0.989592057754848
+"16",813,"Germán Becker Alvear","Periodo_4",0.0606152818324338,0.0341646159979098,0.00771395016338574
+"17",813,"Germán Becker Alvear","Periodo_5",NA,NA,NA
+"18",813,"Germán Becker Alvear","Periodo_6",NA,NA,NA
+"19",155,"José Antonio Galilea Vidaurre","Periodo_1",0.0488939847725767,0.0116418087867884,-0.025610367199
+"20",155,"José Antonio Galilea Vidaurre","Periodo_2",NA,NA,NA
+"21",155,"José Antonio Galilea Vidaurre","Periodo_3",NA,NA,NA
+"22",155,"José Antonio Galilea Vidaurre","Periodo_4",NA,NA,NA
+"23",155,"José Antonio Galilea Vidaurre","Periodo_5",NA,NA,NA
+"24",155,"José Antonio Galilea Vidaurre","Periodo_6",NA,NA,NA
+"25",159,"Rosa González Román","Periodo_1",0.14107311535309,0.103820939367301,0.0665687633815129
+"26",159,"Rosa González Román","Periodo_2",NA,NA,NA
+"27",159,"Rosa González Román","Periodo_3",NA,NA,NA
+"28",159,"Rosa González Román","Periodo_4",NA,NA,NA
+"29",159,"Rosa González Román","Periodo_5",NA,NA,NA
+"30",159,"Rosa González Román","Periodo_6",NA,NA,NA
+"31",855,"Carlos Abel Jarpa Wevar","Periodo_1",-0.699897240613528,-0.737142692824949,-0.774388145036371
+"32",855,"Carlos Abel Jarpa Wevar","Periodo_2",-0.677254819468161,-0.717382457593705,-0.757510095719248
+"33",855,"Carlos Abel Jarpa Wevar","Periodo_3",-0.385199315441726,-0.355432906378311,-0.325666497314896
+"34",855,"Carlos Abel Jarpa Wevar","Periodo_4",-1.00952098485974,-1.03596924295486,-1.06241750104999
+"35",855,"Carlos Abel Jarpa Wevar","Periodo_5",-0.00534511889730464,0.0242317704072141,0.0538086597117329
+"36",855,"Carlos Abel Jarpa Wevar","Periodo_6",NA,NA,NA
+"37",175,"Cristián Leay Morán","Periodo_1",0.260005939424751,0.222753763438962,0.185501587453174
+"38",175,"Cristián Leay Morán","Periodo_2",NA,NA,NA
+"39",175,"Cristián Leay Morán","Periodo_3",NA,NA,NA
+"40",175,"Cristián Leay Morán","Periodo_4",NA,NA,NA
+"41",175,"Cristián Leay Morán","Periodo_5",NA,NA,NA
+"42",175,"Cristián Leay Morán","Periodo_6",NA,NA,NA
+"43",881,"Osvaldo Palma Flores","Periodo_1",-0.0497641484979324,-0.0870096007105355,-0.124255052923139
+"44",881,"Osvaldo Palma Flores","Periodo_2",0.253152976900084,0.213016928212856,0.172880879525628
+"45",881,"Osvaldo Palma Flores","Periodo_3",NA,NA,NA
+"46",881,"Osvaldo Palma Flores","Periodo_4",NA,NA,NA
+"47",881,"Osvaldo Palma Flores","Periodo_5",NA,NA,NA
+"48",881,"Osvaldo Palma Flores","Periodo_6",NA,NA,NA
+"49",885,"José Pérez Arriagada","Periodo_1",-0.74122442699257,-0.778469879203992,-0.815715331415413
+"50",885,"José Pérez Arriagada","Periodo_2",-0.77143662664788,-0.811564264773424,-0.851691902898967
+"51",885,"José Pérez Arriagada","Periodo_3",-0.205043136653977,-0.175276727590562,-0.145510318527147
+"52",885,"José Pérez Arriagada","Periodo_4",-0.683635258179481,-0.710083516274608,-0.736531774369735
+"53",885,"José Pérez Arriagada","Periodo_5",0.0541677299472994,0.0837446192518182,0.113321508556337
+"54",885,"José Pérez Arriagada","Periodo_6",NA,NA,NA
+"55",886,"Jaime Quintana Leal","Periodo_1",-0.698606272616744,-0.735851724829347,-0.77309717704195
+"56",886,"Jaime Quintana Leal","Periodo_2",-0.766663500725219,-0.806799549412447,-0.846935598099676
+"57",886,"Jaime Quintana Leal","Periodo_3",NA,NA,NA
+"58",886,"Jaime Quintana Leal","Periodo_4",NA,NA,NA
+"59",886,"Jaime Quintana Leal","Periodo_5",NA,NA,NA
+"60",886,"Jaime Quintana Leal","Periodo_6",NA,NA,NA
+"61",894,"Eduardo Saffirio Suárez","Periodo_1",-0.80351785569402,-0.840763307906623,-0.878008760119226
+"62",894,"Eduardo Saffirio Suárez","Periodo_2",-0.578906130334584,-0.619042179021812,-0.65917822770904
+"63",894,"Eduardo Saffirio Suárez","Periodo_3",NA,NA,NA
+"64",894,"Eduardo Saffirio Suárez","Periodo_4",NA,NA,NA
+"65",894,"Eduardo Saffirio Suárez","Periodo_5",NA,NA,NA
+"66",894,"Eduardo Saffirio Suárez","Periodo_6",NA,NA,NA
+"67",897,"Alejandra Sepúlveda Orbenes","Periodo_1",-0.729887675316419,-0.76713312752784,-0.804378579739261
+"68",897,"Alejandra Sepúlveda Orbenes","Periodo_2",-0.614320942358461,-0.654448580484005,-0.694576218609548
+"69",897,"Alejandra Sepúlveda Orbenes","Periodo_3",0.0243912093614028,0.0541576184248178,0.0839240274882327
+"70",897,"Alejandra Sepúlveda Orbenes","Periodo_4",-0.928467784793429,-0.954916042888556,-0.981364300983683
+"71",897,"Alejandra Sepúlveda Orbenes","Periodo_5",-0.806167616024182,-0.776590726719664,-0.747013837415145
+"72",897,"Alejandra Sepúlveda Orbenes","Periodo_6",NA,NA,NA
+"73",917,"Gastón Von Mühlenbrock Zamora","Periodo_1",0.293570991115766,0.256328834271447,0.219086677427128
+"74",917,"Gastón Von Mühlenbrock Zamora","Periodo_2",0.468723146007062,0.428595507882061,0.38846786975706
+"75",917,"Gastón Von Mühlenbrock Zamora","Periodo_3",1.04182052817481,1.07158693723824,1.10135334630166
+"76",917,"Gastón Von Mühlenbrock Zamora","Periodo_4",NA,NA,NA
+"77",917,"Gastón Von Mühlenbrock Zamora","Periodo_5",1.48875915032442,1.51833267334916,1.54790619637391
+"78",917,"Gastón Von Mühlenbrock Zamora","Periodo_6",0.748737934606285,0.720368807740015,0.691999680873746
+"79",906,"Jorge Ulloa Aguillón","Periodo_1",0.25196249426032,0.214717042048898,0.177471589837477
+"80",906,"Jorge Ulloa Aguillón","Periodo_2",0.315715541204013,0.27558790307847,0.235460264952926
+"81",906,"Jorge Ulloa Aguillón","Periodo_3",0.966403678702163,0.996170087765692,1.02593649682922
+"82",906,"Jorge Ulloa Aguillón","Periodo_4",0.142532007003373,0.116081341168849,0.089630675334325
+"83",906,"Jorge Ulloa Aguillón","Periodo_5",NA,NA,NA
+"84",906,"Jorge Ulloa Aguillón","Periodo_6",NA,NA,NA
+"85",910,"Esteban Valenzuela Van Treek","Periodo_1",-0.89394223270381,-0.931187684916413,-0.968433137129016
+"86",910,"Esteban Valenzuela Van Treek","Periodo_2",-0.645010934248438,-0.685146982935666,-0.725283031622894
+"87",910,"Esteban Valenzuela Van Treek","Periodo_3",NA,NA,NA
+"88",910,"Esteban Valenzuela Van Treek","Periodo_4",NA,NA,NA
+"89",910,"Esteban Valenzuela Van Treek","Periodo_5",NA,NA,NA
+"90",910,"Esteban Valenzuela Van Treek","Periodo_6",NA,NA,NA
+"91",239,"Edmundo Villouta Concha","Periodo_1",-0.865202359140595,-0.902454535126384,-0.939706711112172
+"92",239,"Edmundo Villouta Concha","Periodo_2",NA,NA,NA
+"93",239,"Edmundo Villouta Concha","Periodo_3",NA,NA,NA
+"94",239,"Edmundo Villouta Concha","Periodo_4",NA,NA,NA
+"95",239,"Edmundo Villouta Concha","Periodo_5",NA,NA,NA
+"96",239,"Edmundo Villouta Concha","Periodo_6",NA,NA,NA
+"97",812,"Eugenio Bauer Jouanne","Periodo_1",0.35014474008402,0.312899287872598,0.275653835661177
+"98",812,"Eugenio Bauer Jouanne","Periodo_2",0.391395828457666,0.351268190331675,0.311140552205684
+"99",812,"Eugenio Bauer Jouanne","Periodo_3",0.830076161778753,0.859846003521469,0.889615845264185
+"100",812,"Eugenio Bauer Jouanne","Periodo_4",NA,NA,NA
+"101",812,"Eugenio Bauer Jouanne","Periodo_5",NA,NA,NA
+"102",812,"Eugenio Bauer Jouanne","Periodo_6",NA,NA,NA
+"103",132,"Francisco Bayo Veloso","Periodo_1",0.00400384818095651,-0.0332483278048318,-0.0705005037906201
+"104",132,"Francisco Bayo Veloso","Periodo_2",NA,NA,NA
+"105",132,"Francisco Bayo Veloso","Periodo_3",NA,NA,NA
+"106",132,"Francisco Bayo Veloso","Periodo_4",NA,NA,NA
+"107",132,"Francisco Bayo Veloso","Periodo_5",NA,NA,NA
+"108",132,"Francisco Bayo Veloso","Periodo_6",NA,NA,NA
+"109",814,"Mario Bertolino Rendic","Periodo_1",0.0716707948289148,0.0344253426174933,-0.00282010959392806
+"110",814,"Mario Bertolino Rendic","Periodo_2",0.342337832386286,0.302210194260295,0.262082556134304
+"111",814,"Mario Bertolino Rendic","Periodo_3",0.713689487750759,0.743459329493475,0.773229171236191
+"112",814,"Mario Bertolino Rendic","Periodo_4",NA,NA,NA
+"113",814,"Mario Bertolino Rendic","Periodo_5",NA,NA,NA
+"114",814,"Mario Bertolino Rendic","Periodo_6",NA,NA,NA
+"115",816,"Jorge Burgos Varela","Periodo_1",-0.904375844172104,-0.941621296383526,-0.978866748594947
+"116",816,"Jorge Burgos Varela","Periodo_2",-0.523253359266915,-0.563380997392906,-0.603508635518897
+"117",816,"Jorge Burgos Varela","Periodo_3",-0.023141015282671,0.00662882646004503,0.0363986682027611
+"118",816,"Jorge Burgos Varela","Periodo_4",NA,NA,NA
+"119",816,"Jorge Burgos Varela","Periodo_5",NA,NA,NA
+"120",816,"Jorge Burgos Varela","Periodo_6",NA,NA,NA
+"121",818,"Alberto Cardemil Herrera","Periodo_1",0.0949766618204382,0.0577312096090168,0.0204857573975954
+"122",818,"Alberto Cardemil Herrera","Periodo_2",0.377494329939304,0.337366691813313,0.297239053687322
+"123",818,"Alberto Cardemil Herrera","Periodo_3",1.06311946687231,1.09288930861502,1.12265915035774
+"124",818,"Alberto Cardemil Herrera","Periodo_4",NA,NA,NA
+"125",818,"Alberto Cardemil Herrera","Periodo_5",NA,NA,NA
+"126",818,"Alberto Cardemil Herrera","Periodo_6",NA,NA,NA
+"127",819,"Guillermo Ceroni Fuentes","Periodo_1",-0.86503149517763,-0.902276947389051,-0.939522399600472
+"128",819,"Guillermo Ceroni Fuentes","Periodo_2",-0.876398761534317,-0.91652639965986,-0.956654037785404
+"129",819,"Guillermo Ceroni Fuentes","Periodo_3",-0.277732445310998,-0.247966036247469,-0.21819962718394
+"130",819,"Guillermo Ceroni Fuentes","Periodo_4",-0.722929789767085,-0.749380455601609,-0.775831121436133
+"131",819,"Guillermo Ceroni Fuentes","Periodo_5",NA,NA,NA
+"132",819,"Guillermo Ceroni Fuentes","Periodo_6",NA,NA,NA
+"133",823,"Marcela Cubillos Sigall","Periodo_1",0.257716101685654,0.220470649473051,0.183225197260448
+"134",823,"Marcela Cubillos Sigall","Periodo_2",0.29198618374498,0.251850135057752,0.211714086370523
+"135",823,"Marcela Cubillos Sigall","Periodo_3",NA,NA,NA
+"136",823,"Marcela Cubillos Sigall","Periodo_4",NA,NA,NA
+"137",823,"Marcela Cubillos Sigall","Periodo_5",NA,NA,NA
+"138",823,"Marcela Cubillos Sigall","Periodo_6",NA,NA,NA
+"139",825,"Roberto Delmastro Naso","Periodo_1",0.0676534537356564,0.030408001524235,-0.0068374506871864
+"140",825,"Roberto Delmastro Naso","Periodo_2",0.222532079152514,0.182404441026523,0.142276802900532
+"141",825,"Roberto Delmastro Naso","Periodo_3",0.56184060029632,0.591610442039036,0.621380283781753
+"142",825,"Roberto Delmastro Naso","Periodo_4",NA,NA,NA
+"143",825,"Roberto Delmastro Naso","Periodo_5",NA,NA,NA
+"144",825,"Roberto Delmastro Naso","Periodo_6",NA,NA,NA
+"145",830,"Andrés Egaña Respaldiza","Periodo_1",0.322764363164904,0.285518910952301,0.248273458739698
+"146",830,"Andrés Egaña Respaldiza","Periodo_2",0.492889772898833,0.452753724211605,0.412617675524377
+"147",830,"Andrés Egaña Respaldiza","Periodo_3",NA,NA,NA
+"148",830,"Andrés Egaña Respaldiza","Periodo_4",NA,NA,NA
+"149",830,"Andrés Egaña Respaldiza","Periodo_5",NA,NA,NA
+"150",830,"Andrés Egaña Respaldiza","Periodo_6",NA,NA,NA
+"151",832,"Francisco Encina Moriamez","Periodo_1",-0.822974135201796,-0.8602195874144,-0.897465039627003
+"152",832,"Francisco Encina Moriamez","Periodo_2",-1.06045697014736,-1.10059301883458,-1.14072906752181
+"153",832,"Francisco Encina Moriamez","Periodo_3",NA,NA,NA
+"154",832,"Francisco Encina Moriamez","Periodo_4",NA,NA,NA
+"155",832,"Francisco Encina Moriamez","Periodo_5",NA,NA,NA
+"156",832,"Francisco Encina Moriamez","Periodo_6",NA,NA,NA
+"157",151,"Mario Escobar Urbina","Periodo_1",-0.0365521721424637,-0.073804348128252,-0.11105652411404
+"158",151,"Mario Escobar Urbina","Periodo_2",NA,NA,NA
+"159",151,"Mario Escobar Urbina","Periodo_3",NA,NA,NA
+"160",151,"Mario Escobar Urbina","Periodo_4",NA,NA,NA
+"161",151,"Mario Escobar Urbina","Periodo_5",NA,NA,NA
+"162",151,"Mario Escobar Urbina","Periodo_6",NA,NA,NA
+"163",848,"Rodrigo González Torres","Periodo_1",-0.741441884441921,-0.778687336653342,-0.815932788864763
+"164",848,"Rodrigo González Torres","Periodo_2",-0.578581575415499,-0.618709213541043,-0.658836851666586
+"165",848,"Rodrigo González Torres","Periodo_3",-0.375122023185161,-0.345355614121746,-0.315589205058331
+"166",848,"Rodrigo González Torres","Periodo_4",-0.808303930559996,-0.834752188655123,-0.86120044675025
+"167",848,"Rodrigo González Torres","Periodo_5",-0.668079871505939,-0.63850298220142,-0.608926092896901
+"168",848,"Rodrigo González Torres","Periodo_6",NA,NA,NA
+"169",161,"María Pía Guzmán Mena","Periodo_1",-0.0115363316220609,-0.0487885076078492,-0.0860406835936376
+"170",161,"María Pía Guzmán Mena","Periodo_2",NA,NA,NA
+"171",161,"María Pía Guzmán Mena","Periodo_3",NA,NA,NA
+"172",161,"María Pía Guzmán Mena","Periodo_4",NA,NA,NA
+"173",161,"María Pía Guzmán Mena","Periodo_5",NA,NA,NA
+"174",161,"María Pía Guzmán Mena","Periodo_6",NA,NA,NA
+"175",850,"Javier Hernández Hernández","Periodo_1",0.296069286855171,0.25882383464375,0.221578382432329
+"176",850,"Javier Hernández Hernández","Periodo_2",0.397385340069612,0.357257701944068,0.317130063818525
+"177",850,"Javier Hernández Hernández","Periodo_3",1.01803836609934,1.04780477516275,1.07757118422617
+"178",850,"Javier Hernández Hernández","Periodo_4",-0.00898743287505491,-0.0354356909701819,-0.0618839490653088
+"179",850,"Javier Hernández Hernández","Periodo_5",0.963077490135983,0.992654379440501,1.02223126874502
+"180",850,"Javier Hernández Hernández","Periodo_6",NA,NA,NA
+"181",165,"Gonzalo Ibáñez Santa María","Periodo_1",0.305936382659419,0.26868420667363,0.231432030687842
+"182",165,"Gonzalo Ibáñez Santa María","Periodo_2",NA,NA,NA
+"183",165,"Gonzalo Ibáñez Santa María","Periodo_3",NA,NA,NA
+"184",165,"Gonzalo Ibáñez Santa María","Periodo_4",NA,NA,NA
+"185",165,"Gonzalo Ibáñez Santa María","Periodo_5",NA,NA,NA
+"186",165,"Gonzalo Ibáñez Santa María","Periodo_6",NA,NA,NA
+"187",854,"Enrique Jaramillo Becker","Periodo_1",-1.01624589551508,-1.0534913477265,-1.09073679993792
+"188",854,"Enrique Jaramillo Becker","Periodo_2",-0.968969975409739,-1.00909761353528,-1.04922525166083
+"189",854,"Enrique Jaramillo Becker","Periodo_3",-0.272531497352931,-0.242765088289402,-0.212998679225874
+"190",854,"Enrique Jaramillo Becker","Periodo_4",-0.742741611086536,-0.76919227692106,-0.795642942755584
+"191",854,"Enrique Jaramillo Becker","Periodo_5",NA,NA,NA
+"192",854,"Enrique Jaramillo Becker","Periodo_6",NA,NA,NA
+"193",169,"Víctor Jeame Barrueto","Periodo_1",-0.607787862158637,-0.645040038144425,-0.682292214130214
+"194",169,"Víctor Jeame Barrueto","Periodo_2",NA,NA,NA
+"195",169,"Víctor Jeame Barrueto","Periodo_3",NA,NA,NA
+"196",169,"Víctor Jeame Barrueto","Periodo_4",NA,NA,NA
+"197",169,"Víctor Jeame Barrueto","Periodo_5",NA,NA,NA
+"198",169,"Víctor Jeame Barrueto","Periodo_6",NA,NA,NA
+"199",172,"Carlos Kuschel Silva","Periodo_1",0.127747389288174,0.0905019370767524,0.053256484865331
+"200",172,"Carlos Kuschel Silva","Periodo_2",NA,NA,NA
+"201",172,"Carlos Kuschel Silva","Periodo_3",NA,NA,NA
+"202",172,"Carlos Kuschel Silva","Periodo_4",NA,NA,NA
+"203",172,"Carlos Kuschel Silva","Periodo_5",1.30047129019793,1.33004817950245,1.35962506880696
+"204",172,"Carlos Kuschel Silva","Periodo_6",NA,NA,NA
+"205",178,"Arturo Longton Guerrero","Periodo_1",-0.0751120584612234,-0.112364234447012,-0.1496164104328
+"206",178,"Arturo Longton Guerrero","Periodo_2",NA,NA,NA
+"207",178,"Arturo Longton Guerrero","Periodo_3",NA,NA,NA
+"208",178,"Arturo Longton Guerrero","Periodo_4",NA,NA,NA
+"209",178,"Arturo Longton Guerrero","Periodo_5",NA,NA,NA
+"210",178,"Arturo Longton Guerrero","Periodo_6",NA,NA,NA
+"211",181,"Zarko Luksic Sandoval","Periodo_1",-0.693125096345572,-0.730377272331361,-0.767629448317149
+"212",181,"Zarko Luksic Sandoval","Periodo_2",NA,NA,NA
+"213",181,"Zarko Luksic Sandoval","Periodo_3",NA,NA,NA
+"214",181,"Zarko Luksic Sandoval","Periodo_4",NA,NA,NA
+"215",181,"Zarko Luksic Sandoval","Periodo_5",NA,NA,NA
+"216",181,"Zarko Luksic Sandoval","Periodo_6",NA,NA,NA
+"217",863,"Rosauro Martínez Labbé","Periodo_1",0.089881150043132,0.0526356978317106,0.0153902456202892
+"218",863,"Rosauro Martínez Labbé","Periodo_2",0.247285285642833,0.20715764751729,0.167030009391746
+"219",863,"Rosauro Martínez Labbé","Periodo_3",0.755258933298332,0.785025342361861,0.814791751425389
+"220",863,"Rosauro Martínez Labbé","Periodo_4",-0.0566534103749772,-0.0831040762095012,-0.109554742044025
+"221",863,"Rosauro Martínez Labbé","Periodo_5",NA,NA,NA
+"222",863,"Rosauro Martínez Labbé","Periodo_6",NA,NA,NA
+"223",185,"María Eugenia Mella Gajardo","Periodo_1",-0.913910150409227,-0.951162326395015,-0.988414502380803
+"224",185,"María Eugenia Mella Gajardo","Periodo_2",NA,NA,NA
+"225",185,"María Eugenia Mella Gajardo","Periodo_3",NA,NA,NA
+"226",185,"María Eugenia Mella Gajardo","Periodo_4",NA,NA,NA
+"227",185,"María Eugenia Mella Gajardo","Periodo_5",NA,NA,NA
+"228",185,"María Eugenia Mella Gajardo","Periodo_6",NA,NA,NA
+"229",870,"Carlos Montes Cisternas","Periodo_1",-0.901280158104556,-0.938525610315978,-0.975771062527399
+"230",870,"Carlos Montes Cisternas","Periodo_2",-0.915151639097445,-0.955279277223436,-0.995406915349427
+"231",870,"Carlos Montes Cisternas","Periodo_3",-0.313885391755279,-0.284115550012563,-0.254345708269847
+"232",870,"Carlos Montes Cisternas","Periodo_4",NA,NA,NA
+"233",870,"Carlos Montes Cisternas","Periodo_5",NA,NA,NA
+"234",870,"Carlos Montes Cisternas","Periodo_6",NA,NA,NA
+"235",190,"Waldo Mora Longa","Periodo_1",-0.470777204545215,-0.508029380531003,-0.545281556516791
+"236",190,"Waldo Mora Longa","Periodo_2",NA,NA,NA
+"237",190,"Waldo Mora Longa","Periodo_3",NA,NA,NA
+"238",190,"Waldo Mora Longa","Periodo_4",NA,NA,NA
+"239",190,"Waldo Mora Longa","Periodo_5",NA,NA,NA
+"240",190,"Waldo Mora Longa","Periodo_6",NA,NA,NA
+"241",871,"Iván Moreira Barros","Periodo_1",0.134104882516501,0.0968594303050801,0.0596139780936586
+"242",871,"Iván Moreira Barros","Periodo_2",0.184274321845695,0.144146683719705,0.104019045593714
+"243",871,"Iván Moreira Barros","Periodo_3",0.873200928362404,0.902970770105121,0.932740611847837
+"244",871,"Iván Moreira Barros","Periodo_4",NA,NA,NA
+"245",871,"Iván Moreira Barros","Periodo_5",NA,NA,NA
+"246",871,"Iván Moreira Barros","Periodo_6",NA,NA,NA
+"247",193,"Pedro Muñoz Aburto","Periodo_1",-0.836697618847445,-0.873949794833233,-0.911201970819022
+"248",193,"Pedro Muñoz Aburto","Periodo_2",NA,NA,NA
+"249",193,"Pedro Muñoz Aburto","Periodo_3",NA,NA,NA
+"250",193,"Pedro Muñoz Aburto","Periodo_4",NA,NA,NA
+"251",193,"Pedro Muñoz Aburto","Periodo_5",NA,NA,NA
+"252",193,"Pedro Muñoz Aburto","Periodo_6",NA,NA,NA
+"253",877,"Sergio Ojeda Uribe","Periodo_1",-1.21524092241066,-1.25248637462208,-1.2897318268335
+"254",877,"Sergio Ojeda Uribe","Periodo_2",-0.937411198763969,-0.977538836889513,-1.01766647501506
+"255",877,"Sergio Ojeda Uribe","Periodo_3",-0.410571250582417,-0.380804841518888,-0.35103843245536
+"256",877,"Sergio Ojeda Uribe","Periodo_4",-1.43614442514861,-1.46259509098314,-1.48904575681766
+"257",877,"Sergio Ojeda Uribe","Periodo_5",NA,NA,NA
+"258",877,"Sergio Ojeda Uribe","Periodo_6",NA,NA,NA
+"259",878,"Carlos Olivares Zepeda","Periodo_1",-0.903702159654384,-0.940947611866987,-0.97819306407959
+"260",878,"Carlos Olivares Zepeda","Periodo_2",-0.623900538277624,-0.664036586964852,-0.70417263565208
+"261",878,"Carlos Olivares Zepeda","Periodo_3",NA,NA,NA
+"262",878,"Carlos Olivares Zepeda","Periodo_4",NA,NA,NA
+"263",878,"Carlos Olivares Zepeda","Periodo_5",NA,NA,NA
+"264",878,"Carlos Olivares Zepeda","Periodo_6",NA,NA,NA
+"265",879,"José Miguel Ortiz Novoa","Periodo_1",-1.2978830639091,-1.33512851612053,-1.37237396833195
+"266",879,"José Miguel Ortiz Novoa","Periodo_2",-0.959757407610955,-0.999885045736498,-1.04001268386204
+"267",879,"José Miguel Ortiz Novoa","Periodo_3",-0.171293601989108,-0.141527192925693,-0.111760783862278
+"268",879,"José Miguel Ortiz Novoa","Periodo_4",-1.18974693030356,-1.21619518839869,-1.24264344649382
+"269",879,"José Miguel Ortiz Novoa","Periodo_5",0.226761101003697,0.256337990308215,0.285914879612734
+"270",879,"José Miguel Ortiz Novoa","Periodo_6",NA,NA,NA
+"271",206,"Ramón Pérez Opazo","Periodo_1",0.287599812072513,0.250347636086724,0.213095460100936
+"272",206,"Ramón Pérez Opazo","Periodo_2",NA,NA,NA
+"273",206,"Ramón Pérez Opazo","Periodo_3",NA,NA,NA
+"274",206,"Ramón Pérez Opazo","Periodo_4",NA,NA,NA
+"275",206,"Ramón Pérez Opazo","Periodo_5",NA,NA,NA
+"276",206,"Ramón Pérez Opazo","Periodo_6",NA,NA,NA
+"277",921,"Lily Pérez San Martín","Periodo_1",-0.0390118885389772,-0.0762573407515803,-0.113502792964183
+"278",921,"Lily Pérez San Martín","Periodo_2",-0.0735115566082502,-0.113647605295478,-0.153783653982706
+"279",921,"Lily Pérez San Martín","Periodo_3",NA,NA,NA
+"280",921,"Lily Pérez San Martín","Periodo_4",NA,NA,NA
+"281",921,"Lily Pérez San Martín","Periodo_5",NA,NA,NA
+"282",921,"Lily Pérez San Martín","Periodo_6",NA,NA,NA
+"283",209,"Pablo Prieto Lorca","Periodo_1",0.355989545252951,0.318737369267163,0.281485193281375
+"284",209,"Pablo Prieto Lorca","Periodo_2",NA,NA,NA
+"285",209,"Pablo Prieto Lorca","Periodo_3",NA,NA,NA
+"286",209,"Pablo Prieto Lorca","Periodo_4",NA,NA,NA
+"287",209,"Pablo Prieto Lorca","Periodo_5",0.943649531153048,0.973228103768088,1.00280667638313
+"288",209,"Pablo Prieto Lorca","Periodo_6",NA,NA,NA
+"289",887,"Carlos Recondo Lavanderos","Periodo_1",0.343876916790566,0.306631464579145,0.269386012367723
+"290",887,"Carlos Recondo Lavanderos","Periodo_2",0.483749607472143,0.443621969346152,0.403494331220161
+"291",887,"Carlos Recondo Lavanderos","Periodo_3",1.17393149298629,1.203701334729,1.23347117647172
+"292",887,"Carlos Recondo Lavanderos","Periodo_4",NA,NA,NA
+"293",887,"Carlos Recondo Lavanderos","Periodo_5",NA,NA,NA
+"294",887,"Carlos Recondo Lavanderos","Periodo_6",NA,NA,NA
+"295",213,"Edgardo Riveros Marín","Periodo_1",-0.94873545511277,-0.985987631098559,-1.02323980708435
+"296",213,"Edgardo Riveros Marín","Periodo_2",NA,NA,NA
+"297",213,"Edgardo Riveros Marín","Periodo_3",NA,NA,NA
+"298",213,"Edgardo Riveros Marín","Periodo_4",NA,NA,NA
+"299",213,"Edgardo Riveros Marín","Periodo_5",NA,NA,NA
+"300",213,"Edgardo Riveros Marín","Periodo_6",NA,NA,NA
+"301",892,"María Antonieta Saa Díaz","Periodo_1",-0.987495245748238,-1.02474069795966,-1.06198615017108
+"302",892,"María Antonieta Saa Díaz","Periodo_2",-0.79310293086294,-0.833230568988931,-0.873358207114922
+"303",892,"María Antonieta Saa Díaz","Periodo_3",-0.373569128596402,-0.343799286853686,-0.31402944511097
+"304",892,"María Antonieta Saa Díaz","Periodo_4",NA,NA,NA
+"305",892,"María Antonieta Saa Díaz","Periodo_5",NA,NA,NA
+"306",892,"María Antonieta Saa Díaz","Periodo_6",NA,NA,NA
+"307",895,"Felipe Salaberry Soto","Periodo_1",0.277332394339166,0.240086942127745,0.202841489916323
+"308",895,"Felipe Salaberry Soto","Periodo_2",0.243547001245397,0.203419363119406,0.163291724993416
+"309",895,"Felipe Salaberry Soto","Periodo_3",0.674081876541127,0.703851718283844,0.73362156002656
+"310",895,"Felipe Salaberry Soto","Periodo_4",NA,NA,NA
+"311",895,"Felipe Salaberry Soto","Periodo_5",NA,NA,NA
+"312",895,"Felipe Salaberry Soto","Periodo_6",NA,NA,NA
+"313",220,"Edmundo Salas De La Fuente","Periodo_1",-0.852048753533567,-0.889300929519355,-0.926553105505144
+"314",220,"Edmundo Salas De La Fuente","Periodo_2",NA,NA,NA
+"315",220,"Edmundo Salas De La Fuente","Periodo_3",NA,NA,NA
+"316",220,"Edmundo Salas De La Fuente","Periodo_4",NA,NA,NA
+"317",220,"Edmundo Salas De La Fuente","Periodo_5",NA,NA,NA
+"318",220,"Edmundo Salas De La Fuente","Periodo_6",NA,NA,NA
+"319",899,"Laura Soto González","Periodo_1",-0.825152675302201,-0.862398127514804,-0.899643579727407
+"320",899,"Laura Soto González","Periodo_2",-0.546413396509549,-0.586549445196777,-0.626685493884005
+"321",899,"Laura Soto González","Periodo_3",NA,NA,NA
+"322",899,"Laura Soto González","Periodo_4",NA,NA,NA
+"323",899,"Laura Soto González","Periodo_5",NA,NA,NA
+"324",899,"Laura Soto González","Periodo_6",NA,NA,NA
+"325",903,"Carolina Tohá Morales","Periodo_1",-0.842795649482752,-0.880041101695356,-0.917286553907959
+"326",903,"Carolina Tohá Morales","Periodo_2",-0.642140175204956,-0.682276223892184,-0.722412272579413
+"327",903,"Carolina Tohá Morales","Periodo_3",NA,NA,NA
+"328",903,"Carolina Tohá Morales","Periodo_4",NA,NA,NA
+"329",903,"Carolina Tohá Morales","Periodo_5",NA,NA,NA
+"330",903,"Carolina Tohá Morales","Periodo_6",NA,NA,NA
+"331",904,"Eugenio Tuma Zedan","Periodo_1",-0.737093356780095,-0.774338808992698,-0.811584261205301
+"332",904,"Eugenio Tuma Zedan","Periodo_2",-0.690684154088601,-0.730820202775829,-0.770956251463057
+"333",904,"Eugenio Tuma Zedan","Periodo_3",NA,NA,NA
+"334",904,"Eugenio Tuma Zedan","Periodo_4",NA,NA,NA
+"335",904,"Eugenio Tuma Zedan","Periodo_5",NA,NA,NA
+"336",904,"Eugenio Tuma Zedan","Periodo_6",NA,NA,NA
+"337",907,"Gonzalo Uriarte Herrera","Periodo_1",0.288421514694046,0.251176062482625,0.213930610271203
+"338",907,"Gonzalo Uriarte Herrera","Periodo_2",0.432577977521628,0.392450339395637,0.352322701269646
+"339",907,"Gonzalo Uriarte Herrera","Periodo_3",0.185825199346374,0.21559504108909,0.245364882831806
+"340",907,"Gonzalo Uriarte Herrera","Periodo_4",NA,NA,NA
+"341",907,"Gonzalo Uriarte Herrera","Periodo_5",NA,NA,NA
+"342",907,"Gonzalo Uriarte Herrera","Periodo_6",NA,NA,NA
+"343",908,"Ignacio Urrutia Bonilla","Periodo_1",0.48827213264131,0.451026680429889,0.413781228218468
+"344",908,"Ignacio Urrutia Bonilla","Periodo_2",0.273964144264288,0.233836506138745,0.193708868013201
+"345",908,"Ignacio Urrutia Bonilla","Periodo_3",0.845180529004095,0.87494693806751,0.904713347130925
+"346",908,"Ignacio Urrutia Bonilla","Periodo_4",0.140567923994669,0.114119665899542,0.0876714078044148
+"347",908,"Ignacio Urrutia Bonilla","Periodo_5",0.818812017114561,0.84838890641908,0.877965795723599
+"348",908,"Ignacio Urrutia Bonilla","Periodo_6",NA,NA,NA
+"349",912,"Alfonso Vargas Lyng","Periodo_1",0.0292346032453147,-0.00801084896728846,-0.0452563011798916
+"350",912,"Alfonso Vargas Lyng","Periodo_2",0.176085777354469,0.135949728667241,0.0958136799800131
+"351",912,"Alfonso Vargas Lyng","Periodo_3",NA,NA,NA
+"352",912,"Alfonso Vargas Lyng","Periodo_4",NA,NA,NA
+"353",912,"Alfonso Vargas Lyng","Periodo_5",NA,NA,NA
+"354",912,"Alfonso Vargas Lyng","Periodo_6",NA,NA,NA
+"355",916,"Ximena Vidal Lázaro","Periodo_1",-0.770223676545933,-0.807469128757355,-0.844714580968776
+"356",916,"Ximena Vidal Lázaro","Periodo_2",-0.957274099112149,-0.99740173723814,-1.03752937536413
+"357",916,"Ximena Vidal Lázaro","Periodo_3",-0.19553330655396,-0.165763464811244,-0.135993623068528
+"358",916,"Ximena Vidal Lázaro","Periodo_4",NA,NA,NA
+"359",916,"Ximena Vidal Lázaro","Periodo_5",NA,NA,NA
+"360",916,"Ximena Vidal Lázaro","Periodo_6",NA,NA,NA
+"361",962,"Carlos Vilches Guzmán","Periodo_1",-0.0240011161448702,-0.0612465683562916,-0.098492020567713
+"362",962,"Carlos Vilches Guzmán","Periodo_2",NA,NA,NA
+"363",962,"Carlos Vilches Guzmán","Periodo_3",0.968345162205732,0.998115003948448,1.02788484569116
+"364",962,"Carlos Vilches Guzmán","Periodo_4",NA,NA,NA
+"365",962,"Carlos Vilches Guzmán","Periodo_5",NA,NA,NA
+"366",962,"Carlos Vilches Guzmán","Periodo_6",NA,NA,NA
+"367",918,"Patricio Walker Prieto","Periodo_1",-0.660576334898624,-0.697821787111228,-0.735067239323831
+"368",918,"Patricio Walker Prieto","Periodo_2",-0.500346763002042,-0.54048281168927,-0.580618860376498
+"369",918,"Patricio Walker Prieto","Periodo_3",NA,NA,NA
+"370",918,"Patricio Walker Prieto","Periodo_4",NA,NA,NA
+"371",918,"Patricio Walker Prieto","Periodo_5",NA,NA,NA
+"372",918,"Patricio Walker Prieto","Periodo_6",NA,NA,NA
+"373",804,"Isabel Allende Bussi","Periodo_1",-0.808734609690157,-0.84598006190276,-0.883225514115363
+"374",804,"Isabel Allende Bussi","Periodo_2",-0.54350106668872,-0.583637115375948,-0.623773164063176
+"375",804,"Isabel Allende Bussi","Periodo_3",NA,NA,NA
+"376",804,"Isabel Allende Bussi","Periodo_4",NA,NA,NA
+"377",804,"Isabel Allende Bussi","Periodo_5",NA,NA,NA
+"378",804,"Isabel Allende Bussi","Periodo_6",NA,NA,NA
+"379",808,"Pedro Araya Guerrero","Periodo_1",-0.707236881135797,-0.744482333347219,-0.78172778555864
+"380",808,"Pedro Araya Guerrero","Periodo_2",-0.615483426866355,-0.655611064992346,-0.695738703118337
+"381",808,"Pedro Araya Guerrero","Periodo_3",0.0838655688086204,0.113635410551337,0.143405252294053
+"382",808,"Pedro Araya Guerrero","Periodo_4",NA,NA,NA
+"383",808,"Pedro Araya Guerrero","Periodo_5",NA,NA,NA
+"384",808,"Pedro Araya Guerrero","Periodo_6",NA,NA,NA
+"385",800,"Enrique Accorsi Opazo","Periodo_1",-0.81774320734978,-0.854988659561202,-0.892234111772623
+"386",800,"Enrique Accorsi Opazo","Periodo_2",-0.848790774691168,-0.888918412817158,-0.929046050943149
+"387",800,"Enrique Accorsi Opazo","Periodo_3",-0.237002272730557,-0.207232430987841,-0.177462589245125
+"388",800,"Enrique Accorsi Opazo","Periodo_4",NA,NA,NA
+"389",800,"Enrique Accorsi Opazo","Periodo_5",NA,NA,NA
+"390",800,"Enrique Accorsi Opazo","Periodo_6",NA,NA,NA
+"391",802,"Sergio Aguiló Melo","Periodo_1",-0.796411508079181,-0.833656960290602,-0.870902412502023
+"392",802,"Sergio Aguiló Melo","Periodo_2",-0.664157504129031,-0.704285142254574,-0.744412780380118
+"393",802,"Sergio Aguiló Melo","Periodo_3",-0.363613620181856,-0.333847211118327,-0.304080802054799
+"394",802,"Sergio Aguiló Melo","Periodo_4",-0.837354624956132,-0.863805290790656,-0.89025595662518
+"395",802,"Sergio Aguiló Melo","Periodo_5",NA,NA,NA
+"396",802,"Sergio Aguiló Melo","Periodo_6",NA,NA,NA
+"397",806,"Pedro Pablo Alvarez-Salamanca Büchi","Periodo_1",0.014631092657151,-0.0226143595554521,-0.0598598117680552
+"398",806,"Pedro Pablo Alvarez-Salamanca Büchi","Periodo_2",-0.0137871053869912,-0.0539231540742193,-0.0940592027614473
+"399",806,"Pedro Pablo Alvarez-Salamanca Büchi","Periodo_3",NA,NA,NA
+"400",806,"Pedro Pablo Alvarez-Salamanca Büchi","Periodo_4",NA,NA,NA
+"401",806,"Pedro Pablo Alvarez-Salamanca Büchi","Periodo_5",NA,NA,NA
+"402",806,"Pedro Pablo Alvarez-Salamanca Büchi","Periodo_6",NA,NA,NA
+"403",811,"Ramón Barros Montero","Periodo_1",0.338520942358173,0.301275490146751,0.26403003793533
+"404",811,"Ramón Barros Montero","Periodo_2",0.426357871014307,0.386230232888764,0.34610259476322
+"405",811,"Ramón Barros Montero","Periodo_3",0.748897662011,0.778664071074415,0.80843048013783
+"406",811,"Ramón Barros Montero","Periodo_4",0.0817507770901084,0.0553025189949815,0.0288542608998545
+"407",811,"Ramón Barros Montero","Periodo_5",1.19000081500886,1.21957770431338,1.2491545936179
+"408",811,"Ramón Barros Montero","Periodo_6",NA,NA,NA
+"409",842,"Pablo Galilea Carrillo","Periodo_1",0.0728444581135487,0.0355990059009456,-0.0016464463116575
+"410",842,"Pablo Galilea Carrillo","Periodo_2",0.27655021540037,0.236414166713142,0.196278118025914
+"411",842,"Pablo Galilea Carrillo","Periodo_3",NA,NA,NA
+"412",842,"Pablo Galilea Carrillo","Periodo_4",NA,NA,NA
+"413",842,"Pablo Galilea Carrillo","Periodo_5",NA,NA,NA
+"414",842,"Pablo Galilea Carrillo","Periodo_6",NA,NA,NA
+"415",821,"Sergio Correa De la Cerda","Periodo_1",0.303088125411085,0.265842673198482,0.228597220985879
+"416",821,"Sergio Correa De la Cerda","Periodo_2",0.402656331075135,0.362520282387907,0.322384233700679
+"417",821,"Sergio Correa De la Cerda","Periodo_3",NA,NA,NA
+"418",821,"Sergio Correa De la Cerda","Periodo_4",NA,NA,NA
+"419",821,"Sergio Correa De la Cerda","Periodo_5",NA,NA,NA
+"420",821,"Sergio Correa De la Cerda","Periodo_6",NA,NA,NA
+"421",164,"Carlos Hidalgo González","Periodo_1",0.00990115772129245,-0.0273510182644959,-0.0646031942502842
+"422",164,"Carlos Hidalgo González","Periodo_2",NA,NA,NA
+"423",164,"Carlos Hidalgo González","Periodo_3",NA,NA,NA
+"424",164,"Carlos Hidalgo González","Periodo_4",NA,NA,NA
+"425",164,"Carlos Hidalgo González","Periodo_5",NA,NA,NA
+"426",164,"Carlos Hidalgo González","Periodo_6",NA,NA,NA
+"427",857,"José Antonio Kast Rist","Periodo_1",0.374970123918781,0.337724671707359,0.300479219495938
+"428",857,"José Antonio Kast Rist","Periodo_2",0.353881065466021,0.313753427340478,0.273625789214934
+"429",857,"José Antonio Kast Rist","Periodo_3",1.18364559882028,1.21341200788381,1.24317841694734
+"430",857,"José Antonio Kast Rist","Periodo_4",0.195342535433731,0.168891869599207,0.142441203764683
+"431",857,"José Antonio Kast Rist","Periodo_5",NA,NA,NA
+"432",857,"José Antonio Kast Rist","Periodo_6",NA,NA,NA
+"433",187,"Darío Molina Sanhueza","Periodo_1",0.102197800887201,0.0649456249014129,0.0276934489156246
+"434",187,"Darío Molina Sanhueza","Periodo_2",NA,NA,NA
+"435",187,"Darío Molina Sanhueza","Periodo_3",NA,NA,NA
+"436",187,"Darío Molina Sanhueza","Periodo_4",NA,NA,NA
+"437",187,"Darío Molina Sanhueza","Periodo_5",NA,NA,NA
+"438",187,"Darío Molina Sanhueza","Periodo_6",NA,NA,NA
+"439",914,"Samuel Venegas Rubio","Periodo_1",-0.706714829146892,-0.743960281359495,-0.781205733572098
+"440",914,"Samuel Venegas Rubio","Periodo_2",-0.509998801683708,-0.550134850370936,-0.590270899058165
+"441",914,"Samuel Venegas Rubio","Periodo_3",NA,NA,NA
+"442",914,"Samuel Venegas Rubio","Periodo_4",NA,NA,NA
+"443",914,"Samuel Venegas Rubio","Periodo_5",NA,NA,NA
+"444",914,"Samuel Venegas Rubio","Periodo_6",NA,NA,NA
+"445",817,"Juan Bustos Ramírez","Periodo_1",-0.805396426219147,-0.84264187843175,-0.879887330644353
+"446",817,"Juan Bustos Ramírez","Periodo_2",-0.402474290484228,-0.442610339171456,-0.482746387858684
+"447",817,"Juan Bustos Ramírez","Periodo_3",NA,NA,NA
+"448",817,"Juan Bustos Ramírez","Periodo_4",NA,NA,NA
+"449",817,"Juan Bustos Ramírez","Periodo_5",NA,NA,NA
+"450",817,"Juan Bustos Ramírez","Periodo_6",NA,NA,NA
+"451",137,"Eliana Caraball Martínez","Periodo_1",-0.752036060313185,-0.789288236298973,-0.826540412284762
+"452",137,"Eliana Caraball Martínez","Periodo_2",NA,NA,NA
+"453",137,"Eliana Caraball Martínez","Periodo_3",NA,NA,NA
+"454",137,"Eliana Caraball Martínez","Periodo_4",NA,NA,NA
+"455",137,"Eliana Caraball Martínez","Periodo_5",NA,NA,NA
+"456",137,"Eliana Caraball Martínez","Periodo_6",NA,NA,NA
+"457",822,"María Angélica Cristi Marfil","Periodo_1",0.234574748836888,0.197329296625467,0.160083844414046
+"458",822,"María Angélica Cristi Marfil","Periodo_2",0.326435495148095,0.286307857022104,0.246180218896113
+"459",822,"María Angélica Cristi Marfil","Periodo_3",0.775644694534854,0.80541453627757,0.835184378020286
+"460",822,"María Angélica Cristi Marfil","Periodo_4",NA,NA,NA
+"461",822,"María Angélica Cristi Marfil","Periodo_5",NA,NA,NA
+"462",822,"María Angélica Cristi Marfil","Periodo_6",NA,NA,NA
+"463",828,"Julio Dittborn Cordua","Periodo_1",0.305792556891433,0.26854710467883,0.231301652466227
+"464",828,"Julio Dittborn Cordua","Periodo_2",0.333871352610893,0.293735303923665,0.253599255236437
+"465",828,"Julio Dittborn Cordua","Periodo_3",NA,NA,NA
+"466",828,"Julio Dittborn Cordua","Periodo_4",NA,NA,NA
+"467",828,"Julio Dittborn Cordua","Periodo_5",NA,NA,NA
+"468",828,"Julio Dittborn Cordua","Periodo_6",NA,NA,NA
+"469",837,"Fidel Espinoza Sandoval","Periodo_1",-0.721362055714764,-0.758607507926185,-0.795852960137607
+"470",837,"Fidel Espinoza Sandoval","Periodo_2",-0.740374065722545,-0.780501703848089,-0.820629341973632
+"471",837,"Fidel Espinoza Sandoval","Periodo_3",-0.341318690349205,-0.31155228128579,-0.281785872222375
+"472",837,"Fidel Espinoza Sandoval","Periodo_4",-0.806105317230412,-0.832553575325539,-0.859001833420666
+"473",837,"Fidel Espinoza Sandoval","Periodo_5",-0.243663633082699,-0.21408674377818,-0.184509854473661
+"474",837,"Fidel Espinoza Sandoval","Periodo_6",NA,NA,NA
+"475",840,"Marcelo Forni Lobos","Periodo_1",0.25906388085987,0.221818428647267,0.184572976434664
+"476",840,"Marcelo Forni Lobos","Periodo_2",0.244340187286421,0.204204138599193,0.164068089911965
+"477",840,"Marcelo Forni Lobos","Periodo_3",NA,NA,NA
+"478",840,"Marcelo Forni Lobos","Periodo_4",NA,NA,NA
+"479",840,"Marcelo Forni Lobos","Periodo_5",NA,NA,NA
+"480",840,"Marcelo Forni Lobos","Periodo_6",NA,NA,NA
+"481",859,"Antonio Leal Labrín","Periodo_1",-0.963232050685974,-1.00047750289858,-1.03772295511118
+"482",859,"Antonio Leal Labrín","Periodo_2",-0.977681101883658,-1.01781715057089,-1.05795319925811
+"483",859,"Antonio Leal Labrín","Periodo_3",NA,NA,NA
+"484",859,"Antonio Leal Labrín","Periodo_4",NA,NA,NA
+"485",859,"Antonio Leal Labrín","Periodo_5",NA,NA,NA
+"486",859,"Antonio Leal Labrín","Periodo_6",NA,NA,NA
+"487",882,"Iván Paredes Fierro","Periodo_1",-0.786282137574987,-0.82352758978759,-0.860773042000193
+"488",882,"Iván Paredes Fierro","Periodo_2",-0.483380581524059,-0.523516630211287,-0.563652678898515
+"489",882,"Iván Paredes Fierro","Periodo_3",NA,NA,NA
+"490",882,"Iván Paredes Fierro","Periodo_4",NA,NA,NA
+"491",882,"Iván Paredes Fierro","Periodo_5",NA,NA,NA
+"492",882,"Iván Paredes Fierro","Periodo_6",NA,NA,NA
+"493",202,"Cristián Pareto Vergara","Periodo_1",-0.0906474974293842,-0.127899673415172,-0.165151849400961
+"494",202,"Cristián Pareto Vergara","Periodo_2",NA,NA,NA
+"495",202,"Cristián Pareto Vergara","Periodo_3",NA,NA,NA
+"496",202,"Cristián Pareto Vergara","Periodo_4",NA,NA,NA
+"497",202,"Cristián Pareto Vergara","Periodo_5",NA,NA,NA
+"498",202,"Cristián Pareto Vergara","Periodo_6",NA,NA,NA
+"499",884,"Darío Paya Mira","Periodo_1",0.23037775645766,0.193132304245057,0.155886852032454
+"500",884,"Darío Paya Mira","Periodo_2",0.302666376901501,0.262530328214273,0.222394279527045
+"501",884,"Darío Paya Mira","Periodo_3",NA,NA,NA
+"502",884,"Darío Paya Mira","Periodo_4",NA,NA,NA
+"503",884,"Darío Paya Mira","Periodo_5",NA,NA,NA
+"504",884,"Darío Paya Mira","Periodo_6",NA,NA,NA
+"505",208,"Víctor Pérez Varela","Periodo_1",0.313509216470019,0.27625704048423,0.239004864498442
+"506",208,"Víctor Pérez Varela","Periodo_2",NA,NA,NA
+"507",208,"Víctor Pérez Varela","Periodo_3",NA,NA,NA
+"508",208,"Víctor Pérez Varela","Periodo_4",NA,NA,NA
+"509",208,"Víctor Pérez Varela","Periodo_5",NA,NA,NA
+"510",208,"Víctor Pérez Varela","Periodo_6",NA,NA,NA
+"511",221,"Leopoldo Sánchez Grunert","Periodo_1",-0.649131255071792,-0.68638343105758,-0.723635607043368
+"512",221,"Leopoldo Sánchez Grunert","Periodo_2",NA,NA,NA
+"513",221,"Leopoldo Sánchez Grunert","Periodo_3",NA,NA,NA
+"514",221,"Leopoldo Sánchez Grunert","Periodo_4",NA,NA,NA
+"515",221,"Leopoldo Sánchez Grunert","Periodo_5",NA,NA,NA
+"516",221,"Leopoldo Sánchez Grunert","Periodo_6",NA,NA,NA
+"517",224,"Exequiel Silva Ortiz","Periodo_1",-0.836878218127993,-0.874130394113781,-0.911382570099569
+"518",224,"Exequiel Silva Ortiz","Periodo_2",NA,NA,NA
+"519",224,"Exequiel Silva Ortiz","Periodo_3",NA,NA,NA
+"520",224,"Exequiel Silva Ortiz","Periodo_4",NA,NA,NA
+"521",224,"Exequiel Silva Ortiz","Periodo_5",NA,NA,NA
+"522",224,"Exequiel Silva Ortiz","Periodo_6",NA,NA,NA
+"523",226,"Boris Tapia Martínez","Periodo_1",-0.861349936503727,-0.898602112489515,-0.935854288475303
+"524",226,"Boris Tapia Martínez","Periodo_2",NA,NA,NA
+"525",226,"Boris Tapia Martínez","Periodo_3",NA,NA,NA
+"526",226,"Boris Tapia Martínez","Periodo_4",NA,NA,NA
+"527",226,"Boris Tapia Martínez","Periodo_5",NA,NA,NA
+"528",226,"Boris Tapia Martínez","Periodo_6",NA,NA,NA
+"529",805,"Claudio Alvarado Andrade","Periodo_1",0.228433686003805,0.191188233791202,0.153942781578599
+"530",805,"Claudio Alvarado Andrade","Periodo_2",0.39846141656837,0.358325367881142,0.318189319193914
+"531",805,"Claudio Alvarado Andrade","Periodo_3",NA,NA,NA
+"532",805,"Claudio Alvarado Andrade","Periodo_4",NA,NA,NA
+"533",805,"Claudio Alvarado Andrade","Periodo_5",NA,NA,NA
+"534",805,"Claudio Alvarado Andrade","Periodo_6",NA,NA,NA
+"535",875,"Iván Norambuena Farías","Periodo_1",0.417795998682218,0.380550546470797,0.343305094259375
+"536",875,"Iván Norambuena Farías","Periodo_2",0.395418655752432,0.355291017626889,0.315163379501345
+"537",875,"Iván Norambuena Farías","Periodo_3",0.806889616596931,0.836656025660346,0.86642243472376
+"538",875,"Iván Norambuena Farías","Periodo_4",0.11213136251945,0.0856831044243235,0.0592348463291966
+"539",875,"Iván Norambuena Farías","Periodo_5",0.813519421386423,0.843096310690941,0.87267319999546
+"540",875,"Iván Norambuena Farías","Periodo_6",NA,NA,NA
+"541",234,"Mario Varela Herrera","Periodo_1",0.250659338005853,0.213407162020065,0.176154986034277
+"542",234,"Mario Varela Herrera","Periodo_2",NA,NA,NA
+"543",234,"Mario Varela Herrera","Periodo_3",NA,NA,NA
+"544",234,"Mario Varela Herrera","Periodo_4",NA,NA,NA
+"545",234,"Mario Varela Herrera","Periodo_5",NA,NA,NA
+"546",234,"Mario Varela Herrera","Periodo_6",NA,NA,NA
+"547",140,"Patricio Cornejo Vidaurrázaga","Periodo_1",-0.639827503858108,-0.677079679843897,-0.714331855829685
+"548",140,"Patricio Cornejo Vidaurrázaga","Periodo_2",NA,NA,NA
+"549",140,"Patricio Cornejo Vidaurrázaga","Periodo_3",NA,NA,NA
+"550",140,"Patricio Cornejo Vidaurrázaga","Periodo_4",NA,NA,NA
+"551",140,"Patricio Cornejo Vidaurrázaga","Periodo_5",NA,NA,NA
+"552",140,"Patricio Cornejo Vidaurrázaga","Periodo_6",NA,NA,NA
+"553",176,"Juan Pablo Letelier Morel","Periodo_1",-0.376869306245274,-0.414121482231062,-0.45137365821685
+"554",176,"Juan Pablo Letelier Morel","Periodo_2",NA,NA,NA
+"555",176,"Juan Pablo Letelier Morel","Periodo_3",NA,NA,NA
+"556",176,"Juan Pablo Letelier Morel","Periodo_4",NA,NA,NA
+"557",176,"Juan Pablo Letelier Morel","Periodo_5",NA,NA,NA
+"558",176,"Juan Pablo Letelier Morel","Periodo_6",NA,NA,NA
+"559",862,"Pablo Lorenzini Basso","Periodo_1",-0.507125369903042,-0.544370822114464,-0.581616274325885
+"560",862,"Pablo Lorenzini Basso","Periodo_2",-0.5066842798558,-0.546811917981343,-0.586939556106886
+"561",862,"Pablo Lorenzini Basso","Periodo_3",-0.272859032452968,-0.243092623389553,-0.213326214326138
+"562",862,"Pablo Lorenzini Basso","Periodo_4",-0.542026594267694,-0.568474852362821,-0.594923110457948
+"563",862,"Pablo Lorenzini Basso","Periodo_5",0.265400692296954,0.294977581601472,0.324554470905991
+"564",862,"Pablo Lorenzini Basso","Periodo_6",NA,NA,NA
+"565",873,"Adriana Muñoz D'Albora","Periodo_1",-0.865934556411507,-0.903180008622929,-0.94042546083435
+"566",873,"Adriana Muñoz D'Albora","Periodo_2",-1.03694185746048,-1.07706949558647,-1.11719713371246
+"567",873,"Adriana Muñoz D'Albora","Periodo_3",-0.459068442276922,-0.429298600534206,-0.39952875879149
+"568",873,"Adriana Muñoz D'Albora","Periodo_4",NA,NA,NA
+"569",873,"Adriana Muñoz D'Albora","Periodo_5",NA,NA,NA
+"570",873,"Adriana Muñoz D'Albora","Periodo_6",NA,NA,NA
+"571",195,"Alejandro Navarro Brain","Periodo_1",-0.596648636112505,-0.633900812098293,-0.671152988084082
+"572",195,"Alejandro Navarro Brain","Periodo_2",NA,NA,NA
+"573",195,"Alejandro Navarro Brain","Periodo_3",NA,NA,NA
+"574",195,"Alejandro Navarro Brain","Periodo_4",NA,NA,NA
+"575",195,"Alejandro Navarro Brain","Periodo_5",NA,NA,NA
+"576",195,"Alejandro Navarro Brain","Periodo_6",NA,NA,NA
+"577",889,"Manuel Rojas Molina","Periodo_1",0.219725561005856,0.182480108794434,0.145234656583013
+"578",889,"Manuel Rojas Molina","Periodo_2",0.304794216849539,0.264666578723548,0.224538940597557
+"579",889,"Manuel Rojas Molina","Periodo_3",0.846239609160238,0.876009450902954,0.90577929264567
+"580",889,"Manuel Rojas Molina","Periodo_4",NA,NA,NA
+"581",889,"Manuel Rojas Molina","Periodo_5",NA,NA,NA
+"582",889,"Manuel Rojas Molina","Periodo_6",NA,NA,NA
+"583",222,"Rodolfo Seguel Molina","Periodo_1",-0.842724669207275,-0.879976845193063,-0.917229021178852
+"584",222,"Rodolfo Seguel Molina","Periodo_2",NA,NA,NA
+"585",222,"Rodolfo Seguel Molina","Periodo_3",NA,NA,NA
+"586",222,"Rodolfo Seguel Molina","Periodo_4",NA,NA,NA
+"587",222,"Rodolfo Seguel Molina","Periodo_5",NA,NA,NA
+"588",222,"Rodolfo Seguel Molina","Periodo_6",NA,NA,NA
+"589",826,"Eduardo Díaz Del Río","Periodo_1",-0.0244529711864348,-0.0616984233990379,-0.098943875611641
+"590",826,"Eduardo Díaz Del Río","Periodo_2",-0.374456081748293,-0.414592130435521,-0.454728179122749
+"591",826,"Eduardo Díaz Del Río","Periodo_3",NA,NA,NA
+"592",826,"Eduardo Díaz Del Río","Periodo_4",NA,NA,NA
+"593",826,"Eduardo Díaz Del Río","Periodo_5",NA,NA,NA
+"594",826,"Eduardo Díaz Del Río","Periodo_6",NA,NA,NA
+"595",864,"Juan Masferrer Pellizzari","Periodo_1",0.209294579901809,0.172049127689206,0.134803675476603
+"596",864,"Juan Masferrer Pellizzari","Periodo_2",0.238103743948836,0.197967695261608,0.15783164657438
+"597",864,"Juan Masferrer Pellizzari","Periodo_3",NA,NA,NA
+"598",864,"Juan Masferrer Pellizzari","Periodo_4",NA,NA,NA
+"599",864,"Juan Masferrer Pellizzari","Periodo_5",NA,NA,NA
+"600",864,"Juan Masferrer Pellizzari","Periodo_6",NA,NA,NA
+"601",888,"Alberto Robles Pantoja","Periodo_1",-0.944453902806748,-0.98169935501817,-1.01894480722959
+"602",888,"Alberto Robles Pantoja","Periodo_2",-0.812951452966556,-0.853079091092099,-0.893206729217643
+"603",888,"Alberto Robles Pantoja","Periodo_3",-0.411075241703692,-0.381308832640163,-0.351542423576634
+"604",888,"Alberto Robles Pantoja","Periodo_4",-0.921344801483431,-0.947795467317955,-0.974246133152479
+"605",888,"Alberto Robles Pantoja","Periodo_5",NA,NA,NA
+"606",888,"Alberto Robles Pantoja","Periodo_6",NA,NA,NA
+"607",834,"Maximiano Errázuriz Eguiguren","Periodo_1",0.0998141128469884,0.0625686606343853,0.0253232084217822
+"608",834,"Maximiano Errázuriz Eguiguren","Periodo_2",0.136650766604936,0.0965147179177075,0.0563786692304795
+"609",834,"Maximiano Errázuriz Eguiguren","Periodo_3",NA,NA,NA
+"610",834,"Maximiano Errázuriz Eguiguren","Periodo_4",NA,NA,NA
+"611",834,"Maximiano Errázuriz Eguiguren","Periodo_5",NA,NA,NA
+"612",834,"Maximiano Errázuriz Eguiguren","Periodo_6",NA,NA,NA
+"613",844,"Alejandro García-Huidobro Sanfuentes","Periodo_1",0.326511325087314,0.289265872875893,0.252020420664471
+"614",844,"Alejandro García-Huidobro Sanfuentes","Periodo_2",0.36575666630183,0.325629028175839,0.285501390049848
+"615",844,"Alejandro García-Huidobro Sanfuentes","Periodo_3",0.220234354649173,0.250004196391889,0.279774038134605
+"616",844,"Alejandro García-Huidobro Sanfuentes","Periodo_4",NA,NA,NA
+"617",844,"Alejandro García-Huidobro Sanfuentes","Periodo_5",NA,NA,NA
+"618",844,"Alejandro García-Huidobro Sanfuentes","Periodo_6",NA,NA,NA
+"619",158,"Guido Girardi Lavín","Periodo_1",-0.505949701456017,-0.543201877441805,-0.580454053427593
+"620",158,"Guido Girardi Lavín","Periodo_2",NA,NA,NA
+"621",158,"Guido Girardi Lavín","Periodo_3",NA,NA,NA
+"622",158,"Guido Girardi Lavín","Periodo_4",NA,NA,NA
+"623",158,"Guido Girardi Lavín","Periodo_5",NA,NA,NA
+"624",158,"Guido Girardi Lavín","Periodo_6",NA,NA,NA
+"625",173,"Eduardo Lagos Herrera","Periodo_1",-0.0843924784266719,-0.12164465441246,-0.158896830398249
+"626",173,"Eduardo Lagos Herrera","Periodo_2",NA,NA,NA
+"627",173,"Eduardo Lagos Herrera","Periodo_3",NA,NA,NA
+"628",173,"Eduardo Lagos Herrera","Periodo_4",NA,NA,NA
+"629",173,"Eduardo Lagos Herrera","Periodo_5",NA,NA,NA
+"630",173,"Eduardo Lagos Herrera","Periodo_6",NA,NA,NA
+"631",177,"Felipe Letelier Norambuena","Periodo_1",-0.598596787448959,-0.63584223966038,-0.673087691871801
+"632",177,"Felipe Letelier Norambuena","Periodo_2",NA,NA,NA
+"633",177,"Felipe Letelier Norambuena","Periodo_3",NA,NA,NA
+"634",177,"Felipe Letelier Norambuena","Periodo_4",-0.846382538467728,-0.872833204302252,-0.899283870136776
+"635",177,"Felipe Letelier Norambuena","Periodo_5",NA,NA,NA
+"636",177,"Felipe Letelier Norambuena","Periodo_6",NA,NA,NA
+"637",868,"Nicolás Monckeberg Díaz","Periodo_1",0.170692826401448,0.133447374190027,0.0962019219786051
+"638",868,"Nicolás Monckeberg Díaz","Periodo_2",0.158803324915435,0.118675686789892,0.0785480486643483
+"639",868,"Nicolás Monckeberg Díaz","Periodo_3",0.862511351648754,0.892277760712283,0.922044169775812
+"640",868,"Nicolás Monckeberg Díaz","Periodo_4",0.127904301598214,0.10145363576369,0.0750029699291657
+"641",868,"Nicolás Monckeberg Díaz","Periodo_5",NA,NA,NA
+"642",868,"Nicolás Monckeberg Díaz","Periodo_6",NA,NA,NA
+"643",890,"Fulvio Rossi Ciocca","Periodo_1",-0.795534852603241,-0.832780304815844,-0.870025757028447
+"644",890,"Fulvio Rossi Ciocca","Periodo_2",-0.554723882945271,-0.594859931632499,-0.634995980319727
+"645",890,"Fulvio Rossi Ciocca","Periodo_3",NA,NA,NA
+"646",890,"Fulvio Rossi Ciocca","Periodo_4",NA,NA,NA
+"647",890,"Fulvio Rossi Ciocca","Periodo_5",NA,NA,NA
+"648",890,"Fulvio Rossi Ciocca","Periodo_6",NA,NA,NA
+"649",150,"Camilo Escalona Medina","Periodo_1",-0.896470744215705,-0.933722920201493,-0.970975096187281
+"650",150,"Camilo Escalona Medina","Periodo_2",NA,NA,NA
+"651",150,"Camilo Escalona Medina","Periodo_3",NA,NA,NA
+"652",150,"Camilo Escalona Medina","Periodo_4",NA,NA,NA
+"653",150,"Camilo Escalona Medina","Periodo_5",NA,NA,NA
+"654",150,"Camilo Escalona Medina","Periodo_6",NA,NA,NA
+"655",179,"Pablo Longueira Montes","Periodo_1",0.115482856603487,0.0782306806176989,0.0409785046319106
+"656",179,"Pablo Longueira Montes","Periodo_2",NA,NA,NA
+"657",179,"Pablo Longueira Montes","Periodo_3",NA,NA,NA
+"658",179,"Pablo Longueira Montes","Periodo_4",NA,NA,NA
+"659",179,"Pablo Longueira Montes","Periodo_5",NA,NA,NA
+"660",179,"Pablo Longueira Montes","Periodo_6",NA,NA,NA
+"661",902,"Jorge Tarud Daccarett","Periodo_1",-0.669338399605985,-0.706583851817407,-0.743829304028828
+"662",902,"Jorge Tarud Daccarett","Periodo_2",-0.736307738185406,-0.77643537631095,-0.816563014436493
+"663",902,"Jorge Tarud Daccarett","Periodo_3",-0.18553157584541,-0.155765166781881,-0.125998757718353
+"664",902,"Jorge Tarud Daccarett","Periodo_4",-0.740146996708752,-0.766597662543276,-0.7930483283778
+"665",902,"Jorge Tarud Daccarett","Periodo_5",NA,NA,NA
+"666",902,"Jorge Tarud Daccarett","Periodo_6",NA,NA,NA
+"667",849,"Patricio Hales Dib","Periodo_1",-0.602647991187397,-0.639893443398818,-0.67713889561024
+"668",849,"Patricio Hales Dib","Periodo_2",-0.481283337706151,-0.521410975832141,-0.561538613958132
+"669",849,"Patricio Hales Dib","Periodo_3",-0.220127176044908,-0.190357334302192,-0.160587492559476
+"670",849,"Patricio Hales Dib","Periodo_4",NA,NA,NA
+"671",849,"Patricio Hales Dib","Periodo_5",NA,NA,NA
+"672",849,"Patricio Hales Dib","Periodo_6",NA,NA,NA
+"673",166,"Carmen Ibáñez Soto","Periodo_1",-0.0512910304686266,-0.0885432064544149,-0.125795382440203
+"674",166,"Carmen Ibáñez Soto","Periodo_2",NA,NA,NA
+"675",166,"Carmen Ibáñez Soto","Periodo_3",NA,NA,NA
+"676",166,"Carmen Ibáñez Soto","Periodo_4",NA,NA,NA
+"677",166,"Carmen Ibáñez Soto","Periodo_5",NA,NA,NA
+"678",166,"Carmen Ibáñez Soto","Periodo_6",NA,NA,NA
+"679",865,"Patricio Melero Abaroa","Periodo_1",0.207351224314313,0.170105772102891,0.13286031989147
+"680",865,"Patricio Melero Abaroa","Periodo_2",0.476930809129313,0.436803171003769,0.396675532878226
+"681",865,"Patricio Melero Abaroa","Periodo_3",1.31256788701321,1.34233429607662,1.37210070514004
+"682",865,"Patricio Melero Abaroa","Periodo_4",0.131964619593609,0.105516361498482,0.0790681034033551
+"683",865,"Patricio Melero Abaroa","Periodo_5",0.943498867710453,0.973075757014972,1.00265264631949
+"684",865,"Patricio Melero Abaroa","Periodo_6",NA,NA,NA
+"685",866,"Fernando Meza Moncada","Periodo_1",-0.54269626288068,-0.579941715092102,-0.617187167303523
+"686",866,"Fernando Meza Moncada","Periodo_2",-0.677829651014842,-0.717957289140386,-0.758084927265929
+"687",866,"Fernando Meza Moncada","Periodo_3",-0.0263012085301302,0.00346520053328468,0.0332316095966996
+"688",866,"Fernando Meza Moncada","Periodo_4",-0.591938621533119,-0.618386879628246,-0.644835137723373
+"689",866,"Fernando Meza Moncada","Periodo_5",0.186109302892124,0.215686192196643,0.245263081501161
+"690",866,"Fernando Meza Moncada","Periodo_6",NA,NA,NA
+"691",205,"Aníbal Pérez Lobos","Periodo_1",-0.684259985268541,-0.721512161254329,-0.758764337240117
+"692",205,"Aníbal Pérez Lobos","Periodo_2",NA,NA,NA
+"693",205,"Aníbal Pérez Lobos","Periodo_3",NA,NA,NA
+"694",205,"Aníbal Pérez Lobos","Periodo_4",NA,NA,NA
+"695",205,"Aníbal Pérez Lobos","Periodo_5",NA,NA,NA
+"696",205,"Aníbal Pérez Lobos","Periodo_6",NA,NA,NA
+"697",843,"René Manuel García García","Periodo_1",0.101692362019306,0.0644469098078842,0.0272014575964628
+"698",843,"René Manuel García García","Periodo_2",0.120066142730787,0.0799385046052433,0.0398108664796999
+"699",843,"René Manuel García García","Periodo_3",0.642466107509439,0.672232516572853,0.701998925636268
+"700",843,"René Manuel García García","Periodo_4",0.00163184168493863,-0.0248164164101883,-0.0512646745053153
+"701",843,"René Manuel García García","Periodo_5",0.992397876903795,1.02197476620831,1.05155165551283
+"702",843,"René Manuel García García","Periodo_6",NA,NA,NA
+"703",872,"Jaime Mulet Martínez","Periodo_1",-0.398557015169682,-0.435802467381104,-0.473047919592525
+"704",872,"Jaime Mulet Martínez","Periodo_2",-0.384099374225272,-0.424227012350815,-0.464354650476359
+"705",872,"Jaime Mulet Martínez","Periodo_3",NA,NA,NA
+"706",872,"Jaime Mulet Martínez","Periodo_4",NA,NA,NA
+"707",872,"Jaime Mulet Martínez","Periodo_5",-0.337594786182011,-0.308021263157266,-0.278447740132521
+"708",872,"Jaime Mulet Martínez","Periodo_6",-0.445093700026376,-0.473462826892645,-0.501831953758914
+"709",211,"Víctor Manuel Rebolledo González","Periodo_1",-0.0654922977549611,-0.102744473740749,-0.139996649726538
+"710",211,"Víctor Manuel Rebolledo González","Periodo_2",NA,NA,NA
+"711",211,"Víctor Manuel Rebolledo González","Periodo_3",NA,NA,NA
+"712",211,"Víctor Manuel Rebolledo González","Periodo_4",NA,NA,NA
+"713",211,"Víctor Manuel Rebolledo González","Periodo_5",NA,NA,NA
+"714",211,"Víctor Manuel Rebolledo González","Periodo_6",NA,NA,NA
+"715",170,"Jaime Jiménez Villavicencio","Periodo_1",-0.0914831435132115,-0.128735319499,-0.165987495484788
+"716",170,"Jaime Jiménez Villavicencio","Periodo_2",NA,NA,NA
+"717",170,"Jaime Jiménez Villavicencio","Periodo_3",NA,NA,NA
+"718",170,"Jaime Jiménez Villavicencio","Periodo_4",NA,NA,NA
+"719",170,"Jaime Jiménez Villavicencio","Periodo_5",NA,NA,NA
+"720",170,"Jaime Jiménez Villavicencio","Periodo_6",NA,NA,NA
+"721",242,"Néstor Jofré Núñez","Periodo_1",-0.0582506820865422,-0.0955028580723305,-0.132755034058119
+"722",242,"Néstor Jofré Núñez","Periodo_2",NA,NA,NA
+"723",242,"Néstor Jofré Núñez","Periodo_3",NA,NA,NA
+"724",242,"Néstor Jofré Núñez","Periodo_4",NA,NA,NA
+"725",242,"Néstor Jofré Núñez","Periodo_5",NA,NA,NA
+"726",242,"Néstor Jofré Núñez","Periodo_6",NA,NA,NA
+"727",801,"René Aedo Ormeño","Periodo_1",NA,NA,NA
+"728",801,"René Aedo Ormeño","Periodo_2",0.135292732050477,0.0951524781677048,0.0550122242849325
+"729",801,"René Aedo Ormeño","Periodo_3",NA,NA,NA
+"730",801,"René Aedo Ormeño","Periodo_4",NA,NA,NA
+"731",801,"René Aedo Ormeño","Periodo_5",NA,NA,NA
+"732",801,"René Aedo Ormeño","Periodo_6",NA,NA,NA
+"733",824,"Alfonso De Urresti Longton","Periodo_1",NA,NA,NA
+"734",824,"Alfonso De Urresti Longton","Periodo_2",-0.941052370652037,-0.981184211330237,-1.02131605200844
+"735",824,"Alfonso De Urresti Longton","Periodo_3",-0.580276990675502,-0.550507148932476,-0.52073730718945
+"736",824,"Alfonso De Urresti Longton","Periodo_4",NA,NA,NA
+"737",824,"Alfonso De Urresti Longton","Periodo_5",NA,NA,NA
+"738",824,"Alfonso De Urresti Longton","Periodo_6",NA,NA,NA
+"739",852,"Jorge Insunza Gregorio de las Heras","Periodo_1",NA,NA,NA
+"740",852,"Jorge Insunza Gregorio de las Heras","Periodo_2",-1.06020188365671,-1.10033372433447,-1.14046556501222
+"741",852,"Jorge Insunza Gregorio de las Heras","Periodo_3",NA,NA,NA
+"742",852,"Jorge Insunza Gregorio de las Heras","Periodo_4",-0.21545474611753,-0.241905411952038,-0.268356077786546
+"743",852,"Jorge Insunza Gregorio de las Heras","Periodo_5",NA,NA,NA
+"744",852,"Jorge Insunza Gregorio de las Heras","Periodo_6",NA,NA,NA
+"745",867,"Cristián Monckeberg Bruner","Periodo_1",NA,NA,NA
+"746",867,"Cristián Monckeberg Bruner","Periodo_2",0.165063401793002,0.12493156111525,0.0847997204374979
+"747",867,"Cristián Monckeberg Bruner","Periodo_3",0.903742883488278,0.933509292552117,0.963275701615956
+"748",867,"Cristián Monckeberg Bruner","Periodo_4",0.110926943359571,0.0844762775250629,0.058025611690555
+"749",867,"Cristián Monckeberg Bruner","Periodo_5",NA,NA,NA
+"750",867,"Cristián Monckeberg Bruner","Periodo_6",NA,NA,NA
+"751",891,"Karla Rubilar Barahona","Periodo_1",NA,NA,NA
+"752",891,"Karla Rubilar Barahona","Periodo_2",0.129689062665043,0.0895572219872912,0.0494253813095391
+"753",891,"Karla Rubilar Barahona","Periodo_3",0.439849520917056,0.469615929980895,0.499382339044734
+"754",891,"Karla Rubilar Barahona","Periodo_4",-0.168020252555187,-0.194470918389695,-0.220921584224203
+"755",891,"Karla Rubilar Barahona","Periodo_5",NA,NA,NA
+"756",891,"Karla Rubilar Barahona","Periodo_6",NA,NA,NA
+"757",909,"Ximena Valcarce Becerra","Periodo_1",NA,NA,NA
+"758",909,"Ximena Valcarce Becerra","Periodo_2",0.123982133772619,0.0838418798898462,0.0437016260070739
+"759",909,"Ximena Valcarce Becerra","Periodo_3",NA,NA,NA
+"760",909,"Ximena Valcarce Becerra","Periodo_4",NA,NA,NA
+"761",909,"Ximena Valcarce Becerra","Periodo_5",NA,NA,NA
+"762",909,"Ximena Valcarce Becerra","Periodo_6",NA,NA,NA
+"763",803,"René Alinco Bustos","Periodo_1",NA,NA,NA
+"764",803,"René Alinco Bustos","Periodo_2",-0.590534411359475,-0.630666252037227,-0.670798092714979
+"765",803,"René Alinco Bustos","Periodo_3",-0.226817023199348,-0.197050614135623,-0.167284205071898
+"766",803,"René Alinco Bustos","Periodo_4",NA,NA,NA
+"767",803,"René Alinco Bustos","Periodo_5",-0.0909731367065403,-0.0613996136817951,-0.0318260906570499
+"768",803,"René Alinco Bustos","Periodo_6",-0.532897763712932,-0.561266890579201,-0.58963601744547
+"769",820,"Francisco Chahuán Chahuán","Periodo_1",NA,NA,NA
+"770",820,"Francisco Chahuán Chahuán","Periodo_2",0.173577954360377,0.133437700477605,0.0932974465948325
+"771",820,"Francisco Chahuán Chahuán","Periodo_3",NA,NA,NA
+"772",820,"Francisco Chahuán Chahuán","Periodo_4",NA,NA,NA
+"773",820,"Francisco Chahuán Chahuán","Periodo_5",NA,NA,NA
+"774",820,"Francisco Chahuán Chahuán","Periodo_6",NA,NA,NA
+"775",829,"Gonzalo Duarte Leiva","Periodo_1",NA,NA,NA
+"776",829,"Gonzalo Duarte Leiva","Periodo_2",-0.905054075546383,-0.945194329429155,-0.985334583311928
+"777",829,"Gonzalo Duarte Leiva","Periodo_3",NA,NA,NA
+"778",829,"Gonzalo Duarte Leiva","Periodo_4",NA,NA,NA
+"779",829,"Gonzalo Duarte Leiva","Periodo_5",NA,NA,NA
+"780",829,"Gonzalo Duarte Leiva","Periodo_6",NA,NA,NA
+"781",835,"Alvaro Escobar Rufatt","Periodo_1",NA,NA,NA
+"782",835,"Alvaro Escobar Rufatt","Periodo_2",-0.41707911809455,-0.457219371977322,-0.497359625860094
+"783",835,"Alvaro Escobar Rufatt","Periodo_3",NA,NA,NA
+"784",835,"Alvaro Escobar Rufatt","Periodo_4",NA,NA,NA
+"785",835,"Alvaro Escobar Rufatt","Periodo_5",NA,NA,NA
+"786",835,"Alvaro Escobar Rufatt","Periodo_6",NA,NA,NA
+"787",839,"Ramón Farías Ponce","Periodo_1",NA,NA,NA
+"788",839,"Ramón Farías Ponce","Periodo_2",-0.963091180837242,-1.00322302151499,-1.04335486219275
+"789",839,"Ramón Farías Ponce","Periodo_3",-0.327202505362336,-0.297436096298497,-0.267669687234658
+"790",839,"Ramón Farías Ponce","Periodo_4",-0.740768429444831,-0.767219095279339,-0.793669761113847
+"791",839,"Ramón Farías Ponce","Periodo_5",NA,NA,NA
+"792",839,"Ramón Farías Ponce","Periodo_6",NA,NA,NA
+"793",845,"Guido Girardi Briere","Periodo_1",NA,NA,NA
+"794",845,"Guido Girardi Briere","Periodo_2",-0.637446943410967,-0.677587197293739,-0.717727451176512
+"795",845,"Guido Girardi Briere","Periodo_3",NA,NA,NA
+"796",845,"Guido Girardi Briere","Periodo_4",NA,NA,NA
+"797",845,"Guido Girardi Briere","Periodo_5",NA,NA,NA
+"798",845,"Guido Girardi Briere","Periodo_6",NA,NA,NA
+"799",856,"Tucapel Jiménez Fuentes","Periodo_1",NA,NA,NA
+"800",856,"Tucapel Jiménez Fuentes","Periodo_2",-1.05259872970524,-1.09273057038299,-1.13286241106074
+"801",856,"Tucapel Jiménez Fuentes","Periodo_3",-0.369950678178017,-0.340184269114291,-0.310417860050566
+"802",856,"Tucapel Jiménez Fuentes","Periodo_4",-0.864979495879403,-0.891427753974514,-0.917876012069625
+"803",856,"Tucapel Jiménez Fuentes","Periodo_5",-0.415953316799633,-0.386376427495114,-0.356799538190595
+"804",856,"Tucapel Jiménez Fuentes","Periodo_6",NA,NA,NA
+"805",861,"Juan Lobos Krause","Periodo_1",NA,NA,NA
+"806",861,"Juan Lobos Krause","Periodo_2",0.356355551754086,0.316223711075886,0.276091870397686
+"807",861,"Juan Lobos Krause","Periodo_3",0.172564095924502,0.202333937667529,0.232103779410555
+"808",861,"Juan Lobos Krause","Periodo_4",NA,NA,NA
+"809",861,"Juan Lobos Krause","Periodo_5",NA,NA,NA
+"810",861,"Juan Lobos Krause","Periodo_6",NA,NA,NA
+"811",874,"Claudia Nogueira Fernández","Periodo_1",NA,NA,NA
+"812",874,"Claudia Nogueira Fernández","Periodo_2",0.351440094269255,0.311308253591503,0.271176412913751
+"813",874,"Claudia Nogueira Fernández","Periodo_3",1.0053584299645,1.03512483902834,1.06489124809217
+"814",874,"Claudia Nogueira Fernández","Periodo_4",0.108003757807964,0.0815530919734559,0.055102426138948
+"815",874,"Claudia Nogueira Fernández","Periodo_5",NA,NA,NA
+"816",874,"Claudia Nogueira Fernández","Periodo_6",NA,NA,NA
+"817",896,"Roberto Sepúlveda Hermosilla","Periodo_1",NA,NA,NA
+"818",896,"Roberto Sepúlveda Hermosilla","Periodo_2",0.216696634248894,0.176556380366122,0.136416126483349
+"819",896,"Roberto Sepúlveda Hermosilla","Periodo_3",NA,NA,NA
+"820",896,"Roberto Sepúlveda Hermosilla","Periodo_4",NA,NA,NA
+"821",896,"Roberto Sepúlveda Hermosilla","Periodo_5",NA,NA,NA
+"822",896,"Roberto Sepúlveda Hermosilla","Periodo_6",NA,NA,NA
+"823",901,"Raúl Sunico Galdames","Periodo_1",NA,NA,NA
+"824",901,"Raúl Sunico Galdames","Periodo_2",-1.05194001232555,-1.09208026620833,-1.1322205200911
+"825",901,"Raúl Sunico Galdames","Periodo_3",NA,NA,NA
+"826",901,"Raúl Sunico Galdames","Periodo_4",NA,NA,NA
+"827",901,"Raúl Sunico Galdames","Periodo_5",NA,NA,NA
+"828",901,"Raúl Sunico Galdames","Periodo_6",NA,NA,NA
+"829",911,"Patricio Vallespín López","Periodo_1",NA,NA,NA
+"830",911,"Patricio Vallespín López","Periodo_2",-0.779433906637707,-0.819565747315459,-0.859697587993211
+"831",911,"Patricio Vallespín López","Periodo_3",-0.122612480131063,-0.0928460710672242,-0.0630796620033853
+"832",911,"Patricio Vallespín López","Periodo_4",-0.769782885200874,-0.796233551035382,-0.82268421686989
+"833",911,"Patricio Vallespín López","Periodo_5",NA,NA,NA
+"834",911,"Patricio Vallespín López","Periodo_6",NA,NA,NA
+"835",919,"Felipe Ward Edwards","Periodo_1",NA,NA,NA
+"836",919,"Felipe Ward Edwards","Periodo_2",0.470970205309731,0.430838364631979,0.390706523954227
+"837",919,"Felipe Ward Edwards","Periodo_3",1.49842884439259,1.52819525345643,1.55796166252026
+"838",919,"Felipe Ward Edwards","Periodo_4",0.110445483571207,0.0839948177366991,0.0575441519021912
+"839",919,"Felipe Ward Edwards","Periodo_5",NA,NA,NA
+"840",919,"Felipe Ward Edwards","Periodo_6",NA,NA,NA
+"841",815,"Sergio Bobadilla Muñoz","Periodo_1",NA,NA,NA
+"842",815,"Sergio Bobadilla Muñoz","Periodo_2",0.421157188304571,0.381025347626819,0.340893506949067
+"843",815,"Sergio Bobadilla Muñoz","Periodo_3",0.785176766815211,0.814943175878936,0.844709584942661
+"844",815,"Sergio Bobadilla Muñoz","Periodo_4",NA,NA,NA
+"845",815,"Sergio Bobadilla Muñoz","Periodo_5",1.02282537696828,1.05239889999302,1.08197242301777
+"846",815,"Sergio Bobadilla Muñoz","Periodo_6",0.674909987019171,0.646540860152902,0.618171733286633
+"847",827,"Marcelo Díaz Díaz","Periodo_1",NA,NA,NA
+"848",827,"Marcelo Díaz Díaz","Periodo_2",-0.982735378888561,-1.02286721956631,-1.06299906024406
+"849",827,"Marcelo Díaz Díaz","Periodo_3",-0.577309607957854,-0.547543198894129,-0.517776789830403
+"850",827,"Marcelo Díaz Díaz","Periodo_4",NA,NA,NA
+"851",827,"Marcelo Díaz Díaz","Periodo_5",-0.810936363620855,-0.781359474316336,-0.751782585011817
+"852",827,"Marcelo Díaz Díaz","Periodo_6",NA,NA,NA
+"853",831,"Edmundo Eluchans Urenda","Periodo_1",NA,NA,NA
+"854",831,"Edmundo Eluchans Urenda","Periodo_2",0.327513645915139,0.287381805236939,0.24724996455874
+"855",831,"Edmundo Eluchans Urenda","Periodo_3",1.13993003155283,1.16969987329586,1.19946971503889
+"856",831,"Edmundo Eluchans Urenda","Periodo_4",NA,NA,NA
+"857",831,"Edmundo Eluchans Urenda","Periodo_5",NA,NA,NA
+"858",831,"Edmundo Eluchans Urenda","Periodo_6",NA,NA,NA
+"859",833,"Marco Enríquez-Ominami Gumucio","Periodo_1",NA,NA,NA
+"860",833,"Marco Enríquez-Ominami Gumucio","Periodo_2",-0.684797433248714,-0.724937687131486,-0.765077941014258
+"861",833,"Marco Enríquez-Ominami Gumucio","Periodo_3",NA,NA,NA
+"862",833,"Marco Enríquez-Ominami Gumucio","Periodo_4",NA,NA,NA
+"863",833,"Marco Enríquez-Ominami Gumucio","Periodo_5",NA,NA,NA
+"864",833,"Marco Enríquez-Ominami Gumucio","Periodo_6",NA,NA,NA
+"865",836,"Marcos Espinosa Monardes","Periodo_1",NA,NA,NA
+"866",836,"Marcos Espinosa Monardes","Periodo_2",-0.885921332770484,-0.926053173448236,-0.966185014125988
+"867",836,"Marcos Espinosa Monardes","Periodo_3",-0.612661269849835,-0.582894860785996,-0.553128451722158
+"868",836,"Marcos Espinosa Monardes","Periodo_4",-1.14499408929479,-1.1714447551293,-1.19789542096381
+"869",836,"Marcos Espinosa Monardes","Periodo_5",NA,NA,NA
+"870",836,"Marcos Espinosa Monardes","Periodo_6",NA,NA,NA
+"871",841,"Renán Fuentealba Vildósola","Periodo_1",NA,NA,NA
+"872",841,"Renán Fuentealba Vildósola","Periodo_2",-0.503502970142303,-0.543643224025075,-0.583783477907847
+"873",841,"Renán Fuentealba Vildósola","Periodo_3",NA,NA,NA
+"874",841,"Renán Fuentealba Vildósola","Periodo_4",NA,NA,NA
+"875",841,"Renán Fuentealba Vildósola","Periodo_5",NA,NA,NA
+"876",841,"Renán Fuentealba Vildósola","Periodo_6",NA,NA,NA
+"877",847,"Carolina Goic Boroevic","Periodo_1",NA,NA,NA
+"878",847,"Carolina Goic Boroevic","Periodo_2",-0.474338546128487,-0.514470386806686,-0.554602227484886
+"879",847,"Carolina Goic Boroevic","Periodo_3",-0.125824248458207,-0.0960544067151812,-0.0662845649721548
+"880",847,"Carolina Goic Boroevic","Periodo_4",NA,NA,NA
+"881",847,"Carolina Goic Boroevic","Periodo_5",NA,NA,NA
+"882",847,"Carolina Goic Boroevic","Periodo_6",NA,NA,NA
+"883",858,"Juan Carlos Latorre Carmona","Periodo_1",NA,NA,NA
+"884",858,"Juan Carlos Latorre Carmona","Periodo_2",-0.488289660508962,-0.528421501187162,-0.568553341865362
+"885",858,"Juan Carlos Latorre Carmona","Periodo_3",-0.230257388172447,-0.20048754642942,-0.170717704686394
+"886",858,"Juan Carlos Latorre Carmona","Periodo_4",NA,NA,NA
+"887",858,"Juan Carlos Latorre Carmona","Periodo_5",NA,NA,NA
+"888",858,"Juan Carlos Latorre Carmona","Periodo_6",NA,NA,NA
+"889",860,"Roberto León Ramírez","Periodo_1",NA,NA,NA
+"890",860,"Roberto León Ramírez","Periodo_2",-0.363436903575204,-0.403568744252956,-0.443700584930708
+"891",860,"Roberto León Ramírez","Periodo_3",-0.29909016217946,-0.269323753115621,-0.239557344051782
+"892",860,"Roberto León Ramírez","Periodo_4",-0.624054617972429,-0.650505283806937,-0.676955949641444
+"893",860,"Roberto León Ramírez","Periodo_5",NA,NA,NA
+"894",860,"Roberto León Ramírez","Periodo_6",NA,NA,NA
+"895",869,"Manuel Monsalve Benavides","Periodo_1",NA,NA,NA
+"896",869,"Manuel Monsalve Benavides","Periodo_2",-0.805258537041971,-0.845390377719723,-0.885522218397475
+"897",869,"Manuel Monsalve Benavides","Periodo_3",-0.521515379951338,-0.491748970887613,-0.461982561823888
+"898",869,"Manuel Monsalve Benavides","Periodo_4",-0.686136472698992,-0.712584730794103,-0.739032988889214
+"899",869,"Manuel Monsalve Benavides","Periodo_5",-0.569708116426073,-0.540131227121554,-0.510554337817035
+"900",869,"Manuel Monsalve Benavides","Periodo_6",NA,NA,NA
+"901",876,"Marco Antonio Núñez Lozano","Periodo_1",NA,NA,NA
+"902",876,"Marco Antonio Núñez Lozano","Periodo_2",-0.816842235407645,-0.856974076085397,-0.897105916763149
+"903",876,"Marco Antonio Núñez Lozano","Periodo_3",-0.224106103418196,-0.194339694354357,-0.164573285290518
+"904",876,"Marco Antonio Núñez Lozano","Periodo_4",-0.701800978138288,-0.728251643972796,-0.754702309807304
+"905",876,"Marco Antonio Núñez Lozano","Periodo_5",NA,NA,NA
+"906",876,"Marco Antonio Núñez Lozano","Periodo_6",NA,NA,NA
+"907",893,"Jorge Sabag Villalobos","Periodo_1",NA,NA,NA
+"908",893,"Jorge Sabag Villalobos","Periodo_2",-0.586488484372077,-0.626620325049829,-0.666752165727581
+"909",893,"Jorge Sabag Villalobos","Periodo_3",0.0820535538522638,0.111819962915989,0.141586371979714
+"910",893,"Jorge Sabag Villalobos","Periodo_4",-0.741199908791473,-0.767648166886584,-0.794096424981694
+"911",893,"Jorge Sabag Villalobos","Periodo_5",0.330361319319487,0.359938208624006,0.389515097928525
+"912",893,"Jorge Sabag Villalobos","Periodo_6",NA,NA,NA
+"913",898,"Gabriel Silber Romo","Periodo_1",NA,NA,NA
+"914",898,"Gabriel Silber Romo","Periodo_2",-0.796090711956626,-0.836222552634378,-0.87635439331213
+"915",898,"Gabriel Silber Romo","Periodo_3",-0.294739609767178,-0.264973200703453,-0.235206791639728
+"916",898,"Gabriel Silber Romo","Periodo_4",-0.897692955909119,-0.92414121400423,-0.950589472099341
+"917",898,"Gabriel Silber Romo","Periodo_5",-0.0523016901103486,-0.0227248008058298,0.00685208849868894
+"918",898,"Gabriel Silber Romo","Periodo_6",NA,NA,NA
+"919",900,"Alejandro Sule Fernández","Periodo_1",NA,NA,NA
+"920",900,"Alejandro Sule Fernández","Periodo_2",-0.773387256359085,-0.813527510241857,-0.853667764124629
+"921",900,"Alejandro Sule Fernández","Periodo_3",NA,NA,NA
+"922",900,"Alejandro Sule Fernández","Periodo_4",NA,NA,NA
+"923",900,"Alejandro Sule Fernández","Periodo_5",NA,NA,NA
+"924",900,"Alejandro Sule Fernández","Periodo_6",NA,NA,NA
+"925",905,"Marisol Turres Figueroa","Periodo_1",NA,NA,NA
+"926",905,"Marisol Turres Figueroa","Periodo_2",0.358582087913263,0.318450247235511,0.278318406557759
+"927",905,"Marisol Turres Figueroa","Periodo_3",0.590866529482376,0.620632938546215,0.650399347610054
+"928",905,"Marisol Turres Figueroa","Periodo_4",0.0579477918090418,0.0314971259745338,0.00504646014002584
+"929",905,"Marisol Turres Figueroa","Periodo_5",NA,NA,NA
+"930",905,"Marisol Turres Figueroa","Periodo_6",NA,NA,NA
+"931",913,"Mario Venegas Cárdenas","Periodo_1",NA,NA,NA
+"932",913,"Mario Venegas Cárdenas","Periodo_2",-0.770277779286921,-0.810409619964673,-0.850541460642425
+"933",913,"Mario Venegas Cárdenas","Periodo_3",-0.255717444095715,-0.22595103503199,-0.196184625968265
+"934",913,"Mario Venegas Cárdenas","Periodo_4",-0.851626997832549,-0.87807525592766,-0.904523514022771
+"935",913,"Mario Venegas Cárdenas","Periodo_5",-0.0415618153894009,-0.0119849260848821,0.0175919632196367
+"936",913,"Mario Venegas Cárdenas","Periodo_6",NA,NA,NA
+"937",915,"Germán Verdugo Soto","Periodo_1",NA,NA,NA
+"938",915,"Germán Verdugo Soto","Periodo_2",0.126546858061754,0.0864150173840015,0.0462831767062493
+"939",915,"Germán Verdugo Soto","Periodo_3",1.1178306819698,1.14759709103364,1.17736350009748
+"940",915,"Germán Verdugo Soto","Periodo_4",-0.053675078551726,-0.080125744386234,-0.106576410220742
+"941",915,"Germán Verdugo Soto","Periodo_5",NA,NA,NA
+"942",915,"Germán Verdugo Soto","Periodo_6",NA,NA,NA
+"943",883,"Denise Pascal Allende","Periodo_1",NA,NA,NA
+"944",883,"Denise Pascal Allende","Periodo_2",-1.04987615402721,-1.09000799470496,-1.13013983538271
+"945",883,"Denise Pascal Allende","Periodo_3",-0.360775604820492,-0.331009195756653,-0.301242786692814
+"946",883,"Denise Pascal Allende","Periodo_4",-0.799713600346451,-0.826164266180959,-0.852614932015466
+"947",883,"Denise Pascal Allende","Periodo_5",NA,NA,NA
+"948",883,"Denise Pascal Allende","Periodo_6",NA,NA,NA
+"949",846,"Joaquín Godoy Ibáñez","Periodo_1",NA,NA,NA
+"950",846,"Joaquín Godoy Ibáñez","Periodo_2",0.213064214346446,0.172932373668694,0.132800532990942
+"951",846,"Joaquín Godoy Ibáñez","Periodo_3",0.651563802444421,0.68133021150826,0.711096620572098
+"952",846,"Joaquín Godoy Ibáñez","Periodo_4",-0.112974640064608,-0.139425305899116,-0.165875971733624
+"953",846,"Joaquín Godoy Ibáñez","Periodo_5",NA,NA,NA
+"954",846,"Joaquín Godoy Ibáñez","Periodo_6",NA,NA,NA
+"955",880,"Clemira Pacheco Rivas","Periodo_1",NA,NA,NA
+"956",880,"Clemira Pacheco Rivas","Periodo_2",-0.832278966459138,-0.87241080713689,-0.912542647814642
+"957",880,"Clemira Pacheco Rivas","Periodo_3",-0.378508585718541,-0.348742176654702,-0.318975767590863
+"958",880,"Clemira Pacheco Rivas","Periodo_4",-0.630637430671418,-0.657088096505926,-0.683538762340434
+"959",880,"Clemira Pacheco Rivas","Periodo_5",NA,NA,NA
+"960",880,"Clemira Pacheco Rivas","Periodo_6",NA,NA,NA
+"961",838,"Enrique Estay Peñaloza","Periodo_1",NA,NA,NA
+"962",838,"Enrique Estay Peñaloza","Periodo_2",0.161544973819017,0.121413133140817,0.0812812924626176
+"963",838,"Enrique Estay Peñaloza","Periodo_3",0.619645288437798,0.649415130180825,0.679184971923851
+"964",838,"Enrique Estay Peñaloza","Periodo_4",NA,NA,NA
+"965",838,"Enrique Estay Peñaloza","Periodo_5",NA,NA,NA
+"966",838,"Enrique Estay Peñaloza","Periodo_6",NA,NA,NA
+"967",851,"Amelia Herrera Silva","Periodo_1",NA,NA,NA
+"968",851,"Amelia Herrera Silva","Periodo_2",-0.0139366007690822,-0.0540768546518545,-0.0942171085346268
+"969",851,"Amelia Herrera Silva","Periodo_3",NA,NA,NA
+"970",851,"Amelia Herrera Silva","Periodo_4",NA,NA,NA
+"971",851,"Amelia Herrera Silva","Periodo_5",NA,NA,NA
+"972",851,"Amelia Herrera Silva","Periodo_6",NA,NA,NA
+"973",809,"Gonzalo Arenas Hödar","Periodo_1",NA,NA,NA
+"974",809,"Gonzalo Arenas Hödar","Periodo_2",0.327153229413241,0.287021388735042,0.246889548056842
+"975",809,"Gonzalo Arenas Hödar","Periodo_3",0.937345209303847,0.967115051046874,0.9968848927899
+"976",809,"Gonzalo Arenas Hödar","Periodo_4",NA,NA,NA
+"977",809,"Gonzalo Arenas Hödar","Periodo_5",NA,NA,NA
+"978",809,"Gonzalo Arenas Hödar","Periodo_6",NA,NA,NA
+"979",853,"Marta Isasi Barbieri","Periodo_1",NA,NA,NA
+"980",853,"Marta Isasi Barbieri","Periodo_2",0.0943853737585973,0.0542535330803976,0.014121692402198
+"981",853,"Marta Isasi Barbieri","Periodo_3",0.175961750326999,0.205731592070025,0.235501433813051
+"982",853,"Marta Isasi Barbieri","Periodo_4",NA,NA,NA
+"983",853,"Marta Isasi Barbieri","Periodo_5",NA,NA,NA
+"984",853,"Marta Isasi Barbieri","Periodo_6",NA,NA,NA
+"985",920,"Marcelo Schilling Rodríguez","Periodo_1",NA,NA,NA
+"986",920,"Marcelo Schilling Rodríguez","Periodo_2",-0.22853439730634,-0.268666237984092,-0.308798078661844
+"987",920,"Marcelo Schilling Rodríguez","Periodo_3",-0.552014047595793,-0.522247638532068,-0.492481229468343
+"988",920,"Marcelo Schilling Rodríguez","Periodo_4",-1.20007830390041,-1.22652656199553,-1.25297482009064
+"989",920,"Marcelo Schilling Rodríguez","Periodo_5",-0.539320256458157,-0.509743367153638,-0.480166477849119
+"990",920,"Marcelo Schilling Rodríguez","Periodo_6",NA,NA,NA
+"991",922,"Felipe Harboe Bascuñán","Periodo_1",NA,NA,NA
+"992",922,"Felipe Harboe Bascuñán","Periodo_2",-0.123705660866366,-0.163837501544566,-0.203969342222765
+"993",922,"Felipe Harboe Bascuñán","Periodo_3",-0.259330655775203,-0.229560814032176,-0.19979097228915
+"994",922,"Felipe Harboe Bascuñán","Periodo_4",NA,NA,NA
+"995",922,"Felipe Harboe Bascuñán","Periodo_5",NA,NA,NA
+"996",922,"Felipe Harboe Bascuñán","Periodo_6",NA,NA,NA
+"997",931,"Juan Luis Castro González","Periodo_1",NA,NA,NA
+"998",931,"Juan Luis Castro González","Periodo_2",NA,NA,NA
+"999",931,"Juan Luis Castro González","Periodo_3",-0.325531470588894,-0.295763346460771,-0.265995222332648
+"1000",931,"Juan Luis Castro González","Periodo_4",-0.829111210400368,-0.855559468495553,-0.882007726590738
+"1001",931,"Juan Luis Castro González","Periodo_5",-0.217346524082854,-0.187769634778335,-0.158192745473817
+"1002",931,"Juan Luis Castro González","Periodo_6",NA,NA,NA
+"1003",932,"Eduardo Cerda García","Periodo_1",NA,NA,NA
+"1004",932,"Eduardo Cerda García","Periodo_2",NA,NA,NA
+"1005",932,"Eduardo Cerda García","Periodo_3",-0.150264401408356,-0.120492844007482,-0.090721286606609
+"1006",932,"Eduardo Cerda García","Periodo_4",NA,NA,NA
+"1007",932,"Eduardo Cerda García","Periodo_5",NA,NA,NA
+"1008",932,"Eduardo Cerda García","Periodo_6",NA,NA,NA
+"1009",933,"Aldo Cornejo González","Periodo_1",NA,NA,NA
+"1010",933,"Aldo Cornejo González","Periodo_2",NA,NA,NA
+"1011",933,"Aldo Cornejo González","Periodo_3",-0.261737333851443,-0.231969209723206,-0.202201085594969
+"1012",933,"Aldo Cornejo González","Periodo_4",-0.572697124444228,-0.59914779027881,-0.625598456113392
+"1013",933,"Aldo Cornejo González","Periodo_5",NA,NA,NA
+"1014",933,"Aldo Cornejo González","Periodo_6",NA,NA,NA
+"1015",935,"Rojo Edwards Silva","Periodo_1",NA,NA,NA
+"1016",935,"Rojo Edwards Silva","Periodo_2",NA,NA,NA
+"1017",935,"Rojo Edwards Silva","Periodo_3",0.658629150918224,0.688397275046461,0.718165399174698
+"1018",935,"Rojo Edwards Silva","Periodo_4",0.171356270283098,0.144905604448517,0.118454938613935
+"1019",935,"Rojo Edwards Silva","Periodo_5",NA,NA,NA
+"1020",935,"Rojo Edwards Silva","Periodo_6",NA,NA,NA
+"1021",936,"Cristina Girardi Lavín","Periodo_1",NA,NA,NA
+"1022",936,"Cristina Girardi Lavín","Periodo_2",NA,NA,NA
+"1023",936,"Cristina Girardi Lavín","Periodo_3",-0.571738476962043,-0.541970352833921,-0.512202228705798
+"1024",936,"Cristina Girardi Lavín","Periodo_4",-0.769663209183586,-0.796111467278771,-0.822559725373955
+"1025",936,"Cristina Girardi Lavín","Periodo_5",-0.367268173326573,-0.337691284022054,-0.308114394717535
+"1026",936,"Cristina Girardi Lavín","Periodo_6",NA,NA,NA
+"1027",938,"Romilio Gutiérrez Pino","Periodo_1",NA,NA,NA
+"1028",938,"Romilio Gutiérrez Pino","Periodo_2",NA,NA,NA
+"1029",938,"Romilio Gutiérrez Pino","Periodo_3",1.0809110073506,1.11067913147884,1.14044725560708
+"1030",938,"Romilio Gutiérrez Pino","Periodo_4",0.0202866084896421,-0.00616405734493974,-0.0326147231795215
+"1031",938,"Romilio Gutiérrez Pino","Periodo_5",NA,NA,NA
+"1032",938,"Romilio Gutiérrez Pino","Periodo_6",NA,NA,NA
+"1033",940,"María José Hoffmann Opazo","Periodo_1",NA,NA,NA
+"1034",940,"María José Hoffmann Opazo","Periodo_2",NA,NA,NA
+"1035",940,"María José Hoffmann Opazo","Periodo_3",0.889140422100238,0.91890854622836,0.948676670356483
+"1036",940,"María José Hoffmann Opazo","Periodo_4",0.0862422355679266,0.0597939774727419,0.0333457193775572
+"1037",940,"María José Hoffmann Opazo","Periodo_5",0.904775681783056,0.934352571087574,0.963929460392093
+"1038",940,"María José Hoffmann Opazo","Periodo_6",NA,NA,NA
+"1039",942,"Javier Macaya Danús","Periodo_1",NA,NA,NA
+"1040",942,"Javier Macaya Danús","Periodo_2",NA,NA,NA
+"1041",942,"Javier Macaya Danús","Periodo_3",0.765766245913649,0.795534370041771,0.825302494169894
+"1042",942,"Javier Macaya Danús","Periodo_4",0.138550469329412,0.112102211234227,0.0856539531390424
+"1043",942,"Javier Macaya Danús","Periodo_5",1.0318978514422,1.06147474074672,1.09105163005123
+"1044",942,"Javier Macaya Danús","Periodo_6",NA,NA,NA
+"1045",945,"Celso Morales Muñoz","Periodo_1",NA,NA,NA
+"1046",945,"Celso Morales Muñoz","Periodo_2",NA,NA,NA
+"1047",945,"Celso Morales Muñoz","Periodo_3",1.04189151710711,1.07165964123523,1.10142776536335
+"1048",945,"Celso Morales Muñoz","Periodo_4",0.122505650335528,0.0960573922403429,0.0696091341451582
+"1049",945,"Celso Morales Muñoz","Periodo_5",0.933302817837382,0.9628797071419,0.992456596446419
+"1050",945,"Celso Morales Muñoz","Periodo_6",NA,NA,NA
+"1051",949,"Marcela Sabat Fernández","Periodo_1",NA,NA,NA
+"1052",949,"Marcela Sabat Fernández","Periodo_2",NA,NA,NA
+"1053",949,"Marcela Sabat Fernández","Periodo_3",0.652383795116528,0.682151919244651,0.711920043372774
+"1054",949,"Marcela Sabat Fernández","Periodo_4",-0.0573035510155005,-0.0837518091106852,-0.11020006720587
+"1055",949,"Marcela Sabat Fernández","Periodo_5",0.350740248728567,0.380317138033085,0.409894027337604
+"1056",949,"Marcela Sabat Fernández","Periodo_6",NA,NA,NA
+"1057",951,"David Sandoval Plaza","Periodo_1",NA,NA,NA
+"1058",951,"David Sandoval Plaza","Periodo_2",NA,NA,NA
+"1059",951,"David Sandoval Plaza","Periodo_3",1.0881344048859,1.11790252901414,1.14767065314238
+"1060",951,"David Sandoval Plaza","Periodo_4",0.0814061159268762,0.0549554500922944,0.0285047842577126
+"1061",951,"David Sandoval Plaza","Periodo_5",NA,NA,NA
+"1062",951,"David Sandoval Plaza","Periodo_6",NA,NA,NA
+"1063",952,"Alejandro Santana Tirachini","Periodo_1",NA,NA,NA
+"1064",952,"Alejandro Santana Tirachini","Periodo_2",NA,NA,NA
+"1065",952,"Alejandro Santana Tirachini","Periodo_3",0.789659243175314,0.819427367303437,0.84919549143156
+"1066",952,"Alejandro Santana Tirachini","Periodo_4",0.0761857084370209,0.0497374503418361,0.0232891922466514
+"1067",952,"Alejandro Santana Tirachini","Periodo_5",1.01394370541248,1.043520594717,1.07309748402151
+"1068",952,"Alejandro Santana Tirachini","Periodo_6",NA,NA,NA
+"1069",953,"Frank Sauerbaum Muñoz","Periodo_1",NA,NA,NA
+"1070",953,"Frank Sauerbaum Muñoz","Periodo_2",NA,NA,NA
+"1071",953,"Frank Sauerbaum Muñoz","Periodo_3",0.853806682932818,0.883574807060941,0.913342931189064
+"1072",953,"Frank Sauerbaum Muñoz","Periodo_4",NA,NA,NA
+"1073",953,"Frank Sauerbaum Muñoz","Periodo_5",1.12864395443966,1.15821747746441,1.18779100048915
+"1074",953,"Frank Sauerbaum Muñoz","Periodo_6",0.629480344348681,0.601111217482412,0.572742090616143
+"1075",954,"Ernesto Silva Méndez","Periodo_1",NA,NA,NA
+"1076",954,"Ernesto Silva Méndez","Periodo_2",NA,NA,NA
+"1077",954,"Ernesto Silva Méndez","Periodo_3",1.34309039417079,1.37285851829902,1.40262664242726
+"1078",954,"Ernesto Silva Méndez","Periodo_4",0.06854459778407,0.0420939319494882,0.0156432661149064
+"1079",954,"Ernesto Silva Méndez","Periodo_5",NA,NA,NA
+"1080",954,"Ernesto Silva Méndez","Periodo_6",NA,NA,NA
+"1081",956,"Guillermo Teillier Del Valle","Periodo_1",NA,NA,NA
+"1082",956,"Guillermo Teillier Del Valle","Periodo_2",NA,NA,NA
+"1083",956,"Guillermo Teillier Del Valle","Periodo_3",-0.59488425948124,-0.565116135353117,-0.535348011224994
+"1084",956,"Guillermo Teillier Del Valle","Periodo_4",-1.25026558864679,-1.27671384674198,-1.30316210483716
+"1085",956,"Guillermo Teillier Del Valle","Periodo_5",-0.659312919047835,-0.629736029743317,-0.600159140438798
+"1086",956,"Guillermo Teillier Del Valle","Periodo_6",NA,NA,NA
+"1087",957,"Víctor Torres Jeldes","Periodo_1",NA,NA,NA
+"1088",957,"Víctor Torres Jeldes","Periodo_2",NA,NA,NA
+"1089",957,"Víctor Torres Jeldes","Periodo_3",-0.342713008108701,-0.312944883980578,-0.283176759852455
+"1090",957,"Víctor Torres Jeldes","Periodo_4",-1.26886933254116,-1.29531759063634,-1.32176584873153
+"1091",957,"Víctor Torres Jeldes","Periodo_5",-0.365933357938299,-0.336356468633781,-0.306779579329262
+"1092",957,"Víctor Torres Jeldes","Periodo_6",NA,NA,NA
+"1093",959,"Enrique Van Rysselberghe Herrera","Periodo_1",NA,NA,NA
+"1094",959,"Enrique Van Rysselberghe Herrera","Periodo_2",NA,NA,NA
+"1095",959,"Enrique Van Rysselberghe Herrera","Periodo_3",1.12390143953232,1.15366956366044,1.18343768778856
+"1096",959,"Enrique Van Rysselberghe Herrera","Periodo_4",0.151407294845388,0.124959036750203,0.0985107786550184
+"1097",959,"Enrique Van Rysselberghe Herrera","Periodo_5",0.975004865052088,1.00458175435661,1.03415864366113
+"1098",959,"Enrique Van Rysselberghe Herrera","Periodo_6",NA,NA,NA
+"1099",960,"Orlando Vargas Pizarro","Periodo_1",NA,NA,NA
+"1100",960,"Orlando Vargas Pizarro","Periodo_2",NA,NA,NA
+"1101",960,"Orlando Vargas Pizarro","Periodo_3",-0.106537864965277,-0.0767663075644037,-0.0469947501635302
+"1102",960,"Orlando Vargas Pizarro","Periodo_4",NA,NA,NA
+"1103",960,"Orlando Vargas Pizarro","Periodo_5",NA,NA,NA
+"1104",960,"Orlando Vargas Pizarro","Periodo_6",NA,NA,NA
+"1105",961,"Pedro Velásquez Seguel","Periodo_1",NA,NA,NA
+"1106",961,"Pedro Velásquez Seguel","Periodo_2",NA,NA,NA
+"1107",961,"Pedro Velásquez Seguel","Periodo_3",0.438995383683295,0.468763507811418,0.49853163193954
+"1108",961,"Pedro Velásquez Seguel","Periodo_4",NA,NA,NA
+"1109",961,"Pedro Velásquez Seguel","Periodo_5",0.117842374706541,0.14741926401106,0.176996153315579
+"1110",961,"Pedro Velásquez Seguel","Periodo_6",NA,NA,NA
+"1111",964,"Mónica Zalaquett Said","Periodo_1",NA,NA,NA
+"1112",964,"Mónica Zalaquett Said","Periodo_2",NA,NA,NA
+"1113",964,"Mónica Zalaquett Said","Periodo_3",0.945606789736419,0.975378347137292,1.00514990453817
+"1114",964,"Mónica Zalaquett Said","Periodo_4",NA,NA,NA
+"1115",964,"Mónica Zalaquett Said","Periodo_5",NA,NA,NA
+"1116",964,"Mónica Zalaquett Said","Periodo_6",NA,NA,NA
+"1117",937,"Hugo Gutiérrez Gálvez","Periodo_1",NA,NA,NA
+"1118",937,"Hugo Gutiérrez Gálvez","Periodo_2",NA,NA,NA
+"1119",937,"Hugo Gutiérrez Gálvez","Periodo_3",-0.762492358099706,-0.732724233971583,-0.70295610984346
+"1120",937,"Hugo Gutiérrez Gálvez","Periodo_4",-0.991276608866985,-1.01772486696217,-1.04417312505735
+"1121",937,"Hugo Gutiérrez Gálvez","Periodo_5",-0.391330944283189,-0.36175405497867,-0.332177165674151
+"1122",937,"Hugo Gutiérrez Gálvez","Periodo_6",NA,NA,NA
+"1123",939,"Gustavo Hasbún Selume","Periodo_1",NA,NA,NA
+"1124",939,"Gustavo Hasbún Selume","Periodo_2",NA,NA,NA
+"1125",939,"Gustavo Hasbún Selume","Periodo_3",0.922388097585353,0.95215622171359,0.981924345841827
+"1126",939,"Gustavo Hasbún Selume","Periodo_4",0.0693916492798863,0.0429409834453045,0.0164903176107227
+"1127",939,"Gustavo Hasbún Selume","Periodo_5",NA,NA,NA
+"1128",939,"Gustavo Hasbún Selume","Periodo_6",NA,NA,NA
+"1129",923,"Pedro Pablo Álvarez-Salamanca Ramírez","Periodo_1",NA,NA,NA
+"1130",923,"Pedro Pablo Álvarez-Salamanca Ramírez","Periodo_2",NA,NA,NA
+"1131",923,"Pedro Pablo Álvarez-Salamanca Ramírez","Periodo_3",0.79158416191921,0.821352286047333,0.851120410175456
+"1132",923,"Pedro Pablo Álvarez-Salamanca Ramírez","Periodo_4",0.10812681558988,0.0816785574946948,0.0552302993995101
+"1133",923,"Pedro Pablo Álvarez-Salamanca Ramírez","Periodo_5",0.658961767731489,0.688538657036007,0.718115546340526
+"1134",923,"Pedro Pablo Álvarez-Salamanca Ramírez","Periodo_6",NA,NA,NA
+"1135",925,"Pepe Auth Stewart","Periodo_1",NA,NA,NA
+"1136",925,"Pepe Auth Stewart","Periodo_2",NA,NA,NA
+"1137",925,"Pepe Auth Stewart","Periodo_3",-0.172595881027223,-0.1428277568991,-0.113059632770977
+"1138",925,"Pepe Auth Stewart","Periodo_4",-0.979608125360215,-1.0060563834554,-1.03250464155058
+"1139",925,"Pepe Auth Stewart","Periodo_5",0.119422882613819,0.148999771918338,0.178576661222857
+"1140",925,"Pepe Auth Stewart","Periodo_6",NA,NA,NA
+"1141",930,"Lautaro Carmona Soto","Periodo_1",NA,NA,NA
+"1142",930,"Lautaro Carmona Soto","Periodo_2",NA,NA,NA
+"1143",930,"Lautaro Carmona Soto","Periodo_3",-0.711363823266805,-0.681595699138569,-0.651827575010332
+"1144",930,"Lautaro Carmona Soto","Periodo_4",-1.13922821201299,-1.16567887784757,-1.19212954368215
+"1145",930,"Lautaro Carmona Soto","Periodo_5",NA,NA,NA
+"1146",930,"Lautaro Carmona Soto","Periodo_6",NA,NA,NA
+"1147",924,"Osvaldo Andrade Lara","Periodo_1",NA,NA,NA
+"1148",924,"Osvaldo Andrade Lara","Periodo_2",NA,NA,NA
+"1149",924,"Osvaldo Andrade Lara","Periodo_3",-0.570473074452455,-0.540704950324218,-0.510936826195981
+"1150",924,"Osvaldo Andrade Lara","Periodo_4",-1.01428936479686,-1.04074003063144,-1.06719069646603
+"1151",924,"Osvaldo Andrade Lara","Periodo_5",NA,NA,NA
+"1152",924,"Osvaldo Andrade Lara","Periodo_6",NA,NA,NA
+"1153",926,"Nino Baltolu Rasera","Periodo_1",NA,NA,NA
+"1154",926,"Nino Baltolu Rasera","Periodo_2",NA,NA,NA
+"1155",926,"Nino Baltolu Rasera","Periodo_3",0.691889417101898,0.721657541230021,0.751425665358144
+"1156",926,"Nino Baltolu Rasera","Periodo_4",NA,NA,NA
+"1157",926,"Nino Baltolu Rasera","Periodo_5",1.28296154832927,1.31253843763379,1.34211532693831
+"1158",926,"Nino Baltolu Rasera","Periodo_6",NA,NA,NA
+"1159",927,"Pedro Browne Urrejola","Periodo_1",NA,NA,NA
+"1160",927,"Pedro Browne Urrejola","Periodo_2",NA,NA,NA
+"1161",927,"Pedro Browne Urrejola","Periodo_3",0.852467865702874,0.882235989831111,0.912004113959347
+"1162",927,"Pedro Browne Urrejola","Periodo_4",-0.216550149705014,-0.243000815539596,-0.269451481374178
+"1163",927,"Pedro Browne Urrejola","Periodo_5",NA,NA,NA
+"1164",927,"Pedro Browne Urrejola","Periodo_6",NA,NA,NA
+"1165",929,"Cristián Campos Jara","Periodo_1",NA,NA,NA
+"1166",929,"Cristián Campos Jara","Periodo_2",NA,NA,NA
+"1167",929,"Cristián Campos Jara","Periodo_3",-0.137323646965272,-0.107555522837035,-0.0777873987087982
+"1168",929,"Cristián Campos Jara","Periodo_4",-0.773514407698788,-0.79996507353337,-0.826415739367952
+"1169",929,"Cristián Campos Jara","Periodo_5",NA,NA,NA
+"1170",929,"Cristián Campos Jara","Periodo_6",NA,NA,NA
+"1171",944,"Andrea Molina Oliva","Periodo_1",NA,NA,NA
+"1172",944,"Andrea Molina Oliva","Periodo_2",NA,NA,NA
+"1173",944,"Andrea Molina Oliva","Periodo_3",0.677656511721998,0.707424635850235,0.737192759978472
+"1174",944,"Andrea Molina Oliva","Periodo_4",0.111283624029441,0.0848329581948596,0.0583822923602778
+"1175",944,"Andrea Molina Oliva","Periodo_5",NA,NA,NA
+"1176",944,"Andrea Molina Oliva","Periodo_6",NA,NA,NA
+"1177",947,"Ricardo Rincón González","Periodo_1",NA,NA,NA
+"1178",947,"Ricardo Rincón González","Periodo_2",NA,NA,NA
+"1179",947,"Ricardo Rincón González","Periodo_3",-0.397561461349333,-0.367793337221097,-0.33802521309286
+"1180",947,"Ricardo Rincón González","Periodo_4",-0.808683984680336,-0.835134650514918,-0.8615853163495
+"1181",947,"Ricardo Rincón González","Periodo_5",NA,NA,NA
+"1182",947,"Ricardo Rincón González","Periodo_6",NA,NA,NA
+"1183",950,"René Saffirio Espinoza","Periodo_1",NA,NA,NA
+"1184",950,"René Saffirio Espinoza","Periodo_2",NA,NA,NA
+"1185",950,"René Saffirio Espinoza","Periodo_3",-0.277522892337743,-0.24775476820962,-0.217986644081497
+"1186",950,"René Saffirio Espinoza","Periodo_4",-1.04844276303715,-1.07489102113233,-1.10133927922752
+"1187",950,"René Saffirio Espinoza","Periodo_5",-0.488463515792109,-0.45888662648759,-0.429309737183071
+"1188",950,"René Saffirio Espinoza","Periodo_6",NA,NA,NA
+"1189",955,"Arturo Squella Ovalle","Periodo_1",NA,NA,NA
+"1190",955,"Arturo Squella Ovalle","Periodo_2",NA,NA,NA
+"1191",955,"Arturo Squella Ovalle","Periodo_3",1.22898299720785,1.25875112133608,1.28851924546432
+"1192",955,"Arturo Squella Ovalle","Periodo_4",0.143138558406619,0.116687892572037,0.0902372267374554
+"1193",955,"Arturo Squella Ovalle","Periodo_5",NA,NA,NA
+"1194",955,"Arturo Squella Ovalle","Periodo_6",NA,NA,NA
+"1195",963,"Matías Walker Prieto","Periodo_1",NA,NA,NA
+"1196",963,"Matías Walker Prieto","Periodo_2",NA,NA,NA
+"1197",963,"Matías Walker Prieto","Periodo_3",-0.0086894253198089,0.021078698808314,0.050846822936437
+"1198",963,"Matías Walker Prieto","Periodo_4",-1.09065088333775,-1.11709914143294,-1.14354739952812
+"1199",963,"Matías Walker Prieto","Periodo_5",0.111236423146301,0.14081331245082,0.170390201755339
+"1200",963,"Matías Walker Prieto","Periodo_6",NA,NA,NA
+"1201",946,"Leopoldo Pérez Lahsen","Periodo_1",NA,NA,NA
+"1202",946,"Leopoldo Pérez Lahsen","Periodo_2",NA,NA,NA
+"1203",946,"Leopoldo Pérez Lahsen","Periodo_3",1.0870946610331,1.11686278516122,1.14663090928935
+"1204",946,"Leopoldo Pérez Lahsen","Periodo_4",0.113416323414908,0.0869680653197228,0.0605198072245381
+"1205",946,"Leopoldo Pérez Lahsen","Periodo_5",1.51291020826866,1.54248709757318,1.57206398687769
+"1206",946,"Leopoldo Pérez Lahsen","Periodo_6",NA,NA,NA
+"1207",967,"Issa Kort Garriga","Periodo_1",NA,NA,NA
+"1208",967,"Issa Kort Garriga","Periodo_2",NA,NA,NA
+"1209",967,"Issa Kort Garriga","Periodo_3",0.48158378516595,0.511351909294073,0.541120033422196
+"1210",967,"Issa Kort Garriga","Periodo_4",0.0606138423780212,0.0341655842828365,0.00771732618765178
+"1211",967,"Issa Kort Garriga","Periodo_5",0.735990296519792,0.765567185824311,0.79514407512883
+"1212",967,"Issa Kort Garriga","Periodo_6",NA,NA,NA
+"1213",928,"Giovanni Calderón Bassi","Periodo_1",NA,NA,NA
+"1214",928,"Giovanni Calderón Bassi","Periodo_2",NA,NA,NA
+"1215",928,"Giovanni Calderón Bassi","Periodo_3",0.951335565964688,0.981107123365561,1.01087868076643
+"1216",928,"Giovanni Calderón Bassi","Periodo_4",NA,NA,NA
+"1217",928,"Giovanni Calderón Bassi","Periodo_5",NA,NA,NA
+"1218",928,"Giovanni Calderón Bassi","Periodo_6",NA,NA,NA
+"1219",934,"Fuad Chahin Valenzuela","Periodo_1",NA,NA,NA
+"1220",934,"Fuad Chahin Valenzuela","Periodo_2",NA,NA,NA
+"1221",934,"Fuad Chahin Valenzuela","Periodo_3",-0.201581022065837,-0.171812897937601,-0.142044773809364
+"1222",934,"Fuad Chahin Valenzuela","Periodo_4",-0.826389008106643,-0.852839673941225,-0.879290339775807
+"1223",934,"Fuad Chahin Valenzuela","Periodo_5",NA,NA,NA
+"1224",934,"Fuad Chahin Valenzuela","Periodo_6",NA,NA,NA
+"1225",966,"Joel Rosales Guzmán","Periodo_1",NA,NA,NA
+"1226",966,"Joel Rosales Guzmán","Periodo_2",NA,NA,NA
+"1227",966,"Joel Rosales Guzmán","Periodo_3",0.538009133297678,0.567780690698552,0.597552248099425
+"1228",966,"Joel Rosales Guzmán","Periodo_4",NA,NA,NA
+"1229",966,"Joel Rosales Guzmán","Periodo_5",NA,NA,NA
+"1230",966,"Joel Rosales Guzmán","Periodo_6",NA,NA,NA
+"1231",965,"Cristian Letelier Aguilar","Periodo_1",NA,NA,NA
+"1232",965,"Cristian Letelier Aguilar","Periodo_2",NA,NA,NA
+"1233",965,"Cristian Letelier Aguilar","Periodo_3",0.548960317315403,0.578731874716277,0.60850343211715
+"1234",965,"Cristian Letelier Aguilar","Periodo_4",NA,NA,NA
+"1235",965,"Cristian Letelier Aguilar","Periodo_5",NA,NA,NA
+"1236",965,"Cristian Letelier Aguilar","Periodo_6",NA,NA,NA
+"1237",941,"Luis Lemus Aracena","Periodo_1",NA,NA,NA
+"1238",941,"Luis Lemus Aracena","Periodo_2",NA,NA,NA
+"1239",941,"Luis Lemus Aracena","Periodo_3",-0.625601121866951,-0.595832997738714,-0.566064873610477
+"1240",941,"Luis Lemus Aracena","Periodo_4",-1.24633922136653,-1.27278988720111,-1.29924055303569
+"1241",941,"Luis Lemus Aracena","Periodo_5",NA,NA,NA
+"1242",941,"Luis Lemus Aracena","Periodo_6",NA,NA,NA
+"1243",943,"Miodrag Marinovic Solo de Zaldívar","Periodo_1",NA,NA,NA
+"1244",943,"Miodrag Marinovic Solo de Zaldívar","Periodo_2",NA,NA,NA
+"1245",943,"Miodrag Marinovic Solo de Zaldívar","Periodo_3",0.361336393445651,0.391107950846525,0.420879508247398
+"1246",943,"Miodrag Marinovic Solo de Zaldívar","Periodo_4",NA,NA,NA
+"1247",943,"Miodrag Marinovic Solo de Zaldívar","Periodo_5",NA,NA,NA
+"1248",943,"Miodrag Marinovic Solo de Zaldívar","Periodo_6",NA,NA,NA
+"1249",958,"Joaquín Tuma Zedan","Periodo_1",NA,NA,NA
+"1250",958,"Joaquín Tuma Zedan","Periodo_2",NA,NA,NA
+"1251",958,"Joaquín Tuma Zedan","Periodo_3",-0.127406575386306,-0.0976384512580696,-0.0678703271298329
+"1252",958,"Joaquín Tuma Zedan","Periodo_4",-0.729178469943982,-0.755629135778563,-0.782079801613145
+"1253",958,"Joaquín Tuma Zedan","Periodo_5",NA,NA,NA
+"1254",958,"Joaquín Tuma Zedan","Periodo_6",NA,NA,NA
+"1255",948,"Gaspar Rivas Sánchez","Periodo_1",NA,NA,NA
+"1256",948,"Gaspar Rivas Sánchez","Periodo_2",NA,NA,NA
+"1257",948,"Gaspar Rivas Sánchez","Periodo_3",0.760647984367319,0.790416108495442,0.820184232623565
+"1258",948,"Gaspar Rivas Sánchez","Periodo_4",-0.255106182700052,-0.281554440795112,-0.308002698890172
+"1259",948,"Gaspar Rivas Sánchez","Periodo_5",NA,NA,NA
+"1260",948,"Gaspar Rivas Sánchez","Periodo_6",-0.0526490144014596,-0.0810181412677288,-0.109387268133998
+"1261",1003,"Renzo Trisotti Martínez","Periodo_1",NA,NA,NA
+"1262",1003,"Renzo Trisotti Martínez","Periodo_2",NA,NA,NA
+"1263",1003,"Renzo Trisotti Martínez","Periodo_3",NA,NA,NA
+"1264",1003,"Renzo Trisotti Martínez","Periodo_4",0.0927605677241292,0.0663111061228797,0.0398616445216301
+"1265",1003,"Renzo Trisotti Martínez","Periodo_5",1.2274397842026,1.25701330722739,1.28658683025218
+"1266",1003,"Renzo Trisotti Martínez","Periodo_6",0.882297257752592,0.853928130886316,0.825559004020039
+"1267",1001,"Raúl Saldívar Auger","Periodo_1",NA,NA,NA
+"1268",1001,"Raúl Saldívar Auger","Periodo_2",NA,NA,NA
+"1269",1001,"Raúl Saldívar Auger","Periodo_3",NA,NA,NA
+"1270",1001,"Raúl Saldívar Auger","Periodo_4",-1.26297209539057,-1.28942155699194,-1.31587101859332
+"1271",1001,"Raúl Saldívar Auger","Periodo_5",-0.772826787018223,-0.743249897713659,-0.713673008409094
+"1272",1001,"Raúl Saldívar Auger","Periodo_6",NA,NA,NA
+"1273",989,"Joaquín Lavín León","Periodo_1",NA,NA,NA
+"1274",989,"Joaquín Lavín León","Periodo_2",NA,NA,NA
+"1275",989,"Joaquín Lavín León","Periodo_3",NA,NA,NA
+"1276",989,"Joaquín Lavín León","Periodo_4",0.101481646351743,0.0750321847504935,0.048582723149244
+"1277",989,"Joaquín Lavín León","Periodo_5",0.890469743826377,0.920043266851168,0.949616789875959
+"1278",989,"Joaquín Lavín León","Periodo_6",0.0777160154536289,0.0493468885873523,0.0209777617210756
+"1279",1006,"Camila Vallejo Dowling","Periodo_1",NA,NA,NA
+"1280",1006,"Camila Vallejo Dowling","Periodo_2",NA,NA,NA
+"1281",1006,"Camila Vallejo Dowling","Periodo_3",NA,NA,NA
+"1282",1006,"Camila Vallejo Dowling","Periodo_4",-1.23370917009616,-1.26015863169753,-1.28660809329891
+"1283",1006,"Camila Vallejo Dowling","Periodo_5",-0.790358883383844,-0.76078199407928,-0.731205104774715
+"1284",1006,"Camila Vallejo Dowling","Periodo_6",NA,NA,NA
+"1285",974,"Loreto Carvajal Ambiado","Periodo_1",NA,NA,NA
+"1286",974,"Loreto Carvajal Ambiado","Periodo_2",NA,NA,NA
+"1287",974,"Loreto Carvajal Ambiado","Periodo_3",NA,NA,NA
+"1288",974,"Loreto Carvajal Ambiado","Periodo_4",-0.930555161292116,-0.957004622893491,-0.983454084494865
+"1289",974,"Loreto Carvajal Ambiado","Periodo_5",-0.301093183933301,-0.271516294628736,-0.241939405324172
+"1290",974,"Loreto Carvajal Ambiado","Periodo_6",NA,NA,NA
+"1291",982,"Iván Flores García","Periodo_1",NA,NA,NA
+"1292",982,"Iván Flores García","Periodo_2",NA,NA,NA
+"1293",982,"Iván Flores García","Periodo_3",NA,NA,NA
+"1294",982,"Iván Flores García","Periodo_4",-0.764003683646481,-0.790453145247855,-0.81690260684923
+"1295",982,"Iván Flores García","Periodo_5",0.00306602817347442,0.032642917478039,0.0622198067826037
+"1296",982,"Iván Flores García","Periodo_6",NA,NA,NA
+"1297",991,"Vlado Mirosevic Verdugo","Periodo_1",NA,NA,NA
+"1298",991,"Vlado Mirosevic Verdugo","Periodo_2",NA,NA,NA
+"1299",991,"Vlado Mirosevic Verdugo","Periodo_3",NA,NA,NA
+"1300",991,"Vlado Mirosevic Verdugo","Periodo_4",-0.68231844973774,-0.708767911338989,-0.735217372940239
+"1301",991,"Vlado Mirosevic Verdugo","Periodo_5",-0.549095998181608,-0.519522475156817,-0.489948952132026
+"1302",991,"Vlado Mirosevic Verdugo","Periodo_6",-0.822937317211232,-0.851306444077509,-0.879675570943785
+"1303",1000,"Luis Rocafull López","Periodo_1",NA,NA,NA
+"1304",1000,"Luis Rocafull López","Periodo_2",NA,NA,NA
+"1305",1000,"Luis Rocafull López","Periodo_3",NA,NA,NA
+"1306",1000,"Luis Rocafull López","Periodo_4",-1.25399811288458,-1.28044757448595,-1.30689703608733
+"1307",1000,"Luis Rocafull López","Periodo_5",-0.712750273420328,-0.683173384115764,-0.653596494811199
+"1308",1000,"Luis Rocafull López","Periodo_6",NA,NA,NA
+"1309",986,"Marcela Hernando Pérez","Periodo_1",NA,NA,NA
+"1310",986,"Marcela Hernando Pérez","Periodo_2",NA,NA,NA
+"1311",986,"Marcela Hernando Pérez","Periodo_3",NA,NA,NA
+"1312",986,"Marcela Hernando Pérez","Periodo_4",-1.2463619804519,-1.27281144205328,-1.29926090365465
+"1313",986,"Marcela Hernando Pérez","Periodo_5",-0.403271663975629,-0.373694774671064,-0.344117885366499
+"1314",986,"Marcela Hernando Pérez","Periodo_6",NA,NA,NA
+"1315",994,"Paulina Núñez Urrutia","Periodo_1",NA,NA,NA
+"1316",994,"Paulina Núñez Urrutia","Periodo_2",NA,NA,NA
+"1317",994,"Paulina Núñez Urrutia","Periodo_3",NA,NA,NA
+"1318",994,"Paulina Núñez Urrutia","Periodo_4",0.0707342800315593,0.044284818430185,0.0178353568288106
+"1319",994,"Paulina Núñez Urrutia","Periodo_5",0.837570957153651,0.867147846458216,0.89672473576278
+"1320",994,"Paulina Núñez Urrutia","Periodo_6",NA,NA,NA
+"1321",975,"Daniella Cicardini Milla","Periodo_1",NA,NA,NA
+"1322",975,"Daniella Cicardini Milla","Periodo_2",NA,NA,NA
+"1323",975,"Daniella Cicardini Milla","Periodo_3",NA,NA,NA
+"1324",975,"Daniella Cicardini Milla","Periodo_4",-1.07855196765266,-1.10500142925391,-1.13145089085516
+"1325",975,"Daniella Cicardini Milla","Periodo_5",-0.727983217049795,-0.698409694025004,-0.668836171000213
+"1326",975,"Daniella Cicardini Milla","Periodo_6",-1.00124936083804,-1.02961848770432,-1.05798761457059
+"1327",998,"Yasna Provoste Campillay","Periodo_1",NA,NA,NA
+"1328",998,"Yasna Provoste Campillay","Periodo_2",NA,NA,NA
+"1329",998,"Yasna Provoste Campillay","Periodo_3",NA,NA,NA
+"1330",998,"Yasna Provoste Campillay","Periodo_4",-1.11000979413195,-1.13646166380145,-1.16291353347096
+"1331",998,"Yasna Provoste Campillay","Periodo_5",NA,NA,NA
+"1332",998,"Yasna Provoste Campillay","Periodo_6",NA,NA,NA
+"1333",993,"Daniel Núñez Arancibia","Periodo_1",NA,NA,NA
+"1334",993,"Daniel Núñez Arancibia","Periodo_2",NA,NA,NA
+"1335",993,"Daniel Núñez Arancibia","Periodo_3",NA,NA,NA
+"1336",993,"Daniel Núñez Arancibia","Periodo_4",-1.11582320222512,-1.1422726638265,-1.16872212542787
+"1337",993,"Daniel Núñez Arancibia","Periodo_5",-0.747893374152157,-0.718316484847592,-0.688739595543028
+"1338",993,"Daniel Núñez Arancibia","Periodo_6",NA,NA,NA
+"1339",1004,"Christian Urízar Muñoz","Periodo_1",NA,NA,NA
+"1340",1004,"Christian Urízar Muñoz","Periodo_2",NA,NA,NA
+"1341",1004,"Christian Urízar Muñoz","Periodo_3",NA,NA,NA
+"1342",1004,"Christian Urízar Muñoz","Periodo_4",-0.663198232721238,-0.689650102390741,-0.716101972060244
+"1343",1004,"Christian Urízar Muñoz","Periodo_5",NA,NA,NA
+"1344",1004,"Christian Urízar Muñoz","Periodo_6",NA,NA,NA
+"1345",1005,"Osvaldo Urrutia Soto","Periodo_1",NA,NA,NA
+"1346",1005,"Osvaldo Urrutia Soto","Periodo_2",NA,NA,NA
+"1347",1005,"Osvaldo Urrutia Soto","Periodo_3",NA,NA,NA
+"1348",1005,"Osvaldo Urrutia Soto","Periodo_4",0.108522426393936,0.0820729647925618,0.0556235031911874
+"1349",1005,"Osvaldo Urrutia Soto","Periodo_5",1.13515798235687,1.16473487166144,1.194311760966
+"1350",1005,"Osvaldo Urrutia Soto","Periodo_6",NA,NA,NA
+"1351",980,"Daniel Farcas Guendelman","Periodo_1",NA,NA,NA
+"1352",980,"Daniel Farcas Guendelman","Periodo_2",NA,NA,NA
+"1353",980,"Daniel Farcas Guendelman","Periodo_3",NA,NA,NA
+"1354",980,"Daniel Farcas Guendelman","Periodo_4",-0.813862433741571,-0.840314303411074,-0.866766173080577
+"1355",980,"Daniel Farcas Guendelman","Periodo_5",NA,NA,NA
+"1356",980,"Daniel Farcas Guendelman","Periodo_6",NA,NA,NA
+"1357",973,"Karol Cariola Oliva","Periodo_1",NA,NA,NA
+"1358",973,"Karol Cariola Oliva","Periodo_2",NA,NA,NA
+"1359",973,"Karol Cariola Oliva","Periodo_3",NA,NA,NA
+"1360",973,"Karol Cariola Oliva","Periodo_4",-1.15804681239897,-1.18449627400022,-1.21094573560146
+"1361",973,"Karol Cariola Oliva","Periodo_5",-0.775742539117764,-0.746169016092973,-0.716595493068182
+"1362",973,"Karol Cariola Oliva","Periodo_6",-0.955822701164589,-0.984191828030865,-1.01256095489714
+"1363",981,"Maya Fernández Allende","Periodo_1",NA,NA,NA
+"1364",981,"Maya Fernández Allende","Periodo_2",NA,NA,NA
+"1365",981,"Maya Fernández Allende","Periodo_3",NA,NA,NA
+"1366",981,"Maya Fernández Allende","Periodo_4",-1.2895454238381,-1.31599488543947,-1.34244434704085
+"1367",981,"Maya Fernández Allende","Periodo_5",-0.848451155609043,-0.818874266304478,-0.789297376999914
+"1368",981,"Maya Fernández Allende","Periodo_6",NA,NA,NA
+"1369",987,"Giorgio Jackson Drago","Periodo_1",NA,NA,NA
+"1370",987,"Giorgio Jackson Drago","Periodo_2",NA,NA,NA
+"1371",987,"Giorgio Jackson Drago","Periodo_3",NA,NA,NA
+"1372",987,"Giorgio Jackson Drago","Periodo_4",-0.815920391914129,-0.842369853515504,-0.868819315116878
+"1373",987,"Giorgio Jackson Drago","Periodo_5",-0.922138535218199,-0.892561645913634,-0.862984756609069
+"1374",987,"Giorgio Jackson Drago","Periodo_6",NA,NA,NA
+"1375",988,"Felipe Kast Sommerhoff","Periodo_1",NA,NA,NA
+"1376",988,"Felipe Kast Sommerhoff","Periodo_2",NA,NA,NA
+"1377",988,"Felipe Kast Sommerhoff","Periodo_3",NA,NA,NA
+"1378",988,"Felipe Kast Sommerhoff","Periodo_4",0.0226414669102928,-0.00381040275921016,-0.0302622724287131
+"1379",988,"Felipe Kast Sommerhoff","Periodo_5",NA,NA,NA
+"1380",988,"Felipe Kast Sommerhoff","Periodo_6",NA,NA,NA
+"1381",996,"Jaime Pilowsky Greene","Periodo_1",NA,NA,NA
+"1382",996,"Jaime Pilowsky Greene","Periodo_2",NA,NA,NA
+"1383",996,"Jaime Pilowsky Greene","Periodo_3",NA,NA,NA
+"1384",996,"Jaime Pilowsky Greene","Periodo_4",-0.996059465442908,-1.02251133511241,-1.04896320478191
+"1385",996,"Jaime Pilowsky Greene","Periodo_5",NA,NA,NA
+"1386",996,"Jaime Pilowsky Greene","Periodo_6",NA,NA,NA
+"1387",969,"Claudio Arriagada Macaya","Periodo_1",NA,NA,NA
+"1388",969,"Claudio Arriagada Macaya","Periodo_2",NA,NA,NA
+"1389",969,"Claudio Arriagada Macaya","Periodo_3",NA,NA,NA
+"1390",969,"Claudio Arriagada Macaya","Periodo_4",-1.17583536673151,-1.20228723640101,-1.22873910607051
+"1391",969,"Claudio Arriagada Macaya","Periodo_5",NA,NA,NA
+"1392",969,"Claudio Arriagada Macaya","Periodo_6",NA,NA,NA
+"1393",990,"Daniel Melo Contreras","Periodo_1",NA,NA,NA
+"1394",990,"Daniel Melo Contreras","Periodo_2",NA,NA,NA
+"1395",990,"Daniel Melo Contreras","Periodo_3",NA,NA,NA
+"1396",990,"Daniel Melo Contreras","Periodo_4",-1.1640833381384,-1.19053279973965,-1.2169822613409
+"1397",990,"Daniel Melo Contreras","Periodo_5",NA,NA,NA
+"1398",990,"Daniel Melo Contreras","Periodo_6",-0.708972759002285,-0.737341885868562,-0.765711012734839
+"1399",970,"Jaime Bellolio Avaria","Periodo_1",NA,NA,NA
+"1400",970,"Jaime Bellolio Avaria","Periodo_2",NA,NA,NA
+"1401",970,"Jaime Bellolio Avaria","Periodo_3",NA,NA,NA
+"1402",970,"Jaime Bellolio Avaria","Periodo_4",0.104400511109003,0.0779510495076284,0.0515015879062541
+"1403",970,"Jaime Bellolio Avaria","Periodo_5",0.474495603319645,0.50407249262421,0.533649381928774
+"1404",970,"Jaime Bellolio Avaria","Periodo_6",NA,NA,NA
+"1405",1002,"Leonardo Soto Ferrada","Periodo_1",NA,NA,NA
+"1406",1002,"Leonardo Soto Ferrada","Periodo_2",NA,NA,NA
+"1407",1002,"Leonardo Soto Ferrada","Periodo_3",NA,NA,NA
+"1408",1002,"Leonardo Soto Ferrada","Periodo_4",-1.43489911428418,-1.46134857588543,-1.48779803748668
+"1409",1002,"Leonardo Soto Ferrada","Periodo_5",-0.46160072855008,-0.432027205525289,-0.402453682500498
+"1410",1002,"Leonardo Soto Ferrada","Periodo_6",-0.757178297628299,-0.785547424494576,-0.813916551360852
+"1411",976,"Juan Antonio Coloma Álamos","Periodo_1",NA,NA,NA
+"1412",976,"Juan Antonio Coloma Álamos","Periodo_2",NA,NA,NA
+"1413",976,"Juan Antonio Coloma Álamos","Periodo_3",NA,NA,NA
+"1414",976,"Juan Antonio Coloma Álamos","Periodo_4",0.167483978125744,0.141034516524495,0.114585054923245
+"1415",976,"Juan Antonio Coloma Álamos","Periodo_5",1.15883709868155,1.18841062170634,1.21798414473113
+"1416",976,"Juan Antonio Coloma Álamos","Periodo_6",0.614339821225103,0.585970694358826,0.557601567492549
+"1417",979,"Sergio Espejo Yaksic","Periodo_1",NA,NA,NA
+"1418",979,"Sergio Espejo Yaksic","Periodo_2",NA,NA,NA
+"1419",979,"Sergio Espejo Yaksic","Periodo_3",NA,NA,NA
+"1420",979,"Sergio Espejo Yaksic","Periodo_4",-0.788256182574437,-0.814708052243939,-0.841159921913442
+"1421",979,"Sergio Espejo Yaksic","Periodo_5",NA,NA,NA
+"1422",979,"Sergio Espejo Yaksic","Periodo_6",NA,NA,NA
+"1423",977,"Marcelo Chávez Velásquez","Periodo_1",NA,NA,NA
+"1424",977,"Marcelo Chávez Velásquez","Periodo_2",NA,NA,NA
+"1425",977,"Marcelo Chávez Velásquez","Periodo_3",NA,NA,NA
+"1426",977,"Marcelo Chávez Velásquez","Periodo_4",-0.819109735197951,-0.845561604867454,-0.872013474536957
+"1427",977,"Marcelo Chávez Velásquez","Periodo_5",NA,NA,NA
+"1428",977,"Marcelo Chávez Velásquez","Periodo_6",NA,NA,NA
+"1429",997,"Roberto Poblete Zapata","Periodo_1",NA,NA,NA
+"1430",997,"Roberto Poblete Zapata","Periodo_2",NA,NA,NA
+"1431",997,"Roberto Poblete Zapata","Periodo_3",NA,NA,NA
+"1432",997,"Roberto Poblete Zapata","Periodo_4",-1.45224271035582,-1.47869458002533,-1.50514644969483
+"1433",997,"Roberto Poblete Zapata","Periodo_5",NA,NA,NA
+"1434",997,"Roberto Poblete Zapata","Periodo_6",NA,NA,NA
+"1435",999,"Jorge Rathgeb Schifferli","Periodo_1",NA,NA,NA
+"1436",999,"Jorge Rathgeb Schifferli","Periodo_2",NA,NA,NA
+"1437",999,"Jorge Rathgeb Schifferli","Periodo_3",NA,NA,NA
+"1438",999,"Jorge Rathgeb Schifferli","Periodo_4",0.057848906312722,0.0313994447114724,0.00494998311022291
+"1439",999,"Jorge Rathgeb Schifferli","Periodo_5",1.30696846776467,1.33654199078946,1.36611551381425
+"1440",999,"Jorge Rathgeb Schifferli","Periodo_6",0.522202971602726,0.49383384473645,0.465464717870173
+"1441",995,"Diego Paulsen Kehr","Periodo_1",NA,NA,NA
+"1442",995,"Diego Paulsen Kehr","Periodo_2",NA,NA,NA
+"1443",995,"Diego Paulsen Kehr","Periodo_3",NA,NA,NA
+"1444",995,"Diego Paulsen Kehr","Periodo_4",0.14068027558758,0.114230813986206,0.0877813523848314
+"1445",995,"Diego Paulsen Kehr","Periodo_5",0.966671229731886,0.996248119036451,1.02582500834102
+"1446",995,"Diego Paulsen Kehr","Periodo_6",NA,NA,NA
+"1447",971,"Bernardo Berger Fett","Periodo_1",NA,NA,NA
+"1448",971,"Bernardo Berger Fett","Periodo_2",NA,NA,NA
+"1449",971,"Bernardo Berger Fett","Periodo_3",NA,NA,NA
+"1450",971,"Bernardo Berger Fett","Periodo_4",0.086570729792933,0.0601212681916835,0.033671806590434
+"1451",971,"Bernardo Berger Fett","Periodo_5",1.360204078507,1.3897776015318,1.41935112455659
+"1452",971,"Bernardo Berger Fett","Periodo_6",0.678085364994771,0.649716238128494,0.621347111262218
+"1453",984,"Gonzalo Fuenzalida Figueroa","Periodo_1",NA,NA,NA
+"1454",984,"Gonzalo Fuenzalida Figueroa","Periodo_2",NA,NA,NA
+"1455",984,"Gonzalo Fuenzalida Figueroa","Periodo_3",NA,NA,NA
+"1456",984,"Gonzalo Fuenzalida Figueroa","Periodo_4",0.102793793054949,0.0763443314535749,0.0498948698522006
+"1457",984,"Gonzalo Fuenzalida Figueroa","Periodo_5",1.0135347473245,1.04311163662906,1.07268852593363
+"1458",984,"Gonzalo Fuenzalida Figueroa","Periodo_6",NA,NA,NA
+"1459",968,"Jenny Álvarez Vera","Periodo_1",NA,NA,NA
+"1460",968,"Jenny Álvarez Vera","Periodo_2",NA,NA,NA
+"1461",968,"Jenny Álvarez Vera","Periodo_3",NA,NA,NA
+"1462",968,"Jenny Álvarez Vera","Periodo_4",-0.854860608753396,-0.88131007035477,-0.907759531956144
+"1463",968,"Jenny Álvarez Vera","Periodo_5",-0.508873016402571,-0.479296127098007,-0.449719237793442
+"1464",968,"Jenny Álvarez Vera","Periodo_6",NA,NA,NA
+"1465",972,"Gabriel Boric Font","Periodo_1",NA,NA,NA
+"1466",972,"Gabriel Boric Font","Periodo_2",NA,NA,NA
+"1467",972,"Gabriel Boric Font","Periodo_3",NA,NA,NA
+"1468",972,"Gabriel Boric Font","Periodo_4",-0.481730690807191,-0.508180152408566,-0.53462961400994
+"1469",972,"Gabriel Boric Font","Periodo_5",-0.474023579631555,-0.44444669032699,-0.414869801022426
+"1470",972,"Gabriel Boric Font","Periodo_6",NA,NA,NA
+"1471",978,"Felipe De Mussy Hiriart","Periodo_1",NA,NA,NA
+"1472",978,"Felipe De Mussy Hiriart","Periodo_2",NA,NA,NA
+"1473",978,"Felipe De Mussy Hiriart","Periodo_3",NA,NA,NA
+"1474",978,"Felipe De Mussy Hiriart","Periodo_4",0.148134119351497,0.121682249681994,0.0952303800124909
+"1475",978,"Felipe De Mussy Hiriart","Periodo_5",NA,NA,NA
+"1476",978,"Felipe De Mussy Hiriart","Periodo_6",NA,NA,NA
+"1477",992,"Juan Enrique Morano Cornejo","Periodo_1",NA,NA,NA
+"1478",992,"Juan Enrique Morano Cornejo","Periodo_2",NA,NA,NA
+"1479",992,"Juan Enrique Morano Cornejo","Periodo_3",NA,NA,NA
+"1480",992,"Juan Enrique Morano Cornejo","Periodo_4",-0.770250066613951,-0.796701936283454,-0.823153805952957
+"1481",992,"Juan Enrique Morano Cornejo","Periodo_5",NA,NA,NA
+"1482",992,"Juan Enrique Morano Cornejo","Periodo_6",NA,NA,NA
+"1483",985,"Sergio Gahona Salazar","Periodo_1",NA,NA,NA
+"1484",985,"Sergio Gahona Salazar","Periodo_2",NA,NA,NA
+"1485",985,"Sergio Gahona Salazar","Periodo_3",NA,NA,NA
+"1486",985,"Sergio Gahona Salazar","Periodo_4",0.0843340612402719,0.0578845996388975,0.0314351380375231
+"1487",985,"Sergio Gahona Salazar","Periodo_5",0.919736281758467,0.949313171063032,0.978890060367596
+"1488",985,"Sergio Gahona Salazar","Periodo_6",NA,NA,NA
+"1489",983,"Iván Fuentes Castillo","Periodo_1",NA,NA,NA
+"1490",983,"Iván Fuentes Castillo","Periodo_2",NA,NA,NA
+"1491",983,"Iván Fuentes Castillo","Periodo_3",NA,NA,NA
+"1492",983,"Iván Fuentes Castillo","Periodo_4",-1.03776109995536,-1.06421296962487,-1.09066483929437
+"1493",983,"Iván Fuentes Castillo","Periodo_5",NA,NA,NA
+"1494",983,"Iván Fuentes Castillo","Periodo_6",NA,NA,NA
+"1495",1007,"Miguel Ángel Alvarado Ramírez","Periodo_1",NA,NA,NA
+"1496",1007,"Miguel Ángel Alvarado Ramírez","Periodo_2",NA,NA,NA
+"1497",1007,"Miguel Ángel Alvarado Ramírez","Periodo_3",NA,NA,NA
+"1498",1007,"Miguel Ángel Alvarado Ramírez","Periodo_4",-0.407679904335828,-0.434131774005331,-0.460583643674834
+"1499",1007,"Miguel Ángel Alvarado Ramírez","Periodo_5",NA,NA,NA
+"1500",1007,"Miguel Ángel Alvarado Ramírez","Periodo_6",NA,NA,NA
+"1501",1008,"Florcita Alarcón Rojas","Periodo_1",NA,NA,NA
+"1502",1008,"Florcita Alarcón Rojas","Periodo_2",NA,NA,NA
+"1503",1008,"Florcita Alarcón Rojas","Periodo_3",NA,NA,NA
+"1504",1008,"Florcita Alarcón Rojas","Periodo_4",NA,NA,NA
+"1505",1008,"Florcita Alarcón Rojas","Periodo_5",-1.06982996811443,-1.04025139549939,-1.01067282288435
+"1506",1008,"Florcita Alarcón Rojas","Periodo_6",NA,NA,NA
+"1507",1009,"Jorge Alessandri Vergara","Periodo_1",NA,NA,NA
+"1508",1009,"Jorge Alessandri Vergara","Periodo_2",NA,NA,NA
+"1509",1009,"Jorge Alessandri Vergara","Periodo_3",NA,NA,NA
+"1510",1009,"Jorge Alessandri Vergara","Periodo_4",NA,NA,NA
+"1511",1009,"Jorge Alessandri Vergara","Periodo_5",0.93031778750878,0.959892993269324,0.989468199029869
+"1512",1009,"Jorge Alessandri Vergara","Periodo_6",0.297229120431209,0.268859993564858,0.240490866698508
+"1513",1010,"Sebastián Álvarez Ramírez","Periodo_1",NA,NA,NA
+"1514",1010,"Sebastián Álvarez Ramírez","Periodo_2",NA,NA,NA
+"1515",1010,"Sebastián Álvarez Ramírez","Periodo_3",NA,NA,NA
+"1516",1010,"Sebastián Álvarez Ramírez","Periodo_4",NA,NA,NA
+"1517",1010,"Sebastián Álvarez Ramírez","Periodo_5",1.0748599952743,1.10443856788934,1.13401714050438
+"1518",1010,"Sebastián Álvarez Ramírez","Periodo_6",NA,NA,NA
+"1519",1011,"Sandra Amar Mancilla","Periodo_1",NA,NA,NA
+"1520",1011,"Sandra Amar Mancilla","Periodo_2",NA,NA,NA
+"1521",1011,"Sandra Amar Mancilla","Periodo_3",NA,NA,NA
+"1522",1011,"Sandra Amar Mancilla","Periodo_4",NA,NA,NA
+"1523",1011,"Sandra Amar Mancilla","Periodo_5",0.784169713384881,0.813748285999922,0.843326858614962
+"1524",1011,"Sandra Amar Mancilla","Periodo_6",NA,NA,NA
+"1525",1012,"Boris Barrera Moreno","Periodo_1",NA,NA,NA
+"1526",1012,"Boris Barrera Moreno","Periodo_2",NA,NA,NA
+"1527",1012,"Boris Barrera Moreno","Periodo_3",NA,NA,NA
+"1528",1012,"Boris Barrera Moreno","Periodo_4",NA,NA,NA
+"1529",1012,"Boris Barrera Moreno","Periodo_5",-0.931343436155863,-0.901768230395319,-0.872193024634775
+"1530",1012,"Boris Barrera Moreno","Periodo_6",-1.56905136905496,-1.59742049592131,-1.62578962278766
+"1531",1013,"Alejandro Bernales Maldonado","Periodo_1",NA,NA,NA
+"1532",1013,"Alejandro Bernales Maldonado","Periodo_2",NA,NA,NA
+"1533",1013,"Alejandro Bernales Maldonado","Periodo_3",NA,NA,NA
+"1534",1013,"Alejandro Bernales Maldonado","Periodo_4",NA,NA,NA
+"1535",1013,"Alejandro Bernales Maldonado","Periodo_5",-0.603110562455398,-0.573535356694853,-0.543960150934309
+"1536",1013,"Alejandro Bernales Maldonado","Periodo_6",-0.647402135254414,-0.675771262120765,-0.704140388987116
+"1537",1014,"Karim Bianchi Retamales","Periodo_1",NA,NA,NA
+"1538",1014,"Karim Bianchi Retamales","Periodo_2",NA,NA,NA
+"1539",1014,"Karim Bianchi Retamales","Periodo_3",NA,NA,NA
+"1540",1014,"Karim Bianchi Retamales","Periodo_4",NA,NA,NA
+"1541",1014,"Karim Bianchi Retamales","Periodo_5",-0.06406880020965,-0.0344902275946092,-0.00491165497956847
+"1542",1014,"Karim Bianchi Retamales","Periodo_6",NA,NA,NA
+"1543",1015,"Jorge Brito Hasbún","Periodo_1",NA,NA,NA
+"1544",1015,"Jorge Brito Hasbún","Periodo_2",NA,NA,NA
+"1545",1015,"Jorge Brito Hasbún","Periodo_3",NA,NA,NA
+"1546",1015,"Jorge Brito Hasbún","Periodo_4",NA,NA,NA
+"1547",1015,"Jorge Brito Hasbún","Periodo_5",-0.883800403974119,-0.854225198213574,-0.82464999245303
+"1548",1015,"Jorge Brito Hasbún","Periodo_6",-0.784728382041986,-0.813097508908337,-0.841466635774688
+"1549",1016,"Miguel Ángel Calisto Águila","Periodo_1",NA,NA,NA
+"1550",1016,"Miguel Ángel Calisto Águila","Periodo_2",NA,NA,NA
+"1551",1016,"Miguel Ángel Calisto Águila","Periodo_3",NA,NA,NA
+"1552",1016,"Miguel Ángel Calisto Águila","Periodo_4",NA,NA,NA
+"1553",1016,"Miguel Ángel Calisto Águila","Periodo_5",0.261832464501507,0.291407670262051,0.320982876022596
+"1554",1016,"Miguel Ángel Calisto Águila","Periodo_6",-0.173165206327556,-0.201534333193906,-0.229903460060257
+"1555",1017,"Álvaro Carter Fernández","Periodo_1",NA,NA,NA
+"1556",1017,"Álvaro Carter Fernández","Periodo_2",NA,NA,NA
+"1557",1017,"Álvaro Carter Fernández","Periodo_3",NA,NA,NA
+"1558",1017,"Álvaro Carter Fernández","Periodo_4",NA,NA,NA
+"1559",1017,"Álvaro Carter Fernández","Periodo_5",0.915254432072399,0.944829637832943,0.974404843593488
+"1560",1017,"Álvaro Carter Fernández","Periodo_6",0.387498126960387,0.359129000094036,0.330759873227686
+"1561",1018,"Natalia Castillo Muñoz","Periodo_1",NA,NA,NA
+"1562",1018,"Natalia Castillo Muñoz","Periodo_2",NA,NA,NA
+"1563",1018,"Natalia Castillo Muñoz","Periodo_3",NA,NA,NA
+"1564",1018,"Natalia Castillo Muñoz","Periodo_4",NA,NA,NA
+"1565",1018,"Natalia Castillo Muñoz","Periodo_5",-0.99865763163215,-0.969079059017109,-0.939500486402068
+"1566",1018,"Natalia Castillo Muñoz","Periodo_6",NA,NA,NA
+"1567",1019,"José Miguel Castro Bascuñán","Periodo_1",NA,NA,NA
+"1568",1019,"José Miguel Castro Bascuñán","Periodo_2",NA,NA,NA
+"1569",1019,"José Miguel Castro Bascuñán","Periodo_3",NA,NA,NA
+"1570",1019,"José Miguel Castro Bascuñán","Periodo_4",NA,NA,NA
+"1571",1019,"José Miguel Castro Bascuñán","Periodo_5",1.34376150255604,1.37333670831658,1.40291191407713
+"1572",1019,"José Miguel Castro Bascuñán","Periodo_6",0.342962291956746,0.314593165090395,0.286224038224044
+"1573",1020,"Ricardo Celis Araya","Periodo_1",NA,NA,NA
+"1574",1020,"Ricardo Celis Araya","Periodo_2",NA,NA,NA
+"1575",1020,"Ricardo Celis Araya","Periodo_3",NA,NA,NA
+"1576",1020,"Ricardo Celis Araya","Periodo_4",NA,NA,NA
+"1577",1020,"Ricardo Celis Araya","Periodo_5",-0.498728258401353,-0.469149685786312,-0.439571113171271
+"1578",1020,"Ricardo Celis Araya","Periodo_6",NA,NA,NA
+"1579",1021,"Andrés Celis Montt","Periodo_1",NA,NA,NA
+"1580",1021,"Andrés Celis Montt","Periodo_2",NA,NA,NA
+"1581",1021,"Andrés Celis Montt","Periodo_3",NA,NA,NA
+"1582",1021,"Andrés Celis Montt","Periodo_4",NA,NA,NA
+"1583",1021,"Andrés Celis Montt","Periodo_5",0.794730105928212,0.824305311688757,0.853880517449301
+"1584",1021,"Andrés Celis Montt","Periodo_6",0.471185463493993,0.442816336627642,0.414447209761291
+"1585",1022,"Sofía Cid Versalovic","Periodo_1",NA,NA,NA
+"1586",1022,"Sofía Cid Versalovic","Periodo_2",NA,NA,NA
+"1587",1022,"Sofía Cid Versalovic","Periodo_3",NA,NA,NA
+"1588",1022,"Sofía Cid Versalovic","Periodo_4",NA,NA,NA
+"1589",1022,"Sofía Cid Versalovic","Periodo_5",0.9306114166651,0.960186622425645,0.989761828186189
+"1590",1022,"Sofía Cid Versalovic","Periodo_6",0.611631048527663,0.583261921661312,0.554892794794961
+"1591",1023,"Miguel Crispi Serrano","Periodo_1",NA,NA,NA
+"1592",1023,"Miguel Crispi Serrano","Periodo_2",NA,NA,NA
+"1593",1023,"Miguel Crispi Serrano","Periodo_3",NA,NA,NA
+"1594",1023,"Miguel Crispi Serrano","Periodo_4",NA,NA,NA
+"1595",1023,"Miguel Crispi Serrano","Periodo_5",-0.809643853382692,-0.780065280767651,-0.750486708152611
+"1596",1023,"Miguel Crispi Serrano","Periodo_6",NA,NA,NA
+"1597",1024,"Luciano Cruz-Coke Carvallo","Periodo_1",NA,NA,NA
+"1598",1024,"Luciano Cruz-Coke Carvallo","Periodo_2",NA,NA,NA
+"1599",1024,"Luciano Cruz-Coke Carvallo","Periodo_3",NA,NA,NA
+"1600",1024,"Luciano Cruz-Coke Carvallo","Periodo_4",NA,NA,NA
+"1601",1024,"Luciano Cruz-Coke Carvallo","Periodo_5",1.04111651185032,1.07069508446536,1.1002736570804
+"1602",1024,"Luciano Cruz-Coke Carvallo","Periodo_6",NA,NA,NA
+"1603",1025,"Catalina Del Real Mihovilovic","Periodo_1",NA,NA,NA
+"1604",1025,"Catalina Del Real Mihovilovic","Periodo_2",NA,NA,NA
+"1605",1025,"Catalina Del Real Mihovilovic","Periodo_3",NA,NA,NA
+"1606",1025,"Catalina Del Real Mihovilovic","Periodo_4",NA,NA,NA
+"1607",1025,"Catalina Del Real Mihovilovic","Periodo_5",0.959859089905338,0.989434295665882,1.01900950142643
+"1608",1025,"Catalina Del Real Mihovilovic","Periodo_6",0.392754190833168,0.364385063966817,0.336015937100467
+"1609",1027,"Jorge Durán Espinoza","Periodo_1",NA,NA,NA
+"1610",1027,"Jorge Durán Espinoza","Periodo_2",NA,NA,NA
+"1611",1027,"Jorge Durán Espinoza","Periodo_3",NA,NA,NA
+"1612",1027,"Jorge Durán Espinoza","Periodo_4",NA,NA,NA
+"1613",1027,"Jorge Durán Espinoza","Periodo_5",0.602059699043105,0.63163490480365,0.661210110564194
+"1614",1027,"Jorge Durán Espinoza","Periodo_6",0.0822151131926665,0.0538459863263158,0.025476859459965
+"1615",1028,"Eduardo Durán Salinas","Periodo_1",NA,NA,NA
+"1616",1028,"Eduardo Durán Salinas","Periodo_2",NA,NA,NA
+"1617",1028,"Eduardo Durán Salinas","Periodo_3",NA,NA,NA
+"1618",1028,"Eduardo Durán Salinas","Periodo_4",NA,NA,NA
+"1619",1028,"Eduardo Durán Salinas","Periodo_5",0.836271412682213,0.865846618442757,0.895421824203302
+"1620",1028,"Eduardo Durán Salinas","Periodo_6",0.369316098481012,0.340946971614661,0.31257784474831
+"1621",1029,"Francisco Eguiguren Correa","Periodo_1",NA,NA,NA
+"1622",1029,"Francisco Eguiguren Correa","Periodo_2",NA,NA,NA
+"1623",1029,"Francisco Eguiguren Correa","Periodo_3",NA,NA,NA
+"1624",1029,"Francisco Eguiguren Correa","Periodo_4",NA,NA,NA
+"1625",1029,"Francisco Eguiguren Correa","Periodo_5",1.002422127334,1.03200069994904,1.06157927256408
+"1626",1029,"Francisco Eguiguren Correa","Periodo_6",NA,NA,NA
+"1627",1030,"Camila Flores Oporto","Periodo_1",NA,NA,NA
+"1628",1030,"Camila Flores Oporto","Periodo_2",NA,NA,NA
+"1629",1030,"Camila Flores Oporto","Periodo_3",NA,NA,NA
+"1630",1030,"Camila Flores Oporto","Periodo_4",NA,NA,NA
+"1631",1030,"Camila Flores Oporto","Periodo_5",0.933872138807333,0.963447344567878,0.993022550328422
+"1632",1030,"Camila Flores Oporto","Periodo_6",0.127890119887815,0.0995209930214641,0.0711518661551133
+"1633",1031,"Juan Fuenzalida Cobo","Periodo_1",NA,NA,NA
+"1634",1031,"Juan Fuenzalida Cobo","Periodo_2",NA,NA,NA
+"1635",1031,"Juan Fuenzalida Cobo","Periodo_3",NA,NA,NA
+"1636",1031,"Juan Fuenzalida Cobo","Periodo_4",NA,NA,NA
+"1637",1031,"Juan Fuenzalida Cobo","Periodo_5",1.07299390810676,1.1025691138673,1.13214431962784
+"1638",1031,"Juan Fuenzalida Cobo","Periodo_6",0.406044636953153,0.377675510086802,0.349306383220452
+"1639",1032,"Ramón Galleguillos Castillo","Periodo_1",NA,NA,NA
+"1640",1032,"Ramón Galleguillos Castillo","Periodo_2",NA,NA,NA
+"1641",1032,"Ramón Galleguillos Castillo","Periodo_3",NA,NA,NA
+"1642",1032,"Ramón Galleguillos Castillo","Periodo_4",NA,NA,NA
+"1643",1032,"Ramón Galleguillos Castillo","Periodo_5",1.06851815766187,1.09809673027691,1.12767530289195
+"1644",1032,"Ramón Galleguillos Castillo","Periodo_6",NA,NA,NA
+"1645",1034,"Félix González Gatica","Periodo_1",NA,NA,NA
+"1646",1034,"Félix González Gatica","Periodo_2",NA,NA,NA
+"1647",1034,"Félix González Gatica","Periodo_3",NA,NA,NA
+"1648",1034,"Félix González Gatica","Periodo_4",NA,NA,NA
+"1649",1034,"Félix González Gatica","Periodo_5",-1.26891341254716,-1.23933820678662,-1.20976300102607
+"1650",1034,"Félix González Gatica","Periodo_6",-1.00125591764085,-1.02962504450721,-1.05799417137356
+"1651",1036,"Tomás Hirsch Goldschmidt","Periodo_1",NA,NA,NA
+"1652",1036,"Tomás Hirsch Goldschmidt","Periodo_2",NA,NA,NA
+"1653",1036,"Tomás Hirsch Goldschmidt","Periodo_3",NA,NA,NA
+"1654",1036,"Tomás Hirsch Goldschmidt","Periodo_4",NA,NA,NA
+"1655",1036,"Tomás Hirsch Goldschmidt","Periodo_5",-0.901785397129174,-0.872210191368629,-0.842634985608085
+"1656",1036,"Tomás Hirsch Goldschmidt","Periodo_6",-0.771867452463199,-0.80023657932955,-0.828605706195901
+"1657",1037,"Diego Ibáñez Cotroneo","Periodo_1",NA,NA,NA
+"1658",1037,"Diego Ibáñez Cotroneo","Periodo_2",NA,NA,NA
+"1659",1037,"Diego Ibáñez Cotroneo","Periodo_3",NA,NA,NA
+"1660",1037,"Diego Ibáñez Cotroneo","Periodo_4",NA,NA,NA
+"1661",1037,"Diego Ibáñez Cotroneo","Periodo_5",-0.893059798581207,-0.863484592820662,-0.833909387060118
+"1662",1037,"Diego Ibáñez Cotroneo","Periodo_6",-1.14678782627901,-1.17515695314536,-1.20352608001171
+"1663",1038,"Marcos Ilabaca Cerda","Periodo_1",NA,NA,NA
+"1664",1038,"Marcos Ilabaca Cerda","Periodo_2",NA,NA,NA
+"1665",1038,"Marcos Ilabaca Cerda","Periodo_3",NA,NA,NA
+"1666",1038,"Marcos Ilabaca Cerda","Periodo_4",NA,NA,NA
+"1667",1038,"Marcos Ilabaca Cerda","Periodo_5",-0.785866118597051,-0.756290912836507,-0.726715707075963
+"1668",1038,"Marcos Ilabaca Cerda","Periodo_6",-0.853549830191942,-0.881918957058293,-0.910288083924644
+"1669",1039,"Pamela Jiles Moreno","Periodo_1",NA,NA,NA
+"1670",1039,"Pamela Jiles Moreno","Periodo_2",NA,NA,NA
+"1671",1039,"Pamela Jiles Moreno","Periodo_3",NA,NA,NA
+"1672",1039,"Pamela Jiles Moreno","Periodo_4",NA,NA,NA
+"1673",1039,"Pamela Jiles Moreno","Periodo_5",-0.548195928094983,-0.518620722334439,-0.489045516573894
+"1674",1039,"Pamela Jiles Moreno","Periodo_6",-0.388786339156646,-0.417155466022997,-0.445524592889348
+"1675",1040,"Harry Jürgensen Rundshagen","Periodo_1",NA,NA,NA
+"1676",1040,"Harry Jürgensen Rundshagen","Periodo_2",NA,NA,NA
+"1677",1040,"Harry Jürgensen Rundshagen","Periodo_3",NA,NA,NA
+"1678",1040,"Harry Jürgensen Rundshagen","Periodo_4",NA,NA,NA
+"1679",1040,"Harry Jürgensen Rundshagen","Periodo_5",1.24403891967837,1.27361412543891,1.30318933119946
+"1680",1040,"Harry Jürgensen Rundshagen","Periodo_6",0.746911408981142,0.718542282114792,0.690173155248441
+"1681",1042,"Sebastián Keitel Bianchi","Periodo_1",NA,NA,NA
+"1682",1042,"Sebastián Keitel Bianchi","Periodo_2",NA,NA,NA
+"1683",1042,"Sebastián Keitel Bianchi","Periodo_3",NA,NA,NA
+"1684",1042,"Sebastián Keitel Bianchi","Periodo_4",NA,NA,NA
+"1685",1042,"Sebastián Keitel Bianchi","Periodo_5",0.77836490702582,0.80794347964086,0.837522052255901
+"1686",1042,"Sebastián Keitel Bianchi","Periodo_6",NA,NA,NA
+"1687",1044,"Raúl Leiva Carvajal","Periodo_1",NA,NA,NA
+"1688",1044,"Raúl Leiva Carvajal","Periodo_2",NA,NA,NA
+"1689",1044,"Raúl Leiva Carvajal","Periodo_3",NA,NA,NA
+"1690",1044,"Raúl Leiva Carvajal","Periodo_4",NA,NA,NA
+"1691",1044,"Raúl Leiva Carvajal","Periodo_5",-0.470509232821332,-0.440934027060788,-0.411358821300243
+"1692",1044,"Raúl Leiva Carvajal","Periodo_6",-0.71482946615821,-0.743198593024561,-0.771567719890912
+"1693",1046,"Andrés Longton Herrera","Periodo_1",NA,NA,NA
+"1694",1046,"Andrés Longton Herrera","Periodo_2",NA,NA,NA
+"1695",1046,"Andrés Longton Herrera","Periodo_3",NA,NA,NA
+"1696",1046,"Andrés Longton Herrera","Periodo_4",NA,NA,NA
+"1697",1046,"Andrés Longton Herrera","Periodo_5",1.06860260462306,1.09817781038361,1.12775301614415
+"1698",1046,"Andrés Longton Herrera","Periodo_6",0.522634930224148,0.494265803357797,0.465896676491446
+"1699",1047,"Karin Luck Urban","Periodo_1",NA,NA,NA
+"1700",1047,"Karin Luck Urban","Periodo_2",NA,NA,NA
+"1701",1047,"Karin Luck Urban","Periodo_3",NA,NA,NA
+"1702",1047,"Karin Luck Urban","Periodo_4",NA,NA,NA
+"1703",1047,"Karin Luck Urban","Periodo_5",1.28724196764149,1.31682054025653,1.34639911287157
+"1704",1047,"Karin Luck Urban","Periodo_6",NA,NA,NA
+"1705",1048,"Carolina Marzán Pinto","Periodo_1",NA,NA,NA
+"1706",1048,"Carolina Marzán Pinto","Periodo_2",NA,NA,NA
+"1707",1048,"Carolina Marzán Pinto","Periodo_3",NA,NA,NA
+"1708",1048,"Carolina Marzán Pinto","Periodo_4",NA,NA,NA
+"1709",1048,"Carolina Marzán Pinto","Periodo_5",-0.596503294534079,-0.566928088773535,-0.537352883012991
+"1710",1048,"Carolina Marzán Pinto","Periodo_6",-0.432066285170613,-0.460435412036964,-0.488804538903314
+"1711",660,"Manuel Matta Aragay","Periodo_1",NA,NA,NA
+"1712",660,"Manuel Matta Aragay","Periodo_2",NA,NA,NA
+"1713",660,"Manuel Matta Aragay","Periodo_3",NA,NA,NA
+"1714",660,"Manuel Matta Aragay","Periodo_4",NA,NA,NA
+"1715",660,"Manuel Matta Aragay","Periodo_5",0.187718603254652,0.217297175869693,0.246875748484733
+"1716",660,"Manuel Matta Aragay","Periodo_6",NA,NA,NA
+"1717",1049,"Cosme Mellado Pino","Periodo_1",NA,NA,NA
+"1718",1049,"Cosme Mellado Pino","Periodo_2",NA,NA,NA
+"1719",1049,"Cosme Mellado Pino","Periodo_3",NA,NA,NA
+"1720",1049,"Cosme Mellado Pino","Periodo_4",NA,NA,NA
+"1721",1049,"Cosme Mellado Pino","Periodo_5",-0.427176151569394,-0.39760094580885,-0.368025740048306
+"1722",1049,"Cosme Mellado Pino","Periodo_6",-1.06849102998732,-1.09686015685367,-1.12522928372002
+"1723",1050,"Miguel Mellado Suazo","Periodo_1",NA,NA,NA
+"1724",1050,"Miguel Mellado Suazo","Periodo_2",NA,NA,NA
+"1725",1050,"Miguel Mellado Suazo","Periodo_3",NA,NA,NA
+"1726",1050,"Miguel Mellado Suazo","Periodo_4",NA,NA,NA
+"1727",1050,"Miguel Mellado Suazo","Periodo_5",1.28010148186197,1.30967668762251,1.33925189338306
+"1728",1050,"Miguel Mellado Suazo","Periodo_6",0.658071244809735,0.629702117943384,0.601332991077033
+"1729",1051,"Claudia Mix Jiménez","Periodo_1",NA,NA,NA
+"1730",1051,"Claudia Mix Jiménez","Periodo_2",NA,NA,NA
+"1731",1051,"Claudia Mix Jiménez","Periodo_3",NA,NA,NA
+"1732",1051,"Claudia Mix Jiménez","Periodo_4",NA,NA,NA
+"1733",1051,"Claudia Mix Jiménez","Periodo_5",-1.03543792867879,-1.00586272291824,-0.976287517157699
+"1734",1051,"Claudia Mix Jiménez","Periodo_6",-1.05965628454114,-1.0880254114075,-1.11639453827385
+"1735",1052,"Andrés Molina Magofke","Periodo_1",NA,NA,NA
+"1736",1052,"Andrés Molina Magofke","Periodo_2",NA,NA,NA
+"1737",1052,"Andrés Molina Magofke","Periodo_3",NA,NA,NA
+"1738",1052,"Andrés Molina Magofke","Periodo_4",NA,NA,NA
+"1739",1052,"Andrés Molina Magofke","Periodo_5",1.12145031529926,1.1510288879143,1.18060746052934
+"1740",1052,"Andrés Molina Magofke","Periodo_6",NA,NA,NA
+"1741",1053,"Cristhian Moreira Barros","Periodo_1",NA,NA,NA
+"1742",1053,"Cristhian Moreira Barros","Periodo_2",NA,NA,NA
+"1743",1053,"Cristhian Moreira Barros","Periodo_3",NA,NA,NA
+"1744",1053,"Cristhian Moreira Barros","Periodo_4",NA,NA,NA
+"1745",1053,"Cristhian Moreira Barros","Periodo_5",1.25162671864087,1.28120192440141,1.31077713016196
+"1746",1053,"Cristhian Moreira Barros","Periodo_6",0.564803867308264,0.536434740441913,0.508065613575563
+"1747",1054,"Francesca Muñoz González","Periodo_1",NA,NA,NA
+"1748",1054,"Francesca Muñoz González","Periodo_2",NA,NA,NA
+"1749",1054,"Francesca Muñoz González","Periodo_3",NA,NA,NA
+"1750",1054,"Francesca Muñoz González","Periodo_4",NA,NA,NA
+"1751",1054,"Francesca Muñoz González","Periodo_5",1.16279419661976,1.19236940238031,1.22194460814085
+"1752",1054,"Francesca Muñoz González","Periodo_6",0.503326146757127,0.474957019890777,0.446587893024426
+"1753",74,"Jaime Naranjo Ortiz","Periodo_1",NA,NA,NA
+"1754",74,"Jaime Naranjo Ortiz","Periodo_2",NA,NA,NA
+"1755",74,"Jaime Naranjo Ortiz","Periodo_3",NA,NA,NA
+"1756",74,"Jaime Naranjo Ortiz","Periodo_4",NA,NA,NA
+"1757",74,"Jaime Naranjo Ortiz","Periodo_5",-0.668336246703128,-0.638761040942583,-0.609185835182039
+"1758",74,"Jaime Naranjo Ortiz","Periodo_6",-1.07164990486189,-1.10001903172824,-1.12838815859459
+"1759",1055,"Nicolás Noman Garrido","Periodo_1",NA,NA,NA
+"1760",1055,"Nicolás Noman Garrido","Periodo_2",NA,NA,NA
+"1761",1055,"Nicolás Noman Garrido","Periodo_3",NA,NA,NA
+"1762",1055,"Nicolás Noman Garrido","Periodo_4",NA,NA,NA
+"1763",1055,"Nicolás Noman Garrido","Periodo_5",0.749956368993794,0.779534941608835,0.809113514223876
+"1764",1055,"Nicolás Noman Garrido","Periodo_6",NA,NA,NA
+"1765",1056,"Emilia Nuyado Ancapichún","Periodo_1",NA,NA,NA
+"1766",1056,"Emilia Nuyado Ancapichún","Periodo_2",NA,NA,NA
+"1767",1056,"Emilia Nuyado Ancapichún","Periodo_3",NA,NA,NA
+"1768",1056,"Emilia Nuyado Ancapichún","Periodo_4",NA,NA,NA
+"1769",1056,"Emilia Nuyado Ancapichún","Periodo_5",-0.819156094607802,-0.789580888847258,-0.760005683086713
+"1770",1056,"Emilia Nuyado Ancapichún","Periodo_6",-0.776651709851958,-0.805020836718309,-0.833389963584659
+"1771",1057,"Erika Olivera De La Fuente","Periodo_1",NA,NA,NA
+"1772",1057,"Erika Olivera De La Fuente","Periodo_2",NA,NA,NA
+"1773",1057,"Erika Olivera De La Fuente","Periodo_3",NA,NA,NA
+"1774",1057,"Erika Olivera De La Fuente","Periodo_4",NA,NA,NA
+"1775",1057,"Erika Olivera De La Fuente","Periodo_5",0.723038958634727,0.752614164395272,0.782189370155816
+"1776",1057,"Erika Olivera De La Fuente","Periodo_6",-0.369299136473512,-0.397668263339863,-0.426037390206214
+"1777",1058,"Maite Orsini Pascal","Periodo_1",NA,NA,NA
+"1778",1058,"Maite Orsini Pascal","Periodo_2",NA,NA,NA
+"1779",1058,"Maite Orsini Pascal","Periodo_3",NA,NA,NA
+"1780",1058,"Maite Orsini Pascal","Periodo_4",NA,NA,NA
+"1781",1058,"Maite Orsini Pascal","Periodo_5",-0.575904324095924,-0.54632911833538,-0.516753912574835
+"1782",1058,"Maite Orsini Pascal","Periodo_6",-0.569878870095964,-0.598247996962315,-0.626617123828666
+"1783",1059,"Ximena Ossandón Irarrázabal","Periodo_1",NA,NA,NA
+"1784",1059,"Ximena Ossandón Irarrázabal","Periodo_2",NA,NA,NA
+"1785",1059,"Ximena Ossandón Irarrázabal","Periodo_3",NA,NA,NA
+"1786",1059,"Ximena Ossandón Irarrázabal","Periodo_4",NA,NA,NA
+"1787",1059,"Ximena Ossandón Irarrázabal","Periodo_5",1.04337653714116,1.0729517429017,1.10252694866225
+"1788",1059,"Ximena Ossandón Irarrázabal","Periodo_6",0.444888216188947,0.416519089322596,0.388149962456245
+"1789",1060,"Luis Pardo Sáinz","Periodo_1",NA,NA,NA
+"1790",1060,"Luis Pardo Sáinz","Periodo_2",NA,NA,NA
+"1791",1060,"Luis Pardo Sáinz","Periodo_3",NA,NA,NA
+"1792",1060,"Luis Pardo Sáinz","Periodo_4",NA,NA,NA
+"1793",1060,"Luis Pardo Sáinz","Periodo_5",1.47987907414393,1.50945764675897,1.53903621937401
+"1794",1060,"Luis Pardo Sáinz","Periodo_6",NA,NA,NA
+"1795",1061,"Andrea Parra Sauterel","Periodo_1",NA,NA,NA
+"1796",1061,"Andrea Parra Sauterel","Periodo_2",NA,NA,NA
+"1797",1061,"Andrea Parra Sauterel","Periodo_3",NA,NA,NA
+"1798",1061,"Andrea Parra Sauterel","Periodo_4",NA,NA,NA
+"1799",1061,"Andrea Parra Sauterel","Periodo_5",-0.542752458234231,-0.51317388561919,-0.48359531300415
+"1800",1061,"Andrea Parra Sauterel","Periodo_6",NA,NA,NA
+"1801",1062,"Joanna Pérez Olea","Periodo_1",NA,NA,NA
+"1802",1062,"Joanna Pérez Olea","Periodo_2",NA,NA,NA
+"1803",1062,"Joanna Pérez Olea","Periodo_3",NA,NA,NA
+"1804",1062,"Joanna Pérez Olea","Periodo_4",NA,NA,NA
+"1805",1062,"Joanna Pérez Olea","Periodo_5",0.0475354774428722,0.0771106832034165,0.106685888963961
+"1806",1062,"Joanna Pérez Olea","Periodo_6",-0.322054714863592,-0.350423841729943,-0.378792968596294
+"1807",1063,"Catalina Pérez Salinas","Periodo_1",NA,NA,NA
+"1808",1063,"Catalina Pérez Salinas","Periodo_2",NA,NA,NA
+"1809",1063,"Catalina Pérez Salinas","Periodo_3",NA,NA,NA
+"1810",1063,"Catalina Pérez Salinas","Periodo_4",NA,NA,NA
+"1811",1063,"Catalina Pérez Salinas","Periodo_5",-0.909454009752615,-0.879878803992071,-0.850303598231526
+"1812",1063,"Catalina Pérez Salinas","Periodo_6",-1.02335950395081,-1.05172863081716,-1.08009775768351
+"1813",1065,"Guillermo Ramírez Diez","Periodo_1",NA,NA,NA
+"1814",1065,"Guillermo Ramírez Diez","Periodo_2",NA,NA,NA
+"1815",1065,"Guillermo Ramírez Diez","Periodo_3",NA,NA,NA
+"1816",1065,"Guillermo Ramírez Diez","Periodo_4",NA,NA,NA
+"1817",1065,"Guillermo Ramírez Diez","Periodo_5",1.08818172989831,1.11775693565886,1.1473321414194
+"1818",1065,"Guillermo Ramírez Diez","Periodo_6",0.618837378833467,0.590468251967117,0.562099125100766
+"1819",1066,"Rolando Rentería Moller","Periodo_1",NA,NA,NA
+"1820",1066,"Rolando Rentería Moller","Periodo_2",NA,NA,NA
+"1821",1066,"Rolando Rentería Moller","Periodo_3",NA,NA,NA
+"1822",1066,"Rolando Rentería Moller","Periodo_4",NA,NA,NA
+"1823",1066,"Rolando Rentería Moller","Periodo_5",0.759897648868914,0.789476221483955,0.819054794098996
+"1824",1066,"Rolando Rentería Moller","Periodo_6",NA,NA,NA
+"1825",1067,"Hugo Rey Martínez","Periodo_1",NA,NA,NA
+"1826",1067,"Hugo Rey Martínez","Periodo_2",NA,NA,NA
+"1827",1067,"Hugo Rey Martínez","Periodo_3",NA,NA,NA
+"1828",1067,"Hugo Rey Martínez","Periodo_4",NA,NA,NA
+"1829",1067,"Hugo Rey Martínez","Periodo_5",1.09897690131461,1.12855210707515,1.1581273128357
+"1830",1067,"Hugo Rey Martínez","Periodo_6",0.412574041793524,0.384204914927173,0.355835788060823
+"1831",1068,"Camila Rojas Valderrama","Periodo_1",NA,NA,NA
+"1832",1068,"Camila Rojas Valderrama","Periodo_2",NA,NA,NA
+"1833",1068,"Camila Rojas Valderrama","Periodo_3",NA,NA,NA
+"1834",1068,"Camila Rojas Valderrama","Periodo_4",NA,NA,NA
+"1835",1068,"Camila Rojas Valderrama","Periodo_5",-1.09568795680323,-1.06611275104268,-1.03653754528214
+"1836",1068,"Camila Rojas Valderrama","Periodo_6",-1.01582880328073,-1.04419793014708,-1.07256705701343
+"1837",1069,"Leonidas Romero Sáez","Periodo_1",NA,NA,NA
+"1838",1069,"Leonidas Romero Sáez","Periodo_2",NA,NA,NA
+"1839",1069,"Leonidas Romero Sáez","Periodo_3",NA,NA,NA
+"1840",1069,"Leonidas Romero Sáez","Periodo_4",NA,NA,NA
+"1841",1069,"Leonidas Romero Sáez","Periodo_5",0.993856681753424,1.02343188751397,1.05300709327451
+"1842",1069,"Leonidas Romero Sáez","Periodo_6",0.371759609916888,0.343390483050537,0.315021356184186
+"1843",1070,"Patricio Rosas Barrientos","Periodo_1",NA,NA,NA
+"1844",1070,"Patricio Rosas Barrientos","Periodo_2",NA,NA,NA
+"1845",1070,"Patricio Rosas Barrientos","Periodo_3",NA,NA,NA
+"1846",1070,"Patricio Rosas Barrientos","Periodo_4",NA,NA,NA
+"1847",1070,"Patricio Rosas Barrientos","Periodo_5",-0.62511598806516,-0.595540782304616,-0.565965576544072
+"1848",1070,"Patricio Rosas Barrientos","Periodo_6",-0.732814370071083,-0.761183496937434,-0.789552623803785
+"1849",1071,"Gastón Saavedra Chandía","Periodo_1",NA,NA,NA
+"1850",1071,"Gastón Saavedra Chandía","Periodo_2",NA,NA,NA
+"1851",1071,"Gastón Saavedra Chandía","Periodo_3",NA,NA,NA
+"1852",1071,"Gastón Saavedra Chandía","Periodo_4",NA,NA,NA
+"1853",1071,"Gastón Saavedra Chandía","Periodo_5",-0.604777184091266,-0.575198611476225,-0.545620038861184
+"1854",1071,"Gastón Saavedra Chandía","Periodo_6",NA,NA,NA
+"1855",1072,"Gustavo Sanhueza Dueñas","Periodo_1",NA,NA,NA
+"1856",1072,"Gustavo Sanhueza Dueñas","Periodo_2",NA,NA,NA
+"1857",1072,"Gustavo Sanhueza Dueñas","Periodo_3",NA,NA,NA
+"1858",1072,"Gustavo Sanhueza Dueñas","Periodo_4",NA,NA,NA
+"1859",1072,"Gustavo Sanhueza Dueñas","Periodo_5",1.10234556521187,1.13192413782691,1.16150271044195
+"1860",1072,"Gustavo Sanhueza Dueñas","Periodo_6",NA,NA,NA
+"1861",1073,"Juan Santana Castillo","Periodo_1",NA,NA,NA
+"1862",1073,"Juan Santana Castillo","Periodo_2",NA,NA,NA
+"1863",1073,"Juan Santana Castillo","Periodo_3",NA,NA,NA
+"1864",1073,"Juan Santana Castillo","Periodo_4",NA,NA,NA
+"1865",1073,"Juan Santana Castillo","Periodo_5",-0.523325594363347,-0.493750388602802,-0.464175182842258
+"1866",1073,"Juan Santana Castillo","Periodo_6",-0.955376252442491,-0.983745379308842,-1.01211450617519
+"1867",1075,"Diego Schalper Sepúlveda","Periodo_1",NA,NA,NA
+"1868",1075,"Diego Schalper Sepúlveda","Periodo_2",NA,NA,NA
+"1869",1075,"Diego Schalper Sepúlveda","Periodo_3",NA,NA,NA
+"1870",1075,"Diego Schalper Sepúlveda","Periodo_4",NA,NA,NA
+"1871",1075,"Diego Schalper Sepúlveda","Periodo_5",1.02922115297583,1.05879635873637,1.08837156449692
+"1872",1075,"Diego Schalper Sepúlveda","Periodo_6",0.331897876897939,0.303528750031588,0.275159623165238
+"1873",1076,"Alexis Sepúlveda Soto","Periodo_1",NA,NA,NA
+"1874",1076,"Alexis Sepúlveda Soto","Periodo_2",NA,NA,NA
+"1875",1076,"Alexis Sepúlveda Soto","Periodo_3",NA,NA,NA
+"1876",1076,"Alexis Sepúlveda Soto","Periodo_4",NA,NA,NA
+"1877",1076,"Alexis Sepúlveda Soto","Periodo_5",-0.347162609944478,-0.317587404183934,-0.28801219842339
+"1878",1076,"Alexis Sepúlveda Soto","Periodo_6",-0.660926118990913,-0.689295245857263,-0.717664372723614
+"1879",1077,"Raúl Soto Mardones","Periodo_1",NA,NA,NA
+"1880",1077,"Raúl Soto Mardones","Periodo_2",NA,NA,NA
+"1881",1077,"Raúl Soto Mardones","Periodo_3",NA,NA,NA
+"1882",1077,"Raúl Soto Mardones","Periodo_4",NA,NA,NA
+"1883",1077,"Raúl Soto Mardones","Periodo_5",-0.519715978808581,-0.490140773048037,-0.460565567287493
+"1884",1077,"Raúl Soto Mardones","Periodo_6",-0.568810208655248,-0.597179335521598,-0.625548462387949
+"1885",1078,"Jaime Tohá González","Periodo_1",NA,NA,NA
+"1886",1078,"Jaime Tohá González","Periodo_2",NA,NA,NA
+"1887",1078,"Jaime Tohá González","Periodo_3",NA,NA,NA
+"1888",1078,"Jaime Tohá González","Periodo_4",NA,NA,NA
+"1889",1078,"Jaime Tohá González","Periodo_5",-0.325829971134294,-0.296251398519253,-0.266672825904213
+"1890",1078,"Jaime Tohá González","Periodo_6",NA,NA,NA
+"1891",1079,"Sebastián Torrealba Alvarado","Periodo_1",NA,NA,NA
+"1892",1079,"Sebastián Torrealba Alvarado","Periodo_2",NA,NA,NA
+"1893",1079,"Sebastián Torrealba Alvarado","Periodo_3",NA,NA,NA
+"1894",1079,"Sebastián Torrealba Alvarado","Periodo_4",NA,NA,NA
+"1895",1079,"Sebastián Torrealba Alvarado","Periodo_5",0.879173858495162,0.908752431110203,0.938331003725244
+"1896",1079,"Sebastián Torrealba Alvarado","Periodo_6",NA,NA,NA
+"1897",1080,"Virginia Troncoso Hellman","Periodo_1",NA,NA,NA
+"1898",1080,"Virginia Troncoso Hellman","Periodo_2",NA,NA,NA
+"1899",1080,"Virginia Troncoso Hellman","Periodo_3",NA,NA,NA
+"1900",1080,"Virginia Troncoso Hellman","Periodo_4",NA,NA,NA
+"1901",1080,"Virginia Troncoso Hellman","Periodo_5",0.73152203271659,0.761100605331631,0.790679177946672
+"1902",1080,"Virginia Troncoso Hellman","Periodo_6",NA,NA,NA
+"1903",1081,"Francisco Undurraga Gazitúa","Periodo_1",NA,NA,NA
+"1904",1081,"Francisco Undurraga Gazitúa","Periodo_2",NA,NA,NA
+"1905",1081,"Francisco Undurraga Gazitúa","Periodo_3",NA,NA,NA
+"1906",1081,"Francisco Undurraga Gazitúa","Periodo_4",NA,NA,NA
+"1907",1081,"Francisco Undurraga Gazitúa","Periodo_5",1.05695436487531,1.08652957063586,1.1161047763964
+"1908",1081,"Francisco Undurraga Gazitúa","Periodo_6",0.289334428957289,0.260965302090938,0.232596175224587
+"1909",1082,"Cristóbal Urruticoechea Ríos","Periodo_1",NA,NA,NA
+"1910",1082,"Cristóbal Urruticoechea Ríos","Periodo_2",NA,NA,NA
+"1911",1082,"Cristóbal Urruticoechea Ríos","Periodo_3",NA,NA,NA
+"1912",1082,"Cristóbal Urruticoechea Ríos","Periodo_4",NA,NA,NA
+"1913",1082,"Cristóbal Urruticoechea Ríos","Periodo_5",1.14368665203034,1.17326185779089,1.20283706355143
+"1914",1082,"Cristóbal Urruticoechea Ríos","Periodo_6",0.436410888892382,0.408041762026031,0.379672635159681
+"1915",1083,"Esteban Velásquez Núñez","Periodo_1",NA,NA,NA
+"1916",1083,"Esteban Velásquez Núñez","Periodo_2",NA,NA,NA
+"1917",1083,"Esteban Velásquez Núñez","Periodo_3",NA,NA,NA
+"1918",1083,"Esteban Velásquez Núñez","Periodo_4",NA,NA,NA
+"1919",1083,"Esteban Velásquez Núñez","Periodo_5",-0.59434587402869,-0.564767301413649,-0.535188728798608
+"1920",1083,"Esteban Velásquez Núñez","Periodo_6",NA,NA,NA
+"1921",1084,"Daniel Verdessi Belemmi","Periodo_1",NA,NA,NA
+"1922",1084,"Daniel Verdessi Belemmi","Periodo_2",NA,NA,NA
+"1923",1084,"Daniel Verdessi Belemmi","Periodo_3",NA,NA,NA
+"1924",1084,"Daniel Verdessi Belemmi","Periodo_4",NA,NA,NA
+"1925",1084,"Daniel Verdessi Belemmi","Periodo_5",0.100765126032522,0.130343698647563,0.159922271262604
+"1926",1084,"Daniel Verdessi Belemmi","Periodo_6",NA,NA,NA
+"1927",1085,"Pablo Vidal Rojas","Periodo_1",NA,NA,NA
+"1928",1085,"Pablo Vidal Rojas","Periodo_2",NA,NA,NA
+"1929",1085,"Pablo Vidal Rojas","Periodo_3",NA,NA,NA
+"1930",1085,"Pablo Vidal Rojas","Periodo_4",NA,NA,NA
+"1931",1085,"Pablo Vidal Rojas","Periodo_5",-0.929974462400355,-0.900395889785314,-0.870817317170273
+"1932",1085,"Pablo Vidal Rojas","Periodo_6",NA,NA,NA
+"1933",1086,"Gonzalo Winter Etcheberry","Periodo_1",NA,NA,NA
+"1934",1086,"Gonzalo Winter Etcheberry","Periodo_2",NA,NA,NA
+"1935",1086,"Gonzalo Winter Etcheberry","Periodo_3",NA,NA,NA
+"1936",1086,"Gonzalo Winter Etcheberry","Periodo_4",NA,NA,NA
+"1937",1086,"Gonzalo Winter Etcheberry","Periodo_5",-0.972143022282456,-0.942567816521912,-0.912992610761368
+"1938",1086,"Gonzalo Winter Etcheberry","Periodo_6",-1.07194547177843,-1.10031459864478,-1.12868372551113
+"1939",1087,"Gael Yeomans Araya","Periodo_1",NA,NA,NA
+"1940",1087,"Gael Yeomans Araya","Periodo_2",NA,NA,NA
+"1941",1087,"Gael Yeomans Araya","Periodo_3",NA,NA,NA
+"1942",1087,"Gael Yeomans Araya","Periodo_4",NA,NA,NA
+"1943",1087,"Gael Yeomans Araya","Periodo_5",-0.993112430132202,-0.963537224371658,-0.933962018611114
+"1944",1087,"Gael Yeomans Araya","Periodo_6",-1.35487358020876,-1.38324270707511,-1.41161183394146
+"1945",1093,"Patricia Rubio Escobar","Periodo_1",NA,NA,NA
+"1946",1093,"Patricia Rubio Escobar","Periodo_2",NA,NA,NA
+"1947",1093,"Patricia Rubio Escobar","Periodo_3",NA,NA,NA
+"1948",1093,"Patricia Rubio Escobar","Periodo_4",NA,NA,NA
+"1949",1093,"Patricia Rubio Escobar","Periodo_5",0.0677410824319226,0.0973196550469634,0.126898227662004
+"1950",1093,"Patricia Rubio Escobar","Periodo_6",NA,NA,NA
+"1951",1088,"Camilo Morán Bahamondes","Periodo_1",NA,NA,NA
+"1952",1088,"Camilo Morán Bahamondes","Periodo_2",NA,NA,NA
+"1953",1088,"Camilo Morán Bahamondes","Periodo_3",NA,NA,NA
+"1954",1088,"Camilo Morán Bahamondes","Periodo_4",NA,NA,NA
+"1955",1088,"Camilo Morán Bahamondes","Periodo_5",0.295627963339203,0.325206535954244,0.354785108569284
+"1956",1088,"Camilo Morán Bahamondes","Periodo_6",NA,NA,NA
+"1957",1090,"Tomás Andrés Fuentes Barros","Periodo_1",NA,NA,NA
+"1958",1090,"Tomás Andrés Fuentes Barros","Periodo_2",NA,NA,NA
+"1959",1090,"Tomás Andrés Fuentes Barros","Periodo_3",NA,NA,NA
+"1960",1090,"Tomás Andrés Fuentes Barros","Periodo_4",NA,NA,NA
+"1961",1090,"Tomás Andrés Fuentes Barros","Periodo_5",0.281267466422688,0.310846039037729,0.34042461165277
+"1962",1090,"Tomás Andrés Fuentes Barros","Periodo_6",NA,NA,NA
+"1963",1091,"Rubén Moraga Mamani","Periodo_1",NA,NA,NA
+"1964",1091,"Rubén Moraga Mamani","Periodo_2",NA,NA,NA
+"1965",1091,"Rubén Moraga Mamani","Periodo_3",NA,NA,NA
+"1966",1091,"Rubén Moraga Mamani","Periodo_4",NA,NA,NA
+"1967",1091,"Rubén Moraga Mamani","Periodo_5",0.0535734155188999,0.0831519881339406,0.112730560748981
+"1968",1091,"Rubén Moraga Mamani","Periodo_6",NA,NA,NA
+"1969",1092,"Marcela Sandoval Osorio","Periodo_1",NA,NA,NA
+"1970",1092,"Marcela Sandoval Osorio","Periodo_2",NA,NA,NA
+"1971",1092,"Marcela Sandoval Osorio","Periodo_3",NA,NA,NA
+"1972",1092,"Marcela Sandoval Osorio","Periodo_4",NA,NA,NA
+"1973",1092,"Marcela Sandoval Osorio","Periodo_5",0.0478544819275544,0.0774330545425952,0.107011627157636
+"1974",1092,"Marcela Sandoval Osorio","Periodo_6",NA,NA,NA
+"1975",1094,"Cristian Labbé Martínez","Periodo_1",NA,NA,NA
+"1976",1094,"Cristian Labbé Martínez","Periodo_2",NA,NA,NA
+"1977",1094,"Cristian Labbé Martínez","Periodo_3",NA,NA,NA
+"1978",1094,"Cristian Labbé Martínez","Periodo_4",NA,NA,NA
+"1979",1094,"Cristian Labbé Martínez","Periodo_5",0.194045338723099,0.223620544483644,0.253195750244188
+"1980",1094,"Cristian Labbé Martínez","Periodo_6",0.647010529584408,0.618641402718058,0.590272275851707
+"1981",1035,"Carmen Hertz Cádiz","Periodo_1",NA,NA,NA
+"1982",1035,"Carmen Hertz Cádiz","Periodo_2",NA,NA,NA
+"1983",1035,"Carmen Hertz Cádiz","Periodo_3",NA,NA,NA
+"1984",1035,"Carmen Hertz Cádiz","Periodo_4",NA,NA,NA
+"1985",1035,"Carmen Hertz Cádiz","Periodo_5",-0.381401712415049,-0.351826506654504,-0.32225130089396
+"1986",1035,"Carmen Hertz Cádiz","Periodo_6",-0.453324562748754,-0.481693689615104,-0.510062816481455
+"1987",1041,"Pablo Kast Sommerhoff","Periodo_1",NA,NA,NA
+"1988",1041,"Pablo Kast Sommerhoff","Periodo_2",NA,NA,NA
+"1989",1041,"Pablo Kast Sommerhoff","Periodo_3",NA,NA,NA
+"1990",1041,"Pablo Kast Sommerhoff","Periodo_4",NA,NA,NA
+"1991",1041,"Pablo Kast Sommerhoff","Periodo_5",0.769431884026322,0.799010456641362,0.828589029256403
+"1992",1041,"Pablo Kast Sommerhoff","Periodo_6",NA,NA,NA
+"1993",1043,"Amaro Labra Sepúlveda","Periodo_1",NA,NA,NA
+"1994",1043,"Amaro Labra Sepúlveda","Periodo_2",NA,NA,NA
+"1995",1043,"Amaro Labra Sepúlveda","Periodo_3",NA,NA,NA
+"1996",1043,"Amaro Labra Sepúlveda","Periodo_4",NA,NA,NA
+"1997",1043,"Amaro Labra Sepúlveda","Periodo_5",-0.950519231228754,-0.920940658613713,-0.891362085998673
+"1998",1043,"Amaro Labra Sepúlveda","Periodo_6",NA,NA,NA
+"1999",1074,"Marisela Santibáñez Novoa","Periodo_1",NA,NA,NA
+"2000",1074,"Marisela Santibáñez Novoa","Periodo_2",NA,NA,NA
+"2001",1074,"Marisela Santibáñez Novoa","Periodo_3",NA,NA,NA
+"2002",1074,"Marisela Santibáñez Novoa","Periodo_4",NA,NA,NA
+"2003",1074,"Marisela Santibáñez Novoa","Periodo_5",-0.67437485171309,-0.644799645952546,-0.615224440192001
+"2004",1074,"Marisela Santibáñez Novoa","Periodo_6",-0.500980836438833,-0.529349963305184,-0.557719090171534
+"2005",1089,"Nora Cuevas Contreras","Periodo_1",NA,NA,NA
+"2006",1089,"Nora Cuevas Contreras","Periodo_2",NA,NA,NA
+"2007",1089,"Nora Cuevas Contreras","Periodo_3",NA,NA,NA
+"2008",1089,"Nora Cuevas Contreras","Periodo_4",NA,NA,NA
+"2009",1089,"Nora Cuevas Contreras","Periodo_5",0.305566835374718,0.335145407989759,0.3647239806048
+"2010",1089,"Nora Cuevas Contreras","Periodo_6",NA,NA,NA
+"2011",1045,"Aracely Leuquén Uribe","Periodo_1",NA,NA,NA
+"2012",1045,"Aracely Leuquén Uribe","Periodo_2",NA,NA,NA
+"2013",1045,"Aracely Leuquén Uribe","Periodo_3",NA,NA,NA
+"2014",1045,"Aracely Leuquén Uribe","Periodo_4",NA,NA,NA
+"2015",1045,"Aracely Leuquén Uribe","Periodo_5",0.564641438659613,0.594220011274653,0.623798583889694
+"2016",1045,"Aracely Leuquén Uribe","Periodo_6",NA,NA,NA
+"2017",1095,"Juan Manuel Masferrer Vidal","Periodo_1",NA,NA,NA
+"2018",1095,"Juan Manuel Masferrer Vidal","Periodo_2",NA,NA,NA
+"2019",1095,"Juan Manuel Masferrer Vidal","Periodo_3",NA,NA,NA
+"2020",1095,"Juan Manuel Masferrer Vidal","Periodo_4",NA,NA,NA
+"2021",1095,"Juan Manuel Masferrer Vidal","Periodo_5",0.17185636361798,0.20143493623302,0.231013508848061
+"2022",1095,"Juan Manuel Masferrer Vidal","Periodo_6",NA,NA,NA
+"2023",1026,"Mario Desbordes Jiménez","Periodo_1",NA,NA,NA
+"2024",1026,"Mario Desbordes Jiménez","Periodo_2",NA,NA,NA
+"2025",1026,"Mario Desbordes Jiménez","Periodo_3",NA,NA,NA
+"2026",1026,"Mario Desbordes Jiménez","Periodo_4",NA,NA,NA
+"2027",1026,"Mario Desbordes Jiménez","Periodo_5",0.44147300335057,0.47105157596561,0.500630148580651
+"2028",1026,"Mario Desbordes Jiménez","Periodo_6",NA,NA,NA
+"2029",1033,"Renato Garín González","Periodo_1",NA,NA,NA
+"2030",1033,"Renato Garín González","Periodo_2",NA,NA,NA
+"2031",1033,"Renato Garín González","Periodo_3",NA,NA,NA
+"2032",1033,"Renato Garín González","Periodo_4",NA,NA,NA
+"2033",1033,"Renato Garín González","Periodo_5",-0.319554408284192,-0.289975835669151,-0.260397263054111
+"2034",1033,"Renato Garín González","Periodo_6",NA,NA,NA
+"2035",1096,"María Candelaria Acevedo Sáez","Periodo_1",NA,NA,NA
+"2036",1096,"María Candelaria Acevedo Sáez","Periodo_2",NA,NA,NA
+"2037",1096,"María Candelaria Acevedo Sáez","Periodo_3",NA,NA,NA
+"2038",1096,"María Candelaria Acevedo Sáez","Periodo_4",NA,NA,NA
+"2039",1096,"María Candelaria Acevedo Sáez","Periodo_5",NA,NA,NA
+"2040",1096,"María Candelaria Acevedo Sáez","Periodo_6",-1.43614010850896,-1.46451072063388,-1.49288133275881
+"2041",1097,"Eric Aedo Jeldres","Periodo_1",NA,NA,NA
+"2042",1097,"Eric Aedo Jeldres","Periodo_2",NA,NA,NA
+"2043",1097,"Eric Aedo Jeldres","Periodo_3",NA,NA,NA
+"2044",1097,"Eric Aedo Jeldres","Periodo_4",NA,NA,NA
+"2045",1097,"Eric Aedo Jeldres","Periodo_5",NA,NA,NA
+"2046",1097,"Eric Aedo Jeldres","Periodo_6",-0.470968208548261,-0.499338820673184,-0.527709432798107
+"2047",1098,"Yovana Ahumada Palma","Periodo_1",NA,NA,NA
+"2048",1098,"Yovana Ahumada Palma","Periodo_2",NA,NA,NA
+"2049",1098,"Yovana Ahumada Palma","Periodo_3",NA,NA,NA
+"2050",1098,"Yovana Ahumada Palma","Periodo_4",NA,NA,NA
+"2051",1098,"Yovana Ahumada Palma","Periodo_5",NA,NA,NA
+"2052",1098,"Yovana Ahumada Palma","Periodo_6",0.188264939035853,0.15989432691093,0.131523714786006
+"2053",1099,"Jaime Araya Guerrero","Periodo_1",NA,NA,NA
+"2054",1099,"Jaime Araya Guerrero","Periodo_2",NA,NA,NA
+"2055",1099,"Jaime Araya Guerrero","Periodo_3",NA,NA,NA
+"2056",1099,"Jaime Araya Guerrero","Periodo_4",NA,NA,NA
+"2057",1099,"Jaime Araya Guerrero","Periodo_5",NA,NA,NA
+"2058",1099,"Jaime Araya Guerrero","Periodo_6",-0.619380006090483,-0.647750618215406,-0.676121230340329
+"2059",1100,"Cristián Araya Lerdo de Tejada","Periodo_1",NA,NA,NA
+"2060",1100,"Cristián Araya Lerdo de Tejada","Periodo_2",NA,NA,NA
+"2061",1100,"Cristián Araya Lerdo de Tejada","Periodo_3",NA,NA,NA
+"2062",1100,"Cristián Araya Lerdo de Tejada","Periodo_4",NA,NA,NA
+"2063",1100,"Cristián Araya Lerdo de Tejada","Periodo_5",NA,NA,NA
+"2064",1100,"Cristián Araya Lerdo de Tejada","Periodo_6",0.837722716044518,0.809352103919595,0.780981491794672
+"2065",1101,"Mónica Arce Castro","Periodo_1",NA,NA,NA
+"2066",1101,"Mónica Arce Castro","Periodo_2",NA,NA,NA
+"2067",1101,"Mónica Arce Castro","Periodo_3",NA,NA,NA
+"2068",1101,"Mónica Arce Castro","Periodo_4",NA,NA,NA
+"2069",1101,"Mónica Arce Castro","Periodo_5",NA,NA,NA
+"2070",1101,"Mónica Arce Castro","Periodo_6",-0.73486923591247,-0.763239848037393,-0.791610460162316
+"2071",1103,"Danisa Astudillo Peiretti","Periodo_1",NA,NA,NA
+"2072",1103,"Danisa Astudillo Peiretti","Periodo_2",NA,NA,NA
+"2073",1103,"Danisa Astudillo Peiretti","Periodo_3",NA,NA,NA
+"2074",1103,"Danisa Astudillo Peiretti","Periodo_4",NA,NA,NA
+"2075",1103,"Danisa Astudillo Peiretti","Periodo_5",NA,NA,NA
+"2076",1103,"Danisa Astudillo Peiretti","Periodo_6",-0.99433016022425,-1.02270077234917,-1.0510713844741
+"2077",1104,"Chiara Barchiesi Chávez","Periodo_1",NA,NA,NA
+"2078",1104,"Chiara Barchiesi Chávez","Periodo_2",NA,NA,NA
+"2079",1104,"Chiara Barchiesi Chávez","Periodo_3",NA,NA,NA
+"2080",1104,"Chiara Barchiesi Chávez","Periodo_4",NA,NA,NA
+"2081",1104,"Chiara Barchiesi Chávez","Periodo_5",NA,NA,NA
+"2082",1104,"Chiara Barchiesi Chávez","Periodo_6",0.866366414562126,0.837995802437203,0.80962519031228
+"2083",1105,"Héctor Barría Angulo","Periodo_1",NA,NA,NA
+"2084",1105,"Héctor Barría Angulo","Periodo_2",NA,NA,NA
+"2085",1105,"Héctor Barría Angulo","Periodo_3",NA,NA,NA
+"2086",1105,"Héctor Barría Angulo","Periodo_4",NA,NA,NA
+"2087",1105,"Héctor Barría Angulo","Periodo_5",NA,NA,NA
+"2088",1105,"Héctor Barría Angulo","Periodo_6",-0.611532412301196,-0.639903024426119,-0.668273636551042
+"2089",1106,"Miguel Ángel Becker Alvear","Periodo_1",NA,NA,NA
+"2090",1106,"Miguel Ángel Becker Alvear","Periodo_2",NA,NA,NA
+"2091",1106,"Miguel Ángel Becker Alvear","Periodo_3",NA,NA,NA
+"2092",1106,"Miguel Ángel Becker Alvear","Periodo_4",NA,NA,NA
+"2093",1106,"Miguel Ángel Becker Alvear","Periodo_5",NA,NA,NA
+"2094",1106,"Miguel Ángel Becker Alvear","Periodo_6",0.717615093287217,0.689244481162294,0.660873869037371
+"2095",1107,"María Francisca Bello Campos","Periodo_1",NA,NA,NA
+"2096",1107,"María Francisca Bello Campos","Periodo_2",NA,NA,NA
+"2097",1107,"María Francisca Bello Campos","Periodo_3",NA,NA,NA
+"2098",1107,"María Francisca Bello Campos","Periodo_4",NA,NA,NA
+"2099",1107,"María Francisca Bello Campos","Periodo_5",NA,NA,NA
+"2100",1107,"María Francisca Bello Campos","Periodo_6",-1.00848173817907,-1.03685235030399,-1.06522296242891
+"2101",1108,"Juan Carlos Beltrán Silva","Periodo_1",NA,NA,NA
+"2102",1108,"Juan Carlos Beltrán Silva","Periodo_2",NA,NA,NA
+"2103",1108,"Juan Carlos Beltrán Silva","Periodo_3",NA,NA,NA
+"2104",1108,"Juan Carlos Beltrán Silva","Periodo_4",NA,NA,NA
+"2105",1108,"Juan Carlos Beltrán Silva","Periodo_5",NA,NA,NA
+"2106",1108,"Juan Carlos Beltrán Silva","Periodo_6",0.545915107184106,0.517544495059183,0.48917388293426
+"2107",1109,"Gustavo Benavente Vergara","Periodo_1",NA,NA,NA
+"2108",1109,"Gustavo Benavente Vergara","Periodo_2",NA,NA,NA
+"2109",1109,"Gustavo Benavente Vergara","Periodo_3",NA,NA,NA
+"2110",1109,"Gustavo Benavente Vergara","Periodo_4",NA,NA,NA
+"2111",1109,"Gustavo Benavente Vergara","Periodo_5",NA,NA,NA
+"2112",1109,"Gustavo Benavente Vergara","Periodo_6",0.626885899772773,0.59851528764785,0.570144675522927
+"2113",1110,"Carlos Bianchi Chelech","Periodo_1",NA,NA,NA
+"2114",1110,"Carlos Bianchi Chelech","Periodo_2",NA,NA,NA
+"2115",1110,"Carlos Bianchi Chelech","Periodo_3",NA,NA,NA
+"2116",1110,"Carlos Bianchi Chelech","Periodo_4",NA,NA,NA
+"2117",1110,"Carlos Bianchi Chelech","Periodo_5",NA,NA,NA
+"2118",1110,"Carlos Bianchi Chelech","Periodo_6",-0.732584996988688,-0.760955609113611,-0.789326221238534
+"2119",1111,"Fernando Bórquez Montecinos","Periodo_1",NA,NA,NA
+"2120",1111,"Fernando Bórquez Montecinos","Periodo_2",NA,NA,NA
+"2121",1111,"Fernando Bórquez Montecinos","Periodo_3",NA,NA,NA
+"2122",1111,"Fernando Bórquez Montecinos","Periodo_4",NA,NA,NA
+"2123",1111,"Fernando Bórquez Montecinos","Periodo_5",NA,NA,NA
+"2124",1111,"Fernando Bórquez Montecinos","Periodo_6",0.548499230275942,0.520128618151019,0.491758006026096
+"2125",1112,"Ana María Bravo Castro","Periodo_1",NA,NA,NA
+"2126",1112,"Ana María Bravo Castro","Periodo_2",NA,NA,NA
+"2127",1112,"Ana María Bravo Castro","Periodo_3",NA,NA,NA
+"2128",1112,"Ana María Bravo Castro","Periodo_4",NA,NA,NA
+"2129",1112,"Ana María Bravo Castro","Periodo_5",NA,NA,NA
+"2130",1112,"Ana María Bravo Castro","Periodo_6",-0.932319963319951,-0.960690575444874,-0.989061187569797
+"2131",1113,"Marta Bravo Salinas","Periodo_1",NA,NA,NA
+"2132",1113,"Marta Bravo Salinas","Periodo_2",NA,NA,NA
+"2133",1113,"Marta Bravo Salinas","Periodo_3",NA,NA,NA
+"2134",1113,"Marta Bravo Salinas","Periodo_4",NA,NA,NA
+"2135",1113,"Marta Bravo Salinas","Periodo_5",NA,NA,NA
+"2136",1113,"Marta Bravo Salinas","Periodo_6",0.408934470068194,0.380563857943271,0.352193245818348
+"2137",1114,"Félix Bugueño Sotelo","Periodo_1",NA,NA,NA
+"2138",1114,"Félix Bugueño Sotelo","Periodo_2",NA,NA,NA
+"2139",1114,"Félix Bugueño Sotelo","Periodo_3",NA,NA,NA
+"2140",1114,"Félix Bugueño Sotelo","Periodo_4",NA,NA,NA
+"2141",1114,"Félix Bugueño Sotelo","Periodo_5",NA,NA,NA
+"2142",1114,"Félix Bugueño Sotelo","Periodo_6",-1.35771636681498,-1.3860869789399,-1.41445759106483
+"2143",1115,"Mercedes Bulnes Núñez","Periodo_1",NA,NA,NA
+"2144",1115,"Mercedes Bulnes Núñez","Periodo_2",NA,NA,NA
+"2145",1115,"Mercedes Bulnes Núñez","Periodo_3",NA,NA,NA
+"2146",1115,"Mercedes Bulnes Núñez","Periodo_4",NA,NA,NA
+"2147",1115,"Mercedes Bulnes Núñez","Periodo_5",NA,NA,NA
+"2148",1115,"Mercedes Bulnes Núñez","Periodo_6",-0.289688330964393,-0.318058943089316,-0.346429555214239
+"2149",1117,"Nathalie Castillo Rojas","Periodo_1",NA,NA,NA
+"2150",1117,"Nathalie Castillo Rojas","Periodo_2",NA,NA,NA
+"2151",1117,"Nathalie Castillo Rojas","Periodo_3",NA,NA,NA
+"2152",1117,"Nathalie Castillo Rojas","Periodo_4",NA,NA,NA
+"2153",1117,"Nathalie Castillo Rojas","Periodo_5",NA,NA,NA
+"2154",1117,"Nathalie Castillo Rojas","Periodo_6",-1.00909383612664,-1.03746444825157,-1.06583506037649
+"2155",1118,"Ricardo Cifuentes Lillo","Periodo_1",NA,NA,NA
+"2156",1118,"Ricardo Cifuentes Lillo","Periodo_2",NA,NA,NA
+"2157",1118,"Ricardo Cifuentes Lillo","Periodo_3",NA,NA,NA
+"2158",1118,"Ricardo Cifuentes Lillo","Periodo_4",NA,NA,NA
+"2159",1118,"Ricardo Cifuentes Lillo","Periodo_5",NA,NA,NA
+"2160",1118,"Ricardo Cifuentes Lillo","Periodo_6",-0.718466008818614,-0.746836620943537,-0.77520723306846
+"2161",1119,"Sara Concha Smith","Periodo_1",NA,NA,NA
+"2162",1119,"Sara Concha Smith","Periodo_2",NA,NA,NA
+"2163",1119,"Sara Concha Smith","Periodo_3",NA,NA,NA
+"2164",1119,"Sara Concha Smith","Periodo_4",NA,NA,NA
+"2165",1119,"Sara Concha Smith","Periodo_5",NA,NA,NA
+"2166",1119,"Sara Concha Smith","Periodo_6",0.585028134742498,0.556657522617575,0.528286910492652
+"2167",1121,"Eduardo Cornejo Lagos","Periodo_1",NA,NA,NA
+"2168",1121,"Eduardo Cornejo Lagos","Periodo_2",NA,NA,NA
+"2169",1121,"Eduardo Cornejo Lagos","Periodo_3",NA,NA,NA
+"2170",1121,"Eduardo Cornejo Lagos","Periodo_4",NA,NA,NA
+"2171",1121,"Eduardo Cornejo Lagos","Periodo_5",NA,NA,NA
+"2172",1121,"Eduardo Cornejo Lagos","Periodo_6",0.761139788042848,0.732769175917925,0.704398563793002
+"2173",1123,"Gonzalo De la Carrera Correa","Periodo_1",NA,NA,NA
+"2174",1123,"Gonzalo De la Carrera Correa","Periodo_2",NA,NA,NA
+"2175",1123,"Gonzalo De la Carrera Correa","Periodo_3",NA,NA,NA
+"2176",1123,"Gonzalo De la Carrera Correa","Periodo_4",NA,NA,NA
+"2177",1123,"Gonzalo De la Carrera Correa","Periodo_5",NA,NA,NA
+"2178",1123,"Gonzalo De la Carrera Correa","Periodo_6",0.13668822256304,0.108317610438117,0.0799469983131937
+"2179",1124,"Tomás De Rementería Venegas","Periodo_1",NA,NA,NA
+"2180",1124,"Tomás De Rementería Venegas","Periodo_2",NA,NA,NA
+"2181",1124,"Tomás De Rementería Venegas","Periodo_3",NA,NA,NA
+"2182",1124,"Tomás De Rementería Venegas","Periodo_4",NA,NA,NA
+"2183",1124,"Tomás De Rementería Venegas","Periodo_5",NA,NA,NA
+"2184",1124,"Tomás De Rementería Venegas","Periodo_6",-0.676842717778025,-0.705213329902948,-0.733583942027871
+"2185",1125,"Viviana Delgado Riquelme","Periodo_1",NA,NA,NA
+"2186",1125,"Viviana Delgado Riquelme","Periodo_2",NA,NA,NA
+"2187",1125,"Viviana Delgado Riquelme","Periodo_3",NA,NA,NA
+"2188",1125,"Viviana Delgado Riquelme","Periodo_4",NA,NA,NA
+"2189",1125,"Viviana Delgado Riquelme","Periodo_5",NA,NA,NA
+"2190",1125,"Viviana Delgado Riquelme","Periodo_6",-1.26210210504976,-1.29047271717468,-1.3188433292996
+"2191",1126,"Felipe Donoso Castro","Periodo_1",NA,NA,NA
+"2192",1126,"Felipe Donoso Castro","Periodo_2",NA,NA,NA
+"2193",1126,"Felipe Donoso Castro","Periodo_3",NA,NA,NA
+"2194",1126,"Felipe Donoso Castro","Periodo_4",NA,NA,NA
+"2195",1126,"Felipe Donoso Castro","Periodo_5",NA,NA,NA
+"2196",1126,"Felipe Donoso Castro","Periodo_6",0.839514304197142,0.811143692072219,0.782773079947297
+"2197",1127,"Lorena Fries Monleón","Periodo_1",NA,NA,NA
+"2198",1127,"Lorena Fries Monleón","Periodo_2",NA,NA,NA
+"2199",1127,"Lorena Fries Monleón","Periodo_3",NA,NA,NA
+"2200",1127,"Lorena Fries Monleón","Periodo_4",NA,NA,NA
+"2201",1127,"Lorena Fries Monleón","Periodo_5",NA,NA,NA
+"2202",1127,"Lorena Fries Monleón","Periodo_6",-0.912907175217606,-0.941277787342529,-0.969648399467452
+"2203",1128,"Ana María Gazmuri Vieira","Periodo_1",NA,NA,NA
+"2204",1128,"Ana María Gazmuri Vieira","Periodo_2",NA,NA,NA
+"2205",1128,"Ana María Gazmuri Vieira","Periodo_3",NA,NA,NA
+"2206",1128,"Ana María Gazmuri Vieira","Periodo_4",NA,NA,NA
+"2207",1128,"Ana María Gazmuri Vieira","Periodo_5",NA,NA,NA
+"2208",1128,"Ana María Gazmuri Vieira","Periodo_6",-1.0364050269785,-1.06477563910342,-1.09314625122835
+"2209",1129,"Andrés Giordano Salazar","Periodo_1",NA,NA,NA
+"2210",1129,"Andrés Giordano Salazar","Periodo_2",NA,NA,NA
+"2211",1129,"Andrés Giordano Salazar","Periodo_3",NA,NA,NA
+"2212",1129,"Andrés Giordano Salazar","Periodo_4",NA,NA,NA
+"2213",1129,"Andrés Giordano Salazar","Periodo_5",NA,NA,NA
+"2214",1129,"Andrés Giordano Salazar","Periodo_6",-1.52804222493673,-1.55641283706165,-1.58478344918658
+"2215",1130,"Marta González Olea","Periodo_1",NA,NA,NA
+"2216",1130,"Marta González Olea","Periodo_2",NA,NA,NA
+"2217",1130,"Marta González Olea","Periodo_3",NA,NA,NA
+"2218",1130,"Marta González Olea","Periodo_4",NA,NA,NA
+"2219",1130,"Marta González Olea","Periodo_5",NA,NA,NA
+"2220",1130,"Marta González Olea","Periodo_6",-0.600496667045702,-0.628867279170625,-0.657237891295549
+"2221",1131,"Mauro González Villarroel","Periodo_1",NA,NA,NA
+"2222",1131,"Mauro González Villarroel","Periodo_2",NA,NA,NA
+"2223",1131,"Mauro González Villarroel","Periodo_3",NA,NA,NA
+"2224",1131,"Mauro González Villarroel","Periodo_4",NA,NA,NA
+"2225",1131,"Mauro González Villarroel","Periodo_5",NA,NA,NA
+"2226",1131,"Mauro González Villarroel","Periodo_6",0.438195843831554,0.409825231706631,0.381454619581708
+"2227",1132,"Jorge Guzmán Zepeda","Periodo_1",NA,NA,NA
+"2228",1132,"Jorge Guzmán Zepeda","Periodo_2",NA,NA,NA
+"2229",1132,"Jorge Guzmán Zepeda","Periodo_3",NA,NA,NA
+"2230",1132,"Jorge Guzmán Zepeda","Periodo_4",NA,NA,NA
+"2231",1132,"Jorge Guzmán Zepeda","Periodo_5",NA,NA,NA
+"2232",1132,"Jorge Guzmán Zepeda","Periodo_6",0.346247773749358,0.317877161624435,0.289506549499512
+"2233",1133,"Juan Irarrázaval Rossel","Periodo_1",NA,NA,NA
+"2234",1133,"Juan Irarrázaval Rossel","Periodo_2",NA,NA,NA
+"2235",1133,"Juan Irarrázaval Rossel","Periodo_3",NA,NA,NA
+"2236",1133,"Juan Irarrázaval Rossel","Periodo_4",NA,NA,NA
+"2237",1133,"Juan Irarrázaval Rossel","Periodo_5",NA,NA,NA
+"2238",1133,"Juan Irarrázaval Rossel","Periodo_6",0.815664877708735,0.787294265583812,0.758923653458889
+"2239",1134,"Andrés Jouannet Valderrama","Periodo_1",NA,NA,NA
+"2240",1134,"Andrés Jouannet Valderrama","Periodo_2",NA,NA,NA
+"2241",1134,"Andrés Jouannet Valderrama","Periodo_3",NA,NA,NA
+"2242",1134,"Andrés Jouannet Valderrama","Periodo_4",NA,NA,NA
+"2243",1134,"Andrés Jouannet Valderrama","Periodo_5",NA,NA,NA
+"2244",1134,"Andrés Jouannet Valderrama","Periodo_6",-0.33310755197361,-0.361478164098533,-0.389848776223456
+"2245",1135,"Johannes Kaiser Barents-Von Hohenhagen","Periodo_1",NA,NA,NA
+"2246",1135,"Johannes Kaiser Barents-Von Hohenhagen","Periodo_2",NA,NA,NA
+"2247",1135,"Johannes Kaiser Barents-Von Hohenhagen","Periodo_3",NA,NA,NA
+"2248",1135,"Johannes Kaiser Barents-Von Hohenhagen","Periodo_4",NA,NA,NA
+"2249",1135,"Johannes Kaiser Barents-Von Hohenhagen","Periodo_5",NA,NA,NA
+"2250",1135,"Johannes Kaiser Barents-Von Hohenhagen","Periodo_6",1.35864923173232,1.3302786196074,1.30190800748248
+"2251",1136,"Paula Labra Besserer","Periodo_1",NA,NA,NA
+"2252",1136,"Paula Labra Besserer","Periodo_2",NA,NA,NA
+"2253",1136,"Paula Labra Besserer","Periodo_3",NA,NA,NA
+"2254",1136,"Paula Labra Besserer","Periodo_4",NA,NA,NA
+"2255",1136,"Paula Labra Besserer","Periodo_5",NA,NA,NA
+"2256",1136,"Paula Labra Besserer","Periodo_6",0.221427095321557,0.193056483196634,0.164685871071711
+"2257",1137,"Tomás Lagomarsino Guzmán","Periodo_1",NA,NA,NA
+"2258",1137,"Tomás Lagomarsino Guzmán","Periodo_2",NA,NA,NA
+"2259",1137,"Tomás Lagomarsino Guzmán","Periodo_3",NA,NA,NA
+"2260",1137,"Tomás Lagomarsino Guzmán","Periodo_4",NA,NA,NA
+"2261",1137,"Tomás Lagomarsino Guzmán","Periodo_5",NA,NA,NA
+"2262",1137,"Tomás Lagomarsino Guzmán","Periodo_6",-0.571968667719609,-0.600339279844533,-0.628709891969456
+"2263",1138,"Henry Leal Bizama","Periodo_1",NA,NA,NA
+"2264",1138,"Henry Leal Bizama","Periodo_2",NA,NA,NA
+"2265",1138,"Henry Leal Bizama","Periodo_3",NA,NA,NA
+"2266",1138,"Henry Leal Bizama","Periodo_4",NA,NA,NA
+"2267",1138,"Henry Leal Bizama","Periodo_5",NA,NA,NA
+"2268",1138,"Henry Leal Bizama","Periodo_6",0.483853726506408,0.455483114381485,0.427112502256562
+"2269",1139,"Enrique Lee Flores","Periodo_1",NA,NA,NA
+"2270",1139,"Enrique Lee Flores","Periodo_2",NA,NA,NA
+"2271",1139,"Enrique Lee Flores","Periodo_3",NA,NA,NA
+"2272",1139,"Enrique Lee Flores","Periodo_4",NA,NA,NA
+"2273",1139,"Enrique Lee Flores","Periodo_5",NA,NA,NA
+"2274",1139,"Enrique Lee Flores","Periodo_6",0.125002054188935,0.0966314420640116,0.0682608299390885
+"2275",1140,"Daniel Lilayu Vivanco","Periodo_1",NA,NA,NA
+"2276",1140,"Daniel Lilayu Vivanco","Periodo_2",NA,NA,NA
+"2277",1140,"Daniel Lilayu Vivanco","Periodo_3",NA,NA,NA
+"2278",1140,"Daniel Lilayu Vivanco","Periodo_4",NA,NA,NA
+"2279",1140,"Daniel Lilayu Vivanco","Periodo_5",NA,NA,NA
+"2280",1140,"Daniel Lilayu Vivanco","Periodo_6",0.755919277309136,0.727548665184213,0.69917805305929
+"2281",1141,"Luis Malla Valenzuela","Periodo_1",NA,NA,NA
+"2282",1141,"Luis Malla Valenzuela","Periodo_2",NA,NA,NA
+"2283",1141,"Luis Malla Valenzuela","Periodo_3",NA,NA,NA
+"2284",1141,"Luis Malla Valenzuela","Periodo_4",NA,NA,NA
+"2285",1141,"Luis Malla Valenzuela","Periodo_5",NA,NA,NA
+"2286",1141,"Luis Malla Valenzuela","Periodo_6",-1.01643866781961,-1.04480927994453,-1.07317989206946
+"2287",1142,"Daniel Manouchehri Lobos","Periodo_1",NA,NA,NA
+"2288",1142,"Daniel Manouchehri Lobos","Periodo_2",NA,NA,NA
+"2289",1142,"Daniel Manouchehri Lobos","Periodo_3",NA,NA,NA
+"2290",1142,"Daniel Manouchehri Lobos","Periodo_4",NA,NA,NA
+"2291",1142,"Daniel Manouchehri Lobos","Periodo_5",NA,NA,NA
+"2292",1142,"Daniel Manouchehri Lobos","Periodo_6",-0.960314237016037,-0.98868484914096,-1.01705546126588
+"2293",1143,"Cristóbal Martínez Ramírez","Periodo_1",NA,NA,NA
+"2294",1143,"Cristóbal Martínez Ramírez","Periodo_2",NA,NA,NA
+"2295",1143,"Cristóbal Martínez Ramírez","Periodo_3",NA,NA,NA
+"2296",1143,"Cristóbal Martínez Ramírez","Periodo_4",NA,NA,NA
+"2297",1143,"Cristóbal Martínez Ramírez","Periodo_5",NA,NA,NA
+"2298",1143,"Cristóbal Martínez Ramírez","Periodo_6",0.600770896792274,0.572400284667351,0.544029672542428
+"2299",1144,"Christian Matheson Villán","Periodo_1",NA,NA,NA
+"2300",1144,"Christian Matheson Villán","Periodo_2",NA,NA,NA
+"2301",1144,"Christian Matheson Villán","Periodo_3",NA,NA,NA
+"2302",1144,"Christian Matheson Villán","Periodo_4",NA,NA,NA
+"2303",1144,"Christian Matheson Villán","Periodo_5",NA,NA,NA
+"2304",1144,"Christian Matheson Villán","Periodo_6",0.837827478116794,0.809456865991871,0.781086253866948
+"2305",1145,"Karen Medina Vásquez","Periodo_1",NA,NA,NA
+"2306",1145,"Karen Medina Vásquez","Periodo_2",NA,NA,NA
+"2307",1145,"Karen Medina Vásquez","Periodo_3",NA,NA,NA
+"2308",1145,"Karen Medina Vásquez","Periodo_4",NA,NA,NA
+"2309",1145,"Karen Medina Vásquez","Periodo_5",NA,NA,NA
+"2310",1145,"Karen Medina Vásquez","Periodo_6",-0.130053121251097,-0.15842373337602,-0.186794345500943
+"2311",1146,"José Carlos Meza Pereira","Periodo_1",NA,NA,NA
+"2312",1146,"José Carlos Meza Pereira","Periodo_2",NA,NA,NA
+"2313",1146,"José Carlos Meza Pereira","Periodo_3",NA,NA,NA
+"2314",1146,"José Carlos Meza Pereira","Periodo_4",NA,NA,NA
+"2315",1146,"José Carlos Meza Pereira","Periodo_5",NA,NA,NA
+"2316",1146,"José Carlos Meza Pereira","Periodo_6",1.08029821790994,1.05192760578502,1.02355699366009
+"2317",1148,"Javiera Morales Alvarado","Periodo_1",NA,NA,NA
+"2318",1148,"Javiera Morales Alvarado","Periodo_2",NA,NA,NA
+"2319",1148,"Javiera Morales Alvarado","Periodo_3",NA,NA,NA
+"2320",1148,"Javiera Morales Alvarado","Periodo_4",NA,NA,NA
+"2321",1148,"Javiera Morales Alvarado","Periodo_5",NA,NA,NA
+"2322",1148,"Javiera Morales Alvarado","Periodo_6",-1.17906593511612,-1.20743654724104,-1.23580715936597
+"2323",1151,"Camila Musante Müller","Periodo_1",NA,NA,NA
+"2324",1151,"Camila Musante Müller","Periodo_2",NA,NA,NA
+"2325",1151,"Camila Musante Müller","Periodo_3",NA,NA,NA
+"2326",1151,"Camila Musante Müller","Periodo_4",NA,NA,NA
+"2327",1151,"Camila Musante Müller","Periodo_5",NA,NA,NA
+"2328",1151,"Camila Musante Müller","Periodo_6",-0.690995510036542,-0.719366122161465,-0.747736734286388
+"2329",1152,"Gloria Naveillan Arriagada","Periodo_1",NA,NA,NA
+"2330",1152,"Gloria Naveillan Arriagada","Periodo_2",NA,NA,NA
+"2331",1152,"Gloria Naveillan Arriagada","Periodo_3",NA,NA,NA
+"2332",1152,"Gloria Naveillan Arriagada","Periodo_4",NA,NA,NA
+"2333",1152,"Gloria Naveillan Arriagada","Periodo_5",NA,NA,NA
+"2334",1152,"Gloria Naveillan Arriagada","Periodo_6",0.609472404700085,0.581101792575162,0.552731180450239
+"2335",1153,"Coca Ericka Ñanco Vásquez","Periodo_1",NA,NA,NA
+"2336",1153,"Coca Ericka Ñanco Vásquez","Periodo_2",NA,NA,NA
+"2337",1153,"Coca Ericka Ñanco Vásquez","Periodo_3",NA,NA,NA
+"2338",1153,"Coca Ericka Ñanco Vásquez","Periodo_4",NA,NA,NA
+"2339",1153,"Coca Ericka Ñanco Vásquez","Periodo_5",NA,NA,NA
+"2340",1153,"Coca Ericka Ñanco Vásquez","Periodo_6",-0.891224084941137,-0.919594697066061,-0.947965309190984
+"2341",1154,"Mauricio Ojeda Rebolledo","Periodo_1",NA,NA,NA
+"2342",1154,"Mauricio Ojeda Rebolledo","Periodo_2",NA,NA,NA
+"2343",1154,"Mauricio Ojeda Rebolledo","Periodo_3",NA,NA,NA
+"2344",1154,"Mauricio Ojeda Rebolledo","Periodo_4",NA,NA,NA
+"2345",1154,"Mauricio Ojeda Rebolledo","Periodo_5",NA,NA,NA
+"2346",1154,"Mauricio Ojeda Rebolledo","Periodo_6",0.338534209203323,0.3101635970784,0.281792984953477
+"2347",1155,"Rubén Darío Oyarzo Figueroa","Periodo_1",NA,NA,NA
+"2348",1155,"Rubén Darío Oyarzo Figueroa","Periodo_2",NA,NA,NA
+"2349",1155,"Rubén Darío Oyarzo Figueroa","Periodo_3",NA,NA,NA
+"2350",1155,"Rubén Darío Oyarzo Figueroa","Periodo_4",NA,NA,NA
+"2351",1155,"Rubén Darío Oyarzo Figueroa","Periodo_5",NA,NA,NA
+"2352",1155,"Rubén Darío Oyarzo Figueroa","Periodo_6",-0.265595514723314,-0.293966126848237,-0.32233673897316
+"2353",1156,"Hernán Palma Pérez","Periodo_1",NA,NA,NA
+"2354",1156,"Hernán Palma Pérez","Periodo_2",NA,NA,NA
+"2355",1156,"Hernán Palma Pérez","Periodo_3",NA,NA,NA
+"2356",1156,"Hernán Palma Pérez","Periodo_4",NA,NA,NA
+"2357",1156,"Hernán Palma Pérez","Periodo_5",NA,NA,NA
+"2358",1156,"Hernán Palma Pérez","Periodo_6",-0.825084156385818,-0.853454768510741,-0.881825380635664
+"2359",1157,"Marlene Pérez Cartes","Periodo_1",NA,NA,NA
+"2360",1157,"Marlene Pérez Cartes","Periodo_2",NA,NA,NA
+"2361",1157,"Marlene Pérez Cartes","Periodo_3",NA,NA,NA
+"2362",1157,"Marlene Pérez Cartes","Periodo_4",NA,NA,NA
+"2363",1157,"Marlene Pérez Cartes","Periodo_5",NA,NA,NA
+"2364",1157,"Marlene Pérez Cartes","Periodo_6",0.523860122381186,0.495489510256262,0.467118898131339
+"2365",1159,"Lorena Pizarro Sierra","Periodo_1",NA,NA,NA
+"2366",1159,"Lorena Pizarro Sierra","Periodo_2",NA,NA,NA
+"2367",1159,"Lorena Pizarro Sierra","Periodo_3",NA,NA,NA
+"2368",1159,"Lorena Pizarro Sierra","Periodo_4",NA,NA,NA
+"2369",1159,"Lorena Pizarro Sierra","Periodo_5",NA,NA,NA
+"2370",1159,"Lorena Pizarro Sierra","Periodo_6",-1.59080422875946,-1.61917484088438,-1.6475454530093
+"2371",1160,"Alejandra Placencia Cabello","Periodo_1",NA,NA,NA
+"2372",1160,"Alejandra Placencia Cabello","Periodo_2",NA,NA,NA
+"2373",1160,"Alejandra Placencia Cabello","Periodo_3",NA,NA,NA
+"2374",1160,"Alejandra Placencia Cabello","Periodo_4",NA,NA,NA
+"2375",1160,"Alejandra Placencia Cabello","Periodo_5",NA,NA,NA
+"2376",1160,"Alejandra Placencia Cabello","Periodo_6",-1.90081349445545,-1.92918410658038,-1.9575547187053
+"2377",1161,"Francisco Pulgar Castillo","Periodo_1",NA,NA,NA
+"2378",1161,"Francisco Pulgar Castillo","Periodo_2",NA,NA,NA
+"2379",1161,"Francisco Pulgar Castillo","Periodo_3",NA,NA,NA
+"2380",1161,"Francisco Pulgar Castillo","Periodo_4",NA,NA,NA
+"2381",1161,"Francisco Pulgar Castillo","Periodo_5",NA,NA,NA
+"2382",1161,"Francisco Pulgar Castillo","Periodo_6",-0.135385393598374,-0.163756005723297,-0.19212661784822
+"2383",1162,"Matías Ramírez Pascal","Periodo_1",NA,NA,NA
+"2384",1162,"Matías Ramírez Pascal","Periodo_2",NA,NA,NA
+"2385",1162,"Matías Ramírez Pascal","Periodo_3",NA,NA,NA
+"2386",1162,"Matías Ramírez Pascal","Periodo_4",NA,NA,NA
+"2387",1162,"Matías Ramírez Pascal","Periodo_5",NA,NA,NA
+"2388",1162,"Matías Ramírez Pascal","Periodo_6",-1.09588583454626,-1.12425644667118,-1.1526270587961
+"2389",1163,"Marcia Raphael Mora","Periodo_1",NA,NA,NA
+"2390",1163,"Marcia Raphael Mora","Periodo_2",NA,NA,NA
+"2391",1163,"Marcia Raphael Mora","Periodo_3",NA,NA,NA
+"2392",1163,"Marcia Raphael Mora","Periodo_4",NA,NA,NA
+"2393",1163,"Marcia Raphael Mora","Periodo_5",NA,NA,NA
+"2394",1163,"Marcia Raphael Mora","Periodo_6",0.500346823384638,0.471976211259715,0.443605599134792
+"2395",1164,"Marcela Riquelme Aliaga","Periodo_1",NA,NA,NA
+"2396",1164,"Marcela Riquelme Aliaga","Periodo_2",NA,NA,NA
+"2397",1164,"Marcela Riquelme Aliaga","Periodo_3",NA,NA,NA
+"2398",1164,"Marcela Riquelme Aliaga","Periodo_4",NA,NA,NA
+"2399",1164,"Marcela Riquelme Aliaga","Periodo_5",NA,NA,NA
+"2400",1164,"Marcela Riquelme Aliaga","Periodo_6",-0.770703020720085,-0.799073632845008,-0.827444244969931
+"2401",1165,"Agustín Romero Leiva","Periodo_1",NA,NA,NA
+"2402",1165,"Agustín Romero Leiva","Periodo_2",NA,NA,NA
+"2403",1165,"Agustín Romero Leiva","Periodo_3",NA,NA,NA
+"2404",1165,"Agustín Romero Leiva","Periodo_4",NA,NA,NA
+"2405",1165,"Agustín Romero Leiva","Periodo_5",NA,NA,NA
+"2406",1165,"Agustín Romero Leiva","Periodo_6",1.30476814964067,1.27639753751575,1.24802692539082
+"2407",1166,"Natalia Romero Talguia","Periodo_1",NA,NA,NA
+"2408",1166,"Natalia Romero Talguia","Periodo_2",NA,NA,NA
+"2409",1166,"Natalia Romero Talguia","Periodo_3",NA,NA,NA
+"2410",1166,"Natalia Romero Talguia","Periodo_4",NA,NA,NA
+"2411",1166,"Natalia Romero Talguia","Periodo_5",NA,NA,NA
+"2412",1166,"Natalia Romero Talguia","Periodo_6",0.4405979308674,0.412227318742476,0.383856706617553
+"2413",1167,"Jaime Sáez Quiroz","Periodo_1",NA,NA,NA
+"2414",1167,"Jaime Sáez Quiroz","Periodo_2",NA,NA,NA
+"2415",1167,"Jaime Sáez Quiroz","Periodo_3",NA,NA,NA
+"2416",1167,"Jaime Sáez Quiroz","Periodo_4",NA,NA,NA
+"2417",1167,"Jaime Sáez Quiroz","Periodo_5",NA,NA,NA
+"2418",1167,"Jaime Sáez Quiroz","Periodo_6",-1.01336927410535,-1.04173988623027,-1.0701104983552
+"2419",1168,"Jorge Saffirio Espinoza","Periodo_1",NA,NA,NA
+"2420",1168,"Jorge Saffirio Espinoza","Periodo_2",NA,NA,NA
+"2421",1168,"Jorge Saffirio Espinoza","Periodo_3",NA,NA,NA
+"2422",1168,"Jorge Saffirio Espinoza","Periodo_4",NA,NA,NA
+"2423",1168,"Jorge Saffirio Espinoza","Periodo_5",NA,NA,NA
+"2424",1168,"Jorge Saffirio Espinoza","Periodo_6",-0.240897131556935,-0.269267743681858,-0.297638355806781
+"2425",1169,"Clara Sagardía Cabezas","Periodo_1",NA,NA,NA
+"2426",1169,"Clara Sagardía Cabezas","Periodo_2",NA,NA,NA
+"2427",1169,"Clara Sagardía Cabezas","Periodo_3",NA,NA,NA
+"2428",1169,"Clara Sagardía Cabezas","Periodo_4",NA,NA,NA
+"2429",1169,"Clara Sagardía Cabezas","Periodo_5",NA,NA,NA
+"2430",1169,"Clara Sagardía Cabezas","Periodo_6",-1.62913481477885,-1.65750542690377,-1.68587603902869
+"2431",1170,"Luis Sánchez Ossa","Periodo_1",NA,NA,NA
+"2432",1170,"Luis Sánchez Ossa","Periodo_2",NA,NA,NA
+"2433",1170,"Luis Sánchez Ossa","Periodo_3",NA,NA,NA
+"2434",1170,"Luis Sánchez Ossa","Periodo_4",NA,NA,NA
+"2435",1170,"Luis Sánchez Ossa","Periodo_5",NA,NA,NA
+"2436",1170,"Luis Sánchez Ossa","Periodo_6",1.43881108497391,1.41044047284899,1.38206986072406
+"2437",1171,"Emilia Schneider Videla","Periodo_1",NA,NA,NA
+"2438",1171,"Emilia Schneider Videla","Periodo_2",NA,NA,NA
+"2439",1171,"Emilia Schneider Videla","Periodo_3",NA,NA,NA
+"2440",1171,"Emilia Schneider Videla","Periodo_4",NA,NA,NA
+"2441",1171,"Emilia Schneider Videla","Periodo_5",NA,NA,NA
+"2442",1171,"Emilia Schneider Videla","Periodo_6",-1.08357552457085,-1.11194613669577,-1.14031674882069
+"2443",1172,"Stephan Schubert Rubio","Periodo_1",NA,NA,NA
+"2444",1172,"Stephan Schubert Rubio","Periodo_2",NA,NA,NA
+"2445",1172,"Stephan Schubert Rubio","Periodo_3",NA,NA,NA
+"2446",1172,"Stephan Schubert Rubio","Periodo_4",NA,NA,NA
+"2447",1172,"Stephan Schubert Rubio","Periodo_5",NA,NA,NA
+"2448",1172,"Stephan Schubert Rubio","Periodo_6",1.22091420118507,1.19254358906015,1.16417297693522
+"2449",1173,"Daniela Serrano Salazar","Periodo_1",NA,NA,NA
+"2450",1173,"Daniela Serrano Salazar","Periodo_2",NA,NA,NA
+"2451",1173,"Daniela Serrano Salazar","Periodo_3",NA,NA,NA
+"2452",1173,"Daniela Serrano Salazar","Periodo_4",NA,NA,NA
+"2453",1173,"Daniela Serrano Salazar","Periodo_5",NA,NA,NA
+"2454",1173,"Daniela Serrano Salazar","Periodo_6",-1.44437582301314,-1.47274643513807,-1.50111704726299
+"2455",1174,"Marco Antonio Sulantay Olivares","Periodo_1",NA,NA,NA
+"2456",1174,"Marco Antonio Sulantay Olivares","Periodo_2",NA,NA,NA
+"2457",1174,"Marco Antonio Sulantay Olivares","Periodo_3",NA,NA,NA
+"2458",1174,"Marco Antonio Sulantay Olivares","Periodo_4",NA,NA,NA
+"2459",1174,"Marco Antonio Sulantay Olivares","Periodo_5",NA,NA,NA
+"2460",1174,"Marco Antonio Sulantay Olivares","Periodo_6",0.777665406282776,0.749294794157853,0.72092418203293
+"2461",1175,"Cristián Tapia Ramos","Periodo_1",NA,NA,NA
+"2462",1175,"Cristián Tapia Ramos","Periodo_2",NA,NA,NA
+"2463",1175,"Cristián Tapia Ramos","Periodo_3",NA,NA,NA
+"2464",1175,"Cristián Tapia Ramos","Periodo_4",NA,NA,NA
+"2465",1175,"Cristián Tapia Ramos","Periodo_5",NA,NA,NA
+"2466",1175,"Cristián Tapia Ramos","Periodo_6",-0.878354812587222,-0.906725424712145,-0.935096036837068
+"2467",1176,"Hotuiti Teao Drago","Periodo_1",NA,NA,NA
+"2468",1176,"Hotuiti Teao Drago","Periodo_2",NA,NA,NA
+"2469",1176,"Hotuiti Teao Drago","Periodo_3",NA,NA,NA
+"2470",1176,"Hotuiti Teao Drago","Periodo_4",NA,NA,NA
+"2471",1176,"Hotuiti Teao Drago","Periodo_5",NA,NA,NA
+"2472",1176,"Hotuiti Teao Drago","Periodo_6",0.388602868057321,0.360232255932398,0.331861643807475
+"2473",1177,"Carolina Tello Rojas","Periodo_1",NA,NA,NA
+"2474",1177,"Carolina Tello Rojas","Periodo_2",NA,NA,NA
+"2475",1177,"Carolina Tello Rojas","Periodo_3",NA,NA,NA
+"2476",1177,"Carolina Tello Rojas","Periodo_4",NA,NA,NA
+"2477",1177,"Carolina Tello Rojas","Periodo_5",NA,NA,NA
+"2478",1177,"Carolina Tello Rojas","Periodo_6",-1.39439333433917,-1.42276394646409,-1.45113455858902
+"2479",1178,"Héctor Ulloa Aguilera","Periodo_1",NA,NA,NA
+"2480",1178,"Héctor Ulloa Aguilera","Periodo_2",NA,NA,NA
+"2481",1178,"Héctor Ulloa Aguilera","Periodo_3",NA,NA,NA
+"2482",1178,"Héctor Ulloa Aguilera","Periodo_4",NA,NA,NA
+"2483",1178,"Héctor Ulloa Aguilera","Periodo_5",NA,NA,NA
+"2484",1178,"Héctor Ulloa Aguilera","Periodo_6",-0.858356446647302,-0.886727058772225,-0.915097670897148
+"2485",1179,"Alberto Undurraga Vicuña","Periodo_1",NA,NA,NA
+"2486",1179,"Alberto Undurraga Vicuña","Periodo_2",NA,NA,NA
+"2487",1179,"Alberto Undurraga Vicuña","Periodo_3",NA,NA,NA
+"2488",1179,"Alberto Undurraga Vicuña","Periodo_4",NA,NA,NA
+"2489",1179,"Alberto Undurraga Vicuña","Periodo_5",NA,NA,NA
+"2490",1179,"Alberto Undurraga Vicuña","Periodo_6",-0.7360010616402,-0.764371673765123,-0.792742285890046
+"2491",1180,"Consuelo Veloso Ávila","Periodo_1",NA,NA,NA
+"2492",1180,"Consuelo Veloso Ávila","Periodo_2",NA,NA,NA
+"2493",1180,"Consuelo Veloso Ávila","Periodo_3",NA,NA,NA
+"2494",1180,"Consuelo Veloso Ávila","Periodo_4",NA,NA,NA
+"2495",1180,"Consuelo Veloso Ávila","Periodo_5",NA,NA,NA
+"2496",1180,"Consuelo Veloso Ávila","Periodo_6",-0.923651662217688,-0.952022274342611,-0.980392886467534
+"2497",1181,"Nelson Venegas Salazar","Periodo_1",NA,NA,NA
+"2498",1181,"Nelson Venegas Salazar","Periodo_2",NA,NA,NA
+"2499",1181,"Nelson Venegas Salazar","Periodo_3",NA,NA,NA
+"2500",1181,"Nelson Venegas Salazar","Periodo_4",NA,NA,NA
+"2501",1181,"Nelson Venegas Salazar","Periodo_5",NA,NA,NA
+"2502",1181,"Nelson Venegas Salazar","Periodo_6",-0.815049604725452,-0.843420216850375,-0.871790828975298
+"2503",1182,"Sebastián Videla Castillo","Periodo_1",NA,NA,NA
+"2504",1182,"Sebastián Videla Castillo","Periodo_2",NA,NA,NA
+"2505",1182,"Sebastián Videla Castillo","Periodo_3",NA,NA,NA
+"2506",1182,"Sebastián Videla Castillo","Periodo_4",NA,NA,NA
+"2507",1182,"Sebastián Videla Castillo","Periodo_5",NA,NA,NA
+"2508",1182,"Sebastián Videla Castillo","Periodo_6",-0.87911485469932,-0.907485466824243,-0.935856078949166
+"2509",1183,"Flor Weisse Novoa","Periodo_1",NA,NA,NA
+"2510",1183,"Flor Weisse Novoa","Periodo_2",NA,NA,NA
+"2511",1183,"Flor Weisse Novoa","Periodo_3",NA,NA,NA
+"2512",1183,"Flor Weisse Novoa","Periodo_4",NA,NA,NA
+"2513",1183,"Flor Weisse Novoa","Periodo_5",NA,NA,NA
+"2514",1183,"Flor Weisse Novoa","Periodo_6",0.843486219015961,0.815115606891038,0.786744994766114
+"2515",1102,"Roberto Arroyo Muñoz","Periodo_1",NA,NA,NA
+"2516",1102,"Roberto Arroyo Muñoz","Periodo_2",NA,NA,NA
+"2517",1102,"Roberto Arroyo Muñoz","Periodo_3",NA,NA,NA
+"2518",1102,"Roberto Arroyo Muñoz","Periodo_4",NA,NA,NA
+"2519",1102,"Roberto Arroyo Muñoz","Periodo_5",NA,NA,NA
+"2520",1102,"Roberto Arroyo Muñoz","Periodo_6",0.253986592888226,0.225615980763303,0.19724536863838
+"2521",1116,"Felipe Camaño Cárdenas","Periodo_1",NA,NA,NA
+"2522",1116,"Felipe Camaño Cárdenas","Periodo_2",NA,NA,NA
+"2523",1116,"Felipe Camaño Cárdenas","Periodo_3",NA,NA,NA
+"2524",1116,"Felipe Camaño Cárdenas","Periodo_4",NA,NA,NA
+"2525",1116,"Felipe Camaño Cárdenas","Periodo_5",NA,NA,NA
+"2526",1116,"Felipe Camaño Cárdenas","Periodo_6",-0.291101385850747,-0.31947199797567,-0.347842610100593
+"2527",1122,"Luis Alberto Cuello Peña y Lillo","Periodo_1",NA,NA,NA
+"2528",1122,"Luis Alberto Cuello Peña y Lillo","Periodo_2",NA,NA,NA
+"2529",1122,"Luis Alberto Cuello Peña y Lillo","Periodo_3",NA,NA,NA
+"2530",1122,"Luis Alberto Cuello Peña y Lillo","Periodo_4",NA,NA,NA
+"2531",1122,"Luis Alberto Cuello Peña y Lillo","Periodo_5",NA,NA,NA
+"2532",1122,"Luis Alberto Cuello Peña y Lillo","Periodo_6",-1.60877133559346,-1.63714194771839,-1.66551255984331
+"2533",1147,"Helia Molina Milman","Periodo_1",NA,NA,NA
+"2534",1147,"Helia Molina Milman","Periodo_2",NA,NA,NA
+"2535",1147,"Helia Molina Milman","Periodo_3",NA,NA,NA
+"2536",1147,"Helia Molina Milman","Periodo_4",NA,NA,NA
+"2537",1147,"Helia Molina Milman","Periodo_5",NA,NA,NA
+"2538",1147,"Helia Molina Milman","Periodo_6",-0.790303702204887,-0.81867431432981,-0.847044926454733
+"2539",1149,"Carla Morales Maldonado","Periodo_1",NA,NA,NA
+"2540",1149,"Carla Morales Maldonado","Periodo_2",NA,NA,NA
+"2541",1149,"Carla Morales Maldonado","Periodo_3",NA,NA,NA
+"2542",1149,"Carla Morales Maldonado","Periodo_4",NA,NA,NA
+"2543",1149,"Carla Morales Maldonado","Periodo_5",NA,NA,NA
+"2544",1149,"Carla Morales Maldonado","Periodo_6",0.347237265564952,0.318866653440029,0.290496041315106
+"2545",1150,"Benjamín Moreno Bascur","Periodo_1",NA,NA,NA
+"2546",1150,"Benjamín Moreno Bascur","Periodo_2",NA,NA,NA
+"2547",1150,"Benjamín Moreno Bascur","Periodo_3",NA,NA,NA
+"2548",1150,"Benjamín Moreno Bascur","Periodo_4",NA,NA,NA
+"2549",1150,"Benjamín Moreno Bascur","Periodo_5",NA,NA,NA
+"2550",1150,"Benjamín Moreno Bascur","Periodo_6",1.10266668632198,1.07429607419706,1.04592546207213
+"2551",1120,"María Luisa Cordero Velásquez","Periodo_1",NA,NA,NA
+"2552",1120,"María Luisa Cordero Velásquez","Periodo_2",NA,NA,NA
+"2553",1120,"María Luisa Cordero Velásquez","Periodo_3",NA,NA,NA
+"2554",1120,"María Luisa Cordero Velásquez","Periodo_4",NA,NA,NA
+"2555",1120,"María Luisa Cordero Velásquez","Periodo_5",NA,NA,NA
+"2556",1120,"María Luisa Cordero Velásquez","Periodo_6",0.0608937063324414,0.0325230942075184,0.00415248208259535
+"2557",1158,"Víctor Alejandro Pino Fuentes","Periodo_1",NA,NA,NA
+"2558",1158,"Víctor Alejandro Pino Fuentes","Periodo_2",NA,NA,NA
+"2559",1158,"Víctor Alejandro Pino Fuentes","Periodo_3",NA,NA,NA
+"2560",1158,"Víctor Alejandro Pino Fuentes","Periodo_4",NA,NA,NA
+"2561",1158,"Víctor Alejandro Pino Fuentes","Periodo_5",NA,NA,NA
+"2562",1158,"Víctor Alejandro Pino Fuentes","Periodo_6",0.0690312549877696,0.0406606428628466,0.0122900307379236
+"2563",1184,"Roberto Celedón Fernández","Periodo_1",NA,NA,NA
+"2564",1184,"Roberto Celedón Fernández","Periodo_2",NA,NA,NA
+"2565",1184,"Roberto Celedón Fernández","Periodo_3",NA,NA,NA
+"2566",1184,"Roberto Celedón Fernández","Periodo_4",NA,NA,NA
+"2567",1184,"Roberto Celedón Fernández","Periodo_5",NA,NA,NA
+"2568",1184,"Roberto Celedón Fernández","Periodo_6",-0.163999155238684,-0.192369767363607,-0.22074037948853
+"2569",1185,"Arturo Barrios Oteíza","Periodo_1",NA,NA,NA
+"2570",1185,"Arturo Barrios Oteíza","Periodo_2",NA,NA,NA
+"2571",1185,"Arturo Barrios Oteíza","Periodo_3",NA,NA,NA
+"2572",1185,"Arturo Barrios Oteíza","Periodo_4",NA,NA,NA
+"2573",1185,"Arturo Barrios Oteíza","Periodo_5",NA,NA,NA
+"2574",1185,"Arturo Barrios Oteíza","Periodo_6",-0.0958269169828456,-0.124197529107769,-0.152568141232692
