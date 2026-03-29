@@ -1,0 +1,318 @@
+[
+  {
+    "id_csv": 1057,
+    "nombres": {
+      "csv": "Erika Olivera De La Fuente",
+      "bcn": "Erika Alejandra Olivera de la Fuente"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Empresas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniera en Ejecución en Administración de Empresas con experiencia académica como entrenadora de atletismo IAAF nivel 3. No se registran años de experiencia privada o en el sector público técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dos periodos como Diputada (2018-2026). Inició su carrera política tras una destacada trayectoria deportiva. No se registran años de militancia formal en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1058,
+    "nombres": {
+      "csv": "Maite Orsini Pascal",
+      "bcn": "Maite Orsini Pascal"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con experiencia académica como profesora ayudante en Derecho Procesal Penal y Derecho Penal. No se registran años de experiencia privada o en el sector público técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dos periodos como Diputada (2018-2026). Participó activamente en Revolución Democrática desde sus inicios, integrando su Tribunal Supremo. No se registran años de militancia formal en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1059,
+    "nombres": {
+      "csv": "Ximena Ossandón Irarrázabal",
+      "bcn": "María Ximena Ossandón Irarrázabal"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación",
+      "nivel_educacion_texto": "Postgrado (MBA)",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesora de Inglés con un Executive MBA. No se registran años de experiencia privada, académica o en el sector público técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Vicepresidenta Ejecutiva de la JUNJI"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Concejala (2008-2012) y Diputada por dos periodos (2018-2026). También tuvo un cargo de alta dirección pública en JUNJI. No se registran años de militancia formal en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1060,
+    "nombres": {
+      "csv": "Luis Pardo Sáinz",
+      "bcn": "Juan Luis Castro González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina",
+      "nivel_educacion_texto": "Postgrado (Magíster)",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Cirujano con Magíster en Administración de Instituciones de Salud. Tuvo experiencia en el sector público técnico en hospitales y consultas privadas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Cuatro periodos como Diputado (2010-2022) y Senador (2022-2030). Fue presidente del Colegio Médico de Chile, lo que le otorga una alta visibilidad y experiencia gremial. No se registran años de militancia formal en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 1061,
+    "nombres": {
+      "csv": "Andrea Parra Sauterel",
+      "bcn": "Irle Andrea Parra Sauterel"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Enfermería",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Enfermera con experiencia profesional en el sector público técnico (Cesfam). No se registran años de experiencia privada o académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernadora de la Provincia de Malleco"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Concejala (2008-2012), Gobernadora (2014-2016) y Diputada (2018-2022). Tuvo una trayectoria política previa en la Democracia Cristiana antes de unirse al PPD. No se registran años de militancia formal en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1062,
+    "nombres": {
+      "csv": "Joanna Pérez Olea",
+      "bcn": "Joanna Elena Pérez Olea"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Postgrado (MBA)",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Administradora Pública con MBA. Tuvo experiencia en el sector público técnico como Encargada de Proyectos en INJUV y Directora de Desarrollo Comunitario en Municipalidad de Lota."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Secretaria Ejecutiva del Consejo del Gobierno Regional del Biobío"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputada por dos periodos (2018-2026). Tuvo una extensa carrera en el gobierno regional y ocupó cargos directivos en la Democracia Cristiana. No se registran años de militancia formal en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1063,
+    "nombres": {
+      "csv": "Catalina Pérez Salinas",
+      "bcn": "Catalina Ilona Io Pérez Salinas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con experiencia como ayudante de cátedra y procuradora. No se registran años de experiencia privada o en el sector público técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dos periodos como Diputada (2018-2026). Fue Presidenta de Revolución Democrática y tuvo un rol clave en el proceso constituyente. No se registran años de militancia formal en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1065,
+    "nombres": {
+      "csv": "Guillermo Ramírez Diez",
+      "bcn": "Guillermo Andrés Ramírez Diez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Postgrado (Máster)",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Máster en Políticas Públicas. Tuvo experiencia académica como docente. No se registran años de experiencia privada o en el sector público técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe de Gabinete Subsecretaría General de la Presidencia",
+        "Jefe de Gabinete Alcaldía Las Condes"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dos periodos como Diputado (2018-2026). Fue Secretario General y Vicepresidente de la UDI, y Presidente del partido. Tuvo experiencia en cargos de gabinete en el gobierno central y municipal."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 1066,
+    "nombres": {
+      "csv": "Rolando Rentería Moller",
+      "bcn": "Rolando Ramón Rentería Möller"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Agronomía",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Técnico Agrícola. No se registran años de experiencia privada, académica o en el sector público técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Concejal (2000-2008), Alcalde (2008-2016) y Diputado (2018-2022). Amplia trayectoria en cargos de elección popular a nivel local y regional. No se registran años de militancia formal en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 1067,
+    "nombres": {
+      "csv": "Hugo Rey Martínez",
+      "bcn": "Hugo Humberto Gutiérrez Gálvez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con estudios de postgrado en Derecho Tributario. Fue profesor universitario y trabajó en estudios jurídicos, incluyendo uno especializado en derechos humanos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado",
+        "Convencional Constituyente"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Concejal (2004-2008), tres periodos como Diputado (2010-2021) y Convencional Constituyente (2021-2022). Destacada trayectoria en defensa de los derechos humanos. No se registran años de militancia formal en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 4.2,
+      "score_politico": 8.5
+    }
+  }
+]

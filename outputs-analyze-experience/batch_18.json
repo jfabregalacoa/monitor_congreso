@@ -1,0 +1,311 @@
+[
+  {
+    "id_csv": 937,
+    "nombres": {
+      "csv": "Hugo Gutiérrez Gálvez",
+      "bcn": "Hugo Humberto Gutiérrez Gálvez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con postgrado en Derecho Tributario, sólida trayectoria en defensa de DDHH y ejercicio libre de la profesión, además de experiencia docente universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado",
+        "Convencional Constituyente"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 41,
+      "justificacion_breve": "Larga trayectoria en el PC, concejal y tres períodos como diputado, además de constituyente."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 938,
+    "nombres": {
+      "csv": "Romilio Gutiérrez Pino",
+      "bcn": "Romilio Gutiérrez Pino"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 9,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Profesor con magíster, experiencia docente, decano universitario, investigador y cargos técnicos en educación municipal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Alcalde por un largo período y dos períodos como diputado, mostrando una sólida carrera en cargos de elección popular."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 939,
+    "nombres": {
+      "csv": "Gustavo Hasbún Selume",
+      "bcn": "Gustavo Hasbún Selume"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodismo",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Periodista con licenciatura, experiencia limitada en el sector privado antes de su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Larga trayectoria en política partidista desde joven, dos períodos como alcalde y dos como diputado, con roles importantes en juventudes partidistas y campañas."
+    },
+    "scores": {
+      "score_profesional": 2.5,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 940,
+    "nombres": {
+      "csv": "María José Hoffmann Opazo",
+      "bcn": "María José Hoffmann Opazo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ciencias Políticas y Administrativas",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Licenciada con dos magísteres, pero con muy poca experiencia profesional fuera de la política y el ámbito partidista."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 26,
+      "justificacion_breve": "Muy larga y destacada trayectoria política, con roles importantes en la UDI (Presidenta Juventud, Secretaria General, Vicepresidenta), concejala por dos períodos y diputada por tres períodos."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 941,
+    "nombres": {
+      "csv": "Luis Lemus Aracena",
+      "bcn": "Luis Segundo Lemus Aracena"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Profesor de Estado con licenciatura en Matemáticas, con experiencia en docencia pública. No se detalla experiencia fuera del ámbito público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Muy extensa trayectoria como alcalde por cuatro períodos, siendo el más votado de Chile en una elección, y dos períodos como diputado. Larga militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 942,
+    "nombres": {
+      "csv": "Javier Macaya Danús",
+      "bcn": "Claudio Eugenio Arriagada Macaya"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comercio",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Experiencia en el rubro del comercio, pero sin formación universitaria ni roles técnicos o académicos destacados."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Muy extensa y destacada trayectoria como alcalde por cinco períodos consecutivos, además de un período como diputado y liderazgo en la Asociación Chilena de Municipalidades."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 943,
+    "nombres": {
+      "csv": "Miodrag Marinovic Solo de Zaldívar",
+      "bcn": "Miodrag Arturo Marinovic Solo de Zaldívar"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero comercial con una larga y variada trayectoria en el sector financiero, administración de empresas familiares (turismo, ganadería, inmobiliario) y liderazgo gremial."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Un solo período como diputado, sin trayectoria previa en cargos de elección popular ni militancia partidista, aunque con un rol de liderazgo en la Cámara."
+    },
+    "scores": {
+      "score_profesional": 6.5,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 944,
+    "nombres": {
+      "csv": "Andrea Molina Oliva",
+      "bcn": "Andrea Molina Oliva"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comunicaciones",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 18,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Amplia y reconocida trayectoria en medios de comunicación (modelo, actriz, conductora de TV y radio) y emprendimiento (tienda de aromaterapia), con formación técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 8,
+      "justificacion_breve": "Dos períodos como diputada, con candidaturas a senadora y alcaldesa, pero sin roles partidistas de alto nivel."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 945,
+    "nombres": {
+      "csv": "Celso Morales Muñoz",
+      "bcn": "Celso René Morales Muñoz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Profesor de Educación Básica con formación universitaria y experiencia en docencia pública. No se detalla experiencia fuera del ámbito público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Muy extensa trayectoria política, incluyendo concejal, dos períodos como alcalde y tres períodos como diputado, además de liderazgo partidista a nivel distrital y regional."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 946,
+    "nombres": {
+      "csv": "Leopoldo Pérez Lahsen",
+      "bcn": "Leopoldo Alfredo Pérez Lahsen"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Administrador Público con licenciatura, amplia experiencia como profesor universitario y una muy sólida trayectoria en roles técnicos y de planificación en el sector público (IFOP y SECPLA municipal)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Larga militancia en Renovación Nacional, cofundador y presidente comunal, y tres períodos como diputado."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 7.0
+    }
+  }
+]

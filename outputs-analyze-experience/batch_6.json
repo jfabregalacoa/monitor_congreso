@@ -1,0 +1,327 @@
+[
+  {
+    "id_csv": 816,
+    "nombres": {
+      "csv": "Jorge Burgos Varela",
+      "bcn": "Jorge Burgos Varela"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con título universitario, pero su carrera se desarrolló principalmente en el sector público y político. Tuvo un rol técnico-jurídico como jefe de gabinete y asesor en el Ministerio del Interior."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente subrogante",
+        "Subsecretario de Guerra",
+        "Embajador",
+        "Subsecretario del Interior",
+        "Ministro de Defensa",
+        "Ministro del Interior"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 25,
+      "anos_militancia_partidos": 46,
+      "justificacion_breve": "Larga y destacada trayectoria política, incluyendo 3 periodos como Diputado, múltiples subsecretarías, embajador y dos ministerios clave (Defensa e Interior). Ocupó cargos directivos en su partido."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 817,
+    "nombres": {
+      "csv": "Juan Bustos Ramírez",
+      "bcn": "Juan José Bustos Ramírez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado (Penalista)",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado penalista de renombre internacional, con dos doctorados y una extensísima carrera académica como profesor titular y director de departamentos en varias universidades chilenas y extranjeras. También tuvo roles técnicos en el sector público y ejerció como abogado en casos relevantes."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 53,
+      "justificacion_breve": "Larga militancia en el PS desde joven, con cargos directivos nacionales (Vicepresidente, Secretario Nacional de Organización). Tres periodos como Diputado, llegando a presidir la Cámara."
+    },
+    "scores": {
+      "score_profesional": 9.5,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 818,
+    "nombres": {
+      "csv": "Alberto Cardemil Herrera",
+      "bcn": "Alberto Eugenio Cardemil Herrera"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado, Empresario Agrícola",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con magíster, con una sólida trayectoria en el ejercicio privado de la abogacía y en actividades agrícolas. También fue docente universitario y ocupó cargos técnicos relevantes en el sector público relacionados con su expertiz."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario de Agricultura subrogante",
+        "Subsecretario del Interior"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 22,
+      "justificacion_breve": "Larga trayectoria como Diputado (5 periodos), Subsecretario del Interior en un periodo clave. Fundador y Presidente de Renovación Nacional."
+    },
+    "scores": {
+      "score_profesional": 9.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 819,
+    "nombres": {
+      "csv": "Guillermo Ceroni Fuentes",
+      "bcn": "Guillermo Ceroni Fuentes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado, Agricultor",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con experiencia en el sector privado (legal y agrícola) por casi dos décadas, incluyendo casos internacionales. También tuvo un rol técnico-jurídico en la ex Cora y actualmente es Seremi."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Transportes y Telecomunicaciones"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 28,
+      "anos_militancia_partidos": 41,
+      "justificacion_breve": "Muy larga trayectoria como Diputado (6 periodos), llegando a ser vicepresidente de la Cámara. Dirigente partidista a nivel local y regional, y fundador del PPD en su comuna. Actualmente Seremi."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 820,
+    "nombres": {
+      "csv": "Francisco Chahuán Chahuán",
+      "bcn": "Francisco Chahuán Chahuán"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Máster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con múltiples diplomados y dos másteres. Tuvo una sólida carrera en el sector privado como abogado corporativo y asesor, además de roles pro bono y en ONGs. También ejerció como abogado municipal y asesor legislativo."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 21,
+      "anos_militancia_partidos": 30,
+      "justificacion_breve": "Larga y ascendente carrera política, desde dirigente estudiantil y juvenil, pasando por cargos directivos regionales y nacionales en RN (incluyendo la presidencia del partido), hasta ser Diputado y luego Senador por dos periodos, siendo el más votado a nivel nacional en 2017."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 821,
+    "nombres": {
+      "csv": "Sergio Correa De la Cerda",
+      "bcn": "Sergio Correa de la Cerda"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Agricultor",
+      "nivel_educacion_texto": "Media (universitario incompleto)",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 19,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Agricultor con estudios universitarios incompletos. Su experiencia profesional se centra en la agricultura y la gestión deportiva local."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde de Molina",
+        "Alcalde de Curicó"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 27,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Larga trayectoria como Diputado (5 periodos) y Alcalde designado durante el régimen militar. Larga militancia en partidos de derecha."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 822,
+    "nombres": {
+      "csv": "María Angélica Cristi Marfil",
+      "bcn": "María Angélica Cristi Marfil"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Sociología",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Licenciada en Sociología con experiencia en roles técnicos en el sector público (Serplac, Junaeb). Su carrera se orientó rápidamente hacia lo público y político."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Alcaldesa de Peñalolén"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 31,
+      "anos_militancia_partidos": 21,
+      "justificacion_breve": "Muy larga trayectoria como Diputada (6 periodos), siendo la primera alcaldesa de Peñalolén (designada)."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 823,
+    "nombres": {
+      "csv": "Marcela Cubillos Sigall",
+      "bcn": "Marcela Cubillos Sigall"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogada",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con una destacada carrera académica como profesora universitaria de Derecho Constitucional. También ha dirigido un centro de estudios."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada",
+        "Convencional Constitucional"
+      ],
+      "cargos_gobierno_central": [
+        "Ministra del Medio Ambiente",
+        "Ministra de Educación"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 28,
+      "justificacion_breve": "Dos periodos como Diputada, dos ministerios clave (Medio Ambiente y Educación), y roles directivos en la UDI. También fue Convencional Constitucional."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 824,
+    "nombres": {
+      "csv": "Alfonso De Urresti Longton",
+      "bcn": "Alfonso Arturo De Urresti Longton"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Máster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con dos másteres y una sólida carrera académica como profesor universitario en diversas cátedras. Amplia experiencia en roles técnicos y jurídicos en el sector público, incluyendo la Corporación de Asistencia Judicial, asesorías municipales y la judicatura local."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe de gabinete del Intendente"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 34,
+      "anos_militancia_partidos": 34,
+      "justificacion_breve": "Larga y ascendente carrera política, desde dirigente estudiantil y partidista, pasando por dos periodos como Diputado y dos como Senador, llegando a ser Vicepresidente del Senado."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 825,
+    "nombres": {
+      "csv": "Roberto Delmastro Naso",
+      "bcn": "Roberto Delmastro Naso"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Forestal",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 13,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero forestal con un máster en ciencias. Tuvo una destacada y extensa carrera en el sector privado forestal, así como una impresionante trayectoria académica como profesor, director de escuela, prodecano y decano de facultad en la Universidad Austral. También fue consultor de la FAO."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Cuatro periodos como Diputado, llegando a ser Segundo Vicepresidente de la Cámara. Su militancia partidista fue más breve y no ocupó cargos directivos importantes."
+    },
+    "scores": {
+      "score_profesional": 8.0,
+      "score_politico": 6.5
+    }
+  }
+]

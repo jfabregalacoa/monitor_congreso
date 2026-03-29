@@ -1,0 +1,312 @@
+[
+  {
+    "id_csv": 1098,
+    "nombres": {
+      "csv": "Yovana Ahumada Palma",
+      "bcn": "Yovana Ahumada Palma"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnica agropecuaria",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación técnica sin experiencia profesional relevante fuera de la política. Experiencia laboral previa en ventas y servicios de sanitización."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Diputada por un periodo. Fue vicepresidenta nacional del PDG. Militancia en dos partidos."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1099,
+    "nombres": {
+      "csv": "Jaime Araya Guerrero",
+      "bcn": "Jaime Araya Guerrero"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título de abogado con ejercicio profesional en ámbitos público y privado. No se detalla años de experiencia privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Director DIDECO"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Amplia trayectoria política local y nacional. Fue concejal por dos periodos, alcalde interino y diputado. Militancia independiente."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1100,
+    "nombres": {
+      "csv": "Cristián Araya Lerdo de Tejada",
+      "bcn": "Cristián Araya Lerdo de Tejada"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Psicología / Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Doble titulación universitaria y magíster. No se detallan años de experiencia profesional privada o académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Concejal y diputado. Militancia en dos partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1101,
+    "nombres": {
+      "csv": "Mónica Arce Castro",
+      "bcn": "Mónica Arce Castro"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Logística",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación técnica sin experiencia profesional detallada fuera de la política. Participación en fundación social."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputada por un periodo. Independiente con apoyo de partidos."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1102,
+    "nombres": {
+      "csv": "Roberto Arroyo Muñoz",
+      "bcn": "Roberto Arroyo Muñoz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Odontología",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título de cirujano dentista con especialización y diplomados. Experiencia académica como conferencista y profesor invitado. Diplomado en Gestión Pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Diputado por un periodo. Participación en Vicaría de la Solidaridad y gremios. Militancia en dos partidos."
+    },
+    "scores": {
+      "score_profesional": 4.5,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1103,
+    "nombres": {
+      "csv": "Danisa Astudillo Peiretti",
+      "bcn": "Danisa Astudillo Peiretti"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniera comercial con diplomados y magíster en Gestión Pública. Experiencia laboral previa en diversas reparticiones del Estado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Secretaria Regional Ministerial de Planificación",
+        "Directora Regional FOSIS"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Amplia trayectoria política y de servicio público. Concejala, SEREMI, Directora FOSIS y Diputada. Integrante del Comité Central del Partido Socialista."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 1104,
+    "nombres": {
+      "csv": "Chiara Barchiesi Chávez",
+      "bcn": "Chiara Barchiesi Chávez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Agrónoma",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniera agrónoma con magíster y estancia de investigación. Experiencia como ayudante académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Diputada por un periodo. Participación en movimientos estudiantiles y fundación de partido. Militancia en el Partido Republicano."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1105,
+    "nombres": {
+      "csv": "Héctor Barría Angulo",
+      "bcn": "Héctor Barría Angulo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título de Administrador Público y Ciencias Políticas. No se detallan años de experiencia profesional privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Amplia trayectoria política local y nacional. Concejal por dos periodos, alcalde y diputado. Militancia en el Partido Demócrata Cristiano."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1106,
+    "nombres": {
+      "csv": "Miguel Ángel Becker Alvear",
+      "bcn": "Miguel Becker Alvear"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Empresario",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Experiencia como empresario en diversos rubros. No se detalla formación técnica específica ni años de experiencia privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Alcalde por tres periodos y diputado. Trayectoria política consolidada en el ámbito local y nacional. Independiente con cupo RN."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1107,
+    "nombres": {
+      "csv": "María Francisca Bello Campos",
+      "bcn": "María Francisca Bello Campos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Psicología",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título de psicóloga. Experiencia previa como asesora territorial de un diputado. No se detallan años de experiencia profesional privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Diputada por un periodo. Exmilitante de Convergencia Social, ahora en el Partido Frente Amplio. Candidata a alcaldesa."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 4.5
+    }
+  }
+]

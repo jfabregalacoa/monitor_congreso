@@ -1,0 +1,347 @@
+[
+  {
+    "id_csv": 907,
+    "nombres": {
+      "csv": "Gonzalo Uriarte Herrera",
+      "bcn": "Gonzalo Uriarte Herrera"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 8,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Magíster, 8 años de ejercicio libre de la profesión y 3 años como docente universitario."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2002-2006)",
+        "Diputado (2006-2010)",
+        "Diputado (2010-2014)",
+        "Senador (2011-2014)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 26,
+      "justificacion_breve": "Larga trayectoria parlamentaria (3 periodos como Diputado, 1 como Senador), con roles directivos en la UDI y su juventud."
+    },
+    "scores": {
+      "score_profesional": 5.6,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 908,
+    "nombres": {
+      "csv": "Ignacio Urrutia Bonilla",
+      "bcn": "Ignacio Urrutia Bonilla"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Agricultor",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 26,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Agricultor con estudios secundarios, 26 años de experiencia en el sector privado y liderazgo gremial."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2002-2006)",
+        "Diputado (2006-2010)",
+        "Diputado (2010-2014)",
+        "Diputado (2014-2018)",
+        "Diputado (2018-2022)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Extensa carrera parlamentaria (5 periodos como Diputado), con roles directivos regionales y nacionales en distintos partidos."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.8
+    }
+  },
+  {
+    "id_csv": 909,
+    "nombres": {
+      "csv": "Ximena Valcarce Becerra",
+      "bcn": "Ximena Valcarce Becerra"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodista",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Periodista titulada, con 7 años de experiencia en medios de comunicación y relaciones laborales en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada (2006-2010)",
+        "Consejera Regional (2018-2022)"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernadora Provincial de Arica (2011-2012)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 9,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Un periodo como Diputada y Consejera Regional, además de Gobernadora Provincial. Liderazgo en juventud partidista."
+    },
+    "scores": {
+      "score_profesional": 3.4,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 910,
+    "nombres": {
+      "csv": "Esteban Valenzuela Van Treek",
+      "bcn": "Esteban Valenzuela Van Treek"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodista; Cientista Político; Historiador",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 6,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Doctor en Historia, Periodista y Cientista Político. Amplia experiencia académica y como consultor en gestión pública y desarrollo."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde de Rancagua (1992-1996)",
+        "Diputado (2002-2006)",
+        "Diputado (2006-2010)"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro de Agricultura (2022-presente)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Alcalde, dos periodos como Diputado y Ministro de Agricultura. Múltiples roles directivos nacionales en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 7.2,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 911,
+    "nombres": {
+      "csv": "Patricio Vallespín López",
+      "bcn": "Patricio Vallespín López"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Geógrafo",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Geógrafo con Magíster, 14 años de experiencia como consultor internacional y asesor de empresas, además de profesor universitario y director técnico en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2006-2010)",
+        "Diputado (2010-2014)",
+        "Diputado (2014-2018)",
+        "Gobernador Regional (2021-2025)"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente de la Región de Los Lagos (2002-2004)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 40,
+      "justificacion_breve": "Larga trayectoria en cargos de elección popular (3 periodos como Diputado, Gobernador Regional) y cargos de gobierno (Intendente). 40 años de militancia DC."
+    },
+    "scores": {
+      "score_profesional": 7.8,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 912,
+    "nombres": {
+      "csv": "Alfonso Vargas Lyng",
+      "bcn": "Alfonso Vargas Lyng"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial; Agricultor",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 8,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Comercial y agricultor, con 8 años de experiencia empresarial en el sector agrícola."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (1994-1998)",
+        "Diputado (1998-2002)",
+        "Diputado (2002-2006)",
+        "Diputado (2006-2010)"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde Designado de Nogales (1983-1987)",
+        "Subsecretario de Defensa (2010-2014)",
+        "Subsecretario de Agricultura (2018-2019)",
+        "Subsecretario para las Fuerzas Armadas (2019-presente)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 28,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Larga y destacada trayectoria con 4 periodos como Diputado, Alcalde designado y múltiples periodos como Subsecretario. Vicepresidente nacional de RN."
+    },
+    "scores": {
+      "score_profesional": 3.6,
+      "score_politico": 8.8
+    }
+  },
+  {
+    "id_csv": 913,
+    "nombres": {
+      "csv": "Mario Venegas Cárdenas",
+      "bcn": "Mario Venegas Cárdenas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Profesor de Historia y Geografía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 11,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Profesor de Historia y Geografía, con 11 años de docencia y 10 años en roles técnicos pedagógicos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2006-2010)",
+        "Diputado (2010-2014)",
+        "Diputado (2014-2018)",
+        "Diputado (2018-2022)"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador Provincial de Malleco (2000-2004)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 22,
+      "justificacion_breve": "Larga trayectoria parlamentaria con 4 periodos como Diputado y un periodo como Gobernador Provincial."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 914,
+    "nombres": {
+      "csv": "Samuel Venegas Rubio",
+      "bcn": "Samuel Venegas Rubio"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Empresario",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 28,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Empresario con estudios secundarios, 28 años de experiencia en el sector de transporte y liderazgo gremial."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Regidor de San Antonio (1963-1971)",
+        "Diputado (1994-1998)",
+        "Diputado (1998-2002)",
+        "Diputado (2002-2006)",
+        "Diputado (2006-2010)",
+        "Consejero Regional (2016)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 25,
+      "anos_militancia_partidos": 54,
+      "justificacion_breve": "Muy extensa trayectoria con 4 periodos como Diputado y 8 años como Regidor. Más de 50 años de militancia en diversos partidos."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.8
+    }
+  },
+  {
+    "id_csv": 915,
+    "nombres": {
+      "csv": "Germán Verdugo Soto",
+      "bcn": "Germán Verdugo Soto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado titulado, con 1 año de ejercicio libre y 12 años en roles técnicos y jurídicos en la Municipalidad de Talca."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde de Talca (1996-2000)",
+        "Alcalde de Talca (2000-2004)",
+        "Diputado (2006-2010)",
+        "Diputado (2010-2014)",
+        "Diputado (2014-2018)"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde Designado de Talca (1989-1992)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 11,
+      "justificacion_breve": "Larga trayectoria con 3 periodos como Diputado y 11 años como Alcalde (designado y electo)."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 916,
+    "nombres": {
+      "csv": "Ximena Vidal Lázaro",
+      "bcn": "Ximena Vidal Lázaro"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Actriz",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Actriz y gestora cultural con 15 años de experiencia en el sector privado y un rol técnico en la Municipalidad de Santiago."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada (2002-2006)",
+        "Diputada (2006-2010)",
+        "Diputada (2010-2014)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 22,
+      "justificacion_breve": "Tres periodos como Diputada y directora de oficina municipal. Consejera nacional del PPD."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.0
+    }
+  }
+]

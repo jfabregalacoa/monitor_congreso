@@ -1,0 +1,314 @@
+[
+  {
+    "id_csv": 1128,
+    "nombres": {
+      "csv": "Ana María Gazmuri Vieira",
+      "bcn": "Ana María Gazmuri Vieira"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Actriz / Gestora Cultural / Terapias Alternativas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Carrera principal en actuación y gestión cultural. Formación en terapias alternativas. No se registran años de experiencia privada en su campo técnico principal. Experiencia académica en dirección de escuela de teatro."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 5,
+      "justificacion_breve": "Diputada actual. Participación en campaña plebiscito 1988. Militancia en Revolución Democrática y Acción Humanista. Vocera de colectivos políticos."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1129,
+    "nombres": {
+      "csv": "Andrés Giordano Salazar",
+      "bcn": "Andrés Giordano Salazar"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Músico / Dirigente Sindical",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación en Arte y Música. Experiencia laboral principal como dirigente sindical en Starbucks, no se considera técnica en este contexto. No hay experiencia académica ni técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 2,
+      "justificacion_breve": "Diputado actual. Presidente de Sindicato Starbucks. Integrante de movimientos sociales. Candidato a Convencional Constituyente."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 1130,
+    "nombres": {
+      "csv": "Marta González Olea",
+      "bcn": "Marta González Olea"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Química Analítica",
+      "nivel_educacion_texto": "Técnico / Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Técnica Universitaria en Química con experiencia laboral como Química Analista en sector privado. No hay experiencia académica ni técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputada actual. Proviene del mundo sindical, liderando sindicatos. Candidata a alcaldesa."
+    },
+    "scores": {
+      "score_profesional": 4.4,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1131,
+    "nombres": {
+      "csv": "Mauro González Villarroel",
+      "bcn": "Mauro González Villarroel"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con estudios de postgrado. Experiencia en el sector público técnico como Seremi del Trabajo y Dirección del Trabajo, además de asesoría jurídica municipal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Seremi del Trabajo y Previsión Social"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputado actual. Seremi del Trabajo y Previsión Social. Asesor jurídico y Director de Control municipal. Militante de RN."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1132,
+    "nombres": {
+      "csv": "Jorge Guzmán Zepeda",
+      "bcn": "Jorge Guzmán Zepeda"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con ejercicio libre de la profesión y especialización en Derecho Público. Experiencia como abogado del Gobierno Regional del Maule."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Gobierno"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputado actual. Concejal. Seremi de Gobierno. Militante de Evópoli."
+    },
+    "scores": {
+      "score_profesional": 5.4,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1133,
+    "nombres": {
+      "csv": "Juan Irarrázaval Rossel",
+      "bcn": "Juan Irarrázaval Rossel"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Licenciado en Ciencias Jurídicas y Sociales. No se detallan años de ejercicio profesional privado ni experiencia técnica pública o académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputado actual. Concejal. Militante del Partido Republicano (anteriormente UDI)."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 1134,
+    "nombres": {
+      "csv": "Andrés Jouannet Valderrama",
+      "bcn": "Andrés Jouannet Valderrama"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Filosofía / Historia / Ciencia Política",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Doctor en Filosofía con Magíster en Historia y Ciencia Política. Amplia experiencia académica como investigador y profesor universitario. No se registran años de experiencia privada en su campo técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente",
+        "Gobernador Provincial"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 30,
+      "justificacion_breve": "Diputado actual. Intendente y Gobernador Provincial. Secretario político de expresidente. Dirigente juvenil DC. Presidente de Amarillos por Chile."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 1135,
+    "nombres": {
+      "csv": "Johannes Kaiser Barents-Von Hohenhagen",
+      "bcn": "Johannes Kaiser Barents-von Hohenhagen"
+    },
+    "analisis_profesional": {
+      "campo_principal": "No especificado / Periodismo Freelance",
+      "nivel_educacion_texto": "No especificado",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios inconclusos de Derecho y Filosofía. Experiencia laboral diversa (camarero, vendedor, administrador, periodista freelance). No se identifica un campo profesional técnico principal ni estudios completos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputado actual. Candidato presidencial. Creador de canal de YouTube político. Militante Republicano, luego fundó Partido Nacional Libertario."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 1136,
+    "nombres": {
+      "csv": "Paula Labra Besserer",
+      "bcn": "Paula Labra Besserer"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial / Gestión Pública en Salud",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniera Comercial con diplomados en gestión. Experiencia profesional en el sector público en áreas de administración y finanzas, y en gestión de COMPIN. Experiencia privada en empresas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Secretaria Regional Ministerial Metropolitana de Salud",
+        "Directora Nacional de COMPIN"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Diputada actual. Seremi Metropolitana de Salud. Directora Nacional de COMPIN. Cercana a RN."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1137,
+    "nombres": {
+      "csv": "Tomás Lagomarsino Guzmán",
+      "bcn": "Tomás Lagomarsino Guzmán"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Cirujano con experiencia en atención primaria y hospitalaria. Docente universitario. Activista social en salud. No se registran años de experiencia privada en su campo técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 1,
+      "justificacion_breve": "Diputado actual. Dirigente universitario (FENUMED). Creador de Fundación Equidad Chile. Vocero de mesas sociales por el derecho a la salud. Militante del Partido Radical."
+    },
+    "scores": {
+      "score_profesional": 4.2,
+      "score_politico": 6.5
+    }
+  }
+]

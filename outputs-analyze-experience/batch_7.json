@@ -1,0 +1,313 @@
+[
+  {
+    "id_csv": 826,
+    "nombres": {
+      "csv": "Eduardo Díaz Del Río",
+      "bcn": "Eduardo Díaz del Río"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Licenciado en Ciencias Jurídicas con un posgrado en Ciencias Políticas. No se registra experiencia profesional privada, académica o técnica pública relevante fuera de su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 9,
+      "justificacion_breve": "Tres periodos como Diputado (12 años) y presidente nacional del Partido Regionalista de los Independientes (PRI). Trayectoria política consolidada."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 827,
+    "nombres": {
+      "csv": "Marcelo Díaz Díaz",
+      "bcn": "Marcelo Omar Chávez Velásquez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Licenciado en Derecho. Su experiencia laboral inicial fue en un gabinete de subsecretaría, considerado un cargo político/de confianza, no técnico. No se registra experiencia profesional privada o académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejero Regional",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Diez años como Consejero Regional y un periodo como Diputado. Fue presidente nacional de la Juventud Demócrata Cristiana y de las Juventudes de la ODCA, mostrando una temprana y sostenida militancia."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 828,
+    "nombres": {
+      "csv": "Julio Dittborn Cordua",
+      "bcn": "Julio Dittborn Cordua"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Economía / Ingeniería Comercial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero Comercial con Máster en Economía. Amplia experiencia en el sector privado (columnista, director de empresas), académica (decano, profesor universitario) y en cargos técnicos públicos (ODEPLAN, PROCHILE, agregado comercial, coordinador Hacienda)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario de Hacienda"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Tres periodos como Diputado, Subsecretario de Hacienda, Concejal reelecto y presidente nacional de la UDI. Trayectoria política muy extensa y de alto nivel."
+    },
+    "scores": {
+      "score_profesional": 8.5,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 829,
+    "nombres": {
+      "csv": "Gonzalo Duarte Leiva",
+      "bcn": "Gonzalo Duarte Leiva"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Sociología",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Sociólogo con posgrado en Ciencias del Desarrollo. Experiencia profesional en fundaciones y cooperativas, además de roles académicos (presidente de directorio IP) y técnicos en el sector público (jefe comité asesor, director Chile Barrio)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Director Nacional de Programa"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 19,
+      "justificacion_breve": "Alcalde designado y dos veces electo, un periodo como Diputado y director nacional del programa Chile Barrio. Liderazgo en asociaciones de municipalidades, aunque no en la directiva nacional de un partido."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 830,
+    "nombres": {
+      "csv": "Andrés Egaña Respaldiza",
+      "bcn": "Andrés Antonio Egaña Respaldiza"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Publicidad / Comercialización",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 30,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Licenciado en Comercialización y Publicista. Muy extensa carrera en el sector privado, especialmente en televisión (Canal 13, Canal 5 Concepción) como director y gerente. También fue Consejero del Consejo Nacional de Televisión (CNTV)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 8,
+      "justificacion_breve": "Dos periodos como Diputado. Su rol en el CNTV es más técnico-regulatorio que político de gobierno central. No se registran cargos partidistas de alto nivel."
+    },
+    "scores": {
+      "score_profesional": 7.5,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 831,
+    "nombres": {
+      "csv": "Edmundo Eluchans Urenda",
+      "bcn": "Edmundo Eluchans Urenda"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 30,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con una larga trayectoria en el ejercicio privado de la profesión (socio de estudio jurídico). También ha sido profesor universitario y director del Consejo Directivo del Banco del Estado de Chile."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Consejero Constitucional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 9,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Dos periodos como Diputado, incluyendo la presidencia de la Cámara. Miembro de la Comisión Política y vicepresidente de la UDI. Recientemente electo Consejero Constitucional."
+    },
+    "scores": {
+      "score_profesional": 8.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 832,
+    "nombres": {
+      "csv": "Francisco Encina Moriamez",
+      "bcn": "José Francisco Encina Moriamez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Sociología / Desarrollo Económico",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Sociólogo con Magíster en Desarrollo Económico. Amplia experiencia académica (profesor, investigador) y en cargos técnicos públicos (director de programas en INACAP)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 19,
+      "anos_militancia_partidos": 39,
+      "justificacion_breve": "Cuatro periodos consecutivos como Diputado y Secretario Regional Ministerial de Economía. Miembro del Comité Central del Partido Socialista, con una muy larga militancia."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 833,
+    "nombres": {
+      "csv": "Marco Enríquez-Ominami Gumucio",
+      "bcn": "Marco Antonio Enríquez-Ominami Gumucio"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Cine / Filosofía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Licenciado en Filosofía y cineasta. Experiencia en producción audiovisual (Productora Rivas y Rivas, La Factoría) y académica (docente universitario)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 34,
+      "justificacion_breve": "Un periodo como Diputado. Fundador del Partido Progresista y cinco veces candidato presidencial, lo que demuestra una ambición y trayectoria política de alto perfil."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 835,
+    "nombres": {
+      "csv": "Alvaro Escobar Rufatt",
+      "bcn": "Álvaro Escobar Rufatt"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Actuación / Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Licenciado en Ciencias Jurídicas y abogado, con una destacada y extensa carrera como actor y conductor de radio y televisión en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 1,
+      "justificacion_breve": "Un periodo como Diputado. Su militancia partidista fue breve, y no se registran otros cargos políticos de relevancia o liderazgo partidista nacional."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 836,
+    "nombres": {
+      "csv": "Marcos Espinosa Monardes",
+      "bcn": "Marcos Espinosa Monardes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Historia y Geografía / Docencia",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesor de Historia y Geografía. Experiencia en el sector privado como presidente de Cámaras de Comercio. No se registra experiencia académica o técnica pública directa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 12,
+      "justificacion_breve": "Tres periodos consecutivos como Diputado, incluyendo un año como Primer Vicepresidente de la Cámara. Trayectoria parlamentaria sólida y consistente."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  }
+]

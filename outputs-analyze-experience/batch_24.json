@@ -1,0 +1,327 @@
+[
+  {
+    "id_csv": 997,
+    "nombres": {
+      "csv": "Roberto Poblete Zapata",
+      "bcn": "Roberto Fortunato Poblete Zapata"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Actuación / Teatro",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Actor con estudios universitarios en actuación y experiencia académica como profesor universitario. No se especifica experiencia privada en el área."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Una legislatura como Diputado. No se detalla militancia partidista ni otros cargos públicos."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 998,
+    "nombres": {
+      "csv": "Yasna Provoste Campillay",
+      "bcn": "Yasna Provoste Campillay"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación Física",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesora de Estado con Magíster en Administración Educacional. No se detalla experiencia privada ni técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senadora",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Ministra de Educación",
+        "Ministra de Planificación",
+        "Intendenta",
+        "Gobernadora"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 47,
+      "justificacion_breve": "Amplia trayectoria política: Ministra, Intendenta, Gobernadora, Diputada y Senadora. Presidenta del Senado. Larga militancia en la DC."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 999,
+    "nombres": {
+      "csv": "Jorge Rathgeb Schifferli",
+      "bcn": "Jorge Evaldo Rathgeb Schifferli"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con 4 años de ejercicio libre de la profesión y docencia universitaria. No se detalla experiencia técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador",
+        "Seremi de Agricultura"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Múltiples periodos como Concejal, Gobernador, Seremi y tres periodos como Diputado. Dirigente de RN."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1000,
+    "nombres": {
+      "csv": "Luis Rocafull López",
+      "bcn": "Luis Alberto Rocafull López"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Empresas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero en Ejecución en Administración con diplomado y candidato a magíster. No se detalla experiencia privada ni técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 7,
+      "anos_militancia_partidos": 52,
+      "justificacion_breve": "Intendente y dos periodos como Diputado. Larga militancia en el Partido Socialista."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 1001,
+    "nombres": {
+      "csv": "Raúl Saldívar Auger",
+      "bcn": "Raúl Alfonso Leiva Carvajal"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con varios magísteres y 7 años de ejercicio profesional y cargos gerenciales. No se detalla experiencia técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 9,
+      "anos_militancia_partidos": 38,
+      "justificacion_breve": "Gobernador, dos periodos como Alcalde y dos periodos como Diputado. Militante del PS."
+    },
+    "scores": {
+      "score_profesional": 6.4,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1002,
+    "nombres": {
+      "csv": "Leonardo Soto Ferrada",
+      "bcn": "Leonardo Enrique Soto Ferrada"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho Laboral",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con especialización en derecho laboral. No se detalla experiencia privada ni técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 40,
+      "justificacion_breve": "Dos periodos como Concejal y tres periodos como Diputado. Dirigente del PS."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1003,
+    "nombres": {
+      "csv": "Renzo Trisotti Martínez",
+      "bcn": "Renzo Aldo Trisotti Martínez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 6,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con 6 años de experiencia en cargos municipales y privados. No se detalla experiencia técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Seremi de Justicia",
+        "Seremi de Desarrollo Social"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 21,
+      "justificacion_breve": "Concejal, dos Seremis y tres periodos como Diputado. Militante UDI y luego Republicano."
+    },
+    "scores": {
+      "score_profesional": 4.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1004,
+    "nombres": {
+      "csv": "Christian Urízar Muñoz",
+      "bcn": "Christian Erwin Urízar Muñoz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Civil Química",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Civil Químico con diplomado. No se detalla experiencia privada ni técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Gobernador, Consejero Regional y un periodo como Diputado. Presidente regional del PS."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1005,
+    "nombres": {
+      "csv": "Osvaldo Urrutia Soto",
+      "bcn": "Osvaldo Alejandro Nicanor Urrutia Soto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Construcción / Ingeniería",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Constructor con Magíster y 15 años de experiencia en dirección de institutos profesionales y empresa portuaria. No se detalla experiencia técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Alcalde"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Alcalde, dos periodos como Diputado, Consejero Regional. Presidente regional de la UDI."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1006,
+    "nombres": {
+      "csv": "Camila Vallejo Dowling",
+      "bcn": "Camila Antonia Amaranta Vallejo Dowling"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Geografía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Geógrafa titulada con distinción. No se detalla experiencia privada ni técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Ministra Secretaría General de Gobierno"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 17,
+      "justificacion_breve": "Presidenta de la FECH, dos periodos como Diputada y actual Ministra de Estado. Militante del PC."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.5
+    }
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "id_csv": 1108,
+    "nombres": {
+      "csv": "Juan Carlos Beltrán Silva",
+      "bcn": "Juan Beltrán Silva"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería en Administración",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero en Administración con estudios universitarios. Experiencia en cargos técnicos municipales (Tesorería, Juzgado de Policía Local, Director de Tránsito, Secretario Municipal) y como secretario de senador. No se detalla experiencia privada específica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Consejero Regional",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador de Malleco",
+        "Secretario Municipal"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Amplia trayectoria en cargos de elección popular local y regional (Concejal, CORE) y cargos de gobierno (Gobernador). Experiencia previa en municipalidad y como secretario de senador. No se especifica militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 4.2,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1109,
+    "nombres": {
+      "csv": "Gustavo Benavente Vergara",
+      "bcn": "Gustavo Benavente Vergara"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con título universitario. Experiencia relevante en el sector privado como abogado jefe en fundación y fiscal de empresa. No se detalla experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria política centrada en su actual cargo de Diputado. Experiencia previa como asesor legislativo. No se especifica militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 6.2,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1110,
+    "nombres": {
+      "csv": "Carlos Bianchi Chelech",
+      "bcn": "Carlos Antonio Karim Bianchi Chelech"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Administrador Público con estudios universitarios. Experiencia en el sector privado como gerente y director de medios de comunicación, y en sociedades comerciales. No se detalla experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Senador",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Extensa trayectoria política en cargos de elección popular, incluyendo múltiples periodos como Senador y actual Diputado. Inició su carrera como Concejal. No se especifica militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 1111,
+    "nombres": {
+      "csv": "Fernando Bórquez Montecinos",
+      "bcn": "Fernando Bórquez Montecinos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "No especificado",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Solo se menciona finalización de Enseñanza Media. No hay información sobre estudios superiores o experiencia profesional técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Consejero Regional",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador de Chiloé",
+        "Jefe de gabinete de gobernación"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Sólida carrera política local y regional, con cargos de Concejal, CORE y Gobernador, culminando como Diputado. Experiencia previa como dirigente gremial y asesor."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1112,
+    "nombres": {
+      "csv": "Ana María Bravo Castro",
+      "bcn": "Ana María Bravo Castro"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogada con estudios universitarios y diplomados. Amplia experiencia en el sector público en diversas instituciones (Consejo de Defensa del Estado, Municipalidad, SERVIU, Bienes Nacionales, CONADI). No se detalla experiencia privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Secretaria Regional Ministerial de Economía, Fomento y Turismo"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 16,
+      "justificacion_breve": "Experiencia como SEREMI y actual Diputada. Larga militancia y rol activo en el Partido Socialista, incluyendo encargada electoral regional. Experiencia previa en diversas instituciones públicas."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1113,
+    "nombres": {
+      "csv": "Marta Bravo Salinas",
+      "bcn": "Marta Bravo Salinas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina / Kinesiología",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Doble titulación (Kinesióloga, Médica General) con Doctorado en Medicina y Magíster en Gestión en Salud Pública. Experiencia académica (pasantía investigadora) y técnica en salud pública (Médica de Atención Primaria, Contralor COMPIN, Presidenta COMPIN). Amplia formación y especialización."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Secretaria Regional Ministerial de Salud",
+        "Delegada provincial de SEREMI de Salud"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Experiencia como SEREMI de Salud y actual Diputada. Militante de la UDI. Su carrera profesional técnica en salud pública es muy destacada."
+    },
+    "scores": {
+      "score_profesional": 9.2,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1114,
+    "nombres": {
+      "csv": "Félix Bugueño Sotelo",
+      "bcn": "Félix Bugueño Sotelo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "No especificado",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Solo se menciona finalización de Enseñanza Media. No hay información sobre estudios superiores o experiencia profesional técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 19,
+      "justificacion_breve": "Amplia trayectoria en cargos de elección popular local (Concejal por varios periodos) y actual Diputado. Larga militancia en diversos partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1115,
+    "nombres": {
+      "csv": "Mercedes Bulnes Núñez",
+      "bcn": "María Mercedes Bulnes Núñez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con título universitario. Experiencia en el ejercicio libre de la profesión, incluyendo la creación de un estudio jurídico para acceso a la justicia. No se detalla experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria política centrada en su actual cargo de Diputada. Experiencia previa como defensora de Derechos Humanos y en el ejercicio libre de la profesión. No se especifica militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1116,
+    "nombres": {
+      "csv": "Felipe Camaño Cárdenas",
+      "bcn": "Felipe Camaño Cárdenas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Arquitectura",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Arquitecto con título universitario. Experiencia profesional en el sector privado (promotor de actividad turística, presidente de cámara gremial). No se detalla experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria política reciente, actual Diputado. Experiencia previa como dirigente gremial y cercano a la Democracia Cristiana. No se especifica militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 5.8,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1117,
+    "nombres": {
+      "csv": "Nathalie Castillo Rojas",
+      "bcn": "Nathalie Castillo Rojas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodismo",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Periodista con título universitario. Experiencia profesional en comunicaciones en el ámbito público (Jefa de Gabinete SEREMI Salud) y privado. También conductora radial."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Actual Diputada. Larga trayectoria como dirigenta gremial (Colegio de Periodistas) y política en el Partido Comunista (Comité Central). Experiencia previa como dirigenta estudiantil."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 7.5
+    }
+  }
+]

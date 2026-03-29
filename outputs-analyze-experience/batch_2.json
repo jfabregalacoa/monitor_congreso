@@ -1,0 +1,327 @@
+[
+  {
+    "id_csv": 178,
+    "nombres": {
+      "csv": "Arturo Longton Guerrero",
+      "bcn": "Arturo Longton Guerrero"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 2,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con doctorado, pero con poca experiencia privada y algunos roles técnicos públicos antes de su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador",
+        "Alcalde (designado)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 27,
+      "justificacion_breve": "Larga trayectoria en cargos de elección popular (4 periodos de diputado) y cargos designados (alcalde, gobernador)."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 179,
+    "nombres": {
+      "csv": "Pablo Longueira Montes",
+      "bcn": "Pablo Longueira Montes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Civil Industrial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero civil industrial con título universitario, pero sin experiencia profesional fuera de la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Larga y destacada trayectoria política, incluyendo múltiples periodos como diputado y senador, ministro de estado y presidente de partido por varios años."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 181,
+    "nombres": {
+      "csv": "Zarko Luksic Sandoval",
+      "bcn": "Zarko Luksic Sandoval"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con doctorado, extensa carrera académica y experiencia técnica en el sector público, además de experiencia en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Tres periodos como diputado y subsecretario de estado, además de una larga militancia y roles técnicos en el sector público."
+    },
+    "scores": {
+      "score_profesional": 8.8,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 185,
+    "nombres": {
+      "csv": "María Eugenia Mella Gajardo",
+      "bcn": "María Eugenia Mella Gajardo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Enfermera",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Enfermera con experiencia docente y en el servicio de salud público, además de asesoría técnica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Seremi",
+        "Directora de Servicio Nacional",
+        "Jefa de Departamento de Intendencia"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 17,
+      "anos_militancia_partidos": 17,
+      "justificacion_breve": "Un periodo como diputada y varios cargos designados a nivel regional."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 187,
+    "nombres": {
+      "csv": "Darío Molina Sanhueza",
+      "bcn": "Darío Molina Sanhueza"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ejecutivo Comercial / Abogado (incompleto)",
+      "nivel_educacion_texto": "Universitario (incompleto)",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Estudios universitarios incompletos, sin experiencia privada clara, pero con experiencia como asesor legislativo."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Dos periodos como diputado y un periodo como gobernador, con larga militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 190,
+    "nombres": {
+      "csv": "Waldo Mora Longa",
+      "bcn": "Waldo Mora Longa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodista",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 21,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Periodista con amplia experiencia en medios privados (comentarista, empresario radial) y en el sector público técnico (Investigaciones, Contraloría, Dirinco)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 40,
+      "justificacion_breve": "Dos periodos como diputado, intendente regional y larga militancia partidista."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 193,
+    "nombres": {
+      "csv": "Pedro Muñoz Aburto",
+      "bcn": "Pedro Héctor Muñoz Aburto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con experiencia significativa en el ejercicio libre de la profesión, especialmente en derechos humanos y laboral, y algunos roles técnicos públicos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 26,
+      "anos_militancia_partidos": 49,
+      "justificacion_breve": "Larga y destacada trayectoria, incluyendo tres periodos como diputado y uno como senador, además de roles ministeriales regionales y en la directiva nacional de su partido."
+    },
+    "scores": {
+      "score_profesional": 5.5,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 195,
+    "nombres": {
+      "csv": "Alejandro Navarro Brain",
+      "bcn": "Alejandro Navarro Brain"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Profesor de Filosofía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesor con experiencia laboral previa en construcción y experiencia académica universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Director Regional de Servicio Nacional"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 30,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Muy larga y destacada trayectoria, incluyendo tres periodos como diputado y dos como senador, además de roles en directivas nacionales de partidos y candidaturas presidenciales."
+    },
+    "scores": {
+      "score_profesional": 3.5,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 202,
+    "nombres": {
+      "csv": "Cristián Pareto Vergara",
+      "bcn": "Cristian Pareto Vergara"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administrador de Empresas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Administrador de empresas con título universitario, pero sin experiencia profesional fuera de la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 19,
+      "justificacion_breve": "Dos periodos como alcalde y uno como diputado, con roles importantes en asociaciones municipales."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 205,
+    "nombres": {
+      "csv": "Aníbal Pérez Lobos",
+      "bcn": "Aníbal Pérez Lobos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con título universitario, pero sin experiencia profesional fuera de la política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Director de Empresa Pública"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 19,
+      "anos_militancia_partidos": 54,
+      "justificacion_breve": "Tres periodos como diputado, con roles en directivas nacionales de partidos y en empresas públicas."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 7.0
+    }
+  }
+]

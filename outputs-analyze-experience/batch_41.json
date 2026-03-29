@@ -1,0 +1,312 @@
+[
+  {
+    "id_csv": 1168,
+    "nombres": {
+      "csv": "Jorge Saffirio Espinoza",
+      "bcn": "Jorge Saffirio Espinoza"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Constructor Civil",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Constructor Civil con estudios universitarios. No se detalla experiencia privada específica ni cargos técnicos públicos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador de Malleco",
+        "Director Regional Serviu"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Amplia trayectoria en cargos de elección popular local (alcalde, concejal) y cargos de gobierno regional. Diputado actual."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1169,
+    "nombres": {
+      "csv": "Clara Sagardía Cabezas",
+      "bcn": "Clara Sagardía Cabezas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogada",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con estudios universitarios y diplomados. No se especifica experiencia privada ni académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Trayectoria política reciente como diputada. Previamente intentó ser constituyente."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1170,
+    "nombres": {
+      "csv": "Luis Sánchez Ossa",
+      "bcn": "Juan Luis Castro González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Médico Cirujano",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con Magíster en Administración de Salud. Experiencia en hospitales públicos y consulta privada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senador",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 40,
+      "justificacion_breve": "Larga trayectoria política como presidente del Colegio Médico, y múltiples periodos como diputado y actual senador. Militante del PS."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 1171,
+    "nombres": {
+      "csv": "Emilia Schneider Videla",
+      "bcn": "Emilia Schneider Videla"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresada de Derecho. No se detalla experiencia profesional ni académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 6,
+      "justificacion_breve": "Dirigenta estudiantil (FECH) y feminista. Primera diputada trans. Militante de Comunes y luego Frente Amplio."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 1172,
+    "nombres": {
+      "csv": "Stephan Schubert Rubio",
+      "bcn": "Stephan Schubert Rubio"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Magíster en Tributación y Diplomado en Derecho Penal. Experiencia como profesor universitario."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Abogado con experiencia académica. Diputado actual. Previamente candidato a constituyente."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1173,
+    "nombres": {
+      "csv": "Daniela Serrano Salazar",
+      "bcn": "Daniela Serrano Salazar"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudiante de Administración Pública. No se detalla experiencia profesional ni académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 15,
+      "justificacion_breve": "Presidenta de las Juventudes Comunistas. Diputada actual. Inició su militancia a los 14 años."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 1174,
+    "nombres": {
+      "csv": "Marco Antonio Sulantay Olivares",
+      "bcn": "Marco Antonio Sulantay Olivares"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodista",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Periodista titulado. Experiencia en medios de comunicación locales y como corresponsal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejero Regional",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Director Regional IND"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 7,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Director Regional IND, Consejero Regional y actual Diputado. Fue candidato a Gobernador Regional."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1175,
+    "nombres": {
+      "csv": "Cristián Tapia Ramos",
+      "bcn": "Cristián Tapia Ramos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Empresas y Finanzas",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Técnico en Administración de Empresas y Finanzas. No se detalla experiencia profesional específica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Alcalde por tres periodos consecutivos y actual Diputado. Amplia experiencia en dirigencia gremial minera."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1176,
+    "nombres": {
+      "csv": "Hotuiti Teao Drago",
+      "bcn": "Hotuiti Teao Drago"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Comercial. Experiencia como comunicador y empresario en el rubro hotelero."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Primer diputado Rapa Nui. Trayectoria como comunicador y empresario. Candidato previo a Convencional Constituyente."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1177,
+    "nombres": {
+      "csv": "Carolina Tello Rojas",
+      "bcn": "Carolina Tello Rojas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogada",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con diplomados en Derecho del Mar, Parlamentario y Derechos Humanos. Experiencia en ámbito privado y público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Dirigenta feminista y abogada. Diputada actual. Previamente candidata a Convencional Constituyente. Militante del PC y luego Frente Amplio."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 5.0
+    }
+  }
+]

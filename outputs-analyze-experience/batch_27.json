@@ -1,0 +1,317 @@
+[
+  {
+    "id_csv": 1027,
+    "nombres": {
+      "csv": "Jorge Durán Espinoza",
+      "bcn": "Jorge Andrés Durán Espinoza"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Licenciado en Ciencias Jurídicas, con diplomados en Administración de Negocios y Lineamientos Gerenciales. No se detalla experiencia profesional técnica específica ni ejercicio libre de la profesión."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 16,
+      "justificacion_breve": "Amplia trayectoria en cargos de elección popular local y nacional. Militante de RN desde joven."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1028,
+    "nombres": {
+      "csv": "Eduardo Durán Salinas",
+      "bcn": "Eduardo Alfredo Durán Salinas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Civil / Economía",
+      "nivel_educacion_texto": "Doctorado (equivalente por Masters)",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero Civil con dos Master (MBA y Master en Economía). Experiencia profesional en ingeniería, construcción y asesorías públicas técnicas."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador Provincial"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 11,
+      "anos_militancia_partidos": 14,
+      "justificacion_breve": "Experiencia como Gobernador Provincial y dos periodos como Diputado. Militante de RN."
+    },
+    "scores": {
+      "score_profesional": 8.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1029,
+    "nombres": {
+      "csv": "Francisco Eguiguren Correa",
+      "bcn": "Francisco de Borja Eguiguren Correa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Empresas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Administrador de Empresas con más de 20 años de experiencia en el sector privado, incluyendo gerencia de hipermercado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 34,
+      "justificacion_breve": "Un periodo como Diputado. Militante de RN desde joven, también postuló por la UDI."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1030,
+    "nombres": {
+      "csv": "Camila Flores Oporto",
+      "bcn": "Camila Alejandra Flores Oporto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 2,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogada con experiencia en el área medioambiental y en cargos administrativos en Gendarmería y Municipalidad."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 18,
+      "justificacion_breve": "Dos periodos como Diputada. Ha ocupado roles dirigenciales importantes en la juventud y a nivel nacional en RN."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1031,
+    "nombres": {
+      "csv": "Juan Fuenzalida Cobo",
+      "bcn": "Juan Manuel Fuenzalida Cobo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con diplomado en Derecho Inmobiliario y Bancario. Amplia experiencia privada en asesoría a empresas y banca, y experiencia pública como SEREMI y Notario Suplente."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente",
+        "Secretario Regional Ministerial (Transporte y Telecomunicaciones)",
+        "Secretario Regional Ministerial (Desarrollo Social)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 7,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Intendente, SEREMI y dos periodos como Diputado. Fue Vicepresidente de la UDI."
+    },
+    "scores": {
+      "score_profesional": 6.5,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 1032,
+    "nombres": {
+      "csv": "Ramón Galleguillos Castillo",
+      "bcn": "Ramón Ernesto Galleguillos Castillo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comunicación Social / Gestión Comercial",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Experiencia como Jefe de Exportaciones, en empresa de transportes, y como comunicador social y director de medios."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Alcalde",
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 21,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Amplia trayectoria política: tres periodos como Alcalde, tres como Concejal y un periodo como Diputado. Militó en RN y UDI."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 1033,
+    "nombres": {
+      "csv": "Renato Garín González",
+      "bcn": "Renato Fabrizio Garín González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho / Periodismo",
+      "nivel_educacion_texto": "Doctorado (equivalente por Masters)",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Master en Derecho (NYU, Oxford) y Magíster en Periodismo. Experiencia como investigador y profesor universitario."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 1,
+      "anos_militancia_partidos": 14,
+      "justificacion_breve": "Un periodo como Diputado. Ex militante de Revolución Democrática. Participó en movimientos políticos juveniles."
+    },
+    "scores": {
+      "score_profesional": 8.5,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 1034,
+    "nombres": {
+      "csv": "Félix González Gatica",
+      "bcn": "Félix Marcelo González Gatica"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Administrador Público con estudios de Licenciado en Ciencias Políticas y Administrativas. Experiencia como académico e investigador."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Dos periodos como Diputado y Consejero Regional. Ha sido presidente del Partido Ecologista Verde."
+    },
+    "scores": {
+      "score_profesional": 4.5,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1035,
+    "nombres": {
+      "csv": "Carmen Hertz Cádiz",
+      "bcn": "Carmen Gloria Aravena Acuña"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Agrónoma",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniera Agrónoma con Magíster en Desarrollo Humano, Local y Territorial. Experiencia como docente, investigadora y en cargos públicos de fomento productivo y desarrollo local."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Senadora"
+      ],
+      "cargos_gobierno_central": [
+        "Directora Regional Sercotec",
+        "Administradora Municipal"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 9,
+      "justificacion_breve": "Senadora por dos periodos. Experiencia como Directora Regional de Sercotec y Administradora Municipal. Militó en Evópoli y Partido Republicano."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 1036,
+    "nombres": {
+      "csv": "Tomás Hirsch Goldschmidt",
+      "bcn": "Tomás René Hirsch Goldschmidt"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Civil / Comunicación",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Estudios de Ingeniería Civil y experiencia como panelista y columnista en medios de comunicación."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Embajador"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 7,
+      "anos_militancia_partidos": 39,
+      "justificacion_breve": "Dos periodos como Diputado, Embajador y candidato presidencial. Fundador y dirigente de partidos humanistas. Amplia trayectoria política."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 9.5
+    }
+  }
+]

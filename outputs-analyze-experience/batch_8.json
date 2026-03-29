@@ -1,0 +1,321 @@
+[
+  {
+    "id_csv": 837,
+    "nombres": {
+      "csv": "Fidel Espinoza Sandoval",
+      "bcn": "Fidel Edgardo Espinoza Sandoval"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Historia y Geografía / Desarrollo Regional",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Magíster en Desarrollo Regional y Profesor de Estado. Cuenta con experiencia académica como ayudante de cátedra y profesor universitario, además de experiencia técnica en el Fondo de Solidaridad e Inversión Social (Fosis)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Transportes y Telecomunicaciones",
+        "Jefe de la División de Administración y Finanzas del Gobierno Regional"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 25,
+      "anos_militancia_partidos": 34,
+      "justificacion_breve": "Larga y destacada trayectoria parlamentaria, con cinco periodos como Diputado (incluyendo la Presidencia de la Cámara) y un periodo como Senador. También ocupó cargos de gobierno regional."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.8
+    }
+  },
+  {
+    "id_csv": 838,
+    "nombres": {
+      "csv": "Enrique Estay Peñaloza",
+      "bcn": "Enrique Estay Peñaloza"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho / Ciencias Políticas",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con Magíster en Ciencias Políticas. Posee experiencia en el sector privado (procurador, notario) y en el sector público técnico (asesor jurídico municipal, abogado subrogante). Amplia trayectoria como profesor universitario."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe de Gabinete de Intendencia",
+        "Secretario Regional Ministerial de Gobierno"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 24,
+      "justificacion_breve": "Dos periodos como Diputado y experiencia en cargos de gobierno regional (Jefe de Gabinete y Seremi)."
+    },
+    "scores": {
+      "score_profesional": 6.4,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 839,
+    "nombres": {
+      "csv": "Ramón Farías Ponce",
+      "bcn": "Ramón Farías Ponce"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Actuación / Artes Escénicas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 18,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Actor con una extensa carrera en teatro, televisión y música antes de su incursión política. También cuenta con experiencia docente en actuación y expresión oral."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 24,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "Larga trayectoria en cargos de elección popular, con tres periodos como Alcalde y tres como Diputado. Fue miembro de la Directiva Nacional y Vicepresidente del Partido Por la Democracia."
+    },
+    "scores": {
+      "score_profesional": 6.6,
+      "score_politico": 7.8
+    }
+  },
+  {
+    "id_csv": 840,
+    "nombres": {
+      "csv": "Marcelo Forni Lobos",
+      "bcn": "Marcelo Forni Lobos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho / Derecho Económico y Financiero",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con un Master en Derecho Económico y Financiero. Después de su periodo parlamentario, ha desarrollado una carrera en el sector privado como Gerente de Asuntos Corporativos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 12,
+      "justificacion_breve": "Dos periodos como Diputado. Ocupó roles en la directiva de la Juventud Nacional y como Consejero Nacional de la UDI."
+    },
+    "scores": {
+      "score_profesional": 5.8,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 841,
+    "nombres": {
+      "csv": "Renán Fuentealba Vildósola",
+      "bcn": "Francisco Renán Fuentealba Vildósola"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho / Ciencias Políticas / Derecho Internacional",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con Magíster en Ciencias Políticas. Posee una extensa experiencia en el sector público técnico y en organismos internacionales como el PNUD y CEPAL, además de roles en el Ministerio de Relaciones Exteriores y Defensa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario de Marina",
+        "Asesor de Asuntos Internacionales del Ministerio de Defensa",
+        "Embajador de Chile"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 37,
+      "anos_militancia_partidos": 48,
+      "justificacion_breve": "Dos periodos como Diputado y una sólida trayectoria en altos cargos de gobierno (Subsecretario de Marina, Embajador). Fue Primer Vicepresidente del Partido Demócrata Cristiano."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 842,
+    "nombres": {
+      "csv": "Pablo Galilea Carrillo",
+      "bcn": "Pablo Galilea Carrillo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial / Administración",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Comercial con experiencia gerencial en empresas del sector privado antes de su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario de Pesca",
+        "Subsecretario de Pesca y Acuicultura",
+        "Gobernador de la Provincia",
+        "Jefe de la División de Gobierno Interior"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 26,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Larga trayectoria en cargos de elección popular (Concejal, tres periodos como Diputado) y en altos cargos de gobierno (Subsecretario, Gobernador, Jefe de División)."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 843,
+    "nombres": {
+      "csv": "René Manuel García García",
+      "bcn": "René Manuel García García"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Agrícola / Agropecuario",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 15,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Perito Agrícola con experiencia independiente y en transferencia tecnológica. También fue miembro de la Comisión de Caminos del Consejo de Desarrollo Comunal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 36,
+      "anos_militancia_partidos": 35,
+      "justificacion_breve": "Extremadamente larga trayectoria parlamentaria, con ocho periodos consecutivos como Diputado, lo que demuestra una profunda experiencia legislativa."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 844,
+    "nombres": {
+      "csv": "Alejandro García-Huidobro Sanfuentes",
+      "bcn": "Alejandro García-Huidobro Sanfuentes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ciencias Políticas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Cientista Político con una significativa experiencia en dirigencia gremial agrícola antes de su carrera parlamentaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 28,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Muy larga trayectoria parlamentaria, con cinco periodos como Diputado y un periodo como Senador. Ocupó roles de liderazgo, incluyendo la presidencia, en partidos políticos."
+    },
+    "scores": {
+      "score_profesional": 3.8,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 845,
+    "nombres": {
+      "csv": "Guido Girardi Briere",
+      "bcn": "Guido Girardi Brière"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina / Pediatría / Neumonología Pediátrica",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 24,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Cirujano y Pediatra con una extensa y destacada carrera hospitalaria, académica (profesor universitario) y de investigación. Es reconocido por la invención de la aerocámara y la creación del Programa Nacional de Infecciones Respiratorias Agudas (IRA)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 19,
+      "anos_militancia_partidos": 23,
+      "justificacion_breve": "Un periodo como Diputado. Fue un miembro fundador del Partido por la Democracia (PPD), lo que representa un rol partidista de gran importancia."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 846,
+    "nombres": {
+      "csv": "Joaquín Godoy Ibáñez",
+      "bcn": "Joaquín Godoy Ibáñez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial / Administración",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Comercial sin experiencia profesional privada o técnica destacada antes o durante su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 12,
+      "anos_militancia_partidos": 15,
+      "justificacion_breve": "Tres periodos como Diputado. Ocupó la presidencia de la Juventud de Renovación Nacional y fue miembro de la comisión política de su partido."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.5
+    }
+  }
+]

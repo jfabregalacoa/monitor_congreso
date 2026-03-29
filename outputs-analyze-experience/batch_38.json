@@ -1,0 +1,301 @@
+[
+  {
+    "id_csv": 1138,
+    "nombres": {
+      "csv": "Henry Leal Bizama",
+      "bcn": "Henry Leal Bizama"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con dos magísteres, pero la experiencia privada es limitada. Se destaca su rol como Seremi del MOP."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [
+        "Seremi del MOP"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 28,
+      "justificacion_breve": "Amplia trayectoria política local y regional, con experiencia como Seremi. Ha ocupado roles directivos en su partido."
+    },
+    "scores": {
+      "score_profesional": 5.6,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1139,
+    "nombres": {
+      "csv": "Enrique Lee Flores",
+      "bcn": "Enrique Lee Flores"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina (Cirugía Plástica)",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con especialización y magíster, con experiencia tanto en el sector público como privado. También es abogado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Gobernador Regional (candidato)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 1,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Experiencia política reciente como candidato a Gobernador Regional y Diputado. No registra cargos de elección popular ni de gobierno central previos."
+    },
+    "scores": {
+      "score_profesional": 8.2,
+      "score_politico": 3.0
+    }
+  },
+  {
+    "id_csv": 1140,
+    "nombres": {
+      "csv": "Daniel Lilayu Vivanco",
+      "bcn": "Daniel Lilayu Vivanco"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina (Cirugía General)",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con amplia experiencia en el sector público hospitalario y privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador Provincial"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Trayectoria política local y provincial, con experiencia como Gobernador y Concejal. Ha sido presidente regional de su partido."
+    },
+    "scores": {
+      "score_profesional": 6.8,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1141,
+    "nombres": {
+      "csv": "Luis Malla Valenzuela",
+      "bcn": "Luis Malla Valenzuela"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Empresas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero de Ejecución en Administración de Empresas, con experiencia laboral enfocada en actividades artísticas y de liderazgo social."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 15,
+      "justificacion_breve": "Experiencia política local como concejal y dirigente social juvenil. Su trayectoria política es reciente."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 1142,
+    "nombres": {
+      "csv": "Daniel Manouchehri Lobos",
+      "bcn": "Daniel Manouchehri Lobos"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Máster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con máster en comunicación política, con experiencia en libre ejercicio y asesoría legislativa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 23,
+      "justificacion_breve": "Amplia trayectoria en dirigencia estudiantil y juvenil, con experiencia en campañas políticas y roles dentro de su partido. Fue asesor legislativo."
+    },
+    "scores": {
+      "score_profesional": 6.6,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1143,
+    "nombres": {
+      "csv": "Cristóbal Martínez Ramírez",
+      "bcn": "Cristóbal Martínez Ramírez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero comercial con experiencia en el ámbito público y privado, incluyendo pasantías internacionales."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Gobernador Provincial"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Experiencia como Gobernador Provincial y asesor legislativo. Militante activo de su partido."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 1144,
+    "nombres": {
+      "csv": "Christian Matheson Villán",
+      "bcn": "Christian Matheson Villán"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Arquitectura",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 16,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Arquitecto con amplia experiencia en el sector público y privado, incluyendo cargos de Seremi e Intendente."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Intendente Regional",
+        "Seremi de Vivienda y Urbanismo"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Experiencia significativa en cargos de alta responsabilidad en el gobierno central y regional. Ha sido candidato a Gobernador Regional."
+    },
+    "scores": {
+      "score_profesional": 7.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1145,
+    "nombres": {
+      "csv": "Karen Medina Vásquez",
+      "bcn": "Karen Medina Vásquez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación Pública (Asistente)",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Asistente de Educación Pública con experiencia gremial."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 7,
+      "justificacion_breve": "Experiencia como dirigente gremial de asistentes de la educación. Su trayectoria política es reciente y ligada a su rol como diputada."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 3.0
+    }
+  },
+  {
+    "id_csv": 1146,
+    "nombres": {
+      "csv": "José Carlos Meza Pereira",
+      "bcn": "José Meza Pereira"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Licenciatura",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con experiencia en el libre ejercicio y asesoría legislativa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Experiencia como asesor legislativo y director ejecutivo de fundación política. Militante activo de su partido."
+    },
+    "scores": {
+      "score_profesional": 4.6,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1147,
+    "nombres": {
+      "csv": "Helia Molina Milman",
+      "bcn": "Helia Molina Milman"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina (Pediatría, Salud Pública)",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médica cirujana con especializaciones y magíster en Salud Pública, con amplia trayectoria académica y en organismos internacionales."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [
+        "Ministra de Salud"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 25,
+      "justificacion_breve": "Experiencia destacada como Ministra de Salud y en roles de alta responsabilidad en el sector público y organismos internacionales. Ha sido candidata a alcaldesa y gobernadora."
+    },
+    "scores": {
+      "score_profesional": 8.0,
+      "score_politico": 9.0
+    }
+  }
+]

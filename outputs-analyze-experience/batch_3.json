@@ -1,0 +1,325 @@
+[
+  {
+    "id_csv": 206,
+    "nombres": {
+      "csv": "Ramón Pérez Opazo",
+      "bcn": "Ramón José Barros Montero"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Agronómica",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero agrónomo con más de 20 años de ejercicio libre de la profesión antes de iniciar su carrera parlamentaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 20,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Extensa trayectoria parlamentaria con 5 periodos como Diputado y rol de presidente regional en su partido."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 208,
+    "nombres": {
+      "csv": "Víctor Pérez Varela",
+      "bcn": "Víctor Pérez Varela"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con ejercicio independiente, pero con una rápida transición a la vida pública tras su titulación."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro del Interior y Seguridad Pública"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 36,
+      "anos_militancia_partidos": 48,
+      "justificacion_breve": "Amplia y jerárquica trayectoria política, incluyendo Alcalde, 4 periodos de Diputado, 2 periodos de Senador y Ministro del Interior. Fundador y candidato a presidente de partido."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 209,
+    "nombres": {
+      "csv": "Pablo Prieto Lorca",
+      "bcn": "Pablo Samuel Prieto Lorca"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Deportes/Empresarial",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 22,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Trayectoria como futbolista profesional y empresario, con estudios secundarios."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Dos periodos como Diputado y un periodo como Consejero Regional, con militancia partidista intermitente."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 211,
+    "nombres": {
+      "csv": "Víctor Manuel Rebolledo González",
+      "bcn": "Víctor Manuel Rebolledo González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Doctorado en Derecho, pero con poca experiencia profesional fuera del ámbito político."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Ministro Secretario General de Gobierno",
+        "Embajador ante la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 11,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Dos periodos como Diputado, Ministro de Estado y Embajador. Rol fundacional y directivo en el PPD."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 213,
+    "nombres": {
+      "csv": "Edgardo Riveros Marín",
+      "bcn": "Edgardo Riveros Marín"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 4,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con Magíster, experiencia en el sector privado (AFP) y una sólida trayectoria académica como profesor e investigador."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Subsecretario General de Gobierno",
+        "Subsecretario General de la Presidencia",
+        "Subsecretario de Relaciones Exteriores"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 23,
+      "anos_militancia_partidos": 43,
+      "justificacion_breve": "Dos periodos como Diputado y una extensa carrera como Subsecretario en tres carteras diferentes. Rol directivo en la Juventud DC y Vicepresidente Nacional."
+    },
+    "scores": {
+      "score_profesional": 4.8,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 220,
+    "nombres": {
+      "csv": "Edmundo Salas De La Fuente",
+      "bcn": "Edmundo Salas de La Fuente"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Relaciones Públicas",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Relacionador Público con experiencia empresarial y en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Regidor",
+        "Diputado",
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 29,
+      "anos_militancia_partidos": 61,
+      "justificacion_breve": "Larga y variada trayectoria política: Regidor, 4 periodos como Diputado y Consejero Regional. Múltiples roles directivos en la DC, incluyendo presidencia regional."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 221,
+    "nombres": {
+      "csv": "Leopoldo Sánchez Grunert",
+      "bcn": "Leopoldo Sánchez Grunert"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina Veterinaria",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 8,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico Veterinario con especialización, experiencia empresarial y una sólida trayectoria en cargos técnicos del sector público relacionados con su profesión."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Agricultura",
+        "Agregado Agrícola de Chile en Argentina"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 13,
+      "justificacion_breve": "Dos periodos como Diputado, SEREMI de Agricultura y Agregado Agrícola."
+    },
+    "scores": {
+      "score_profesional": 4.6,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 222,
+    "nombres": {
+      "csv": "Rodolfo Seguel Molina",
+      "bcn": "Rodolfo Seguel Molina"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Sindicalismo/Minería",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 9,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Trayectoria como funcionario de Codelco y dirigente sindical, con estudios secundarios."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Consejero Regional"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 34,
+      "justificacion_breve": "Cuatro periodos como Diputado y Consejero Regional. Destacado dirigente sindical nacional durante la dictadura, con fuerte impacto político."
+    },
+    "scores": {
+      "score_profesional": 2.8,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 224,
+    "nombres": {
+      "csv": "Exequiel Silva Ortiz",
+      "bcn": "Exequiel Silva Ortiz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina Veterinaria",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Médico Veterinario con poca experiencia profesional fuera del ámbito político."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe de Gabinete de la Gobernación Provincial",
+        "Asesor de Ministro de Educación"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "Tres periodos como Diputado y roles de liderazgo en la juventud y directiva provincial de la DC."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 226,
+    "nombres": {
+      "csv": "Boris Tapia Martínez",
+      "bcn": "Boris Tapia Martínez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Pedagogía",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Estudió Pedagogía en Castellano y tuvo una extensa carrera técnica de 36 años en el Servicio de Vivienda y Urbanismo."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Secretario Regional Ministerial de Economía y Energía"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Un periodo como Diputado y un breve paso como SEREMI."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 3.5
+    }
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "id_csv": 977,
+    "nombres": {
+      "csv": "Marcelo Chávez Velásquez",
+      "bcn": "Marcelo Omar Chávez Velásquez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Licenciado en Derecho, con una breve experiencia técnica en la Subsecretaría del Trabajo antes de su carrera política."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejero Regional (2002-2012)",
+        "Diputado (2014-2018)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Larga militancia desde joven, dirigente estudiantil, 10 años como Consejero Regional, Presidente nacional de la JDC, y un periodo como Diputado."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 978,
+    "nombres": {
+      "csv": "Felipe De Mussy Hiriart",
+      "bcn": "Felipe De Mussy Hiriart"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Civil Industrial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 2,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero Civil Industrial con Magíster, experiencia en gestión de ONG y un cargo técnico en la Subdere."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2014-2018)"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe Regional Subsecretaría de Desarrollo Regional (2011-2012)",
+        "Seremi de Desarrollo Social (2012-2013)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 7,
+      "justificacion_breve": "Experiencia como Seremi y Jefe Regional Subdere, seguido de un periodo como Diputado."
+    },
+    "scores": {
+      "score_profesional": 4.4,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 979,
+    "nombres": {
+      "csv": "Sergio Espejo Yaksic",
+      "bcn": "Sergio Espejo Yaksic"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho / Políticas Públicas",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 6,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con Magíster de Harvard, socio de estudio jurídico, amplia experiencia académica y cargos técnicos de alto nivel en el sector público (Superintendente SEC)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2014-2018)"
+      ],
+      "cargos_gobierno_central": [
+        "Jefe de Gabinete Ministro Hacienda",
+        "Asesor Ministro Salud",
+        "Asesor Ministro Educación",
+        "Jefe de Gabinete Ministro Economía",
+        "Ministro de Transportes y Telecomunicaciones (2006-2007)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 32,
+      "justificacion_breve": "Larga trayectoria en asesorías ministeriales, Superintendente, Ministro de Estado, Vicepresidente de partido y un periodo como Diputado."
+    },
+    "scores": {
+      "score_profesional": 7.5,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 980,
+    "nombres": {
+      "csv": "Daniel Farcas Guendelman",
+      "bcn": "Daniel Alejandro Farcas Guendelman"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública / Educación Superior",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Doctor en Educación Superior, con extensa carrera en el sector privado (gerencia, dirección de empresas, educación superior) y experiencia académica, además de roles técnicos en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2014-2018)"
+      ],
+      "cargos_gobierno_central": [
+        "Director División de Organizaciones Sociales (DOS)",
+        "Director Nacional SENCE (2000-2002)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 31,
+      "justificacion_breve": "Larga militancia en el PPD, dirigente estudiantil, Director de la DOS y SENCE, y un periodo como Diputado."
+    },
+    "scores": {
+      "score_profesional": 10.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 981,
+    "nombres": {
+      "csv": "Maya Fernández Allende",
+      "bcn": "Maya Alejandra Fernández Allende"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Biología / Medicina Veterinaria",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Bióloga y Médico Veterinaria con experiencia técnica en el SAG y DIRECON, enfocada en asuntos sanitarios y fitosanitarios."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejala Ñuñoa (2008-2012)",
+        "Diputada (2014-2018)",
+        "Diputada (2018-2022)"
+      ],
+      "cargos_gobierno_central": [
+        "Ministra de Defensa Nacional (2022-2025)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Larga militancia en el PS, Concejala, dos periodos como Diputada (incluyendo Presidencia de la Cámara) y Ministra de Defensa."
+    },
+    "scores": {
+      "score_profesional": 3.5,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 982,
+    "nombres": {
+      "csv": "Iván Flores García",
+      "bcn": "Jorge Iván Alessandri Vergara"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho / Emprendimiento",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con extensa experiencia en emprendimiento y dirección de empresas en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal Santiago (2008-2012)",
+        "Diputado (2018-2022)",
+        "Diputado (2022-2026)"
+      ],
+      "cargos_gobierno_central": [
+        "Asesor Presidencial (2010-2014)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 19,
+      "justificacion_breve": "Concejal, Asesor Presidencial, Prosecretario Nacional de la UDI y dos periodos como Diputado."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 983,
+    "nombres": {
+      "csv": "Iván Fuentes Castillo",
+      "bcn": "Iván Aladino Fuentes Castillo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Pesca Artesanal / Dirigencia Social",
+      "nivel_educacion_texto": "Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 24,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Pescador artesanal con educación media, extensa experiencia laboral en diversos oficios y como dirigente social/sindical."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2014-2018)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 1,
+      "justificacion_breve": "Larga trayectoria como dirigente social y sindical de pescadores artesanales, líder del Movimiento Social por Aysén, y un periodo como Diputado."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 984,
+    "nombres": {
+      "csv": "Gonzalo Fuenzalida Figueroa",
+      "bcn": "Gonzalo Guillermo Fuenzalida Figueroa"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con una década de experiencia profesional antes de ingresar al servicio público, donde ocupó cargos técnicos en Correos de Chile y la Subsecretaría de Prevención del Delito."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2014-2018)",
+        "Diputado (2018-2022)"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 22,
+      "justificacion_breve": "Militante de RN con experiencia como presidente distrital y dos periodos como Diputado."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 985,
+    "nombres": {
+      "csv": "Sergio Gahona Salazar",
+      "bcn": "Sergio Alfredo Gahona Salazar"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Salud / Educación / Gestión",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Matrón y Licenciado en Educación con doble Magíster, extensa experiencia en dirección y gestión de instituciones de educación superior."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado (2014-2018)",
+        "Diputado (2018-2022)",
+        "Senador (2022-2030)"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente de la Región de Coquimbo (2010-2012)"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 21,
+      "justificacion_breve": "Intendente regional, dos periodos como Diputado, Vicepresidente nacional de la UDI y actualmente Senador."
+    },
+    "scores": {
+      "score_profesional": 8.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 986,
+    "nombres": {
+      "csv": "Marcela Hernando Pérez",
+      "bcn": "Marcela Ximena Hernando Pérez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina / Salud Pública / Gestión",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 1,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médica cirujana con múltiples postgrados y Magíster en Salud Pública y Gestión. Amplia trayectoria en el sector público de salud, incluyendo dirección de servicios y Seremi de Salud."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcaldesa Antofagasta (2008-2012)",
+        "Diputada (2014-2018)",
+        "Diputada (2018-2022)"
+      ],
+      "cargos_gobierno_central": [
+        "Intendenta de la Región de Antofagasta (2006-2007)",
+        "Ministra de Minería (2022-2023)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 14,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Intendenta regional, Alcaldesa de Antofagasta, dos periodos como Diputada y Ministra de Minería."
+    },
+    "scores": {
+      "score_profesional": 8.5,
+      "score_politico": 9.0
+    }
+  }
+]

@@ -1,0 +1,319 @@
+[
+  {
+    "id_csv": 1007,
+    "nombres": {
+      "csv": "Miguel Ángel Alvarado Ramírez",
+      "bcn": "Miguel Ángel Alvarado Ramírez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Médico cirujano con especializaciones, experiencia en hospitales públicos y clínicas privadas, además de docencia universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal"
+      ],
+      "cargos_gobierno_central": [
+        "Director del Hospital de Ovalle"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 5,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Concejal, Director de Hospital, Presidente Regional de partido. Trayectoria política local y partidista."
+    },
+    "scores": {
+      "score_profesional": 7.2,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1008,
+    "nombres": {
+      "csv": "Florcita Alarcón Rojas",
+      "bcn": "Raúl Florcita Alarcón Rojas"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación / Música",
+      "nivel_educacion_texto": "Técnico / Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Profesor normalista y músico con experiencia docente en colegios y carrera artística destacada. No se especifica experiencia técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 37,
+      "justificacion_breve": "Diputado, fundador de partido, activo en campañas políticas y franja del NO. Larga militancia."
+    },
+    "scores": {
+      "score_profesional": 3.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1009,
+    "nombres": {
+      "csv": "Jorge Alessandri Vergara",
+      "bcn": "Jorge Iván Alessandri Vergara"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado con experiencia en emprendimientos privados y gestión empresarial. No se detalla experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Asesor Presidencial"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 17,
+      "justificacion_breve": "Concejal, Asesor Presidencial y Diputado por dos periodos. Sólida trayectoria política local y nacional."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 1010,
+    "nombres": {
+      "csv": "Sebastián Álvarez Ramírez",
+      "bcn": "Sebastián Diego Álvarez Ramírez"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comunicación / Publicidad",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Comunicador social y publicista con diplomados, experiencia en marketing, gestión y docencia universitaria. También experiencia en turismo público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Director Regional de SERNATUR"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Concejal, Director Regional de Sernatur y Diputado. Experiencia política local y nacional, con rol partidista regional."
+    },
+    "scores": {
+      "score_profesional": 5.8,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1011,
+    "nombres": {
+      "csv": "Sandra Amar Mancilla",
+      "bcn": "Sandra Haydée Amar Mancilla"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Asistente Social",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Asistente Social con Magíster, experiencia en municipalidades, empresas y docencia universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Secretaria Regional Ministerial (SEREMI)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "SEREMI, Diputada, Jefa de Dideco. Trayectoria en el sector público y representación popular."
+    },
+    "scores": {
+      "score_profesional": 7.5,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1012,
+    "nombres": {
+      "csv": "Boris Barrera Moreno",
+      "bcn": "Boris Anthony Barrera Moreno"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnico Electrónico / Músico",
+      "nivel_educacion_texto": "Técnico / Media",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Técnico en Electrónica con experiencia laboral en manufactura y como microempresario. También músico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 40,
+      "justificacion_breve": "Diputado por dos periodos, dirigente vecinal, fundador de centro cultural. Larga militancia y activismo social."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1013,
+    "nombres": {
+      "csv": "Alejandro Bernales Maldonado",
+      "bcn": "Alejandro Javier Bernales Maldonado"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Diseño Gráfico",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Diseñador gráfico con diplomados, experiencia en gestión académica, medios de comunicación y docencia universitaria."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Director Regional de Cultura"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Director Regional de Cultura, Diputado por dos periodos. Experiencia en servicio público y representación popular."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1014,
+    "nombres": {
+      "csv": "Karim Bianchi Retamales",
+      "bcn": "Karim Antonio Bianchi Retamales"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial / Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero comercial y egresado de derecho, con experiencia como director y gerente de medios de comunicación y empresario."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejero Regional",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 0,
+      "justificacion_breve": "Consejero Regional, Diputado y Senador. Amplia trayectoria en cargos de elección popular."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 1015,
+    "nombres": {
+      "csv": "Jorge Brito Hasbún",
+      "bcn": "Jorge Elías Brito Hasbún"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Civil Industrial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 3,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero Civil Industrial con Magíster en curso, experiencia docente, en emprendimiento y en observatorio de gasto fiscal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 12,
+      "justificacion_breve": "Dirigente estudiantil, fundador de partido, Diputado por dos periodos. Fuerte trayectoria política desde la juventud."
+    },
+    "scores": {
+      "score_profesional": 6.6,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1016,
+    "nombres": {
+      "csv": "Miguel Ángel Calisto Águila",
+      "bcn": "Miguel Ángel Calisto Águila"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodismo",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 2,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Periodista con experiencia en medios y asesoría legislativa. No se detalla experiencia técnica pública o académica."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejero Regional",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Director Regional JUNAEB"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Consejero Regional (Presidente), Director Regional JUNAEB, Diputado por dos periodos. Sólida trayectoria política regional y nacional."
+    },
+    "scores": {
+      "score_profesional": 3.4,
+      "score_politico": 8.0
+    }
+  }
+]

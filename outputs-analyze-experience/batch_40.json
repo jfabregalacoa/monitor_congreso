@@ -1,0 +1,307 @@
+[
+  {
+    "id_csv": 1158,
+    "nombres": {
+      "csv": "Víctor Alejandro Pino Fuentes",
+      "bcn": "Víctor Pino Fuentes"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración de Empresas / Ingeniería Comercial",
+      "nivel_educacion_texto": "MBA en curso",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 13,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Carrera sólida en gestión empresarial y microemprendimiento, complementada con estudios de postgrado y diplomados en áreas de negocio y gestión. La experiencia privada es extensa y relevante."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 0,
+      "anos_militancia_partidos": 3,
+      "justificacion_breve": "Su experiencia política se limita a su actual cargo como Diputado. No ha ejercido otros cargos de elección popular ni de gobierno. Su militancia partidista es reciente."
+    },
+    "scores": {
+      "score_profesional": 8.6,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 1159,
+    "nombres": {
+      "csv": "Lorena Pizarro Sierra",
+      "bcn": "Lorena Pizarro Sierra"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Educación Parvularia",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título universitario en Educación Parvularia. La mayor parte de su trayectoria se ha enfocado en activismo social y político, no en ejercicio profesional técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 21,
+      "justificacion_breve": "Su principal rol político es como Diputada. Destaca su prolongada y activa presidencia en la AFDD, lo que le otorga un peso político significativo en el ámbito de los DDHH."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1160,
+    "nombres": {
+      "csv": "Alejandra Placencia Cabello",
+      "bcn": "Alejandra Placencia Cabello"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Filosofía / Docencia",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Título universitario como Profesora de Filosofía. Ha ejercido docencia en establecimientos públicos, lo que constituye experiencia técnica en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 29,
+      "justificacion_breve": "Trayectoria política consolidada con dos periodos como Concejal y un periodo como Diputada. Ha tenido roles dirigenciales estudiantiles y gremiales."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1161,
+    "nombres": {
+      "csv": "Francisco Pulgar Castillo",
+      "bcn": "Francisco Pulgar Castillo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ciencias Criminalísticas / Peritaje Forense",
+      "nivel_educacion_texto": "Universitario (Licenciatura)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 12,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación universitaria en Ciencias Criminalísticas y diplomados en seguridad. Amplia experiencia como perito forense privado y gerente de su propia empresa."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador Regional (Candidato)"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 7,
+      "justificacion_breve": "Su experiencia política se centra en su actual cargo de Diputado y una candidatura previa a Gobernador Regional. Ha participado activamente en movimientos medioambientales."
+    },
+    "scores": {
+      "score_profesional": 6.4,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1162,
+    "nombres": {
+      "csv": "Matías Ramírez Pascal",
+      "bcn": "Matías Ramírez Pascal"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario (Licenciatura)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 9,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Título universitario de abogado. Ha ejercido libremente la profesión, lo que constituye experiencia privada relevante."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 8,
+      "justificacion_breve": "Trayectoria política que incluye un periodo como Concejal y su actual cargo de Diputado. Ha tenido roles dirigenciales estudiantiles."
+    },
+    "scores": {
+      "score_profesional": 4.8,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 1163,
+    "nombres": {
+      "csv": "Marcia Raphael Mora",
+      "bcn": "Marcia Raphael Mora"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniería Comercial",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Título universitario en Ingeniería Comercial. Su experiencia profesional se ha desarrollado principalmente en cargos públicos técnicos y de representación."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejera Regional",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Seremi de Gobierno"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 10,
+      "anos_militancia_partidos": 12,
+      "justificacion_breve": "Amplia trayectoria política con experiencia como Seremi, Consejera Regional y Diputada. Ha tenido roles relevantes dentro de su partido."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.5
+    }
+  },
+  {
+    "id_csv": 1164,
+    "nombres": {
+      "csv": "Marcela Riquelme Aliaga",
+      "bcn": "Marcela Riquelme Aliaga"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario (Licenciatura) + Postítulos",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 20,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Título universitario de abogada con especializaciones. Amplia experiencia en ejercicio libre de la profesión, defensa de derechos laborales y humanos, y cargos públicos técnicos."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 23,
+      "justificacion_breve": "Su experiencia política se centra en su actual cargo de Diputada. Ha sido militante de partidos políticos y candidata a convencional constituyente."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1165,
+    "nombres": {
+      "csv": "Agustín Romero Leiva",
+      "bcn": "Agustín Romero Leiva"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario (Licenciatura) + Postgrados",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 11,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Título universitario de abogado con postgrados en derecho ambiental y RRHH. Amplia experiencia en el sector privado (empresas de salud, retail) y un cargo directivo en el sector público municipal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 4,
+      "justificacion_breve": "Su experiencia política se limita a su actual cargo como Diputado. Es militante activo de su partido."
+    },
+    "scores": {
+      "score_profesional": 5.2,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 1166,
+    "nombres": {
+      "csv": "Natalia Romero Talguia",
+      "bcn": "Natalia Romero Talguia"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodismo",
+      "nivel_educacion_texto": "Universitario + Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 13,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Título universitario de periodista, magíster en Ciencias Políticas y diplomada en Marketing Digital. Amplia experiencia en comunicaciones, incluyendo cargos en el sector público de salud."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 18,
+      "justificacion_breve": "Su experiencia política se centra en su actual cargo de Diputada. Ha tenido una larga militancia partidista y fue candidata a diputada en un periodo anterior."
+    },
+    "scores": {
+      "score_profesional": 6.6,
+      "score_politico": 4.5
+    }
+  },
+  {
+    "id_csv": 1167,
+    "nombres": {
+      "csv": "Jaime Sáez Quiroz",
+      "bcn": "Jaime Sáez Quiroz"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Administración Pública / Economía Ecológica",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Formación universitaria en Administración Pública y Magíster en Economía Ecológica. Experiencia como administrador hotelero y consultor independiente en desarrollo organizacional."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 2,
+      "anos_militancia_partidos": 10,
+      "justificacion_breve": "Su experiencia política se centra en su actual cargo de Diputado. Ha tenido roles dirigenciales dentro de su partido y fue candidato a Gobernador Regional."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 5.0
+    }
+  }
+]

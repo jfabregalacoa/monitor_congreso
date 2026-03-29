@@ -1,0 +1,308 @@
+[
+  {
+    "id_csv": 1037,
+    "nombres": {
+      "csv": "Diego Ibáñez Cotroneo",
+      "bcn": "Diego Eduardo Ibáñez Cotroneo"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Egresado de Derecho, con experiencia en el área laboral y formación de escuelas sindicales. No se registran años de ejercicio privado formal ni experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 18,
+      "justificacion_breve": "Dos periodos como Diputado (2018-2026). Inició su activismo político en la Revolución Pingüina (2006) y fue dirigente estudiantil. Militante desde joven."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 6.5
+    }
+  },
+  {
+    "id_csv": 1038,
+    "nombres": {
+      "csv": "Marcos Ilabaca Cerda",
+      "bcn": "Marcos Artemio Ilabaca Cerda"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado y Contador con Magíster en Gerencia y Políticas Públicas. Tuvo experiencia como asesor jurídico en el sector público."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Tres periodos como Concejal (2004-2016) y dos periodos como Diputado (2018-2026). Presidente regional de su partido."
+    },
+    "scores": {
+      "score_profesional": 4.5,
+      "score_politico": 8.0
+    }
+  },
+  {
+    "id_csv": 1039,
+    "nombres": {
+      "csv": "Pamela Jiles Moreno",
+      "bcn": "Pamela Jiles Moreno"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Periodismo",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 30,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Periodista con una extensa carrera en medios de comunicación, radio y televisión, además de autora de libros. No se registra experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 6,
+      "anos_militancia_partidos": 17,
+      "justificacion_breve": "Dos periodos como Diputada (2018-2026). Tuvo una precandidatura presidencial y militancia en partidos de izquierda y centro."
+    },
+    "scores": {
+      "score_profesional": 7.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1040,
+    "nombres": {
+      "csv": "Harry Jürgensen Rundshagen",
+      "bcn": "Harry Kurt Thomas Jurgensen Rundshagen"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Medicina Veterinaria",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 21,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Veterinario con experiencia como ejecutivo agroindustrial y administrador de empresas agrícolas. No se registra experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Consejero Regional",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 19,
+      "justificacion_breve": "Un periodo como Consejero Regional (2013-2016) y dos periodos como Diputado (2018-2026). Militante de RN y luego del Partido Republicano."
+    },
+    "scores": {
+      "score_profesional": 6.2,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1041,
+    "nombres": {
+      "csv": "Pablo Kast Sommerhoff",
+      "bcn": "Pablo Andrés Kast Sommerhoff"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Arquitectura",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Arquitecto con experiencia en desarrollo inmobiliario y diseño de centros comerciales. No se registra experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 6,
+      "justificacion_breve": "Un periodo como Diputado (2018-2022). Fue Vicepresidente de su partido (Evópoli)."
+    },
+    "scores": {
+      "score_profesional": 4.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1042,
+    "nombres": {
+      "csv": "Sebastián Keitel Bianchi",
+      "bcn": "Sebastián Keitel Bianchi"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Deportista (Atletismo)",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Atleta profesional de alto rendimiento con reconocimiento nacional e internacional. Realizó estudios incompletos en Educación Física y cursos deportivos. No se registra experiencia profesional técnica formal ni pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 11,
+      "justificacion_breve": "Un periodo como Diputado (2018-2022) y electo Senador (2022-2030). Participó en reality shows y fundó corporación social."
+    },
+    "scores": {
+      "score_profesional": 2.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 1043,
+    "nombres": {
+      "csv": "Amaro Labra Sepúlveda",
+      "bcn": "Amaro Jamil Jesús Labra Sepúlveda"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Música",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 10,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Músico (cantautor) con experiencia en la industria discográfica (director de comunicaciones). Realizó estudios de Administración de Empresas e Ingeniería. No se registra experiencia académica o técnica pública."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 20,
+      "justificacion_breve": "Un periodo como Diputado (2018-2022). Fue candidato a alcalde y a diputado anteriormente. Militante del Partido Comunista."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 1044,
+    "nombres": {
+      "csv": "Raúl Leiva Carvajal",
+      "bcn": "Raúl Alfonso Leiva Carvajal"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con múltiples Magísteres (Derecho Administrativo, Gestión de Sustentabilidad, Comunicación Estratégica). Experiencia en ejercicio privado y cargos técnicos en el Ministerio del Interior y como juez suplente."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Gobernador",
+        "Alcalde",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 15,
+      "anos_militancia_partidos": 18,
+      "justificacion_breve": "Gobernador (2007-2008), dos periodos como Alcalde (2008-2016) y dos periodos como Diputado (2018-2026). Presidente de comisión en la AChM."
+    },
+    "scores": {
+      "score_profesional": 6.5,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 1045,
+    "nombres": {
+      "csv": "Aracely Leuquén Uribe",
+      "bcn": "Aracely Andrea Leuquén Uribe"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Asistente Social",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Asistente Social con experiencia laboral en el sector público, específicamente en el Servicio Nacional de la Mujer. No se registra experiencia privada formal."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 19,
+      "justificacion_breve": "Dos periodos como Concejala (2008-2016) y un periodo como Diputada (2018-2022). Presidenta regional de su partido."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 7.0
+    }
+  },
+  {
+    "id_csv": 1046,
+    "nombres": {
+      "csv": "Andrés Longton Herrera",
+      "bcn": "Andrés Longton Herrera"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Derecho",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 7,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Abogado con Magíster en Derecho Administrativo. Experiencia en estudio jurídico privado y como asesor jurídico en el sector público (Ministerio de Educación, Cámara de Diputados)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 17,
+      "justificacion_breve": "Dos periodos como Diputado (2018-2026). Asesor legislativo de senadores y participó en campañas políticas familiares."
+    },
+    "scores": {
+      "score_profesional": 5.5,
+      "score_politico": 7.0
+    }
+  }
+]

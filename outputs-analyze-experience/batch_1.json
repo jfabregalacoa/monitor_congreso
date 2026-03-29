@@ -1,0 +1,320 @@
+[
+  {
+    "id_csv": 164,
+    "nombres": {
+      "csv": "Carlos Hidalgo González",
+      "bcn": "Carlos Hidalgo González"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Empresario",
+      "nivel_educacion_texto": "Universitario (Postgrado)",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 24,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Empresario con estudios superiores en gestión y postgrado en relaciones económicas. Acumuló 24 años de experiencia en el sector privado antes de su primer cargo político."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 4,
+      "anos_militancia_partidos": 4,
+      "justificacion_breve": "Un período como Diputado (4 años) como su principal cargo de elección popular. Su militancia partidista fue posterior a su elección inicial como independiente."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 4.0
+    }
+  },
+  {
+    "id_csv": 165,
+    "nombres": {
+      "csv": "Gonzalo Ibáñez Santa María",
+      "bcn": "Gonzalo Ibáñez Santa María"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado y Académico",
+      "nivel_educacion_texto": "Doctorado",
+      "nivel_educacion_score": 4,
+      "anos_experiencia_privada": 27,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Doctor en Derecho con una extensa y prestigiosa carrera académica, incluyendo roles como profesor titular, decano y rector universitario por 8 años. Su experiencia profesional es predominantemente académica y de investigación."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 11,
+      "justificacion_breve": "Dos períodos consecutivos como Diputado (8 años). Participó en la fundación del Partido Nacional y militó en la UDI, pero sin roles directivos nacionales destacados."
+    },
+    "scores": {
+      "score_profesional": 9.0,
+      "score_politico": 5.5
+    }
+  },
+  {
+    "id_csv": 166,
+    "nombres": {
+      "csv": "Carmen Ibáñez Soto",
+      "bcn": "Carmen Ibáñez Soto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Comunicadora Social",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 19,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Comunicadora Social con experiencia en radio, televisión y prensa, además de ser pequeña empresaria agrícola. Acumuló aproximadamente 19 años de experiencia profesional antes de su primer cargo electo."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputada"
+      ],
+      "cargos_gobierno_central": [
+        "Embajadora de Chile en Grecia",
+        "Agregada Cultural"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 17,
+      "justificacion_breve": "Un período como Diputada (4 años) y 4 años en cargos diplomáticos de alto nivel (Embajadora y Agregada Cultural). Militancia en Renovación Nacional y Amplitud."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 169,
+    "nombres": {
+      "csv": "Víctor Jeame Barrueto",
+      "bcn": "Víctor Jeame Barrueto"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial, Economista",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Comercial con mención en Economía. Trabajó 14 años en departamentos de estudios y finanzas de empresas privadas, además de ser asesor e investigador en el ámbito laboral."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Intendente de la Región Metropolitana",
+        "Subsecretario de Defensa"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 18,
+      "anos_militancia_partidos": 36,
+      "justificacion_breve": "Cuatro períodos consecutivos como Diputado (16 años), Intendente de la Región Metropolitana y Subsecretario de Defensa. Fue Secretario General y Presidente del MAPU, y Presidente del PPD, demostrando un liderazgo partidista nacional significativo."
+    },
+    "scores": {
+      "score_profesional": 5.0,
+      "score_politico": 8.5
+    }
+  },
+  {
+    "id_csv": 170,
+    "nombres": {
+      "csv": "Jaime Jiménez Villavicencio",
+      "bcn": "Jaime Enrique Jiménez Villavicencio"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado",
+      "nivel_educacion_texto": "Universitario",
+      "nivel_educacion_score": 2,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado, titulado en 2012, después de una extensa carrera política. Se estima 5 años de ejercicio privado de la profesión."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Gobernador de la Provincia de Melipilla",
+        "Jefe de Gabinete en la Intendencia Metropolitana",
+        "Asesor del Ministro de Vivienda y Urbanismo"
+      ],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 13,
+      "anos_militancia_partidos": 23,
+      "justificacion_breve": "Dos períodos como Diputado (8 años), Gobernador de Melipilla (3 años) y Jefe de Gabinete en la Intendencia Metropolitana. Liderazgo partidista a nivel comunal y universitario."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 172,
+    "nombres": {
+      "csv": "Carlos Kuschel Silva",
+      "bcn": "Carlos Ignacio Kuschel Silva"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 5,
+      "tiene_experiencia_academica": true,
+      "tiene_experiencia_publica_tecnica": true,
+      "justificacion_breve": "Ingeniero Comercial con Magíster en Estudios Internacionales. Experiencia en ventas privadas, gerencia, docencia universitaria y cargos técnicos en el sector público (ProChile, Municipalidad de Puerto Montt)."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Alcalde",
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 37,
+      "anos_militancia_partidos": 36,
+      "justificacion_breve": "Amplia trayectoria política con 5 períodos como Diputado (20 años), 2 períodos como Senador (16 años) y un breve período como Alcalde. Liderazgo partidista a nivel regional."
+    },
+    "scores": {
+      "score_profesional": 7.5,
+      "score_politico": 9.0
+    }
+  },
+  {
+    "id_csv": 173,
+    "nombres": {
+      "csv": "Eduardo Lagos Herrera",
+      "bcn": "Eduardo Lagos Herrera"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Economista y Abogado",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Economista con Master en Administración Pública y Abogado. Su carrera ha sido predominantemente en el ámbito público y político, sin experiencia privada documentada."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [
+        "Agregado Civil Económico en la Embajada de Chile en España",
+        "Jefe de Gabinete del Intendente de la Región Metropolitana",
+        "Asesor del Subsecretario de Previsión Social"
+      ],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 11,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Un período como Diputado (4 años), 4 años como Agregado Civil Económico y 2 años como Jefe de Gabinete de Intendente. Ocupó cargos de vicepresidente y secretario nacional electoral en la Juventud Radical y el Partido Radical Socialdemócrata."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 6.0
+    }
+  },
+  {
+    "id_csv": 175,
+    "nombres": {
+      "csv": "Cristián Leay Morán",
+      "bcn": "Cristián Araya Lerdo de Tejada"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Abogado y Psicólogo",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Abogado y Psicólogo con Magíster en Psicología de las Organizaciones. Su trayectoria profesional documentada no incluye experiencia significativa en el sector privado."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Concejal",
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": false,
+      "anos_total_servicio_publico": 8,
+      "anos_militancia_partidos": 7,
+      "justificacion_breve": "Un período como Concejal (4 años) y un período como Diputado (4 años). Militancia en la UDI y el Partido Republicano, sin roles directivos nacionales."
+    },
+    "scores": {
+      "score_profesional": 3.0,
+      "score_politico": 5.0
+    }
+  },
+  {
+    "id_csv": 176,
+    "nombres": {
+      "csv": "Juan Pablo Letelier Morel",
+      "bcn": "Juan Pablo Letelier Morel"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Ingeniero Comercial",
+      "nivel_educacion_texto": "Magíster",
+      "nivel_educacion_score": 3,
+      "anos_experiencia_privada": 14,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Ingeniero Comercial con Master en Economía y Política Internacional. Acumuló 14 años de experiencia en investigación y proyectos de derechos humanos en instituciones no gubernamentales."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado",
+        "Senador"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 32,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Extensa carrera parlamentaria con 4 períodos como Diputado (16 años) y 2 períodos como Senador (16 años). Ocupó cargos de vicepresidente, miembro del Comité Central y tesorero del Partido Socialista."
+    },
+    "scores": {
+      "score_profesional": 6.0,
+      "score_politico": 9.5
+    }
+  },
+  {
+    "id_csv": 177,
+    "nombres": {
+      "csv": "Felipe Letelier Norambuena",
+      "bcn": "Felipe Letelier Norambuena"
+    },
+    "analisis_profesional": {
+      "campo_principal": "Técnico Agrícola",
+      "nivel_educacion_texto": "Técnico",
+      "nivel_educacion_score": 1,
+      "anos_experiencia_privada": 0,
+      "tiene_experiencia_academica": false,
+      "tiene_experiencia_publica_tecnica": false,
+      "justificacion_breve": "Técnico Agrícola. La biografía no detalla experiencia profesional en el sector privado o técnico."
+    },
+    "analisis_politico": {
+      "cargos_eleccion_popular": [
+        "Diputado"
+      ],
+      "cargos_gobierno_central": [],
+      "rol_partidista_importante": true,
+      "anos_total_servicio_publico": 16,
+      "anos_militancia_partidos": 33,
+      "justificacion_breve": "Cuatro períodos como Diputado (16 años). Fue representante en la Internacional Social Demócrata y miembro de la Comisión Política del Partido por la Democracia."
+    },
+    "scores": {
+      "score_profesional": 1.0,
+      "score_politico": 7.0
+    }
+  }
+]
