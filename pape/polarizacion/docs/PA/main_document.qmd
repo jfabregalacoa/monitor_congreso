@@ -1,0 +1,990 @@
+---
+format:
+  pdf:
+    keep-tex: true
+    documentclass: scrartcl
+    title-block-style: default
+    include-in-header:
+      - text: |
+          \usepackage{pdflscape}
+          \usepackage{pifont}
+          \usepackage{booktabs}
+          \usepackage{tabularx}
+          \usepackage{array}
+          \usepackage{ltablex}
+          \keepXColumns
+          \setlength{\LTleft}{0pt}
+          \setlength{\LTright}{0pt}
+          \newenvironment{abstractsmall}{\begin{small}}{\end{small}}
+          \BeforeBeginEnvironment{abstract}{\begin{abstractsmall}}
+          \AfterEndEnvironment{abstract}{\end{abstractsmall}}
+
+editor: visual
+bibliography: "D:/varios/monitor_congreso/pape/polarizacion/docs/references_polarization.bib"
+
+execute:
+  echo: false
+  message: false
+  warning: false
+---
+
+```{r pa-data-version, include=FALSE}
+# PA uses the extended, repository-local 2022-2026 inputs. The historical
+# Harvard Dataverse files remain available under their original filenames.
+pa_data_version <- "2022_26_extended"
+pa_rollcall_path <- here::here(
+  "Harvard Dataverse", "Roll calls",
+  "matriz__periodo_2022_26_extended.csv"
+)
+pa_ideology_path <- here::here(
+  "pape", "polarizacion", "data",
+  "ideologia_diputados_largo_emIRT_con_anclas_2022_26_extended.csv"
+)
+# No 2026-2030 data are included in either selected input.
+```
+\begin{center}
+{\LARGE When Democratic Institutions Polarize: Evidence from Legislative Behavior in Chile\par}
+\vspace{0.75em}
+\end{center}
+\vspace{1.5em}
+
+# Abstract
+
+Political polarization is widely documented, yet we know less about how elite polarization accumulates inside representative institutions over time, and whether long-run increases reflect replacement (the entry of more extreme legislators) or adaptation (within-legislator ideological change). Using roll-call votes from the Chilean Chamber of Deputies across six legislative periods (2002-2026) and dynamically anchored ideal-point estimates on a common scale, this article traces secular changes in revealed ideology and decomposes rising extremity into compositional turnover versus within-legislator movement. Polarization, measured as average absolute distance from a fixed reference point (and corroborated with a quadratic alternative), increases steadily and robustly across bill origins and legislative stages, with no evidence of sharp discontinuities around the 2015 electoral reform, the 2019 social unrest, or the pandemic period. New entrants are, on average, more extreme than incumbents, indicating a role for replacement, but panel specifications that benchmark legislators against their own entry positions reveal a persistent drift toward greater extremity, pointing to adaptation as an additional and substantively important driver. The findings are consistent with polarization as an endogenous, incentive-driven feature of representation under dealignment and weakened partisan coordination, with implications for diagnosing democratic strain beyond two-party systems.
+
+# Introduction
+
+Elite ideological polarization has been documented in party systems and legislatures \[@Dalton2008QuantityQuality; @HixNouryRoland2006Dimensions\]. A related literature documents partisan hostility \[@IyengarEtAl2019; @Reiljan2020FearLoathing; @Wagner2024AffectivePolarizationEurope\], which can hinder cooperation and deliberation \[@Binder1999LegislativeGridlock; @Baechtiger2004RealWorldDeliberation; @McCartyPooleRosenthal2006\]. Yet we know less about how polarization accumulates and becomes entrenched within political institutions over time, particularly in multiparty settings where partisan attachments are weak. This gap is especially salient in Latin America, where reforms, crises, and partisan dealignment have repeatedly reshaped party brands and linkages [@Lupu2016; @Roberts2014]. This raises a central question: when elite polarization increases, is the change primarily driven by who enters representative institutions, or by what institutions do to those already inside them?
+
+More concretely, does polarization mainly reflect the entry of more extreme cohorts, or does it emerge from institutional dynamics that progressively reshape revealed behavior even among incumbents?
+
+This distinction matters because aggregate trends can look similar under very different micro-level processes. Existing research has been far more successful at documenting *that* polarization exists than at specifying *how* it accumulates over time. Many studies track changes in aggregate levels without isolating whether shifts stem from compositional turnover or from systematic movement within individual legislative careers. Polarization is therefore often treated as an outcome to be measured rather than as a process unfolding within representative institutions.
+
+The challenge becomes sharper in contexts of declining party attachment, high electoral volatility, and weakened channels of representation. Under these conditions, legislatures operate with looser programmatic anchors and a reduced capacity for collective coordination, potentially altering how representatives position themselves over time. Similar aggregate patterns may then arise from very different sources: shifts in elite composition (e.g., generational replacement or the selective entry of more extreme actors), shifts in incentives within the chamber (e.g., strategic realignment, changing constraints, or weakened coordination), or both. Distinguishing between these mechanisms is crucial for evaluating democratic resilience and for diagnosing whether institutions still structure conflict in a sustainable manner. If polarization is driven by cohort turnover, its origins lie largely outside the legislature. If, instead, polarization reflects changes in institutional incentives, it may push both new and established actors toward more extreme revealed positions. The implications diverge: a replacement account points to selection and recruitment, whereas an adaptation account points to endogenous institutional dynamics and the incentive environments legislatures generate.
+
+This article addresses these issues by examining the evolution of ideological polarization in the Chilean Chamber of Deputies across six legislative periods, from 2002 to 2026, using roll-call vote data and dynamic ideal-point estimation. Chile is analytically valuable because this period combines gradual institutional change-most notably the end of the governing coalition that ruled the country since 1990 and a series of substantive political reforms-with mounting challenges to political representation, including the 2019 social unrest and the pandemic period. This combination allows polarization to be examined both as a cumulative process unfolding within a relatively stable institutional framework and as the product of discrete shocks or abrupt realignments.
+
+The empirical strategy formalizes this argument by contrasting two mechanisms that can generate the same aggregate pattern of rising polarization: replacement and adaptation. Under replacement, polarization increases because the composition of the chamber changes over time, as newcomers enter with systematically more extreme dynamically estimated ideal points than incumbents. This mechanism yields two testable implications: (i) within a given period, newcomers should be more extreme than incumbents, and (ii) once incumbency is accounted for, within-legislator trajectories should display limited systematic drift.
+
+Under adaptation, by contrast, polarization increases because legislators update their revealed ideological positions as the institutional environment changes (e.g., weaker party brands and coordination, higher electoral volatility, and stronger incentives to signal distinctiveness). In a roll-call setting, adaptation refers to change in revealed positioning as observed through voting behavior. Empirically, this implies that (i) incumbents should become more extreme over time, and (ii) the aggregate time trend should persist in models that exploit within-legislator variation.
+
+These expectations map directly onto the empirical models below: contrasts between newcomers and incumbents isolate compositional change, while specifications that benchmark each legislator against their own initial position capture within-legislator movement consistent with adaptation.
+
+The analysis makes three contributions. First, it provides longitudinal evidence on ideological polarization grounded in observed legislative behavior, avoiding reliance on self-reported ideology or rhetorical positioning. Second, it leverages within-legislator variation to separate compositional change from within-actor dynamics, allowing an indirect assessment of whether the observed trend aligns more closely with entry-driven replacement or incentive-driven adaptation. Third, by showing that polarization can increase even in the absence of extensive turnover, the study speaks to broader debates in democratic theory concerning the erosion of deliberative capacity, the weakening of representative linkages, and the growing difficulty of sustaining shared political reference points within representative institutions.
+
+Taken together, the findings suggest that ideological polarization is not only a reflection of societal conflict or generational change. It can also be a dynamic property of representative systems themselves - shaped by institutional incentives, strategic interaction, and the evolving conditions under which democratic representation is exercised.
+
+## Ideological Polarization, Elite Behavior, and Institutional Dynamics
+
+This article focuses on ideological polarization as it is revealed in legislative behavior. Roll-call votes are rule-governed decisions that can be scaled into a latent ideological structure that allows researchers to trace changes in elite positioning over time using observed voting behavior [@PooleRosenthal1997; @ClintonJackmanRivers2004]. Accordingly, the analysis relies on roll-call voting rather than on rhetoric, surveys, or self-placement measures, which are more commonly used to study affective polarization - a distinct but parallel dimension of polarization centered on attitudes, identities, and intergroup affect [@IyengarEtAl2019].
+
+Yet roll-call evidence poses an interpretive challenge of its own. Aggregate increases in roll-call–based polarization can be observationally equivalent to very different underlying processes. Measured divergence may rise because more extreme legislators enter office and gradually replace earlier cohorts. It may rise because incumbents strategically update their revealed positioning as institutional and electoral incentives shift. Or it may rise because the agenda changes because different issues reach the floor, such that the votes available for scaling reflect a different mix of conflicts, potentially generating apparent polarization even when underlying dispositions are more stable. Recent work makes this point explicit, showing that longitudinal comparisons of ideal points can be sensitive to vote selection and shifting issue content, and motivating designs that exploit within-actor information and related strategies to limit agenda-driven artifacts [@MoskowitzRogowskiSnyder2024].
+
+Within this identification problem, the literature draws a useful distinction between compositional and within-actor sources of polarization. Compositional accounts emphasize replacement: polarization increases because who enters office changes over time (through generational turnover, sorting in candidate supply, or the selective entry of more extreme challengers) so that aggregate divergence accumulates even if incumbents exhibit limited systematic drift [@Theriault2006; @Bonica2014; @Thomsen2014]. In contrast, within-actor accounts emphasize adaptation: polarization deepens as legislators adjust their revealed behavior in response to changing incentives within representative institutions, including changes in coordination capacity, agenda control, or nomination pressures [@WeingastMarshall1988; @CoxMcCubbins2005; @CowburnTheriault2025]. More broadly, nomination and electoral rules can reshape legislative behavior by altering both the incentives legislators face and the types of candidates who reach office, with documented effects on patterns of cross-party agreement in roll-call voting [@AlvarezSinclair2012]. These mechanisms imply different diagnoses, and different remedies. But in the aggregate they can look deceptively similar.
+
+The empirical challenge addressed in this article is therefore to assess whether observed ideological divergence is concentrated among entrants or also appears systematically within incumbents. To do so, the analysis draws on panel-based decompositions developed in the congressional literature [@Theriault2006; @Bonica2014] and responds directly to concerns about observational equivalence in roll-call measures [@MoskowitzRogowskiSnyder2024]. We do not claim definitive structural identification of ‘preferences’ versus ‘incentives.’ Rather, the strategy provides evidence that is more consistent with one mechanism than the other, while remaining attentive to the possibility that agenda change contributes to measured trends.
+
+Chile is analytically valuable in this respect. Studies of the Chilean political system document declining party identification and growing strains in representation, alongside institutional and electoral changes that plausibly alter elite incentives [@LunaAltman2011; @BargstedMaldonado2018]. Prior work also describes a weakening of the post-transition consensus and an increasingly polarized environment; at the elite level, this shift has been linked to electoral incentives and changing competitive dynamics [@FabregaGonzalezLindh2018; @LindhFabregaGonzalez2019]. More recent accounts conceptualize the period as featuring “disjointed polarization,” in which conflict intensifies within political institutions under conditions of weak and volatile citizen alignments-reinforcing the need to analyze elite behavior directly rather than inferring it from mass ideological sorting [@Luna2024].
+
+This setting raises a sharper question. Can ideological polarization become a self-reinforcing property of representative institutions-deepening through endogenous dynamics even when mass alignments are unstable and elite turnover is not unusually high? Addressing it requires long-run behavioral data and an empirical strategy that can separate compositional change from within-actor divergence. Chile offers both. The Chamber of Deputies provides a long series of roll-call decisions, and its institutional structure permits observing changes in chamber composition alongside individual legislative trajectories over time.
+
+The extended window is also substantively useful. It begins in 2002, when *La Concertación* (the longest governing coalition since Chile’s democratic transition in 1990) was still in office, and it extends into the present, after its dissolution and the emergence of new coalitions and parties. This longitudinal coverage is central for distinguishing polarization driven by elite replacement from polarization that accumulates within the legislature over time. Accordingly, this article examines the Chamber of Deputies from 2002 to 2026 using roll-call–based dynamic ideal points and multiple polarization operationalizations, assessing whether the observed trajectory is more consistent with replacement-driven change or with endogenous institutional dynamics.
+
+# Method and Data
+
+### On the measurement of dynamic polarization
+
+The analysis uses a publicly available roll-call voting database from the Chilean Chamber of Deputies, covering six consecutive legislative periods between 2002 and 2026 collected by @Fabrega2025DIB. Each period corresponds to a full legislative term, except the last one, which covers the first three years of voting (approximately 75 percent) of the term. This structure permits observing both changes in chamber composition and individual legislative trajectories over time. The extended window is also substantively useful because it begins when *La Concertación* (the longest governing coalition since Chile’s democratic transition in 1990) was still in office and extends into the present, after its dissolution and the emergence of new coalitions and parties. This longitudinal coverage is central for distinguishing polarization driven by elite replacement from polarization that accumulates within the legislature over time.
+
+The focus is on the Chamber of Deputies rather than the Senate for three reasons. First, deputies are elected in smaller territorial districts, yielding more granular territorial representation than senatorial constituencies [@ServelTerritoriosElectorales]. Second, the Chamber frequently serves as the chamber of origin, shaping bills in the first constitutional procedure before review by the revising chamber and, when needed, mixed-commission bargaining to resolve inter-chamber disagreements [@OECD2012EvaluatingLaws]. Third, it is typically the initial national legislative post in Chilean political careers, making it a natural setting to study both entry and early behavioral adaptation [@Saldana2014; @MorgensternSiavelis2008]. For these reasons, roll-call voting in the lower chamber offers a particularly informative window into legislators’ revealed positioning early in the lawmaking sequence, before the additional revision and negotiation steps that can arise later in the bicameral process [@PooleRosenthal1997; @OECD2012EvaluatingLaws].
+
+A recurring concern in periodized analyses of roll-call behavior is that changes in agenda processing could mechanically affect measured dispersion. Table 1 partially addresses this issue by summarizing roll-call activity by legislative period, including the total number of unique bills and roll-calls, as well as the distribution of votes by bill origin and legislative stage as officially classified. Two patterns stand out. First, both the number of bills and the number of roll-calls increase over time. Although the final period is incomplete, a simple linear projection suggests that, once concluded, it will surpass the previous term in both dimensions. Second, this sustained growth in activity is not accompanied by monotonic or systematic shifts in the composition of votes across bill origins or stages of the lawmaking process. Whether bills originate in presidential messages or parliamentary motions, and whether votes occur in first, second, or later legislative stages, the observed shares fluctuate across periods without a clear directional trend.
+
+These patterns point to procedural continuity in parliamentary activity over time. This continuity holds despite substantial changes in chamber composition during the period under study, most notably the expansion from 120 to 155 deputies following the 2015 electoral reform (Law No. 20,840), which first took effect in the 2018–2022 legislative period. Importantly, this same period also encompasses the 2019 social unrest and the COVID-19 pandemic (developments that plausibly altered elite incentives, citizen alignments, and the substantive agenda of parliamentary conflict). Thus, the concurrence of institutional reform, elite turnover, and major societal shocks within a single legislative window turns this period into a natural laboratory for examining whether, and how, ideological polarization reflects compositional replacement, endogenous institutional dynamics, or both.
+
+```{r, warning=FALSE,message=FALSE,echo=FALSE}
+# =========================================================
+# Tabla "transpuesta": períodos en columnas, descriptivos en filas
+# - Totales: N_total_votes, N_total_bills
+# - % por bill_origin y vote_step
+# Requiere: tabla con columnas period, vote_bill, bill_origin, vote_step
+# =========================================================
+
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(stringi)
+library(here)
+
+aqui <- here()
+
+source(paste0(aqui,"/code/query_metadata_tabla_por_votaciones.R"))
+
+# ---- 1) Construir tabla ancha (períodos en filas) con totales + % ----
+
+# Totales por período
+tot_period <- tabla %>%
+  group_by(period) %>%
+  summarise(
+    N_total_votes = n(),
+    N_total_bills = n_distinct(vote_bill),
+    .groups = "drop"
+  )
+
+# % por origen
+origin_pct <- tabla %>%
+  count(period, bill_origin, name = "n") %>%
+  group_by(period) %>%
+  mutate(pct = n / sum(n)) %>%
+  ungroup() %>%
+  select(period, bill_origin, pct) %>%
+  pivot_wider(
+    names_from  = bill_origin,
+    values_from = pct,
+    names_glue  = "origin_{bill_origin}_pct",
+    values_fill = 0
+  )
+
+# % por etapa
+step_pct <- tabla %>%
+  mutate(
+    vote_step_key = vote_step %>%
+      str_trim() %>%
+      str_to_lower() %>%
+      stringi::stri_trans_general("Latin-ASCII") %>%
+      str_replace_all("[^a-z0-9]+", "_") %>%
+      str_replace_all("^_|_$", "")
+  ) %>%
+  count(period, vote_step_key, name = "n") %>%
+  group_by(period) %>%
+  mutate(pct = n / sum(n)) %>%
+  ungroup() %>%
+  select(period, vote_step_key, pct) %>%
+  pivot_wider(
+    names_from  = vote_step_key,
+    values_from = pct,
+    names_glue  = "step_{vote_step_key}_pct",
+    values_fill = 0
+  )
+
+wide_tbl <- tot_period %>%
+  left_join(origin_pct, by = "period") %>%
+  left_join(step_pct,   by = "period") %>%
+  mutate(across(ends_with("_pct"), ~ round(.x * 100, 1))) %>%
+  arrange(period)
+
+# ---- 2) Transponer: descriptivos en filas, períodos en columnas ----
+# Convertimos a formato largo y luego a ancho con period como columnas
+long_tbl <- wide_tbl %>%
+  pivot_longer(
+    cols      = -period,
+    names_to  = "descriptor",
+    values_to = "value"
+  )
+
+# Etiquetas más legibles (ajusta a gusto)
+label_map <- function(x) {
+  x %>%
+    str_replace("^N_total_votes$", "Total roll-calls (N)") %>%
+    str_replace("^N_total_bills$", "Total bills (unique N)") %>%
+    str_replace("^origin_", "Origin: ") %>%
+    str_replace("_pct$", " (%)") %>%
+    str_replace("^step_", "Stage: ") %>%
+    str_replace_all("_", " ") %>%
+    str_to_sentence()
+}
+
+final_tbl <- long_tbl %>%
+  mutate(descriptor = label_map(descriptor)) %>%
+  pivot_wider(
+    names_from  = period,
+    values_from = value
+  ) %>%
+  # Opcional: ordenar filas (totales primero, luego origen, luego etapas)
+  mutate(order = case_when(
+    descriptor %in% c("Total roll-calls (n)", "Total bills (unique n)") ~ 1L,
+    str_detect(descriptor, "^Origin:") ~ 2L,
+    str_detect(descriptor, "^Stage:")  ~ 3L,
+    TRUE ~ 9L
+  )) %>%
+  arrange(order, descriptor) %>%
+  select(-order)
+
+# ---- 3) Render en RMarkdown
+knitr::kable(
+  final_tbl,
+  align   = "l",
+  caption = "Roll-call composition by period: totals (votes and bills) and percentage shares by bill origin and legislative stage."
+)
+
+```
+
+Another concern is dimensionality. In this regard, we run two-dimensional DW-NOMINATE diagnostics on each period’s roll-call dataset and find a strongly dominant first dimension in every legislature (mean $\lambda_1/\lambda_2 \approx 19$, with approximately 95 percent of the variance captured by the first dimension), supporting the use of a unidimensional dynamic scale. See Supplemental Materials 1 (SM1). This finding is consistent with a large comparative literature showing that legislative voting is primarily structured by a dominant ideological dimension \[@PooleRosenthal1997\], including in multiparty systems [@HixNouryRoland2006Dimensions]. Prior studies of the Chilean Congress similarly confirm that a unidimensional structure captures most systematic variation in roll-call voting [@AlemanSaiegh2007]. At the same time, recent work on mass politics in Chile documents the emergence of a second, anti-establishment dimension in the post-2019 period, based on survey evidence of citizens’ attitudes and political alignments [@ArgoteVisconti2025RCP] ; @ArgoteDeLaCerdaVisconti2025\]. We take this literature seriously, but it speaks to a different level of analysis. Our diagnostic concerns the structure of roll-call voting within the legislature itself, where a single dominant dimension continues to organize revealed behavior throughout the period under study.
+
+Ideological positions are estimated dynamically across periods rather than independently for each legislature. Legislators’ voting probabilities are modeled as a function of a latent continuous position along a principal ideological dimension, conventionally interpreted as the left–right axis. While cross-sectional estimates permit within-period comparisons, they complicate longitudinal interpretation when each legislature is normalized separately, since distances are not directly comparable over time. To address this limitation, the analysis adopts a dynamic ideal-point estimation strategy with longitudinal anchoring, following @LoImaiOlmsted2022. This approach enables joint estimation across periods on a common scale, providing a stable reference for assessing changes in ideological dispersion over time while remaining computationally feasible for large roll-call datasets.
+
+In line with standard practice, abstentions and absences are treated as missing information, while near-unanimous votes contribute little to identification by construction. As a result, the estimates are not sensitive to additional filtering of low-discrimination items or to alternative weighting schemes based on item discrimination [e.g., @PooleRosenthal1997; @ClintonJackmanRivers2004]. Additional robustness checks address selective participation. We re-estimate ideal points after excluding legislators whose absences meet or exceed alternative thresholds. The estimated positions of the remaining legislators are substantively unchanged across thresholds, indicating that the main results are not driven by the inclusion of highly absent legislators (see SM2).
+
+The roll-call data are drawn from @Fabrega2025DIB, but we do not use the dynamic ideal-point estimates reported there. Those estimates, while suitable for tracing individual trajectories, are obtained without longitudinal anchors and therefore do not place legislators on a common ideological scale across periods. To enable comparisons relative to a stable reference point over time, we re-estimate the model using an anchored specification. The resulting estimates are highly correlated with the unanchored ones, but the anchored approach is required for the longitudinal comparisons central to the analysis. Anchors were selected to span the ideological spectrum and to ensure long legislative presence across periods, high roll-call participation, and clearly identifiable ideological positions. The selected anchors are Gastón von Mühlenbrock (right), José Miguel Ortiz (center), and Fidel Espinoza (left). Each appears in five of the six legislative periods and exhibits participation rates above 70 percent. Robustness checks using alternative anchor sets yield nearly identical estimates (see SM3). Moreover, to reflect estimation uncertainty, we report uncertainty intervals for ideal points and propagate this uncertainty to polarization measures by computing period-level quantities over the corresponding uncertainty distributions (see SM4).
+
+While formal polarization indices such as Esteban–Ray [@EstebanRay1994] originate in the study of income distributions and mass preferences, the present approach follows standard practice in the analysis of legislative polarization, where polarization dynamics are tracked through the extremity and dispersion of legislators’ ideal points over time [@McCartyPooleRosenthal2006, @JesseeMalhotra2010, @HillTausanovitch2015Disconnect, @Cormack2016Extremity]. Using the estimated ideological positions, polarization is operationalized through two complementary measures. The primary indicator reported in the main text is the average absolute ideological distance from a fixed, common reference point over the entire period (abs), computed as the mean of absolute ideal points in each legislature. The reference point is fixed by the longitudinal anchoring scheme and is therefore time-invariant by construction. In roll-call applications, increases in average extremity relative to a stable benchmark are commonly used as an operational proxy for polarization trends, as they capture both dispersion and collective ideological drift.
+
+As a robustness check, we also compute a quadratic measure of polarization (the mean of squared ideological positions, *sq*) which places greater weight on extreme observations and assesses sensitivity to highly extreme legislators (see Appendix A). We do not rely on alternative polarization measures defined as average absolute distance from the period-specific mean or median. While such measures are informative about dispersion around the contemporaneous center, they anchor polarization to reference points that move endogenously with the distribution itself. Over long horizons, this can obscure polarization dynamics when the entire ideological distribution shifts, as dispersion relative to the center may remain stable even as collective drift intensifies. Because the objective of the analysis is to track polarization relative to a stable benchmark over time, these moving-anchor measures are not well suited to the question at hand and are therefore not pursued here.
+
+Finally, because polarization dynamics may be asymmetric, the analysis also examines ideological asymmetry across periods. For this purpose, we report the period-specific mean ideological position and the proportion of legislators located on each side of the ideological axis. These quantities are not used as measures of polarization per se, but as descriptive indicators of balance around the reference point. Together, they allow us to distinguish symmetric polarization from asymmetric polarization driven predominantly by movement on one side of the ideological spectrum (see appendix B).
+
+### Mechanisms of Polarization: Replacement versus Within-Legislator Change
+
+Having established the measurement strategy and documented stable procedural conditions across periods, the empirical question is whether rising extremity is better explained by elite replacement or by within-legislator change over time. The analysis therefore estimates a set of individual-level models that relate legislators’ ideological extremity to time and to entry dynamics.
+
+Across specifications, the dependent variable is ideological polarization, measured as the absolute distance from the reference point (squared versions are reported in SM5). The core explanatory variables correspond to the two mechanisms of interest: elite replacement (a newcomer indicator identifying legislators who did not hold a seat in the preceding period; groups_t) and elite adaptation. Elite adaptation is operationalized in three complementary ways, matching the labels reported in Table 2: (i) a linear Legislative period trend (*period_num*), (ii) a fully flexible profile via period fixed-effect, Period FE - consisting in five indicators relative to the baseline legislature 2002–06, and (iii) Within-legislator trend ($\Delta$ since entry), which benchmarks each legislator against their own entry baseline..
+
+Additional controls account for individual and contextual factors that may condition revealed positioning. These include sex and age as reported, the number of parties a legislator has belonged to (quant_parties) as a proxy for stability versus fluidity in partisan trajectories, (all as reported in @Fabrega2025DIB) and the ideological orientation of the executive (gov_right), capturing government–opposition dynamics that plausibly shape voting behavior.
+
+Six baseline specifications structure the main analysis. Across models, the objective is to distinguish polarization associated with elite replacement from polarization associated with elite adaptation, varying how adaptation is parameterized and how flexibly it is allowed to evolve over time.
+
+Model 1 (replacement with parametric adaptation and differential slopes). Adaptation is captured via Legislative period trend (period_num), estimated jointly with replacement (groups_t) and their interaction. This model tests whether polarization changes with the adaptation trend and whether that trend differs between entrants and incumbents.
+
+Model 2 (replacement with parametric adaptation, adding controls). This specification retains Model 1’s parametric adaptation term (period_num) and replacement indicator (groups_t), and adds party and other covariates to assess whether the replacement–adaptation pattern persists once observable heterogeneity is accounted for.
+
+Model 3 (replacement with flexible adaptation profile). To avoid imposing a functional form on adaptation, this model replaces the linear trend with period fixed effects (Period FE), while retaining the replacement indicator and the same controls. It estimates period-specific differences relative to the baseline legislature.
+
+Model 4 (inference with repeated observations). This model preserves Model 2’s replacement–adaptation specification (linear adaptation via period_num) but clusters standard errors at the legislator level to account for within-legislator dependence across periods.
+
+Model 5 (institutional break in adaptation and heterogeneity by entry status). Building on the parametric adaptation specification, this model evaluates whether the adaptation trend changes after the electoral reform and whether any change differs between entrants and incumbents. Operationally, it augments the linear adaptation term (period_num) with a post-reform indicator and the corresponding interactions with entry status, net of controls.
+
+Model 6 (within-legislator adaptation net of replacement). To isolate adaptation as within-legislator change, this specification benchmarks each legislator against their own entry baseline: the first observed period serves as the reference, and subsequent observations are expressed as deviations from that baseline. The model then traces average within-legislator evolution across legislatures using period fixed effects, thereby removing stable between-legislator differences and sharpening the interpretation as adaptation rather than replacement.
+
+Together, these models enable a structured comparison between replacement-based change and within-legislator movement. Replacement is captured most directly by the newcomer component, whereas adaptation is reflected in the temporal structure of the estimates and most cleanly isolated in the entry-baselined specification that benchmarks each legislator against their own initial position. Core results are reported in the main text, with additional implementations and diagnostics in SM5.
+
+One limitation of the design is that it does not condition explicitly on policy content. Shifts in the thematic agenda could, in principle, affect recovered ideal points even under unchanged procedural rules, and we cannot adjudicate that channel directly here [@MoskowitzRogowskiSnyder2024]. At the same time, the analysis spans six legislatures - nearly twenty-four years - which places a demanding burden on purely agenda-based accounts: to explain the results, they must account not only for short-run issue substitution but also for the persistence and coherence of the long-run trajectory observed in roll-call behavior. We therefore treat agenda composition as a potentially complementary mechanism that lies outside the scope of the present design, and interpret the main results as evidence on long-run changes in revealed roll-call polarization under broadly stable procedural conditions
+
+# Results
+
+Regarding the measurement of polarization, the results show a sustained increase in ideological polarization in the Chilean Chamber of Deputies along six legislative periods stating in 2002 and ending in 2026. When polarization is measured as the average absolute distance from a fixed ideological reference point (*abs*), legislators are located progressively farther from the common reference point across successive legislative periods. The resulting trajectory is smooth and largely monotonic, with no evidence of sharp reversals or short-lived spikes, pointing to an accumulative process rather than episodic polarization driven by isolated political events or contextual policy agendas. Importantly, this pattern is not confined to the aggregate sample. The same upward trajectory is observed when the analysis is replicated across substantively relevant subsets of votes, including bills of executive and legislative origin, as well as across different stages of the lawmaking process. This pattern is also robust to excluding legislators with high abstention/absence rates. Together, these patterns suggest that rising ideological polarization reflects a broad and persistent dynamic of legislative behavior rather than changes confined to specific types of bills or procedural
+
+Figure 1 - Dynamic Ideological Polarization in the Chilean Chamber of Deputies (2002–2026)
+
+```{r}
+library(here)
+aqui <- here()
+img_path <- here("pape", "polarizacion", "data", "polarizacion_integrada", "fig_abs_ideologia_facets.png")
+knitr::include_graphics(img_path)
+```
+
+When polarization is measured as the mean of squared ideological positions (*sq*), the resulting trajectories closely mirror those obtained using a fixed ideological reference point. This metric likewise exhibits a persistent upward trend, indicating that polarization is not driven solely by moderate dispersion around the reference point but also by an increasing contribution of more extreme legislators (see SM5).
+
+An additional question is whether the observed increase in polarization is systematically asymmetric, reflecting greater ideological movement on one side of the spectrum. The evidence provides little support for this interpretation. Across periods, the direction of ideological bias alternates, with the sign of the ideological mean and median switching between left and right rather than exhibiting a stable drift in a single direction. Likewise, the proportions on each side of the ideological axis do not show a persistent drift toward one ideological sign over time: while some periods exhibit clear majorities on one side (and these majorities tend to align with the ideological sign of the incumbent executive) those majorities alternate across periods rather than reflecting sustained bloc dominance. Measures of distributional asymmetry further reinforce this conclusion: skewness remains close to zero in all periods even when left/right shares tilt in some periods, indicating that the ideological distribution is broadly symmetric despite its increasing dispersion (see Appendix B, Table 3). Taken together, these results suggest that rising polarization reflects a widening of the ideological space on both sides of the reference point rather than a unidirectional radicalization driven by a single ideology.
+
+These aggregate patterns could, in principle, be driven either by legislative turnover or by a broader temporal dynamic affecting legislators’ behavior. Across baseline specifications, the coefficient on Elite adaptation is consistently positive and statistically significant (Models 1 to 4). The sign and statistical significance of the time effect are stable across specifications and samples (Models 1 to 4); estimates based on balanced subsamples yield a larger coefficient, consistent with a stronger trend once compositional change is netted out.
+
+Importantly, the positive temporal association persists after incorporating controls for party affiliation and individual characteristics, indicating that adaptation is not simply a byproduct of changes in the partisan composition of the chamber. Results based on a balanced subsample further confirm that the pattern is not driven by changes in the set of legislators observed across periods.
+
+Additional insight is provided by the specification with period fixed effects (Model 3), which does not impose a linear temporal trend. Using the first legislative period as the reference category, all subsequent periods display positive and increasing coefficients, with later terms exhibiting substantially higher levels of ideological extremity with respect to the 2002-2026 period.
+
+At the same time, the results indicate that legislative turnover is not irrelevant. Across specifications that include the replacement indicator, newly elected legislators tend to exhibit higher levels of ideological extremity than incumbents, even after accounting for party affiliation and other controls. However, this effect operates primarily as a level difference rather than as a dynamic mechanism. Crucially, the temporal trend remains strong and statistically significant once elite replacement is taken into account, and the interaction between replacement and time is confined to a small number of subsets and statistically unstable across samples and institutional
+
+Model 5 probes whether the electoral reform is associated with a discrete change in polarization dynamics by estimating an interrupted trend. In the full base, the post-reform terms, both the level shift and the slope change, are statistically indistinguishable from zero, and the post-reform interactions with replacement likewise show no systematic amplification suggesting that the temporal increase documented in Models 1–4 does not operate primarily through a sharp reform-induced discontinuity or agenda induced change motivated by the 2019 social unrest or by the COVID pandemic. Across institutional subsets, the same general pattern holds, with post-reform coefficients typically unstable; where deviations appear, they tend to be confined to specific contexts (e.g., a negative post-reform slope change for member-initiated bills and a positive replacement-by-time interaction in a small number of subsets).
+
+Finally, model 6 redefines ideology as the deviation from each legislator’s entry baseline, $\Delta x_{i,t} = x_{i,t} - x_{i,b_i}$. As reported in Table 2, the estimated within-legislator trend is positive, consistent with polarization rising through within-incumbent movement rather than cohort replacement.
+
+In sum, these patterns are consistent with a cumulative increase in polarization over time and reinforces the interpretation of a systematic temporal process rather than period-specific shocks. Details are shown in the following table (see SM5 for further details).
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
+# ============================================================
+# Tablas finales (abs_ideology): full sample + subsamples
+# - Busca recursivamente archivos EXACTOS:
+#     * Coeficientes: "polarizacion_dynamic_abs_*_coeficientes.csv"
+#     * Ajuste:       "polarizacion_dynamic_ajustes_abs_*_ajuste.csv"
+# - Lee FULL sample desde:
+#     * pape/polarizacion/data/base_completa/polarizacion/...
+# - Construye:
+#     (1) tabla compacta de coeficientes clave (period_num + group_t/new + reforma + tau + Period FE estimados)
+#     (2) tabla de ajuste (nobs, r2, adj_r2, aic, bic) si existen
+# - Normaliza nombres de modelos para evitar duplicados (Model vs Modelo)
+# - Exporta CSVs en pape/polarizacion/output
+# ============================================================
+
+rm(list = ls())
+
+suppressPackageStartupMessages({
+  library(dplyr)
+  library(readr)
+  library(stringr)
+  library(tidyr)
+  library(purrr)
+  library(tibble)
+  library(knitr)
+  library(kableExtra)
+  library(here)
+})
+
+aqui <- here()
+
+# ----------------------------
+# 0) Helpers
+# ----------------------------
+
+pick_col <- function(data, candidates) {
+  nm <- names(data)
+  hit <- intersect(candidates, nm)
+  if (length(hit) == 0) stop("Could not find any of these columns: ", paste(candidates, collapse = ", "))
+  hit[1]
+}
+
+stars <- function(p) {
+  dplyr::case_when(
+    is.na(p) ~ "",
+    p < 0.001 ~ "***",
+    p < 0.01  ~ "**",
+    p < 0.05  ~ "*",
+    TRUE      ~ ""
+  )
+}
+
+label_from_path <- function(path) {
+  p <- gsub("\\\\", "/", path)
+
+  # bill origin
+  if (str_detect(p, "subsamples_bill_origin/") && str_detect(p, "/mensaje/")) return("Bill origin: Mensaje")
+  if (str_detect(p, "subsamples_bill_origin/") && str_detect(p, "/moci"))     return("Bill origin: Moción")
+
+  # vote step
+  if (str_detect(p, "subsamples_vote_step/") && str_detect(p, "/primer_tr_mite/"))  return("Vote step: Primer trámite")
+  if (str_detect(p, "subsamples_vote_step/") && str_detect(p, "/segundo_tr_mite/")) return("Vote step: Segundo trámite")
+  if (str_detect(p, "subsamples_vote_step/") && str_detect(p, "/tercer_tr_mite/"))  return("Vote step: Tercer trámite")
+  if (str_detect(p, "subsamples_vote_step/") && str_detect(p, "/comisi_n_mixta/"))  return("Vote step: Comisión mixta")
+
+  # balanced
+  if (str_detect(p, "submuestras_balanceadas")) return("Balanced subsample (mean 100 runs)")
+
+  # fallback: parent dir name
+  parts <- str_split(p, "/", simplify = TRUE)
+  if (ncol(parts) >= 2) return(parts[1, ncol(parts) - 1])
+  p
+}
+
+read_coef <- function(file, sample_label) {
+  df <- readr::read_csv(file, show_col_types = FALSE)
+  names(df) <- tolower(names(df))
+
+  col_term  <- pick_col(df, c("term", "variable", "predictor", "coef", "parameter"))
+  col_est   <- pick_col(df, c("estimate", "est", "b", "beta", "coef_estimate"))
+  col_se    <- pick_col(df, c("std.error", "std_error", "se", "stderr", "standard_error"))
+  col_p     <- pick_col(df, c("p.value", "p_value", "p", "pval"))
+  col_model <- pick_col(df, c("model", "specification", "spec", "model_id"))
+
+  df %>%
+    transmute(
+      sample = sample_label,
+      model  = as.character(.data[[col_model]]),
+      term   = as.character(.data[[col_term]]),
+      estimate = as.numeric(.data[[col_est]]),
+      std.error = as.numeric(.data[[col_se]]),
+      p.value = as.numeric(.data[[col_p]])
+    )
+}
+
+read_fit <- function(file, sample_label) {
+  df <- readr::read_csv(file, show_col_types = FALSE)
+  names(df) <- tolower(names(df))
+
+  col_model <- pick_col(df, c("model", "specification", "spec", "model_id"))
+
+  safe <- function(nm) if (nm %in% names(df)) nm else NA_character_
+
+  df %>%
+    transmute(
+      sample = sample_label,
+      model  = as.character(.data[[col_model]]),
+      nobs   = if (!is.na(safe("nobs"))) .data[["nobs"]] else NA_real_,
+      r2     = if (!is.na(safe("r.squared"))) .data[["r.squared"]] else if (!is.na(safe("r2"))) .data[["r2"]] else NA_real_,
+      adj_r2 = if (!is.na(safe("adj.r.squared"))) .data[["adj.r.squared"]] else if (!is.na(safe("adj_r2"))) .data[["adj_r2"]] else NA_real_,
+      aic    = if (!is.na(safe("aic"))) .data[["aic"]] else NA_real_,
+      bic    = if (!is.na(safe("bic"))) .data[["bic"]] else NA_real_
+    )
+}
+
+# ----------------------------
+# 0.5) Mantener términos clave (incluye Model 5 completo)
+# ----------------------------
+
+keep_terms_explicit <- function(coefs) {
+  coefs %>%
+    mutate(
+      # --- detectores existentes ---
+      is_group = str_detect(term, "^group_t\\b"),
+      is_group_new = term == "group_tNuevo_en_t",
+
+      is_gxt = str_detect(term, "^group_t\\b.*:period_num$") | str_detect(term, "^period_num:group_t\\b"),
+      is_gxt_new = term %in% c("group_tNuevo_en_t:period_num", "period_num:group_tNuevo_en_t"),
+
+      is_time  = term == "period_num",
+
+      # --- Period FE: outputs normalizados factor(period_num)-2 ... 2 ---
+      fe_k = if_else(
+        str_detect(term, "factor\\(period_num\\)-?\\d+"),
+        str_extract(term, "-?\\d+"),
+        NA_character_
+      ),
+
+      # --- reforma (Model 5): robusto al orden de interacción ---
+      # Queremos capturar:
+      # post_reform
+      # post_reform × period_num (sin group_tNuevo_en_t)
+      # post_reform × group_tNuevo_en_t (sin period_num)
+      # post_reform × period_num × group_tNuevo_en_t (cualquier orden)
+      is_post = term == "post_reform",
+
+      is_post_time =
+        str_detect(term, "post_reform") &
+        str_detect(term, "period_num") &
+        !str_detect(term, "group_tNuevo_en_t"),
+
+      is_post_group_new =
+        str_detect(term, "post_reform") &
+        str_detect(term, "group_tNuevo_en_t") &
+        !str_detect(term, "period_num"),
+
+      is_post_time_group_new =
+        str_detect(term, "post_reform") &
+        str_detect(term, "period_num") &
+        str_detect(term, "group_tNuevo_en_t"),
+
+      # --- within-legislator (Model 6) ---
+      is_tau = term == "tau",
+
+      # --- labels ---
+      term_label = case_when(
+        # Model 6
+        is_tau ~ "Within-legislator trend (change since entry)",
+
+        # Model 5 (reforma)
+        is_post ~ "Post-reform level shift",
+        is_post_time ~ "Post-reform slope change",
+        is_post_group_new ~ "Post-reform × replacement (level)",
+        is_post_time_group_new ~ "Post-reform × replacement (slope)",
+
+        # modelos 1–4 (reemplazo/tiempo)
+        is_gxt_new ~ "Replacement × Legislative period (a)",
+        is_group_new ~ "Elite replacement (a)",
+        is_time  ~ "Legislative period trend",
+        is_group ~ "Elite replacement (b)",
+        is_gxt   ~ "Replacement × Legislative period (b)",
+
+        # Period FE (normalizados)
+        !is.na(fe_k) ~ paste0("Period FE: ", fe_k),
+
+        TRUE ~ NA_character_
+      )
+    ) %>%
+    filter(!is.na(term_label)) %>%
+    mutate(cell = sprintf("%.3f%s (%.3f)", estimate, stars(p.value), std.error))
+}
+
+normalize_model_names <- function(df) {
+  df %>%
+    mutate(
+      model_raw = str_squish(as.character(model)),
+      model = case_when(
+        # Model 6 (Δ since entry; tau)
+        str_detect(model_raw, "^Modelo\\s*6$") | str_detect(model_raw, "^Model\\s*6$") |
+          str_detect(model_raw, "since\\s*entry") | str_detect(model_raw, "tau") | str_detect(model_raw, "Δ") ~
+          "Model 6 (Δ since entry)",
+
+        # Model 5 (reform interrupted trend)
+        str_detect(model_raw, "^Modelo\\s*5$") | str_detect(model_raw, "^Model\\s*5$") |
+          str_detect(model_raw, "Reform") | str_detect(model_raw, "interrupted") ~
+          "Model 5 (Reform interrupted trend + Cluster Id)",
+
+        # Model 1–4
+        str_detect(model_raw, "^Modelo\\s*1$") | str_detect(model_raw, "^Model\\s*1$") ~ "Model 1",
+        str_detect(model_raw, "^Modelo\\s*2$") | str_detect(model_raw, "^Model\\s*2$") ~ "Model 2",
+
+        str_detect(model_raw, "FE") | str_detect(model_raw, "per[ií]odo") |
+          str_detect(model_raw, "^Modelo\\s*3") | str_detect(model_raw, "^Model\\s*3") ~ "Model 3 (Period FE)",
+
+        str_detect(model_raw, "Cluster") | str_detect(model_raw, "Clus") |
+          str_detect(model_raw, "^Modelo\\s*4") | str_detect(model_raw, "^Model\\s*4") ~ "Model 4 (Cluster Id)",
+
+        TRUE ~ model_raw
+      )
+    ) %>%
+    select(-model_raw)
+}
+
+# ----------------------------
+# 1) FULL SAMPLE
+# ----------------------------
+
+full_coef_file <- file.path(aqui, "pape/polarizacion/data/base_completa/polarizacion/polarizacion_dynamic_abs_coeficientes.csv")
+full_fit_file  <- file.path(aqui, "pape/polarizacion/data/base_completa/polarizacion/polarizacion_dynamic_ajustes_abs_ajuste.csv")
+
+coefs_full <- read_coef(full_coef_file, "Full sample (integrated)")
+fit_full   <- read_fit(full_fit_file,  "Full sample (integrated)")
+
+# ----------------------------
+# 2) SUBSAMPLES (búsqueda exacta por nombre)
+# ----------------------------
+
+roots <- c(
+  file.path(aqui, "pape/polarizacion/data/subsamples_bill_origin/"),
+  file.path(aqui, "pape/polarizacion/data/subsamples_vote_step/"),
+  file.path(aqui, "pape/polarizacion/data/submuestras_balanceadas/")
+)
+
+COEF_NAME <- "polarizacion_dynamic_abs_normalized_coeficientes.csv"
+FIT_NAME  <- "polarizacion_dynamic_ajustes_abs_normalized_ajuste.csv"
+
+as_chr0 <- function(x) {
+  if (is.null(x)) return(character(0))
+  as.character(x)
+}
+
+coef_files <- roots %>%
+  keep(dir.exists) %>%
+  map(~ list.files(.x, pattern = paste0("^", COEF_NAME, "$"),
+                   recursive = TRUE, full.names = TRUE)) %>%
+  unlist(use.names = FALSE) %>%
+  as_chr0()
+
+fit_files <- roots %>%
+  keep(dir.exists) %>%
+  map(~ list.files(.x, pattern = paste0("^", FIT_NAME, "$"),
+                   recursive = TRUE, full.names = TRUE)) %>%
+  unlist(use.names = FALSE) %>%
+  as_chr0()
+
+if (length(coef_files) == 0) {
+  stop("No se encontraron archivos de coeficientes '", COEF_NAME,
+       "' en ninguno de los roots existentes:\n- ",
+       paste(roots[dir.exists(roots)], collapse = "\n- "))
+}
+if (length(fit_files) == 0) {
+  stop("No se encontraron archivos de ajuste '", FIT_NAME,
+       "' en ninguno de los roots existentes:\n- ",
+       paste(roots[dir.exists(roots)], collapse = "\n- "))
+}
+
+coefs_sub <- tibble(path = coef_files) %>%
+  mutate(sample = map_chr(path, label_from_path)) %>%
+  mutate(data   = map2(path, sample, read_coef)) %>%
+  pull(data) %>%
+  bind_rows()
+
+fit_sub <- tibble(path = fit_files) %>%
+  mutate(sample = map_chr(path, label_from_path)) %>%
+  mutate(data   = map2(path, sample, read_fit)) %>%
+  pull(data) %>%
+  bind_rows()
+
+# ----------------------------
+# 3) Construcción de tablas
+# ----------------------------
+
+coefs_all <- bind_rows(coefs_full, coefs_sub) %>%
+  keep_terms_explicit() %>%
+  normalize_model_names()
+
+# --- Period FE labels: NORMALIZADOS (sin Periodo_1) ---
+period_fe_labels <- c(
+  "Period FE: -2" = "Period FE: 2006-10",
+  "Period FE: -1" = "Period FE: 2010-14",
+  "Period FE: 0"  = "Period FE: 2014-18",
+  "Period FE: 1"  = "Period FE: 2018-22",
+  "Period FE: 2"  = "Period FE: 2022-26"
+)
+
+coefs_all <- coefs_all %>%
+  mutate(term_label = dplyr::recode(as.character(term_label), !!!period_fe_labels))
+
+# Mantener Period FE sólo para Full sample
+coefs_all <- coefs_all %>%
+  filter(!(str_detect(term_label, "^Period FE:") & sample != "Full sample (integrated)"))
+
+# Orden de modelos
+model_order <- c(
+  "Model 1",
+  "Model 2",
+  "Model 3 (Period FE)",
+  "Model 4 (Cluster Id)",
+  "Model 5 (Reform interrupted trend + Cluster Id)",
+  "Model 6 (Δ since entry)"
+)
+coefs_all <- coefs_all %>%
+  mutate(model = factor(model, levels = model_order))
+
+# Orden de términos (SIN "Period FE: 2002-06")
+term_order <- c(
+  "Elite replacement (a)",
+  "Elite replacement (b)",
+  "Legislative period trend",
+  "Replacement × Legislative period (a)",
+  "Replacement × Legislative period (b)",
+
+  "Post-reform level shift",
+  "Post-reform slope change",
+  "Post-reform × replacement (level)",
+  "Post-reform × replacement (slope)",
+
+  "Within-legislator trend (change since entry)",
+
+  "Period FE: 2006-10",
+  "Period FE: 2010-14",
+  "Period FE: 2014-18",
+  "Period FE: 2018-22",
+  "Period FE: 2022-26"
+)
+
+coefs_all <- coefs_all %>%
+  mutate(term_label = factor(term_label, levels = term_order)) %>%
+  filter(!is.na(term_label))
+
+# Orden de muestras
+sample_order <- c(
+  "Full sample (integrated)",
+  "Balanced subsample (mean 100 runs)",
+  "Bill origin: Mensaje",
+  "Bill origin: Moción",
+  "Vote step: Primer trámite",
+  "Vote step: Segundo trámite",
+  "Vote step: Tercer trámite",
+  "Vote step: Comisión mixta"
+)
+
+coefs_all <- coefs_all %>%
+  mutate(sample = factor(sample, levels = sample_order)) %>%
+  arrange(sample, term_label, model)
+
+# chequeo duplicados
+dup_check <- coefs_all %>%
+  count(sample, term_label, model) %>%
+  filter(n > 1)
+
+if (nrow(dup_check) > 0) {
+  message("⚠️ Duplicados sample×term_label×model: ", nrow(dup_check))
+  print(head(dup_check, 20))
+  # si quieres forzar colapso en vez de parar, descomenta:
+  # coefs_all <- coefs_all %>%
+  #   group_by(sample, term_label, model) %>%
+  #   summarise(cell = dplyr::first(cell), .groups = "drop")
+}
+
+# ---- Tabla ancha ----
+tab_key <- coefs_all %>%
+  select(sample, term_label, model, cell) %>%
+  distinct() %>%
+  pivot_wider(
+    names_from = model,
+    values_from = cell,
+    values_fill = list(cell = "")
+  ) %>%
+  mutate(
+    sample = as.character(sample),
+    term_label = as.character(term_label)
+  )
+
+# asegurar columnas de modelos aunque no existan en algunos samples
+missing_cols <- setdiff(model_order, names(tab_key))
+if (length(missing_cols) > 0) {
+  for (cc in missing_cols) tab_key[[cc]] <- ""
+}
+tab_key <- tab_key %>%
+  select(sample, term_label, all_of(model_order))
+
+# Ajuste (fit)
+fit_all <- bind_rows(fit_full, fit_sub) %>%
+  normalize_model_names() %>%
+  mutate(
+    model = factor(model, levels = model_order),
+    sample = factor(sample, levels = sample_order)
+  ) %>%
+  arrange(sample, model)
+
+# ----------------------------
+# 3.9) Versión para imprimir (tab_key_print)
+# ----------------------------
+
+tab_key_print <- tab_key %>%
+    mutate(
+        sample = stringr::str_squish(sample),
+        term_label = stringr::str_squish(term_label)
+    )
+
+# ----------------------------
+# 4) Exportar
+# ----------------------------
+
+out_dir <- file.path(aqui, "pape/polarizacion/output")
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+
+write_csv(tab_key, file.path(out_dir, "tabla_abs_ideology_coef_key_full_and_subsamples.csv"))
+write_csv(fit_all, file.path(out_dir, "tabla_abs_ideology_fit_full_and_subsamples.csv"))
+
+message("Found coef files: ", length(coef_files))
+message("Found fit  files: ", length(fit_files))
+
+# ----------------------------
+# 4.5) Separadores por bloque de muestra (líneas horizontales)
+# ----------------------------
+
+# --- límites de bloque por sample: robusto y ordenado según sample_order ---
+tab_key_print <- tab_key_print %>%
+  dplyr::mutate(sample = stringr::str_squish(sample))
+
+sample_end_rows <- tab_key_print %>%
+  dplyr::mutate(.row = dplyr::row_number()) %>%
+  dplyr::group_by(sample) %>%
+  dplyr::summarise(.end = max(.row), .groups = "drop") %>%
+  dplyr::mutate(sample = factor(sample, levels = sample_order)) %>%
+  dplyr::arrange(sample) %>%
+  dplyr::pull(.end)
+
+if (length(sample_end_rows) > 0) sample_end_rows <- sample_end_rows[-length(sample_end_rows)]
+
+# ----------------------------
+# 5) Imprimir en PDF (longtable + wrap + tighter columns)
+# ----------------------------
+
+# tab_key_print ya existe desde 3.9/4.5 (NO lo recrees acá)
+tab_key_print <- tab_key_print %>%
+  dplyr::rename(
+    `M1` = `Model 1`,
+    `M2` = `Model 2`,
+    `M3 (FE)` = `Model 3 (Period FE)`,
+    `M4 (Clust)` = `Model 4 (Cluster Id)`,
+    `M5 (Reform)` = `Model 5 (Reform interrupted trend + Cluster Id)`,
+    `M6 (Δ entry)` = `Model 6 (Δ since entry)`
+  )
+
+stopifnot(exists("sample_end_rows"))
+
+tbl_out <- knitr::kable(
+  tab_key_print,
+  format = "latex",
+  booktabs = TRUE,
+  longtable = TRUE,
+  caption = "Key coefficients (DV: abs ideology): full sample and subsamples",
+  align = "l"
+) %>%
+  kableExtra::kable_styling(
+    latex_options = c("repeat_header"),
+    font_size = 6,
+    position = "center"
+  ) %>%
+  kableExtra::column_spec(1, width = "4.0cm") %>%
+  kableExtra::column_spec(2, width = "4.4cm") %>%
+  kableExtra::column_spec(3:8, width = "1.85cm") %>%
+  kableExtra::footnote(
+    alphabet = c(
+      "Elite replacement/Replacement × Legislative period (a) = group_tNuevo_en_t",
+      "Elite replacement/Replacement × Legislative period (b) = group_t"
+    ),
+    general = "Legislative period = period_num",
+    general_title = "",
+    threeparttable = FALSE,
+    footnote_as_chunk = TRUE,
+    escape = TRUE,
+    symbol = ""   # <- clave: intenta evitar el marcador suelto en tu versión
+  ) %>%
+  kableExtra::landscape()
+
+# Separadores ENTRE bloques
+for (r in sample_end_rows) {
+  tbl_out <- tbl_out %>%
+    kableExtra::row_spec(r, extra_latex_after = "\\addlinespace[2pt]\\midrule")
+}
+
+# Si AÚN apareciera un símbolo suelto, fuerza el "general note" al final
+# sin footnote (plan B): descomenta esto y comenta el general=... arriba.
+# last_row <- nrow(tab_key_print)
+# tbl_out <- tbl_out %>%
+#   kableExtra::row_spec(last_row, extra_latex_after =
+#     paste0("\\addlinespace[2pt]\\midrule\n",
+#            "\\multicolumn{", ncol(tab_key_print), "}{l}{Legislative period = period\\_num}\\\\")
+#   )
+
+cat("\\begingroup\n")
+cat("\\setlength{\\tabcolsep}{2pt}\n")
+cat("\\renewcommand{\\arraystretch}{1.05}\n\n")
+
+tbl_out
+
+cat("\n\\endgroup\n")
+```
+
+In sum, the evidence shows that ideological polarization in the Chilean Chamber of Deputies increased steadily between 2002 and 2026. This increase is visible in aggregate dispersion, in the growing weight of ideological extremes, and in systematic changes within individual legislative careers. While newly elected legislators tend to exhibit higher average levels of ideological extremity, the persistence of a strong temporal trend across multiple econometric specifications indicates that the process is best characterized as systemic rather than purely compositional. The rise in polarization thus reflects a dynamic affecting the legislature as an institution over time, with implications that extend beyond cohort replacement alone.
+
+# Discussion
+
+The findings of this study contribute to broader debates on the sources and dynamics of ideological polarization in contemporary democracies. The central empirical result is that ideological polarization in the Chilean Chamber of Deputies has been increasing at least since 2002, and that this increase is most consistent with systemic, within-institution dynamics rather than being fully accounted for by cohort replacement or elite turnover. Although newly elected legislators tend to display higher average levels of ideological extremity, a substantial portion of the observed rise unfolds within individual legislative trajectories. This pattern suggests that polarization reflects not only who enters the legislature, but also how political actors adapt their behavior once inside it.
+
+This result has direct implications for how elite polarization is commonly interpreted. A frequent explanation - both in academic accounts and public discourse - attributes polarization to generational change or to the entry of new political actors presumed to be more ideologically extreme or less constrained by norms of compromise. The evidence presented here is partly consistent with that view insofar as replacement is associated with higher baseline extremity among entrants. Yet replacement does not appear to operate as a cumulative mechanism that can explain the sustained temporal increase on its own: the time trend remains strong after accounting for new entrants, and the dynamics are not characterized by a systematic strengthening of replacement effects over time. The implication is that turnover may contribute to levels of extremity, while longer-run divergence reflects institutional incentives and strategic environments that shape behavior across cohorts.
+
+A cautious implication is that, if polarization is partly endogenous to the incentive environment inside the legislature, policy responses cannot be framed exclusively in terms of candidate selection or electoral replacement. Institutional and procedural features that structure strategic interaction - such as agenda control, coordination mechanisms, and rule-based incentives - may shape the trajectory of divergence over time.
+
+Interpreted in this way, the findings align with a growing literature that conceptualizes polarization as an endogenous feature of political institutions, rather than as a direct reflection of societal preferences or electoral mandates. Research on legislatures and courts shows that repeated decision-making under stable procedural rules, combined with strategic interaction and incentive structures, can generate cumulative ideological divergence even when turnover is limited (Martin and Quinn 2002; Clark 2008). From this perspective, polarization may be understood not as an episodic disruption, but as an equilibrium outcome of political competition under particular institutional and informational conditions.
+
+An important extension of this interpretation concerns the potential heterogeneity of within-legislator adaptation across parties or coalitions. Disaggregating polarization dynamics by partisan affiliation could reveal whether institutional incentives operate uniformly across the legislature or are mediated by organizational structures such as party discipline, coalition coordination, and internal sanctioning mechanisms. Addressing this question, however, would require shifting the unit of analysis from individual legislators to collective actors, and engaging directly with theories of party organization and intra-coalitional governance. While highly relevant, such an extension lies beyond the scope of the present study and constitutes a natural direction for future research.
+
+A related limitation concerns issue composition. While the analysis shows that polarization trends are stable across bill origin and legislative stage - suggesting procedural continuity - it does not condition explicitly on policy content. Shifts in the thematic agenda could, in principle, affect recovered ideal points even under unchanged rules of procedure. Addressing this concern would require issue-constant designs or text-based classification strategies, such as restricting analysis to stable policy domains or incorporating topic models to track content over time (e.g., Moskowitz, Rogowski, and Snyder 2024). Implementing such approaches would substantially extend the scope of the present study, opening a distinct methodological agenda at the intersection of legislative behavior and computational text analysis. We therefore leave this as an important avenue for future research, particularly in contexts like Chile where major political shocks may alter issue salience without immediately transforming institutional rules.
+
+The Chilean case is analytically informative because it combines rising elite polarization with sustained electoral dealignment and declining partisan identification at the mass level. Prior work characterizes this configuration as one in which ideological conflict intensifies within political elites without producing stable ideological sorting among voters. The present findings are consistent with that diagnosis. They provide behavioral evidence that the rise in elite polarization cannot be reduced to changing electoral demands alone, and that institutional dynamics within representative bodies play a central role in sustaining divergence over time.
+
+More broadly, these results speak to debates about democratic representation under conditions of weakened institutional mediation. When parties lose their capacity to aggregate interests, coordinate expectations, and structure political competition, legislators may face incentives to signal ideological distinctiveness rather than to converge toward shared policy compromises. Over time, such incentives can generate increasingly polarized patterns of legislative behavior across cohorts (including among actors who initially entered politics under more moderate conditions) while also allowing turnover to raise the baseline level of extremity through the entry of more ideologically distinctive newcomers.
+
+This interpretation also bears on theories of democratic deliberation. Normative models of deliberative democracy typically assume that institutional settings facilitate preference aggregation through reason-giving, compromise, and mutual adjustment. The evidence here suggests a more conditional view: deliberative failure may arise not because actors are intrinsically unwilling to deliberate, but because the strategic environment systematically rewards ideological differentiation and penalizes convergence. Under such conditions, polarization becomes a predictable outcome of institutionalized competition rather than a simple breakdown of democratic norms.
+
+Importantly, the observed pattern does not correspond to polarization driven by a single ideological pole or by episodic political shocks. The increase is gradual, robust across alternative measures of extremity, and observable both at the aggregate level and within individual careers. This combination of features distinguishes systemic polarization from short-term conflict and suggests that, once embedded in institutional routines, polarization may be difficult to reverse through electoral turnover alone.
+
+From a comparative perspective, the findings underscore the value of longitudinal behavioral data for studying polarization beyond highly institutionalized two-party systems. Much of the existing literature relies on cross-sectional comparisons or focuses on the United States. By contrast, this study shows that sustained elite polarization can emerge in multiparty systems characterized by weaker partisan anchoring and higher electoral volatility, expanding the empirical scope of polarization research and highlighting the role of institutional dynamics across diverse democratic settings. In the Latin American context, the Chilean case highlights that elite polarization can accumulate gradually within a multiparty legislature even under dealignment and weak mass sorting. This suggests a potential mechanism through which governance difficulties may intensify over time, but assessing how general this pattern is across countries requires additional comparative evidence.
+
+To facilitate cumulative research, we will make available a replication package including the roll-call processing pipeline, model code, and the datasets used to generate the main figures and tables.
+
+Finally, the evidence suggests that ideological polarization is best understood not as a transient feature of particular political generations, but as a dynamic property of representative institutions operating under changing conditions of representation, coordination, and competition - while recognizing that elite replacement can raise the baseline level of ideological extremity among entrants. Future research could build on this approach by comparing institutional trajectories across countries, examining interactions between elite behavior and mass attitudes, assessing how specific institutional reforms alter long-term dynamics, and testing whether similar within-institution trajectories appear in other chambers (e.g., the Senate) or in comparable cases.
+
+# Appendix
+
+### A. Measures of ideological polarization
+
+Let $x_{i,t} \in \mathbb{R}$ denote the estimated ideological position (ideal point) of legislator $i = 1,\dots,N_t$ in legislative period $t = 1,\dots,T$, with $T = 6$.
+
+We implement two empirical representation of polarization:
+
+Absolute polarization (*abs*) is the individual ideological distance to the overall center: $Pol^{abs}_i = |x_i|$. This center is computed, as described in the main text, througout a dinamyc estimation of ideology based on @LoImaiOlmsted2022 , such that the origin ($0$) corresponds to a common reference point across periods. This measure captures both within-period dispersion and aggregate ideological shifts of the legislature over time.
+
+Also, to assign greater weight to ideological extremes, we also employ a quadratic measure of polarization: $Pol^{sq}_t = \frac{1}{N_t} \sum_{i=1}^{N_t} x_{i,t}^2$ as an alternative measure of polarization.
+
+### B. Asymmetry and ideological composition
+
+As a descriptive complement, we report net ideological asymmetry as the period mean: $Asym_t = \bar{x}_t$. We also report the proportion of legislators located on each side of the ideological axis: $share^R_t = \frac{1}{N_t}\sum_{i=1}^{N_t} \mathbf{1}[x_{i,t} > 0]$ and $share^L_t = \frac{1}{N_t}\sum_{i=1}^{N_t} \mathbf{1}[x_{i,t} < 0]$., and the skewness of the distribution. Skewness captures tail asymmetry (i.e., whether the distribution has a longer tail on one side), whereas left/right shares simply describe how many legislators fall on each side of the zero threshold. Table 3 shows that the chamber’s center (mean/median) and the left/right shares shift across periods (sometimes producing clear majorities on one side) yet skewness remains close to zero throughout, indicating limited tail asymmetry even when the left/right split is uneven.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+# ============================================================
+# Appendix: Ideological asymmetry diagnostics (compact table)
+# ============================================================
+
+suppressPackageStartupMessages({
+  library(readr)
+  library(dplyr)
+  library(stringr)
+  library(knitr)
+  library(here)
+  library(kableExtra)
+})
+
+aqui <- here()
+
+# 1) Read data
+asim_path <- file.path(aqui, "pape/polarizacion/output", "polarizacion_dynamic_asimetria.csv")
+
+period_labels <- c(
+  "Periodo_1" = "2002-06",
+  "Periodo_2" = "2006-10",
+  "Periodo_3" = "2010-14",
+  "Periodo_4" = "2014-18",
+  "Periodo_5" = "2018-22",
+  "Periodo_6" = "2022-26"
+)
+
+asim <- read_csv(asim_path, show_col_types = FALSE) %>%
+  # Keep only what we need (and enforce expected types)
+  transmute(
+    period_num     = as.integer(period_num),
+    period         = as.character(period),
+    mean_ideology  = as.numeric(mean_ideology),
+    median_ideology= as.numeric(median_ideology),
+    share_left     = as.numeric(share_left),
+    share_right    = as.numeric(share_right),
+    skewness       = as.numeric(skewness)
+  )
+
+  asim <- asim %>%
+  mutate(
+    period = dplyr::recode(period, !!!period_labels)
+  ) %>%
+  arrange(period_num)
+
+# 2) Format for a clean appendix table
+#    - ideology stats: 3 decimals
+#    - shares: 2 decimals (as proportions) OR 1 decimal as %
+#    - skewness: 3 decimals
+asim_tab <- asim %>%
+  mutate(
+    mean_ideology   = round(mean_ideology, 3),
+    median_ideology = round(median_ideology, 3),
+    share_left      = round(share_left, 2),
+    share_right     = round(share_right, 2),
+    skewness        = round(skewness, 3)
+  ) %>%
+  select(
+    `Period` = period,
+    `Mean ideology` = mean_ideology,
+    `Median ideology` = median_ideology,
+    `Share left` = share_left,
+    `Share right` = share_right,
+    `Skewness` = skewness
+  )
+
+asim_tab <- asim %>%
+  mutate(
+    mean_ideology   = round(mean_ideology, 3),
+    median_ideology = round(median_ideology, 3),
+    share_left      = sprintf("%.1f", 100 * share_left),
+    share_right     = sprintf("%.1f", 100 * share_right),
+    skewness        = round(skewness, 3)
+  ) %>%
+  transmute(
+    `Period` = period,
+    `Mean ideology` = mean_ideology,
+    `Median ideology` = median_ideology,
+    `Share left (%)` = share_left,
+    `Share right (%)` = share_right,
+    `Skewness` = skewness
+  )
+
+kbl_out <- kable(
+  asim_tab,
+  format  = "latex",      # asegura control de alineación en PDF
+  booktabs = TRUE,
+  caption = "Ideology center and distributional asymmetry by legislative period.",
+  align   = c("l", "r", "r", "c", "c", "r")  # centra Share left/right
+) %>%
+  kable_styling(latex_options = c("hold_position"))
+
+kbl_out
+
+```
+
+### C. Regressions
+
+To evaluate whether increases in polarization are driven primarily by Elite replacement (new legislators in period t) or by within-legislator changes over time (legislative period trend), we estimate individual-period regression models in which the dependent variable captures polarization.
+
+Let $y_{it}$ denote legislator $i$'s ideological polarization in period $t$ ($abs$ or $sq$). Let $\text{New}_{it}$be an indicator equal to 1 if legislator $i$ is a new entrant in period $t$ (did not hold a seat in $t-1$), and $0$ otherwise. Let $t$ be a linear period index (in the empirical implementation denoted as *period_num*). Let $X_{it}$ collect the covariates: *party*, *sex*, $age_{it}$ , *quant_parties* (number of parties in which a given legislator has been), and *gov_right,* a dummy to identify periods under the rule of a right-wing government. Then:
+
+Model 1 (trend + replacement + interaction):
+
+$y_{it} = \alpha + \beta_1\text{New}_{it} + \beta_2t + \beta_3\left(\text{New}_{it}\times t\right) + \varepsilon_{it}$
+
+Model 2 (trend + replacement + controls):\
+$y_{it} = \alpha + \beta_1\text{New}_{it} + \beta_2t + \gamma^\top X_{it}  + \varepsilon_{it}$
+
+Model 3 (period fixed effects; no imposed linear trend):
+
+$y_{it} = \alpha + \beta_1 \text{New}_{it} + \gamma^\top X_{it} + \sum_{k=2}^{T} \delta_k \, \mathbb{1}\{t=k\} + \varepsilon_{it}$
+
+where $\mathbb{1}(t=k)$ is an indicator for period (k), with period (1) as the omitted reference category.
+
+Model 4 (same specification as Model 2 plus individual clustered standard errors): $y_{it} = \alpha + \beta_1\text{New}_{it} + \beta_2t + \gamma^\top X_{it} + \varepsilon_{it}$,
+
+estimated by OLS as in Model 2, but with heteroskedasticity-robust standard errors clustered by legislator $i$ (HC1), allowing arbitrary correlation of $\varepsilon_{it}$ within legislators over time.
+
+Model 5 (post-reform interruption with heterogeneity by entry status): $y_{it} = \alpha + \beta_1 \text{New}_{it} + \beta_2 t + \beta_3 (\text{New}_{it}\times t) + \theta_1 \text{Post}_t + \theta_2 (\text{Post}_t \times t) + \theta_3 (\text{Post}_t \times \text{New}_{it}) + \theta_4 (\text{Post}_t \times \text{New}_{it} \times t) + \gamma^\top X_{it} + \varepsilon_{it}.$, this model extends the baseline trend specification by allowing for a post-reform level shift and a change in the adaptation slope, both of which are permitted to differ between newcomers and incumbents, net of controls.
+
+Model 6 (within-legislator change since entry):
+
+Let $x_{i,t}$ denote the ideology of legislator (i) in legislative period $t$, and let $b_i$ denote legislator $i$’s entry period (the first period in which (i) is observed). Define the baseline ideology as $x_{i,b_i}$ and the baseline-relative change as: $\Delta x_{i,t} \equiv x_{i,t} - x_{i,b_i}$. Model 6 estimates the average within-legislator evolution over time using period effects $\tau$ (with no intercept), then: $\Delta x_{i,t} = \sum_{t} \tau_t \mathbf{1}_[t] +...+ \varepsilon_{i,t}$.
+
+In the main table, we label the estimated $\tau_t$ profile as the “within-legislator trend” and report a compact summary of that profile for readability.
+
+# References
