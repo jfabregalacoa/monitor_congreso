@@ -28,6 +28,29 @@ set.seed(123) # Please do not change - for replication
 
 aqui <- here()
 
+# Optional environment variables allow an additional version to be estimated
+# without overwriting the historical inputs or output. Defaults preserve the
+# original workflow exactly.
+roll_call_dir <- Sys.getenv(
+  "ROLL_CALL_DIR",
+  unset = file.path(aqui, "data")
+)
+roll_call_2022_26_file <- Sys.getenv(
+  "ROLL_CALL_2022_26_FILE",
+  unset = "matriz__periodo_2022_26.csv"
+)
+identification_output <- Sys.getenv(
+  "IDENTIFICATION_OUTPUT",
+  unset = file.path(aqui, "data", "Identificacion_parlamentarios.csv")
+)
+ideology_output <- Sys.getenv(
+  "IDEOLOGY_OUTPUT",
+  unset = file.path(
+    aqui, "pape", "polarizacion", "data",
+    "ideologia_diputados_largo_emIRT_con_anclas.csv"
+  )
+)
+
 # Roll calls per period
 archivos_periodo <- c(
   "matriz__periodo_2002_06.csv",
@@ -35,9 +58,13 @@ archivos_periodo <- c(
   "matriz__periodo_2010_14.csv",
   "matriz__periodo_2014_18.csv",
   "matriz__periodo_2018_22.csv",
-  "matriz__periodo_2022_26.csv"
+  roll_call_2022_26_file
 )
-archivos <- file.path(aqui, "data", archivos_periodo) # Change this for your own path
+archivos <- file.path(roll_call_dir, archivos_periodo)
+
+if (any(!file.exists(archivos))) {
+  stop("Missing roll-call input(s): ", paste(archivos[!file.exists(archivos)], collapse = ", "))
+}
 
 # Auxiliary ID table (same as original script)
 id_data <- lapply(
@@ -50,7 +77,8 @@ id_full <- rbindlist(id_data) %>%
   select(DiputadoId, NombreId) %>%
   distinct()
 
-fwrite(id_full, file = file.path(aqui, "data", "Identificacion_parlamentarios.csv"))
+dir.create(dirname(identification_output), recursive = TRUE, showWarnings = FALSE)
+fwrite(id_full, file = identification_output)
 
 # ------------------------------------------------------------------------------
 # Dynamic estimate with anchors
@@ -212,7 +240,7 @@ colnames(x_high) <- periodos_nombres
 
 library(tidyr)
 
-id_full <- fread(file.path(aqui, "data", "Identificacion_parlamentarios.csv"))
+id_full <- fread(identification_output)
 
 stopifnot(length(todos_diputados) == nrow(x_mean))
 
@@ -286,7 +314,6 @@ df_ideologia_largo$IC_high[df_ideologia_largo$DiputadoId == 209][5] <-
 
 df_ideologia_largo <- df_ideologia_largo[df_ideologia_largo$DiputadoId != 1064, ]
 
-write.csv(
-  df_ideologia_largo,
-  paste0(aqui, "/pape/polarizacion/data/ideologia_diputados_largo_emIRT_con_anclas.csv")
-)
+dir.create(dirname(ideology_output), recursive = TRUE, showWarnings = FALSE)
+write.csv(df_ideologia_largo, ideology_output)
+cat("Wrote ideology estimates:", ideology_output, "\n")
