@@ -65,4 +65,4 @@ Chile
 ---
 
 **License**: CC BY-NC-SA 4.0  
-**Last updated**: July 2025
+**Last updated**: July 2025 for party memberships, March 2026 for votes. 
