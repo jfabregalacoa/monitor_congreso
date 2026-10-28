@@ -48,3 +48,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# R y documentos de trabajo (desde master)
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+pape/
