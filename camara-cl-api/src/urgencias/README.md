@@ -26,6 +26,7 @@ Requisitos: R con `data.table` y `jsonlite`; Python 3 (solo biblioteca estándar
 
 - `02_descargar.py` hace unas 11.000 peticiones (Cámara unas 7.600, Senado unas 3.300). Con 6 conexiones por servidor tarda unos 12 minutos. Si los errores superan el 2 %, primero sube la pausa (de 0,05 a 0,8 s) y solo después baja las conexiones (6, 4, 2, 1).
 - Es reanudable: lo que ya está en `camara-cl-api/cache/urgencias/` no se vuelve a pedir. Esa carpeta está en `.gitignore`.
+- No se versionan la caché ni las carpetas `outputs/urgencias/intermedios/` y `controles/`: para regenerarlas hay que correr el flujo completo desde el paso 1. Cada carpeta tiene un README con lo que contiene; la última versión versionada está en el commit `e835c8f`.
 - Servicios: `opendata.camara.cl` (WSLegislativo y WSDiputado) y `tramitacion.senado.cl/wspublico/tramitacion.php`. No se usa `www.camara.cl`, que responde 403 (Cloudflare).
 
 ## Insumos editados a mano
@@ -39,4 +40,3 @@ Además, dos correcciones puntuales están escritas en el código, con su fuente
 
 - `06_horizonte_ley21238.R`: salida de Ramón Pérez Opazo (falleció el 12-06-2005), porque la Cámara no registra salidas en 2002-06.
 - `07_panel_votos.R`: equivalencia de Id de Pablo Prieto Lorca (1064 en la matriz, 209 en la ideología).
-

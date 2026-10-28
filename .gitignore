@@ -58,5 +58,7 @@ pape/
 
 # Urgencias (camara-cl-api/src/urgencias): cachés de descarga y salidas locales que no se versionan
 camara-cl-api/cache/
-camara-cl-api/outputs/urgencias/intermedios/descargas_resumen.csv
-camara-cl-api/outputs/urgencias/intermedios/fetch_failures.txt
+camara-cl-api/outputs/urgencias/intermedios/*
+!camara-cl-api/outputs/urgencias/intermedios/README.md
+camara-cl-api/outputs/urgencias/controles/*
+!camara-cl-api/outputs/urgencias/controles/README.md
