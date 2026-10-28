@@ -1,0 +1,59 @@
+periodo,gobierno,partido_alias,partido_nombre,diputados,en_tabla
+2014_18,Bachelet II,PS,Partido Socialista,16,TRUE
+2014_18,Bachelet II,UDI,Unión Demócrata Independiente,29,TRUE
+2014_18,Bachelet II,PC,Partido Comunista,6,TRUE
+2014_18,Bachelet II,PPD,Partido Por la Democracia,16,TRUE
+2014_18,Bachelet II,IC,Izquierda Ciudadana,1,TRUE
+2014_18,Bachelet II,RN,Renovación Nacional,15,TRUE
+2014_18,Bachelet II,PR,Partido Radical de Chile,6,TRUE
+2014_18,Bachelet II,AMPL,Amplitud,2,TRUE
+2014_18,Bachelet II,IND,Independientes,12,TRUE
+2014_18,Bachelet II,DC,Partido Demócrata Cristiano,20,TRUE
+2014_18,Bachelet II,RD,Revolución Democrática,1,TRUE
+2014_18,Bachelet II,EVOP,Evolución Política,1,TRUE
+2014_18,Bachelet II,PL,Partido Liberal de Chile,1,TRUE
+2018_22,Piñera II,PS,Partido Socialista,19,TRUE
+2018_22,Piñera II,UDI,Unión Demócrata Independiente,33,TRUE
+2018_22,Piñera II,PC,Partido Comunista,10,TRUE
+2018_22,Piñera II,PH,Partido Humanista,3,TRUE
+2018_22,Piñera II,IND,Independientes,28,TRUE
+2018_22,Piñera II,EVOP,Evolución Política,6,TRUE
+2018_22,Piñera II,LIBERAL,Partido Liberal de Chile,2,TRUE
+2018_22,Piñera II,RD,Revolución Democrática,11,TRUE
+2018_22,Piñera II,DC,Partido Demócrata Cristiano,14,TRUE
+2018_22,Piñera II,RN,Renovación Nacional,36,TRUE
+2018_22,Piñera II,PPD,Partido Por la Democracia,8,TRUE
+2018_22,Piñera II,PEV,Partido Ecologista Verde,1,TRUE
+2018_22,Piñera II,PCS,Partido Convergencia Social,4,TRUE
+2018_22,Piñera II,PR,Partido Radical de Chile,6,TRUE
+2018_22,Piñera II,COMUNES,Partido Comunes,2,TRUE
+2018_22,Piñera II,IGUAL,Partido Igualdad,1,TRUE
+2018_22,Piñera II,PRO,Partido Progresista,1,TRUE
+2018_22,Piñera II,PREP,Partido Republicano,2,TRUE
+2018_22,Piñera II,FRVS,Federación Regionalista Verde Social,3,TRUE
+2022_26,Boric,PS,Partido Socialista,14,TRUE
+2022_26,Boric,UDI,Unión Demócrata Independiente,21,TRUE
+2022_26,Boric,IND,Independientes,61,TRUE
+2022_26,Boric,PREP,Partido Republicano,13,TRUE
+2022_26,Boric,PC,Partido Comunista,12,TRUE
+2022_26,Boric,LIBERAL,Partido Liberal de Chile,3,TRUE
+2022_26,Boric,RD,Revolución Democrática,6,TRUE
+2022_26,Boric,FA,Frente Amplio,20,TRUE
+2022_26,Boric,DC,Partido Demócrata Cristiano,7,TRUE
+2022_26,Boric,RN,Renovación Nacional,21,TRUE
+2022_26,Boric,PEV,Partido Ecologista Verde,2,TRUE
+2022_26,Boric,PAH,Partido Acción Humanista,2,TRUE
+2022_26,Boric,PCS,Partido Convergencia Social,7,TRUE
+2022_26,Boric,PH,Partido Humanista,1,TRUE
+2022_26,Boric,PPD,Partido Por la Democracia,3,TRUE
+2022_26,Boric,PR,Partido Radical de Chile,2,TRUE
+2022_26,Boric,COMUNES,Partido Comunes,3,TRUE
+2022_26,Boric,PSC,Partido Social Cristiano,4,TRUE
+2022_26,Boric,DEM,Partido Demócratas Chile,4,TRUE
+2022_26,Boric,PNL,Partido Nacional Libertario,6,TRUE
+2022_26,Boric,EVOP,Evolución Política,2,TRUE
+2022_26,Boric,PDG,Partido de la Gente,6,TRUE
+2022_26,Boric,FRVS,Federación Regionalista Verde Social,2,TRUE
+2022_26,Boric,PCC,Partido Conservador Cristiano,1,TRUE
+2022_26,Boric,AMA,Movimiento Amarillos por Chile,1,TRUE
+2022_26,Boric,PRI,Partido Regionalista Independiente,1,TRUE
