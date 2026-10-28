@@ -1,98 +1,103 @@
 archivo,columna,tipo,descripcion,fuente
-panel_votos_2014_2026.csv.gz,vote_id,texto,"Identificador de la votación en la Cámara (encabezado numérico de las matrices)","Harvard Dataverse, Roll calls"
-panel_votos_2014_2026.csv.gz,fecha,fecha,"Día de la votación (aaaa-mm-dd)","Cámara: retornarVotacionDetalle; JSON details__periodo_*.json (rama API)"
-panel_votos_2014_2026.csv.gz,periodo,texto,"Período legislativo: 2014_18, 2018_22, 2022_26","Matriz de origen"
-panel_votos_2014_2026.csv.gz,boletin,texto,"Número de boletín del proyecto, sin sufijo","Cámara (descripción de la votación) / JSON rama API"
-panel_votos_2014_2026.csv.gz,iniciativa,texto,"Mensaje (Ejecutivo) o Moción (parlamentarios)","Senado: tramitacion.php (si falta, Cámara: retornarVotacionesXProyectoLey)"
-panel_votos_2014_2026.csv.gz,ley_presupuestos,entero 0/1,"1 si el proyecto es una Ley de Presupuestos; no se rige por urgencias (Ley 18.918, art. 26, inciso tercero)","Nombre del proyecto en Cámara y Senado"
-panel_votos_2014_2026.csv.gz,tipo_votacion,texto,"Tipo según la Cámara: General, Particular, General y Particular, Única, Admisibilidad","Cámara: retornarVotacionesXProyectoLey"
-panel_votos_2014_2026.csv.gz,tipo_votacion_3,texto,"general (General o General y Particular), particular, otro (Única, Admisibilidad)","Cálculo (paso 3)"
-panel_votos_2014_2026.csv.gz,quorum,texto,"Quórum de la votación","Cámara / JSON rama API"
-panel_votos_2014_2026.csv.gz,resultado,texto,"Aprobado o Rechazado","Cámara / JSON rama API"
-panel_votos_2014_2026.csv.gz,urg_nivel,entero 0-3,"Urgencia vigente en la Cámara el día de la votación, versión estricta: 0 sin urgencia, 1 simple, 2 suma, 3 discusión inmediata. Vigente desde el ingreso hasta el retiro, con tope en el plazo legal (30, 15 y 6 días). NA si falta fecha, boletín o proyecto en el Senado","Cálculo (paso 3) sobre el historial del Senado; Ley 18.918 art. 27"
-panel_votos_2014_2026.csv.gz,urg_nivel_laxa,entero 0-3,"Igual que urg_nivel, pero vigente hasta el retiro explícito aunque pase el plazo legal","Cálculo (paso 3)"
-panel_votos_2014_2026.csv.gz,urg_tipo,texto,"Tipo de la urgencia de mayor nivel vigente (estricta), o Sin urgencia","Cálculo (paso 3)"
-panel_votos_2014_2026.csv.gz,dias_desde_ingreso_urgencia,entero,"Días entre el ingreso de esa urgencia a la Cámara y la votación (NA si no hay urgencia)","Cálculo (paso 3)"
-panel_votos_2014_2026.csv.gz,dias_al_vencimiento,entero,"Días que faltaban para el plazo legal de esa urgencia (ingreso + 30, 15 o 6 días) el día de la votación","Cálculo (paso 3)"
-panel_votos_2014_2026.csv.gz,diputado_id,texto,"DiputadoId de la Cámara (fila de la matriz)","Harvard Dataverse, Roll calls"
-panel_votos_2014_2026.csv.gz,nombre,texto,"Nombre y apellidos","Harvard Dataverse, Roll calls"
-panel_votos_2014_2026.csv.gz,voto_original,texto,"Celda de la matriz tal cual: Afirmativo, En Contra, Abstención, Dispensado, No Vota, vacío o NA","Harvard Dataverse, Roll calls"
-panel_votos_2014_2026.csv.gz,voto,texto,"Voto homologado: Afirmativo, En contra, Abstención, Dispensado, Ausente o no vota (en funciones sin voto), No en funciones (antes de asumir o después de dejar el cargo), No en funciones (suspendido) (desafuero firme). No hay pareos en las fuentes","Cálculo (paso 7); ver REPORTE_URGENCIAS.md"
-panel_votos_2014_2026.csv.gz,voto_si,entero 0/1,"1 Afirmativo, 0 En contra, NA en los demás casos","Cálculo (paso 7)"
-panel_votos_2014_2026.csv.gz,en_funciones,entero 0/1,"1 si el diputado estaba en el cargo y no suspendido ese día","Cálculo (pasos 6 y 7): salidas de la Cámara, primer voto de los reemplazantes, suspensiones_desafuero.csv"
-panel_votos_2014_2026.csv.gz,partido,texto,"Partido (alias de la Cámara) a la fecha de la votación; IND = independiente; NA si no hay militancia registrada","Cámara: retornarDiputadosXPeriodo (militancias con fechas)"
-panel_votos_2014_2026.csv.gz,oficialista,entero 0/1,"1 si el partido integraba la coalición de gobierno a esa fecha, 0 si no; NA si no se puede codificar (independientes, FRVS desde el 20-08-2025, sin militancia)","coalicion_gobierno.csv (fuente por fila)"
-panel_votos_2014_2026.csv.gz,oficialista_dudoso,entero 0/1,"1 si la codificación es dudosa (ver nota en coalicion_gobierno.csv) o si hay dos partidos registrados a la fecha","coalicion_gobierno.csv; paso 7"
-panel_votos_2014_2026.csv.gz,coalicion,texto,"Coalición o situación del partido según coalicion_gobierno.csv","coalicion_gobierno.csv"
-panel_votos_2014_2026.csv.gz,no_puede_repostular,entero 0/1,"1 si el diputado no podía repostular a la Cámara en la elección que cierra el período por el límite de la Ley 21.238 (3 períodos consecutivos ejercidos más de la mitad)","horizonte_ley21238.csv"
-panel_votos_2014_2026.csv.gz,horizonte_corto,entero 0/1,"1 si no_puede_repostular = 1 y la votación es posterior a la publicación de la ley (08-07-2020)","horizonte_ley21238.csv"
-panel_votos_2014_2026.csv.gz,ideol_dyn,número,"Ideología dinámica del diputado en el período (dim_ideology, emIRT::dynIRT, publicada; usa la matriz 2022-26 histórica). Redondeada a 4 decimales. Intervalos en ideologia_diputado_periodo.csv","Harvard Dataverse: ideologia_congreso_chile_2002_2026_long_format.csv"
-panel_votos_2014_2026.csv.gz,ideol_wnom,número,"Ideología W-NOMINATE del período (wnom_ideology)","Harvard Dataverse: long_format"
-panel_votos_2014_2026.csv.gz,ideol_bay,número,"Ideología bayesiana pscl::ideal del período (bay_ideology)","Harvard Dataverse: long_format"
-panel_votos_2014_2026.csv.gz,control_voto,texto,"Vacío si todo calza; si no, describe la inconsistencia entre voto y período en funciones (no hay casos)","Cálculo (paso 7)"
-panel_votos_2014_2026.csv.gz,partido_control,texto,"Vacío si hay un solo partido a la fecha; si no, 'sin militancia registrada a la fecha' o 'dos partidos a la fecha (se usa el registro más reciente)'. Fuera de funciones suele decir 'sin militancia' (reemplazantes antes de asumir, salientes después de dejar el cargo); en funciones solo hay 198 celdas así","Cálculo (paso 7)"
-votaciones_urgencia_2014_2026.csv,vote_id,texto,"Identificador de la votación","Matrices"
-votaciones_urgencia_2014_2026.csv,boletin_numero,texto,"Número de boletín sin sufijo","Cámara / JSON rama API"
-votaciones_urgencia_2014_2026.csv,periodo,texto,"2014_18, 2018_22 o 2022_26","Matriz de origen"
-votaciones_urgencia_2014_2026.csv,fecha,texto,"Fecha y hora de la votación","Cámara / JSON rama API"
-votaciones_urgencia_2014_2026.csv,snapshot,texto,"desc_urgencia_actual del JSON de la rama API: FOTO de la urgencia al descargar, no la del día de la votación. Vacía en 2014-18 y en las 733 nuevas. Solo para comparar","JSON details__periodo_2018_22 y 2022_26"
-votaciones_urgencia_2014_2026.csv,quorum,texto,"Quórum","Cámara / JSON rama API"
-votaciones_urgencia_2014_2026.csv,resultado,texto,"Resultado","Cámara / JSON rama API"
-votaciones_urgencia_2014_2026.csv,fuente,texto,"Origen de los metadatos: detalle (rama API), nueva (sin detalle), Cámara 2014-18","Paso 3"
-votaciones_urgencia_2014_2026.csv,fecha_d,fecha,"Día de la votación","Paso 3"
-votaciones_urgencia_2014_2026.csv,iniciativa,texto,"Mensaje o Moción","Senado (si falta, Cámara)"
-votaciones_urgencia_2014_2026.csv,etapa_hoy,texto,"Etapa del proyecto según el Senado el día de la descarga","Senado"
-votaciones_urgencia_2014_2026.csv,n_urg_proyecto,entero,"Número de urgencias del proyecto en el historial del Senado (ambas cámaras)","Senado"
-votaciones_urgencia_2014_2026.csv,lvl_A,entero 0-3,"Urgencia vigente estricta (nombre de la versión del curso; 0 también cuando falta información)","Paso 3"
-votaciones_urgencia_2014_2026.csv,lvl_B,entero 0-3,"Urgencia vigente laxa (nombre de la versión del curso)","Paso 3"
-votaciones_urgencia_2014_2026.csv,snap,entero 0-3,"snapshot convertido a nivel 0-3","Paso 3"
-votaciones_urgencia_2014_2026.csv,estA,texto,"lvl_A como etiqueta","Paso 3"
-votaciones_urgencia_2014_2026.csv,estB,texto,"lvl_B como etiqueta","Paso 3"
-votaciones_urgencia_2014_2026.csv,tipo,texto,"Tipo de votación según la Cámara (en esta base, siempre Proyecto de Ley)","Cámara / JSON rama API"
-votaciones_urgencia_2014_2026.csv,ley_presupuestos,entero 0/1,"1 si es Ley de Presupuestos","Paso 3"
-votaciones_urgencia_2014_2026.csv,urg_nivel,entero 0-3,"Como lvl_A, pero NA si falta fecha, boletín o proyecto en el Senado","Paso 3"
-votaciones_urgencia_2014_2026.csv,urg_nivel_laxa,entero 0-3,"Como lvl_B, con NA si falta información","Paso 3"
-votaciones_urgencia_2014_2026.csv,urg_tipo,texto,"Tipo de la urgencia vigente de mayor nivel (estricta)","Paso 3"
-votaciones_urgencia_2014_2026.csv,urg_tipo_laxa,texto,"Tipo de la urgencia vigente de mayor nivel (laxa)","Paso 3"
-votaciones_urgencia_2014_2026.csv,dias_desde_ingreso_urgencia,entero,"Días desde el ingreso de esa urgencia","Paso 3"
-votaciones_urgencia_2014_2026.csv,dias_al_vencimiento,entero,"Días que faltaban para su plazo legal","Paso 3"
-votaciones_urgencia_2014_2026.csv,n_urg_vigentes,entero,"Número de urgencias vigentes (estricta) ese día; más de una cuando se renuevan el mismo día","Paso 3"
-votaciones_urgencia_2014_2026.csv,iniciativa_fuente,texto,"Senado o Cámara","Paso 3"
-votaciones_urgencia_2014_2026.csv,iniciativa_camara,texto,"Tipo de iniciativa según la Cámara (control)","Cámara: retornarVotacionesXProyectoLey"
-votaciones_urgencia_2014_2026.csv,tipo_votacion,texto,"General, Particular, General y Particular, Única, Admisibilidad","Cámara: retornarVotacionesXProyectoLey"
-votaciones_urgencia_2014_2026.csv,tipo_votacion_3,texto,"general, particular u otro","Paso 3"
-votaciones_urgencia_2014_2026.csv,articulo,texto,"Artículo votado, si la Cámara lo informa","Cámara: retornarVotacionesXProyectoLey"
-votaciones_urgencia_2014_2026.csv,tramite_constitucional,texto,"Primer Trámite, Segundo, Tercer Trámite, Comisión Mixta, etc.","Cámara: retornarVotacionesXProyectoLey"
-votaciones_urgencia_2014_2026.csv,tramite_reglamentario,texto,"Primer Informe, Segundo Informe, Informe Comisión Mixta, Sin Informe, etc.","Cámara: retornarVotacionesXProyectoLey"
-votaciones_urgencia_2014_2026.csv,total_si,entero,"Votos a favor","Cámara: retornarVotacionesXProyectoLey"
-votaciones_urgencia_2014_2026.csv,total_no,entero,"Votos en contra","Cámara: retornarVotacionesXProyectoLey"
-votaciones_urgencia_2014_2026.csv,total_abst,entero,"Abstenciones","Cámara: retornarVotacionesXProyectoLey"
-votaciones_urgencia_2014_2026.csv,total_disp,entero,"Dispensados","Cámara: retornarVotacionesXProyectoLey"
-votaciones_urgencia_2014_2026.csv,sin_fecha,entero 0/1,"Control: sin fecha","Paso 3"
-votaciones_urgencia_2014_2026.csv,sin_boletin,entero 0/1,"Control: sin boletín","Paso 3"
-votaciones_urgencia_2014_2026.csv,sin_proyecto_senado,entero 0/1,"Control: el Senado no tiene el proyecto","Paso 3"
-votaciones_urgencia_2014_2026.csv,sin_urgencias_en_historial,entero 0/1,"El proyecto está en el Senado pero nunca tuvo urgencias (0 es dato, no faltante)","Paso 3"
-votaciones_urgencia_2014_2026.csv,urg_ingreso_corregido,entero 0/1,"Control: la urgencia vigente usa una fecha de ingreso con año corregido","Paso 3"
-votaciones_urgencia_2014_2026.csv,urg_retiro_invalido_en_proyecto,entero 0/1,"Control: el proyecto tiene alguna urgencia con retiro anterior al ingreso (se trató como sin retiro)","Paso 3"
-votaciones_urgencia_2014_2026.csv,fecha_difiere_camara,entero 0/1,"Control: la fecha difiere entre los dos servicios de la Cámara (no hay casos)","Paso 3"
-votaciones_urgencia_2014_2026.csv,n_boletines_camara,entero,"Control: en cuántos boletines aparece la votación (siempre 1)","Paso 3"
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,vote_id,texto,Identificador de la votación en la Cámara (encabezado numérico de las matrices),"Harvard Dataverse, Roll calls"
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,fecha,fecha,Día de la votación (aaaa-mm-dd),Cámara: retornarVotacionDetalle; JSON details__periodo_*.json (rama API)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,periodo,texto,"Período legislativo: 2002_06, 2006_10 y 2010_14 (primer archivo); 2014_18, 2018_22 y 2022_26 (segundo)",Matriz de origen
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,boletin,texto,"Número de boletín del proyecto, sin sufijo",Cámara (descripción de la votación) / JSON rama API
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,iniciativa,texto,Mensaje (Ejecutivo) o Moción (parlamentarios),"Senado: tramitacion.php (si falta, Cámara: retornarVotacionesXProyectoLey)"
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,ley_presupuestos,entero 0/1,"1 si el proyecto es la Ley de Presupuestos anual (título que empieza con 'Ley de Presupuestos...' o 'Presupuesto del Sector Público...'); no se rige por urgencias (Ley 18.918, art. 26, inciso tercero). Las leyes que la modifican no se marcan",Nombre del proyecto en Cámara y Senado
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,tipo_votacion,texto,"Tipo según la Cámara: General, Particular, General y Particular, Única, Admisibilidad",Cámara: retornarVotacionesXProyectoLey
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,tipo_votacion_3,texto,"general (General o General y Particular), particular, otro (Única, Admisibilidad)",Cálculo (paso 3)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,quorum,texto,Quórum de la votación,Cámara / JSON rama API
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,resultado,texto,Aprobado o Rechazado,Cámara / JSON rama API
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,urg_nivel,entero 0-3,"Urgencia vigente en la Cámara el día de la votación, versión estricta: 0 sin urgencia, 1 simple, 2 suma, 3 discusión inmediata. Vigente desde el ingreso hasta el retiro, con tope en el plazo legal (30, 15 y 6 días). NA si falta fecha, boletín o proyecto en el Senado",Cálculo (paso 3) sobre el historial del Senado; Ley 18.918 art. 27
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,urg_nivel_laxa,entero 0-3,"Igual que urg_nivel, pero vigente hasta el retiro explícito aunque pase el plazo legal",Cálculo (paso 3)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,urg_tipo,texto,"Tipo de la urgencia de mayor nivel vigente (estricta), o Sin urgencia",Cálculo (paso 3)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,dias_desde_ingreso_urgencia,entero,Días entre el ingreso de esa urgencia a la Cámara y la votación (NA si no hay urgencia),Cálculo (paso 3)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,dias_al_vencimiento,entero,"Días que faltaban para el plazo legal de esa urgencia (ingreso + 30, 15 o 6 días) el día de la votación",Cálculo (paso 3)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,urg_camara_inferida,entero 0/1,1 si la urgencia vigente (estricta) no trae la cámara de ingreso en el Senado y se infirió de la tramitación (casi todas en 2002-06),Cálculo (paso 3)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,diputado_id,texto,DiputadoId de la Cámara (fila de la matriz),"Harvard Dataverse, Roll calls"
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,nombre,texto,Nombre y apellidos,"Harvard Dataverse, Roll calls"
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,voto_original,texto,"Celda de la matriz tal cual: Afirmativo, En Contra, Abstención, Dispensado, No Vota, vacío o NA","Harvard Dataverse, Roll calls"
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,voto,texto,"Voto homologado: Afirmativo, En contra, Abstención, Dispensado, Ausente o no vota (en funciones sin voto), No en funciones (antes de asumir o después de dejar el cargo), No en funciones (suspendido) (desafuero firme). No hay pareos en las fuentes",Cálculo (paso 7); ver REPORTE_URGENCIAS.md
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,voto_si,entero 0/1,"1 Afirmativo, 0 En contra, NA en los demás casos",Cálculo (paso 7)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,en_funciones,entero 0/1,1 si el diputado estaba en el cargo y no suspendido ese día,"Cálculo (pasos 6 y 7): salidas de la Cámara, primer voto de los reemplazantes, suspensiones_desafuero.csv"
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,partido,texto,Partido (alias de la Cámara) a la fecha de la votación; IND = independiente; NA si no hay militancia registrada,Cámara: retornarDiputadosXPeriodo (militancias con fechas)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,oficialista,entero 0/1,"1 si el partido integraba la coalición de gobierno a esa fecha, 0 si no; NA si no se puede codificar (independientes, FRVS desde el 20-08-2025, sin militancia)",coalicion_gobierno.csv (fuente por fila)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,oficialista_dudoso,entero 0/1,1 si la codificación es dudosa (ver nota en coalicion_gobierno.csv) o si hay dos partidos registrados a la fecha,coalicion_gobierno.csv; paso 7
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,coalicion,texto,Coalición o situación del partido según coalicion_gobierno.csv,coalicion_gobierno.csv
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,no_puede_repostular,entero 0/1,1 si el diputado no podía repostular a la Cámara en la elección que cierra el período por el límite de la Ley 21.238 (3 períodos consecutivos ejercidos más de la mitad),horizonte_ley21238.csv
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,horizonte_corto,entero 0/1,1 si no_puede_repostular = 1 y la votación es posterior a la publicación de la ley (08-07-2020),horizonte_ley21238.csv
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,ideol_dyn,número,"Ideología dinámica del diputado en el período (dim_ideology, emIRT::dynIRT, publicada; usa la matriz 2022-26 histórica). Redondeada a 4 decimales. Intervalos en ideologia_diputado_periodo.csv",Harvard Dataverse: ideologia_congreso_chile_2002_2026_long_format.csv
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,ideol_wnom,número,Ideología W-NOMINATE del período (wnom_ideology),Harvard Dataverse: long_format
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,ideol_bay,número,Ideología bayesiana pscl::ideal del período (bay_ideology),Harvard Dataverse: long_format
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,control_voto,texto,"Vacío si todo calza; si no, describe la inconsistencia entre voto y período en funciones (no hay casos)",Cálculo (paso 7)
+panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz,partido_control,texto,"Vacío si hay un solo partido a la fecha; si no, 'sin militancia registrada a la fecha' o 'dos partidos a la fecha (se usa el registro más reciente)'. Fuera de funciones suele decir 'sin militancia' (reemplazantes antes de asumir, salientes después de dejar el cargo); en funciones solo hay 198 celdas así",Cálculo (paso 7)
+votaciones_urgencia_2002_2026.csv,vote_id,texto,Identificador de la votación,Matrices
+votaciones_urgencia_2002_2026.csv,boletin_numero,texto,Número de boletín sin sufijo,Cámara / JSON rama API
+votaciones_urgencia_2002_2026.csv,periodo,texto,"2002_06, 2006_10, 2010_14, 2014_18, 2018_22 o 2022_26",Matriz de origen
+votaciones_urgencia_2002_2026.csv,fecha,texto,Fecha y hora de la votación,Cámara / JSON rama API
+votaciones_urgencia_2002_2026.csv,snapshot,texto,"desc_urgencia_actual del JSON de la rama API: FOTO de la urgencia al descargar, no la del día de la votación. Vacía en 2014-18 y en las 733 nuevas. Solo para comparar",JSON details__periodo_*.json
+votaciones_urgencia_2002_2026.csv,quorum,texto,Quórum,Cámara / JSON rama API
+votaciones_urgencia_2002_2026.csv,resultado,texto,Resultado,Cámara / JSON rama API
+votaciones_urgencia_2002_2026.csv,fuente,texto,"Origen de los metadatos: detalle (rama API) para 2002-14 y 2018-26, nueva (sin detalle) para las 733 de 2022-26, Cámara 2014-18",Paso 3
+votaciones_urgencia_2002_2026.csv,fecha_d,fecha,Día de la votación,Paso 3
+votaciones_urgencia_2002_2026.csv,iniciativa,texto,Mensaje o Moción,"Senado (si falta, Cámara)"
+votaciones_urgencia_2002_2026.csv,etapa_hoy,texto,Etapa del proyecto según el Senado el día de la descarga,Senado
+votaciones_urgencia_2002_2026.csv,n_urg_proyecto,entero,Número de urgencias del proyecto en el historial del Senado (ambas cámaras),Senado
+votaciones_urgencia_2002_2026.csv,lvl_A,entero 0-3,Urgencia vigente estricta (nombre de la versión del curso; 0 también cuando falta información),Paso 3
+votaciones_urgencia_2002_2026.csv,lvl_B,entero 0-3,Urgencia vigente laxa (nombre de la versión del curso),Paso 3
+votaciones_urgencia_2002_2026.csv,snap,entero 0-3,snapshot convertido a nivel 0-3,Paso 3
+votaciones_urgencia_2002_2026.csv,estA,texto,lvl_A como etiqueta,Paso 3
+votaciones_urgencia_2002_2026.csv,estB,texto,lvl_B como etiqueta,Paso 3
+votaciones_urgencia_2002_2026.csv,tipo,texto,"Tipo de votación según la Cámara (en esta base, siempre Proyecto de Ley)",Cámara / JSON rama API
+votaciones_urgencia_2002_2026.csv,ley_presupuestos,entero 0/1,"1 si el proyecto es la Ley de Presupuestos anual (título que empieza con 'Ley de Presupuestos...' o 'Presupuesto del Sector Público...'); no se rige por urgencias (Ley 18.918, art. 26, inciso tercero). Las leyes que la modifican no se marcan",Paso 3
+votaciones_urgencia_2002_2026.csv,urg_nivel,entero 0-3,"Como lvl_A, pero NA si falta fecha, boletín o proyecto en el Senado",Paso 3
+votaciones_urgencia_2002_2026.csv,urg_nivel_laxa,entero 0-3,"Como lvl_B, con NA si falta información",Paso 3
+votaciones_urgencia_2002_2026.csv,urg_tipo,texto,Tipo de la urgencia vigente de mayor nivel (estricta),Paso 3
+votaciones_urgencia_2002_2026.csv,urg_tipo_laxa,texto,Tipo de la urgencia vigente de mayor nivel (laxa),Paso 3
+votaciones_urgencia_2002_2026.csv,dias_desde_ingreso_urgencia,entero,Días desde el ingreso de esa urgencia,Paso 3
+votaciones_urgencia_2002_2026.csv,dias_al_vencimiento,entero,Días que faltaban para su plazo legal,Paso 3
+votaciones_urgencia_2002_2026.csv,n_urg_vigentes,entero,Número de urgencias vigentes (estricta) ese día; más de una cuando se renuevan el mismo día,Paso 3
+votaciones_urgencia_2002_2026.csv,iniciativa_fuente,texto,Senado o Cámara,Paso 3
+votaciones_urgencia_2002_2026.csv,iniciativa_camara,texto,Tipo de iniciativa según la Cámara (control),Cámara: retornarVotacionesXProyectoLey
+votaciones_urgencia_2002_2026.csv,tipo_votacion,texto,"General, Particular, General y Particular, Única, Admisibilidad",Cámara: retornarVotacionesXProyectoLey
+votaciones_urgencia_2002_2026.csv,tipo_votacion_3,texto,"general, particular u otro",Paso 3
+votaciones_urgencia_2002_2026.csv,articulo,texto,"Artículo votado, si la Cámara lo informa",Cámara: retornarVotacionesXProyectoLey
+votaciones_urgencia_2002_2026.csv,tramite_constitucional,texto,"Primer Trámite, Segundo, Tercer Trámite, Comisión Mixta, etc.",Cámara: retornarVotacionesXProyectoLey
+votaciones_urgencia_2002_2026.csv,tramite_reglamentario,texto,"Primer Informe, Segundo Informe, Informe Comisión Mixta, Sin Informe, etc.",Cámara: retornarVotacionesXProyectoLey
+votaciones_urgencia_2002_2026.csv,total_si,entero,Votos a favor,Cámara: retornarVotacionesXProyectoLey
+votaciones_urgencia_2002_2026.csv,total_no,entero,Votos en contra,Cámara: retornarVotacionesXProyectoLey
+votaciones_urgencia_2002_2026.csv,total_abst,entero,Abstenciones,Cámara: retornarVotacionesXProyectoLey
+votaciones_urgencia_2002_2026.csv,total_disp,entero,Dispensados,Cámara: retornarVotacionesXProyectoLey
+votaciones_urgencia_2002_2026.csv,sin_fecha,entero 0/1,Control: sin fecha,Paso 3
+votaciones_urgencia_2002_2026.csv,sin_boletin,entero 0/1,Control: sin boletín,Paso 3
+votaciones_urgencia_2002_2026.csv,sin_proyecto_senado,entero 0/1,Control: el Senado no tiene el proyecto,Paso 3
+votaciones_urgencia_2002_2026.csv,sin_urgencias_en_historial,entero 0/1,"El proyecto está en el Senado pero nunca tuvo urgencias (0 es dato, no faltante)",Paso 3
+votaciones_urgencia_2002_2026.csv,urg_ingreso_corregido,entero 0/1,Control: la urgencia vigente usa una fecha de ingreso con año corregido,Paso 3
+votaciones_urgencia_2002_2026.csv,urg_retiro_invalido_en_proyecto,entero 0/1,Control: el proyecto tiene alguna urgencia con retiro anterior al ingreso (se trató como sin retiro),Paso 3
+votaciones_urgencia_2002_2026.csv,fecha_difiere_camara,entero 0/1,Control: la fecha difiere entre los dos servicios de la Cámara (no hay casos),Paso 3
+votaciones_urgencia_2002_2026.csv,n_boletines_camara,entero,Control: en cuántos boletines aparece la votación (siempre 1),Paso 3
+votaciones_urgencia_2002_2026.csv,urg_camara_inferida,entero 0/1,1 si la urgencia vigente (estricta) tiene la cámara inferida de la tramitación,Paso 3
+votaciones_urgencia_2002_2026.csv,urg_camara_inferida_laxa,entero 0/1,"Igual, para la versión laxa",Paso 3
 urgency_spells.csv,boletin_numero … raw_f_retiro,varios,"Mismas columnas que la versión del curso: tipo, cámara y mensaje de ingreso y retiro, fechas ISO, marcas de año corregido y fechas crudas","Senado: tramitacion.php, sección urgencias"
-urgency_spells.csv,usada_en_camara,entero 0/1,"1 si la urgencia se ingresó en la Cámara de Diputados y tiene tipo y fecha válidos","Paso 3"
-urgency_spells.csv,retiro_antes_ingreso,entero 0/1,"Control: fecha de retiro anterior a la de ingreso (se trata como sin retiro; no se borra)","Paso 3"
+urgency_spells.csv,usada_en_camara,entero 0/1,"1 si la urgencia se ingresó en la Cámara de Diputados (anotada, o inferida si falta) y tiene tipo y fecha válidos",Paso 3
+urgency_spells.csv,retiro_antes_ingreso,entero 0/1,Control: fecha de retiro anterior a la de ingreso (se trata como sin retiro; no se borra),Paso 3
 urgency_spells.csv,plazo_dias,entero,"30, 15 o 6 según el tipo","Ley 18.918, art. 27"
-urgency_spells.csv,fecha_vencimiento_nominal,fecha,"Ingreso + plazo legal","Paso 3"
-urgency_spells.csv,fin_estricto,fecha,"Fin de vigencia estricto: el menor entre el retiro y el vencimiento nominal","Paso 3"
-urgency_spells.csv,fin_laxo,fecha,"Fin de vigencia laxo: el retiro, o el vencimiento nominal si no hay retiro","Paso 3"
-coalicion_gobierno.csv,(todas),varios,"Tabla partido x gobierno: coalición, oficialista (1/0/vacío), desde, hasta, dudoso, nota, fuente y URL","Editada a mano; fuente por fila"
-horizonte_ley21238.csv,servicio_inicio / servicio_fin,fecha,"Tiempo en el cargo dentro del período (salida: Cámara; entrada de reemplazantes: primer voto)","Paso 6"
-horizonte_ley21238.csv,fraccion_mandato,número,"Fracción del período de 4 años en el cargo","Paso 6"
-horizonte_ley21238.csv,cuenta_AAAA_AA,entero 0/1,"1 si ejerció más de la mitad de ese período (cuenta para el límite)","Paso 6; Constitución art. 51"
-horizonte_ley21238.csv,periodos_consecutivos,entero,"Períodos consecutivos ejercidos hasta el actual, incluido (basta llegar a 3)","Paso 6"
-horizonte_ley21238.csv,ley_aplica,entero 0/1,"0 en 2014-18 (la ley es de 2020)","Ley 21.238"
-horizonte_ley21238.csv,habria_estado_afectado,entero 0/1,"Informativo: 3 o más períodos consecutivos aunque la ley no aplique","Paso 6"
-horizonte_ley21238.csv,no_puede_repostular,entero 0/1,"1 si no podía repostular a la Cámara en la elección siguiente","Paso 6"
-horizonte_ley21238.csv,horizonte_corto_desde,fecha,"Desde cuándo rige el horizonte corto (publicación de la ley o inicio del servicio)","Paso 6"
-ideologia_diputado_periodo.csv,(todas),número,"ideol_dyn (dim_ideology) con intervalo dim_IC_low/high, ideol_wnom, ideol_bay con intervalo bay_ic_low/high; 4 decimales","Harvard Dataverse: long_format"
-militancias_2014_2026.csv,(todas),varios,"Militancias con fecha de inicio y término recortadas a cada período; cambio_en_periodo = 1 si hay cambio dentro del período; fecha_invertida = control","Cámara: retornarDiputadosXPeriodo"
-suspensiones_desafuero.csv,(todas),varios,"Diputados suspendidos por desafuero firme (Constitución art. 61) con fecha y fuente","Editada a mano; fuente por fila"
-no_versionado/ideologia_dyn_ext_2014_2026.csv,ideol_dyn_ext,número,"Ideología dinámica estimada con la matriz extendida 2022-26 (archivo despublicado del commit 6c91e1a). No versionar. Unir por (periodo, diputado_id)","git show 6c91e1a:pape/polarizacion/data/ideologia_diputados_largo_emIRT_con_anclas_2022_26_extended.csv"
+urgency_spells.csv,fecha_vencimiento_nominal,fecha,Ingreso + plazo legal,Paso 3
+urgency_spells.csv,fin_estricto,fecha,Fin de vigencia estricto: el menor entre el retiro y el vencimiento nominal,Paso 3
+urgency_spells.csv,fin_laxo,fecha,"Fin de vigencia laxo: el retiro, o el vencimiento nominal si no hay retiro",Paso 3
+urgency_spells.csv,camara_tramite_al_ingreso,texto,"Cámara donde estaba el proyecto el día del ingreso de la urgencia: la más frecuente entre los trámites de ese día; si no hubo, la del último trámite anterior. Acierta el 99 % cuando el Senado sí anota la cámara","Senado: tramitacion.php, sección tramitacion (paso 2)"
+urgency_spells.csv,camara_ingreso_inferida,entero 0/1,1 si camara_ingreso viene vacía (casi todas las de 2000-2004) y se usa camara_tramite_al_ingreso,Paso 3
+urgency_spells.csv,camara_usada,texto,"camara_ingreso o, si viene vacía, camara_tramite_al_ingreso",Paso 3
+coalicion_gobierno.csv,(todas),varios,"Tabla partido x gobierno: coalición, oficialista (1/0/vacío), desde, hasta, dudoso, nota, fuente y URL",Editada a mano; fuente por fila
+horizonte_ley21238.csv,servicio_inicio / servicio_fin,fecha,Tiempo en el cargo dentro del período (salida: Cámara; entrada de reemplazantes: primer voto),Paso 6
+horizonte_ley21238.csv,fraccion_mandato,número,Fracción del período de 4 años en el cargo,Paso 6
+horizonte_ley21238.csv,cuenta_AAAA_AA,entero 0/1,1 si ejerció más de la mitad de ese período (cuenta para el límite),Paso 6; Constitución art. 51
+horizonte_ley21238.csv,periodos_consecutivos,entero,"Períodos consecutivos ejercidos hasta el actual, incluido (basta llegar a 3)",Paso 6
+horizonte_ley21238.csv,ley_aplica,entero 0/1,0 antes de 2018-22 (la ley es de 2020),Ley 21.238
+horizonte_ley21238.csv,habria_estado_afectado,entero 0/1,"Informativo: 3 o más períodos consecutivos aunque la ley no aplique; NA en 2002-06 y 2006-10, porque faltan los períodos anteriores a 2002",Paso 6
+horizonte_ley21238.csv,no_puede_repostular,entero 0/1,1 si no podía repostular a la Cámara en la elección siguiente; 0 antes de 2018-22,Paso 6
+horizonte_ley21238.csv,horizonte_corto_desde,fecha,Desde cuándo rige el horizonte corto (publicación de la ley o inicio del servicio),Paso 6
+ideologia_diputado_periodo.csv,(todas),número,"ideol_dyn (dim_ideology) con intervalo dim_IC_low/high, ideol_wnom, ideol_bay con intervalo bay_ic_low/high; 4 decimales",Harvard Dataverse: long_format
+militancias_2002_2026.csv,(todas),varios,Militancias con fecha de inicio y término recortadas a cada período; cambio_en_periodo = 1 si hay cambio dentro del período; fecha_invertida = control,Cámara: retornarDiputadosXPeriodo
+suspensiones_desafuero.csv,(todas),varios,"Diputados suspendidos por desafuero firme (Constitución art. 61) con fecha y fuente. buscar_desde (opcional): fecha desde la que se busca la racha de ausencia, cuando el diputado todavía votó después del fallo",Editada a mano; fuente por fila
