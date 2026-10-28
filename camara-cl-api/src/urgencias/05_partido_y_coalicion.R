@@ -5,14 +5,17 @@
 #   B_Add_Variables.R para party_1..party_4). Se contrasta con party_1..party_4 de
 #   Harvard Dataverse/Ideology estimates/ideologia_congreso_chile_2002_2026_long_format.csv.
 #   Coalición: <carpeta_salida>/coalicion_gobierno.csv (tabla partido x gobierno con fechas y fuentes, editada a mano).
-# Salidas en <carpeta_salida>: militancias_2014_2026.csv; controles/militancia_vs_long_format.csv,
+# Salidas en <carpeta_salida>: militancias_2002_2026.csv; controles/militancia_vs_long_format.csv,
 #   controles/coalicion_cobertura.csv
 suppressPackageStartupMessages(library(data.table))
 a <- commandArgs(TRUE); repo <- a[1]; o <- a[2]; out <- a[3]
 ctl <- file.path(out, "controles"); dir.create(ctl, showWarnings = FALSE, recursive = TRUE)
-P <- data.table(periodo = c("2014_18", "2018_22", "2022_26"), Period = paste0("Periodo_", 4:6),
-                p_ini = as.Date(c("2014-03-11", "2018-03-11", "2022-03-11")), p_fin = as.Date(c("2018-03-10", "2022-03-10", "2026-03-10")),
-                matriz = c("matriz__periodo_2014_18.csv", "matriz__periodo_2018_22.csv", "matriz__periodo_2022_26_extended.csv"))
+P <- data.table(periodo = c("2002_06", "2006_10", "2010_14", "2014_18", "2018_22", "2022_26"), Period = paste0("Periodo_", 1:6),
+                gobierno = c("Lagos", "Bachelet I", "Piñera I", "Bachelet II", "Piñera II", "Boric"),
+                p_ini = as.Date(c("2002-03-11", "2006-03-11", "2010-03-11", "2014-03-11", "2018-03-11", "2022-03-11")),
+                p_fin = as.Date(c("2006-03-10", "2010-03-10", "2014-03-10", "2018-03-10", "2022-03-10", "2026-03-10")),
+                matriz = c("matriz__periodo_2002_06.csv", "matriz__periodo_2006_10.csv", "matriz__periodo_2010_14.csv",
+                           "matriz__periodo_2014_18.csv", "matriz__periodo_2018_22.csv", "matriz__periodo_2022_26_extended.csv"))
 filas <- rbindlist(lapply(seq_len(nrow(P)), function(i)
   fread(file.path(repo, "Harvard Dataverse", "Roll calls", P$matriz[i]), select = c("DiputadoId", "Nombre", "ApellidoPaterno", "ApellidoMaterno"),
         colClasses = "character")[, periodo := P$periodo[i]]))
@@ -35,7 +38,7 @@ cob <- merge(filas[, .(diputado_id, periodo)], cob, by = c("diputado_id", "perio
 cob <- merge(cob, P[, .(periodo, dias = as.integer(p_fin - p_ini) + 1L)], by = "periodo")
 cob[is.na(dias_cubiertos), dias_cubiertos := 0L]
 fwrite(X[, .(periodo, diputado_id, partido_alias, partido_nombre, fecha_inicio = fi, fecha_termino = ft, inicio_en_periodo,
-             fin_en_periodo, n_partidos_periodo, cambio_en_periodo, fecha_invertida)], file.path(out, "militancias_2014_2026.csv"))
+             fin_en_periodo, n_partidos_periodo, cambio_en_periodo, fecha_invertida)], file.path(out, "militancias_2002_2026.csv"))
 
 # contraste con party_1..party_4 (sin fechas)
 L <- fread(file.path(repo, "Harvard Dataverse", "Ideology estimates", "ideologia_congreso_chile_2002_2026_long_format.csv"),
@@ -60,7 +63,7 @@ cat("Militancias con fecha de término anterior a la de inicio:", M[fecha_invert
 # cobertura de la tabla de coalición
 G <- fread(file.path(out, "coalicion_gobierno.csv"), colClasses = "character")
 G[, `:=`(desde = as.Date(desde), hasta = as.Date(hasta))]
-gp <- data.table(periodo = P$periodo, gobierno = c("Bachelet II", "Piñera II", "Boric"))
+gp <- P[, .(periodo, gobierno)]
 U <- unique(merge(X, gp, by = "periodo")[, .(periodo, gobierno, partido_alias, partido_nombre, diputados = uniqueN(diputado_id)),
                                           by = .(periodo, partido_alias)][, .(periodo, gobierno, partido_alias, partido_nombre, diputados)])
 U[, en_tabla := mapply(function(g, p) nrow(G[gobierno == g & partido_alias == p]) > 0, gobierno, partido_alias)]

@@ -2,7 +2,7 @@
 #
 # Paso 4 (control). Compara, celda por celda, el voto de las matrices de Harvard Dataverse con el detalle de la Cámara
 # (retornarVotacionDetalle) en todas las votaciones descargadas: 2014-18 completo, las 733 nuevas de 2022-26 y la muestra de
-# 150 votaciones 2018-26. Sirve para decidir cómo homologar NA, "No Vota" y celdas vacías.
+# 300 votaciones (75 de 2018-22, 75 de 2022-26 histórica y 50 de cada período 2002-06, 2006-10 y 2010-14). Sirve para decidir cómo homologar NA, "No Vota" y celdas vacías.
 # Salidas en <carpeta_salida>/controles/: validacion_votos_tabla.csv (cruce por grupo) y validacion_votos_resumen.csv
 suppressPackageStartupMessages(library(data.table))
 a <- commandArgs(TRUE); repo <- a[1]; o <- a[2]; out <- a[3]
@@ -19,7 +19,10 @@ largo <- function(f, ids) {
 }
 ids_1418 <- readLines(file.path(o, "ids_2014_18.txt")); ids_new <- readLines(file.path(o, "new_vote_ids.txt"))
 ids_m <- readLines(file.path(o, "muestra_validacion_ids.txt"))
-M <- rbind(largo("matriz__periodo_2014_18.csv", ids_1418)[, grupo := "2014-18 (todas)"],
+M <- rbind(largo("matriz__periodo_2002_06.csv", ids_m)[, grupo := "2002-06 (muestra)"],
+           largo("matriz__periodo_2006_10.csv", ids_m)[, grupo := "2006-10 (muestra)"],
+           largo("matriz__periodo_2010_14.csv", ids_m)[, grupo := "2010-14 (muestra)"],
+           largo("matriz__periodo_2014_18.csv", ids_1418)[, grupo := "2014-18 (todas)"],
            largo("matriz__periodo_2018_22.csv", ids_m)[, grupo := "2018-22 (muestra)"],
            largo("matriz__periodo_2022_26_extended.csv", setdiff(ids_m, ids_new))[, grupo := "2022-26 histórica (muestra)"],
            largo("matriz__periodo_2022_26_extended.csv", ids_new)[, grupo := "2022-26 nuevas 733 (todas)"])

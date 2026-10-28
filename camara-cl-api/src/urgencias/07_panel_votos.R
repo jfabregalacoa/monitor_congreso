@@ -1,21 +1,23 @@
-# Uso: Rscript camara-cl-api/src/urgencias/07_panel_votos.R <raiz_del_repo> <carpeta_intermedios> <carpeta_salida> <carpeta_cache>
+# Uso: Rscript camara-cl-api/src/urgencias/07_panel_votos.R <raiz_del_repo> <carpeta_intermedios> <carpeta_salida>
 #
-# Paso 7 (T5). Base larga diputado x votación, 2014-2026: una fila por celda de las matrices
-#   matriz__periodo_2014_18.csv, matriz__periodo_2018_22.csv y matriz__periodo_2022_26_extended.csv.
+# Paso 7. Base larga diputado x votación, 2002-2026: una fila por celda de las matrices matriz__periodo_2002_06.csv,
+#   _2006_10.csv, _2010_14.csv, _2014_18.csv, _2018_22.csv y _2022_26_extended.csv.
 # Une: urgencia vigente (paso 3), militancia a la fecha y oficialismo (paso 5), horizonte Ley 21.238 (paso 6) e ideología.
 # Ideología (por diputado y período, de Harvard Dataverse/Ideology estimates/ideologia_congreso_chile_2002_2026_long_format.csv):
 #   ideol_dyn = dim_ideology (emIRT::dynIRT, publicada; usa la matriz 2022-26 histórica), ideol_wnom = wnom_ideology (W-NOMINATE),
-#   ideol_bay = bay_ideology (pscl::ideal). La dinámica estimada con la matriz extendida (ideol_dyn_ext, commit 6c91e1a, archivo
-#   despublicado) se escribe aparte en <carpeta_salida>/no_versionado/, que git ignora.
+#   ideol_bay = bay_ideology (pscl::ideal).
 # Voto: voto_original es la celda de la matriz tal cual; voto homologa (ver REPORTE_URGENCIAS.md):
 #   Afirmativo, En contra, Abstención, Dispensado; "Ausente o no vota" (en funciones y sin voto: NA antes del 09-04-2025,
 #   "No Vota" desde esa fecha); "No en funciones" (fuera del período en el cargo). No hay pareos en las fuentes.
-# Salidas: <carpeta_salida>/panel_votos_2014_2026.csv.gz, ideologia_diputado_periodo.csv (con intervalos) y
-#   no_versionado/ideologia_dyn_ext_2014_2026.csv
+# Salidas: <carpeta_salida>/panel_votos_2002_2014.csv.gz y panel_votos_2014_2026.csv.gz (se divide en dos para que cada
+#   archivo pese menos de 50 MB) e ideologia_diputado_periodo.csv (con intervalos)
 suppressPackageStartupMessages(library(data.table))
-a <- commandArgs(TRUE); repo <- a[1]; o <- a[2]; out <- a[3]; cache <- a[4]
-P <- data.table(periodo = c("2014_18", "2018_22", "2022_26"), Period = paste0("Periodo_", 4:6), gobierno = c("Bachelet II", "Piñera II", "Boric"),
-                matriz = c("matriz__periodo_2014_18.csv", "matriz__periodo_2018_22.csv", "matriz__periodo_2022_26_extended.csv"))
+a <- commandArgs(TRUE); repo <- a[1]; o <- a[2]; out <- a[3]
+P <- data.table(periodo = c("2002_06", "2006_10", "2010_14", "2014_18", "2018_22", "2022_26"), Period = paste0("Periodo_", 1:6),
+                gobierno = c("Lagos", "Bachelet I", "Piñera I", "Bachelet II", "Piñera II", "Boric"),
+                matriz = c("matriz__periodo_2002_06.csv", "matriz__periodo_2006_10.csv", "matriz__periodo_2010_14.csv",
+                           "matriz__periodo_2014_18.csv", "matriz__periodo_2018_22.csv", "matriz__periodo_2022_26_extended.csv"),
+                archivo = rep(c("panel_votos_2002_2014.csv.gz", "panel_votos_2014_2026.csv.gz"), each = 3))
 
 # ---------------------------------------------------------------- celdas de las matrices
 X <- rbindlist(lapply(seq_len(nrow(P)), function(i) {
@@ -31,11 +33,12 @@ setnames(X, "DiputadoId", "diputado_id")
 n_esperado <- nrow(X)
 
 # ---------------------------------------------------------------- votación
-V <- fread(file.path(out, "votaciones_urgencia_2014_2026.csv"), colClasses = "character")
+V <- fread(file.path(out, "votaciones_urgencia_2002_2026.csv"), colClasses = "character")
 V <- V[, .(vote_id, fecha = as.Date(fecha_d), boletin = boletin_numero, iniciativa, ley_presupuestos = as.integer(ley_presupuestos),
            tipo_votacion, tipo_votacion_3, quorum, resultado,
            urg_nivel = as.integer(urg_nivel), urg_nivel_laxa = as.integer(urg_nivel_laxa), urg_tipo,
-           dias_desde_ingreso_urgencia = as.integer(dias_desde_ingreso_urgencia), dias_al_vencimiento = as.integer(dias_al_vencimiento))]
+           dias_desde_ingreso_urgencia = as.integer(dias_desde_ingreso_urgencia), dias_al_vencimiento = as.integer(dias_al_vencimiento),
+           urg_camara_inferida = as.integer(urg_camara_inferida))]
 X <- merge(X, V, by = "vote_id", all.x = TRUE)
 stopifnot(!anyNA(X$fecha))
 
@@ -46,20 +49,22 @@ X <- merge(X, S[, .(periodo, diputado_id, servicio_inicio, servicio_fin)], by = 
 X[, en_funciones := as.integer(fecha >= servicio_inicio & fecha <= servicio_fin)]
 # Suspensiones del cargo: con el desafuero firme el diputado "queda suspendido de su cargo" (Constitución, art. 61).
 # Tabla editada a mano con fuentes (<carpeta_salida>/suspensiones_desafuero.csv). Se marca como suspendida la primera racha de
-# 20 o más votaciones seguidas sin voto (en orden cronológico) que termina después de la resolución firme, desde esa fecha.
-# (La suspensión rige cuando la resolución se comunica a la Cámara, lo que puede tardar semanas.)
+# 20 o más votaciones seguidas sin voto (en orden cronológico) que termina después de la fecha de búsqueda, desde esa fecha.
+# La fecha de búsqueda es la resolución firme o, si la tabla trae buscar_desde, esa fecha (cuando el diputado todavía votó
+# después del fallo). La suspensión rige cuando la resolución se comunica a la Cámara, lo que puede tardar semanas.
 con_voto <- c("Afirmativo", "En Contra", "Abstención", "Dispensado")
-ts <- fread(file.path(out, "votaciones_urgencia_2014_2026.csv"), select = c("vote_id", "fecha"), colClasses = "character")
+ts <- fread(file.path(out, "votaciones_urgencia_2002_2026.csv"), select = c("vote_id", "fecha"), colClasses = "character")
 setnames(ts, "fecha", "ts")
 X <- merge(X, ts, by = "vote_id", all.x = TRUE)
 susp <- fread(file.path(out, "suspensiones_desafuero.csv"), colClasses = "character")[, fecha_resolucion_firme := as.Date(fecha_resolucion_firme)]
+susp[, buscar := fifelse(buscar_desde == "", fecha_resolucion_firme, as.Date(buscar_desde))]
 X[, suspendido := 0L]
 res_susp <- rbindlist(lapply(seq_len(nrow(susp)), function(i) {
   s <- susp[i]
   d <- X[periodo == s$periodo & diputado_id == s$diputado_id, .(vote_id, ts, fecha, sin_voto = !voto_original %in% con_voto)][order(ts)]
   d[, racha := rleid(sin_voto)]
-  r <- d[sin_voto == TRUE, .(n = .N, fin = max(fecha)), by = racha][fin >= s$fecha_resolucion_firme & n >= 20][1]
-  ids <- d[racha == r$racha & fecha >= s$fecha_resolucion_firme, vote_id]
+  r <- d[sin_voto == TRUE, .(n = .N, fin = max(fecha)), by = racha][fin > s$buscar & n >= 20][1]
+  ids <- d[racha == r$racha & fecha >= s$buscar, vote_id]
   X[periodo == s$periodo & diputado_id == s$diputado_id & vote_id %in% ids, `:=`(en_funciones = 0L, suspendido = 1L)]
   data.table(periodo = s$periodo, diputado_id = s$diputado_id, nombre = s$nombre, resolucion = s$fecha_resolucion_firme,
              desde = min(d[vote_id %in% ids, fecha]), hasta = max(d[vote_id %in% ids, fecha]), votaciones = length(ids))
@@ -75,7 +80,7 @@ X[, control_voto := fcase(voto_original %in% names(sust) & en_funciones == 0L, "
                           voto_original %in% "No Vota" & en_funciones == 0L & suspendido == 0L, "No Vota fuera de funciones", default = "")]
 
 # ---------------------------------------------------------------- partido a la fecha y oficialismo (paso 5)
-M <- fread(file.path(out, "militancias_2014_2026.csv"), colClasses = "character")
+M <- fread(file.path(out, "militancias_2002_2026.csv"), colClasses = "character")
 M[, `:=`(ini = as.Date(inicio_en_periodo), fin = as.Date(fin_en_periodo))]
 K <- unique(X[, .(periodo, diputado_id, fecha)])
 pm <- M[K, on = .(periodo, diputado_id, ini <= fecha, fin >= fecha), nomatch = NA,
@@ -118,26 +123,20 @@ L[, (num) := lapply(.SD, round, 4), .SDcols = num]
 L <- L[paste(periodo, diputado_id) %in% unique(X[, paste(periodo, diputado_id)])]
 fwrite(L[order(periodo, diputado_id)], file.path(out, "ideologia_diputado_periodo.csv"))  # con intervalos; el panel lleva solo los puntos
 X <- merge(X, L[, .(periodo, diputado_id, ideol_dyn, ideol_wnom, ideol_bay)], by = c("periodo", "diputado_id"), all.x = TRUE)
-E <- fread(file.path(cache, "insumos_git", "ideologia_diputados_largo_emIRT_con_anclas_2022_26_extended.csv"))
-E <- merge(E[, .(diputado_id = as.character(DiputadoId), Period = Periodo, ideol_dyn_ext = Ideologia, ideol_dyn_ext_lo = IC_low,
-                 ideol_dyn_ext_hi = IC_high)], P[, .(Period, periodo)], by = "Period")[, Period := NULL]
-E <- merge(E, alias_id, by.x = c("periodo", "diputado_id"), by.y = c("periodo", "id_ideologia"), all.x = TRUE, suffixes = c("", ".m"))
-E[!is.na(diputado_id.m), diputado_id := diputado_id.m][, diputado_id.m := NULL]
-E <- E[paste(periodo, diputado_id) %in% unique(X[, paste(periodo, diputado_id)])]
-dir.create(file.path(out, "no_versionado"), showWarnings = FALSE)
-fwrite(E, file.path(out, "no_versionado", "ideologia_dyn_ext_2014_2026.csv"))
 
 # ---------------------------------------------------------------- escritura y controles
 orden <- c("vote_id", "fecha", "periodo", "boletin", "iniciativa", "ley_presupuestos", "tipo_votacion", "tipo_votacion_3", "quorum", "resultado",
-           "urg_nivel", "urg_nivel_laxa", "urg_tipo", "dias_desde_ingreso_urgencia", "dias_al_vencimiento",
+           "urg_nivel", "urg_nivel_laxa", "urg_tipo", "dias_desde_ingreso_urgencia", "dias_al_vencimiento", "urg_camara_inferida",
            "diputado_id", "nombre", "voto_original", "voto", "voto_si", "en_funciones", "partido", "oficialista", "oficialista_dudoso",
            "coalicion", "no_puede_repostular", "horizonte_corto", "ideol_dyn", "ideol_wnom", "ideol_bay", "control_voto",
            "partido_control")
 setcolorder(X, orden); setorder(X, fecha, vote_id, diputado_id)
 stopifnot(nrow(X) == n_esperado, !anyDuplicated(X[, .(vote_id, diputado_id)]))
-fwrite(X[, ..orden], file.path(out, "panel_votos_2014_2026.csv.gz"), compress = "gzip", compressLevel = 9)
-cat("\nPanel:", nrow(X), "filas (esperadas", n_esperado, ") | duplicados (vote_id, diputado_id):", anyDuplicated(X[, .(vote_id, diputado_id)]),
-    "| tamaño:", round(file.size(file.path(out, "panel_votos_2014_2026.csv.gz")) / 2^20, 1), "MB\n")
+for (f in unique(P$archivo)) {
+  fwrite(X[periodo %in% P[archivo == f, periodo], ..orden], file.path(out, f), compress = "gzip", compressLevel = 9)
+  cat("\n", f, ":", X[periodo %in% P[archivo == f, periodo], .N], "filas | tamaño:", round(file.size(file.path(out, f)) / 2^20, 1), "MB\n")
+}
+cat("Panel:", nrow(X), "filas (esperadas", n_esperado, ") | duplicados (vote_id, diputado_id):", anyDuplicated(X[, .(vote_id, diputado_id)]), "\n")
 cat("\nVoto homologado por período:\n"); print(dcast(X, periodo ~ voto, fun.aggregate = length, value.var = "vote_id"))
 cat("\nVoto original por período:\n"); print(dcast(X[, .(periodo, vo = fifelse(is.na(voto_original), "<NA>", fifelse(voto_original == "", "<vacío>", voto_original)))],
                                                    periodo ~ vo, fun.aggregate = length, value.var = "vo"))
@@ -147,4 +146,3 @@ cat("\nOficialismo (celdas en funciones):\n"); print(dcast(X[en_funciones == 1L]
 cat("\nCeldas en funciones sin partido a la fecha:\n"); print(X[en_funciones == 1L & partido_control != "", .N, by = .(periodo, partido_control)])
 cat("\nHorizonte corto (celdas):\n"); print(X[, .(no_puede_repostular = sum(no_puede_repostular, na.rm = TRUE), horizonte_corto = sum(horizonte_corto, na.rm = TRUE)), by = periodo])
 cat("\nIdeología faltante (celdas en funciones):\n"); print(X[en_funciones == 1L, .(sin_dyn = sum(is.na(ideol_dyn)), sin_wnom = sum(is.na(ideol_wnom)), sin_bay = sum(is.na(ideol_bay))), by = periodo])
-cat("ideol_dyn_ext (archivo no versionado):", nrow(E), "diputado-período; NA:", sum(is.na(E$ideol_dyn_ext)), "\n")

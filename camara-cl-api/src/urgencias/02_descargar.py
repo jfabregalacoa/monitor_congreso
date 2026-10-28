@@ -1,7 +1,7 @@
 """Uso: python3 -I camara-cl-api/src/urgencias/02_descargar.py <carpeta_intermedios> <carpeta_cache>
 
-Paso 2. Descarga, con caché en disco, lo que falta para reconstruir la urgencia vigente en cada votación (2014-2026).
-Port de 02_reconstruir_urgencias.py (versión del curso, 20-10-2026), extendido a 2014-2018 y a tres servicios más.
+Paso 2. Descarga, con caché en disco, lo que falta para reconstruir la urgencia vigente en cada votación (2002-2026).
+Port de 02_reconstruir_urgencias.py (versión del curso, 20-10-2026), extendido a 2002-2018 y a tres servicios más.
 
 Fuentes (servicios abiertos, sin autenticación):
   Cámara  WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=ID            fecha, boletín, quórum, resultado y votos
@@ -10,13 +10,18 @@ Fuentes (servicios abiertos, sin autenticación):
   Senado  wspublico/tramitacion.php?boletin=N                                    historial de urgencias y datos del proyecto
 www.camara.cl no se usa (responde 403 por Cloudflare).
 
-Entradas (del paso 1): ids_2014_18.txt, new_vote_ids.txt, muestra_validacion_ids.txt, votes_details_2018_26.csv
+Entradas (del paso 1): ids_2014_18.txt, new_vote_ids.txt, muestra_validacion_ids.txt, votes_details_2018_26.csv,
+  votes_details_2002_14.csv
 Salidas en <carpeta_intermedios>:
   votes_2014_18.csv, votes_new.csv          metadatos de las votaciones pedidas a la Cámara (columnas de votes_new del curso + extras)
   votos_detalle_camara.csv.gz               voto de cada diputado en las votaciones pedidas (para validar las matrices)
   votaciones_proyecto_camara.csv            una fila por votación y boletín: tipo de votación, artículo, trámite
   proyectos_camara.csv                      una fila por boletín según la Cámara (iniciativa, fecha de ingreso)
   urgency_spells.csv, senado_proyectos.csv  historial de urgencias y estado de cada proyecto según el Senado (columnas del curso + extras)
+                                            camara_tramite_al_ingreso: cámara donde estaba el proyecto el día en que ingresó la
+                                            urgencia, según su tramitación (la más frecuente entre los trámites de ese día; si no
+                                            hubo, la del último trámite anterior). Sirve para las urgencias sin CAMARAINGRESO
+                                            (casi todas las de 2000-2004); acierta el 99 % cuando CAMARAINGRESO sí está
   diputados_periodo.csv, militancias.csv    diputados por período (fechas en el cargo) y militancias con fechas
   fetch_failures.txt, descargas_resumen.csv fallos y resumen de cada lote
 Reanudable: lo que ya está en <carpeta_cache> no se vuelve a pedir. Las respuestas que no son XML válido no se guardan en
@@ -27,7 +32,7 @@ primero sube la pausa (0,05 -> 0,1 -> 0,2 -> 0,4 -> 0,8 s) sin bajar conexiones;
 conexiones (6 -> 4 -> 2 -> 1) y vuelve a la pausa mínima. Tras 500 peticiones con menos de 0,5 % de errores recupera un
 escalón. Cada petición fallida se reintenta hasta 4 veces con espera creciente (2, 4, 8 s).
 """
-import csv, gzip, os, queue, random, re, ssl, sys, threading, time, urllib.error, urllib.request
+import collections, csv, gzip, io, os, queue, random, re, ssl, sys, threading, time, urllib.error, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
@@ -39,7 +44,7 @@ UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,
 CTX = ssl.create_default_context(cafile="/etc/ssl/cert.pem")  # almacén de certificados del sistema (macOS)
 CAM = "https://opendata.camara.cl/camaradiputados/WServices/"
 SEN = "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin="
-PERIODOS_CAMARA = [5, 6, 7, 8, 9, 10, 11]  # prmPeriodoId a probar; se identifican después por sus diputados
+PERIODOS_CAMARA = [5, 6, 7, 8, 9, 10, 11, 4]  # prmPeriodoId a probar (4 = 2002-06, al final para no alterar el orden previo)
 LOGF = open(os.path.join(SUB["logs"], "02_descargar.log"), "a", encoding="utf-8")
 LOCK = threading.Lock()
 failures, resumen = [], []
@@ -264,8 +269,11 @@ def leer_ids(nombre):
 
 def escribir(nombre, filas, cols):
     path = os.path.join(OUT, nombre)
-    op = gzip.open if nombre.endswith(".gz") else open
-    with op(path + ".tmp", "wt", encoding="utf-8", newline="") as f:
+    if nombre.endswith(".gz"):  # mtime=0: el archivo sale idéntico byte a byte en cada corrida
+        f = io.TextIOWrapper(gzip.GzipFile(path + ".tmp", "wb", mtime=0), encoding="utf-8", newline="")
+    else:
+        f = open(path + ".tmp", "w", encoding="utf-8", newline="")
+    with f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         w.writeheader(); w.writerows(filas)
     os.replace(path + ".tmp", path)
@@ -285,7 +293,8 @@ cam, sen = Ritmo("Cámara"), Ritmo("Senado")
 # ------------------------------------------------------------------ fase A: votaciones (Cámara) y boletines conocidos (Senado)
 ids_1418, ids_new, ids_muestra = leer_ids("ids_2014_18.txt"), leer_ids("new_vote_ids.txt"), leer_ids("muestra_validacion_ids.txt")
 ids_vot = list(dict.fromkeys(ids_1418 + ids_new + ids_muestra))
-det = list(csv.DictReader(open(os.path.join(OUT, "votes_details_2018_26.csv"), encoding="utf-8")))
+det = [r for f in ("votes_details_2018_26.csv", "votes_details_2002_14.csv")
+       for r in csv.DictReader(open(os.path.join(OUT, f), encoding="utf-8"))]
 bol_json = sorted({r["boletin_numero"] for r in det if r["boletin_numero"]}, key=int)
 log(f"Fase A: {len(ids_vot)} votaciones a la Cámara (2014-18 {len(ids_1418)}, nuevas {len(ids_new)}, muestra {len(ids_muestra)}), "
     f"{len(PERIODOS_CAMARA)} períodos de diputados; {len(bol_json)} boletines al Senado")
@@ -401,6 +410,22 @@ for b in bol_sen:
                       "estado": g("estado"), "iniciativa": g("iniciativa"), "fecha_ingreso": g("fecha_ingreso"),
                       "n_urgencias": 0, "boletin_senado": g("boletin"), "camara_origen": g("camara_origen"),
                       "titulo": g("titulo")})
+    tramites = []  # (fecha, orden en el documento, cámara)
+    for i, t in enumerate(el for el in root.iter() if local(el.tag) == "tramite"):
+        tg = {local(c.tag): (c.text or "").strip() for c in t}
+        ft = iso(tg.get("FECHA"))[0]
+        cam_t = {"C.Diputados": "C. Diputados", "Senado": "Senado"}.get(tg.get("CAMARATRAMITE", ""), "")
+        if ft and cam_t:
+            tramites.append((ft, i, cam_t))
+    tramites.sort()
+
+    def camara_al(fecha):
+        mismo = [c for f, _, c in tramites if f == fecha]
+        if mismo:
+            return collections.Counter(mismo).most_common(1)[0][0]
+        antes = [c for f, _, c in tramites if f < fecha]
+        return antes[-1] if antes else ""
+
     n = 0
     for u in root.iter():
         if local(u.tag) != "urgencia" or len(list(u)) == 0:
@@ -412,12 +437,13 @@ for b in bol_sen:
                        "mensaje_ingreso": gg.get("MENSAJEINGRESO", ""), "f_ingreso": fi, "f_ingreso_corregida": int(fix_i),
                        "camara_retiro": gg.get("CAMARARETIRO", ""), "mensaje_retiro": gg.get("MENSAJERETIRO", ""),
                        "f_retiro": fr, "f_retiro_corregida": int(fix_r),
-                       "raw_f_ingreso": gg.get("FECHAINGRESO", ""), "raw_f_retiro": gg.get("FECHARETIRO", "")})
+                       "raw_f_ingreso": gg.get("FECHAINGRESO", ""), "raw_f_retiro": gg.get("FECHARETIRO", ""),
+                       "camara_tramite_al_ingreso": camara_al(fi) if fi else ""})
         n += 1
     proyectos[-1]["n_urgencias"] = n
 escribir("urgency_spells.csv", spells, ["boletin_numero", "tipo", "camara_ingreso", "mensaje_ingreso", "f_ingreso",
                                         "f_ingreso_corregida", "camara_retiro", "mensaje_retiro", "f_retiro",
-                                        "f_retiro_corregida", "raw_f_ingreso", "raw_f_retiro"])
+                                        "f_retiro_corregida", "raw_f_ingreso", "raw_f_retiro", "camara_tramite_al_ingreso"])
 escribir("senado_proyectos.csv", proyectos, ["boletin_numero", "urgencia_actual_senado", "etapa", "estado", "iniciativa",
                                              "fecha_ingreso", "n_urgencias", "boletin_senado", "camara_origen", "titulo"])
 

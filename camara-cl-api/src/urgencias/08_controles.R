@@ -6,7 +6,7 @@
 #   control_panel_filas.csv, control_ausencias_largas.csv, control_oficialismo.csv, control_cambios_militancia.csv
 suppressPackageStartupMessages(library(data.table))
 out <- commandArgs(TRUE)[1]; ctl <- file.path(out, "controles"); dir.create(ctl, showWarnings = FALSE)
-V <- fread(file.path(out, "votaciones_urgencia_2014_2026.csv"), colClasses = "character")
+V <- fread(file.path(out, "votaciones_urgencia_2002_2026.csv"), colClasses = "character")
 V[, `:=`(fecha_d = as.Date(fecha_d), lvl_A = as.integer(lvl_A), lvl_B = as.integer(lvl_B))]
 nm <- c("0 sin urgencia", "1 simple", "2 suma", "3 disc. inmediata")
 
@@ -27,7 +27,7 @@ w <- b[n_votos >= 2, .(proyectos_2_o_mas_votos = .N, con_variacion_estricta = su
                        mensajes_2_o_mas_votos = sum(iniciativa == "Mensaje"), mensajes_con_variacion = sum(iniciativa == "Mensaje" & nA >= 2),
                        votaciones_en_proyectos_con_variacion = sum(n_votos[nA >= 2])), keyby = periodo]
 bt <- V[, .(n_votos = .N, nA = uniqueN(lvl_A), nB = uniqueN(lvl_B), iniciativa = iniciativa[1]), by = boletin_numero]
-w <- rbind(w, data.table(periodo = "2014-2026 (proyecto entre períodos)", proyectos_2_o_mas_votos = bt[n_votos >= 2, .N],
+w <- rbind(w, data.table(periodo = "2002-2026 (proyecto entre períodos)", proyectos_2_o_mas_votos = bt[n_votos >= 2, .N],
                          con_variacion_estricta = bt[n_votos >= 2 & nA >= 2, .N], con_variacion_laxa = bt[n_votos >= 2 & nB >= 2, .N],
                          mensajes_2_o_mas_votos = bt[n_votos >= 2 & iniciativa == "Mensaje", .N],
                          mensajes_con_variacion = bt[n_votos >= 2 & nA >= 2 & iniciativa == "Mensaje", .N],
@@ -35,8 +35,9 @@ w <- rbind(w, data.table(periodo = "2014-2026 (proyecto entre períodos)", proye
 fwrite(w, file.path(ctl, "control_variacion_por_periodo.csv")); cat("\n=== 3) Proyectos con variación de urgencia, por período ===\n"); print(w)
 
 # 4) filas del panel
-X <- fread(file.path(out, "panel_votos_2014_2026.csv.gz"), select = c("vote_id", "diputado_id", "periodo", "voto", "en_funciones", "fecha"),
-           colClasses = "character")
+panel <- file.path(out, c("panel_votos_2002_2014.csv.gz", "panel_votos_2014_2026.csv.gz"))
+leer_panel <- function(cols) rbindlist(lapply(panel, fread, select = cols, colClasses = "character"))
+X <- leer_panel(c("vote_id", "diputado_id", "periodo", "voto", "en_funciones", "fecha"))
 pf <- X[, .(filas = .N, votaciones = uniqueN(vote_id), diputados = uniqueN(diputado_id)), keyby = periodo][, esperado := votaciones * diputados]
 pf[, coincide := filas == esperado]
 fwrite(pf, file.path(ctl, "control_panel_filas.csv"))
@@ -48,14 +49,13 @@ setorder(X, diputado_id, periodo, fecha, vote_id)
 X[, aus := voto == "Ausente o no vota"]
 X[, racha := rleid(aus), by = .(diputado_id, periodo)]
 r <- X[aus == TRUE, .(votaciones_seguidas = .N, desde = min(fecha), hasta = max(fecha)), by = .(diputado_id, periodo, racha)][votaciones_seguidas >= 100]
-P <- fread(file.path(out, "panel_votos_2014_2026.csv.gz"), select = c("diputado_id", "nombre"), colClasses = "character")[, .SD[1], by = diputado_id]
+P <- leer_panel(c("diputado_id", "nombre"))[, .SD[1], by = diputado_id]
 r <- merge(r, P, by = "diputado_id")[order(-votaciones_seguidas)][, racha := NULL]
 fwrite(r, file.path(ctl, "control_ausencias_largas.csv"))
 cat("\n=== 5) Rachas de 100 o más votaciones seguidas 'Ausente o no vota' estando en funciones ===\n"); print(r)
 
 # 6) oficialismo: distribución y motivos de NA (celdas en funciones)
-O <- fread(file.path(out, "panel_votos_2014_2026.csv.gz"), select = c("periodo", "en_funciones", "partido", "oficialista",
-                                                                      "oficialista_dudoso", "partido_control", "fecha"), colClasses = "character")[en_funciones == "1"]
+O <- leer_panel(c("periodo", "en_funciones", "partido", "oficialista", "oficialista_dudoso", "partido_control", "fecha"))[en_funciones == "1"]
 O[, motivo := fcase(oficialista != "", fifelse(oficialista_dudoso == "1", paste0("codificado (", oficialista, ") pero dudoso"), paste0("codificado (", oficialista, ")")),
                     partido == "IND", "NA: independiente", partido_control != "", paste0("NA: ", partido_control),
                     partido == "FRVS", "NA: FRVS desde el 20-08-2025", default = "NA: otro")]
@@ -64,7 +64,7 @@ fwrite(ofi, file.path(ctl, "control_oficialismo.csv"))
 cat("\n=== 6) Oficialismo en celdas en funciones (motivo) ===\n"); print(ofi)
 
 # 7) cambios de militancia con fecha
-M <- fread(file.path(out, "militancias_2014_2026.csv"), colClasses = "character")
+M <- fread(file.path(out, "militancias_2002_2026.csv"), colClasses = "character")
 cm <- M[cambio_en_periodo == "1", .(partidos = paste(unique(partido_alias), collapse = " -> ")), by = .(periodo, diputado_id)]
 cm[, a_independiente := grepl("IND", partidos)]
 cmr <- cm[, .(diputados_con_cambio_fechado = .N, de_ellos_pasan_por_IND = sum(a_independiente)), keyby = periodo]
