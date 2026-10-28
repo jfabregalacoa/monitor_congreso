@@ -841,3 +841,124 @@ periodo_id,diputado_id,nombre,nombre2,apellido_paterno,apellido_materno,sexo,fec
 11,1175,Cristián,,Tapia,Ramos,Masculino,1968-07-14T00:00:00,2030-03-10T00:00:00,,
 11,1236,Paula,,Olmos,Contreras,Femenino,1982-11-06T00:00:00,2030-03-10T00:00:00,,
 11,872,Jaime,,Mulet,Martínez,Masculino,1963-08-03T00:00:00,2030-03-10T00:00:00,,
+4,205,Aníbal,,Pérez,Lobos,Masculino,1948-01-20T00:00:00,2006-03-10T00:00:00,,35
+4,812,Eugenio,,Bauer,Jouanne,Masculino,1947-05-20T00:00:00,2006-03-10T00:00:00,,33
+4,132,Francisco,,Bayo,Veloso,Masculino,1933-03-13T00:00:00,2006-03-10T00:00:00,,48
+4,814,Mario,,Bertolino,Rendic,Masculino,1954-02-03T00:00:00,2006-03-10T00:00:00,,7
+4,816,Jorge,,Burgos,Varela,Masculino,1956-06-24T00:00:00,2006-03-10T00:00:00,,21
+4,817,Juan,,Bustos,Ramírez,Masculino,1935-12-08T00:00:00,2006-03-10T00:00:00,,12
+4,137,Eliana,,Caraball,Martínez,Femenino,1937-04-27T00:00:00,2006-03-10T00:00:00,,27
+4,818,Alberto,,Cardemil,Herrera,Masculino,1945-11-01T00:00:00,2006-03-10T00:00:00,,22
+4,819,Guillermo,,Ceroni,Fuentes,Masculino,1946-07-30T00:00:00,2006-03-10T00:00:00,,40
+4,140,Patricio,,Cornejo,Vidaurrázaga,Masculino,1942-10-17T00:00:00,2006-03-10T00:00:00,,11
+4,822,María Angélica,,Cristi,Marfil,Femenino,1941-10-13T00:00:00,2006-03-10T00:00:00,,24
+4,823,Marcela,,Cubillos,Sigall,Femenino,1967-02-02T00:00:00,2006-03-10T00:00:00,,21
+4,825,Roberto,,Delmastro,Naso,Masculino,1945-10-17T00:00:00,2006-03-10T00:00:00,,53
+4,828,Julio,,Dittborn,Cordua,Masculino,1951-10-19T00:00:00,2006-03-10T00:00:00,,23
+4,830,Andrés,,Egaña,Respaldiza,Masculino,1947-03-08T00:00:00,2006-03-10T00:00:00,,44
+4,832,Francisco,,Encina,Moriamez,Masculino,1943-12-18T00:00:00,2006-03-10T00:00:00,,8
+4,834,Maximiano,,Errázuriz,Eguiguren,Masculino,1945-09-28T00:00:00,2006-03-10T00:00:00,,29
+4,151,Mario,,Escobar,Urbina,Masculino,1952-03-09T00:00:00,2006-03-10T00:00:00,,3
+4,837,Fidel,,Espinoza,Sandoval,Masculino,1970-01-24T00:00:00,2006-03-10T00:00:00,,56
+4,840,Marcelo,,Forni,Lobos,Masculino,1967-10-15T00:00:00,2006-03-10T00:00:00,,11
+4,843,René Manuel,,García,García,Masculino,1950-05-24T00:00:00,2006-03-10T00:00:00,,52
+4,844,Alejandro,,García-Huidobro,Sanfuentes,Masculino,1952-04-19T00:00:00,2006-03-10T00:00:00,,32
+4,158,Guido,,Girardi,Lavín,Masculino,1961-01-21T00:00:00,2006-03-10T00:00:00,,18
+4,848,Rodrigo,,González,Torres,Masculino,1941-09-26T00:00:00,2006-03-10T00:00:00,,14
+4,161,María Pía,,Guzmán,Mena,Femenino,1957-06-23T00:00:00,2006-03-10T00:00:00,,23
+4,849,Patricio,,Hales,Dib,Masculino,1946-09-11T00:00:00,2006-03-10T00:00:00,,19
+4,850,Javier,,Hernández,Hernández,Masculino,1954-08-07T00:00:00,2006-03-10T00:00:00,,55
+4,165,Gonzalo,,Ibáñez,Santa María,Masculino,1945-12-30T00:00:00,2006-03-10T00:00:00,,14
+4,166,Carmen,,Ibáñez,Soto,Femenino,1959-02-07T00:00:00,2006-03-10T00:00:00,,13
+4,854,Enrique,,Jaramillo,Becker,Masculino,1937-07-11T00:00:00,2006-03-10T00:00:00,,54
+4,169,Víctor,,Jeame,Barrueto,Masculino,1953-07-01T00:00:00,2006-03-10T00:00:00,,43
+4,170,Jaime,,Jiménez,Villavicencio,Masculino,1963-04-06T00:00:00,2006-03-10T00:00:00,,31
+4,172,Carlos,,Kuschel,Silva,Masculino,1953-03-16T00:00:00,2006-03-10T00:00:00,,57
+4,173,Eduardo,,Lagos,Herrera,Masculino,1967-01-17T00:00:00,2006-03-10T00:00:00,,57
+4,859,Antonio,,Leal,Labrín,Masculino,1950-01-10T00:00:00,2006-03-10T00:00:00,,5
+4,176,Juan Pablo,,Letelier,Morel,Masculino,1961-01-07T00:00:00,2006-03-10T00:00:00,,33
+4,177,Felipe,,Letelier,Norambuena,Masculino,1956-05-11T00:00:00,2006-03-10T00:00:00,,42
+4,178,Arturo,,Longton,Guerrero,Masculino,1948-06-25T00:00:00,2006-03-10T00:00:00,,12
+4,862,Pablo,,Lorenzini,Basso,Masculino,1949-10-25T00:00:00,2006-03-10T00:00:00,,38
+4,181,Zarko,,Luksic,Sandoval,Masculino,1956-05-06T00:00:00,2006-03-10T00:00:00,,16
+4,863,Rosauro,,Martínez,Labbé,Masculino,1950-11-11T00:00:00,2006-03-10T00:00:00,,41
+4,865,Patricio,,Melero,Abaroa,Masculino,1956-06-19T00:00:00,2006-03-10T00:00:00,,16
+4,185,María Eugenia,,Mella,Gajardo,Femenino,1952-03-04T00:00:00,2006-03-10T00:00:00,,10
+4,866,Fernando,,Meza,Moncada,Masculino,1946-07-14T00:00:00,2006-03-10T00:00:00,,52
+4,868,Nicolás,,Monckeberg,Díaz,Masculino,1973-07-31T00:00:00,2006-03-10T00:00:00,,42
+4,870,Carlos,,Montes,Cisternas,Masculino,1946-05-11T00:00:00,2006-03-10T00:00:00,,26
+4,190,Waldo,,Mora,Longa,Masculino,1942-12-12T00:00:00,2006-03-10T00:00:00,,3
+4,871,Iván,,Moreira,Barros,Masculino,1956-12-08T00:00:00,2006-03-10T00:00:00,,27
+4,193,Pedro,,Muñoz,Aburto,Masculino,1944-07-01T00:00:00,2006-03-10T00:00:00,,60
+4,873,Adriana,,Muñoz,D'Albora,Femenino,1948-09-25T00:00:00,2006-03-10T00:00:00,,9
+4,195,Alejandro,,Navarro,Brain,Masculino,1958-11-20T00:00:00,2006-03-10T00:00:00,,45
+4,877,Sergio,,Ojeda,Uribe,Masculino,1943-03-12T00:00:00,2006-03-10T00:00:00,,55
+4,878,Carlos,,Olivares,Zepeda,Masculino,1952-05-25T00:00:00,2006-03-10T00:00:00,,18
+4,879,José Miguel,,Ortiz,Novoa,Masculino,1941-11-22T00:00:00,2006-03-10T00:00:00,,44
+4,242,Néstor,,Jofré,Núñez,Masculino,1947-10-19T00:00:00,2006-03-10T00:00:00,,2
+4,882,Iván,,Paredes,Fierro,Masculino,1958-06-04T00:00:00,2006-03-10T00:00:00,,1
+4,202,Cristián,,Pareto,Vergara,Masculino,1963-10-19T00:00:00,2006-03-10T00:00:00,,20
+4,884,Darío,,Paya,Mira,Masculino,1964-07-20T00:00:00,2006-03-10T00:00:00,,28
+4,206,Ramón,,Pérez,Opazo,Masculino,1933-12-03T00:00:00,2006-03-10T00:00:00,,2
+4,921,Lily,,Pérez,San Martín,Femenino,1963-05-10T00:00:00,2006-03-10T00:00:00,,26
+4,208,Víctor,,Pérez,Varela,Masculino,1954-10-18T00:00:00,2006-03-10T00:00:00,,47
+4,209,Pablo,,Prieto,Lorca,Masculino,1959-05-04T00:00:00,2006-03-10T00:00:00,,37
+4,211,Víctor Manuel,,Rebolledo,González,Masculino,1949-06-06T00:00:00,2006-03-10T00:00:00,,7
+4,887,Carlos,,Recondo,Lavanderos,Masculino,1954-04-27T00:00:00,2006-03-10T00:00:00,,56
+4,213,Edgardo,,Riveros,Marín,Masculino,1949-09-03T00:00:00,2006-03-10T00:00:00,,30
+4,889,Manuel,,Rojas,Molina,Masculino,1959-11-03T00:00:00,2006-03-10T00:00:00,,4
+4,890,Fulvio,,Rossi,Ciocca,Masculino,1970-09-30T00:00:00,2006-03-10T00:00:00,,2
+4,892,María Antonieta,,Saa,Díaz,Femenino,1943-01-08T00:00:00,2006-03-10T00:00:00,,17
+4,895,Felipe,,Salaberry,Soto,Masculino,1966-01-09T00:00:00,2006-03-10T00:00:00,,25
+4,220,Edmundo,,Salas,De La Fuente,Masculino,1936-09-09T00:00:00,2006-03-10T00:00:00,,45
+4,221,Leopoldo,,Sánchez,Grunert,Masculino,1949-10-20T00:00:00,2006-03-10T00:00:00,,59
+4,222,Rodolfo,,Seguel,Molina,Masculino,1953-09-20T00:00:00,2006-03-10T00:00:00,,28
+4,224,Exequiel,,Silva,Ortiz,Masculino,1963-10-13T00:00:00,2006-03-10T00:00:00,,53
+4,899,Laura,,Soto,González,Femenino,1931-12-15T00:00:00,2006-03-10T00:00:00,,13
+4,226,Boris,,Tapia,Martínez,Masculino,1941-08-27T00:00:00,2006-03-10T00:00:00,,36
+4,903,Carolina,,Tohá,Morales,Femenino,1965-05-12T00:00:00,2006-03-10T00:00:00,,22
+4,904,Eugenio,,Tuma,Zedan,Masculino,1945-07-29T00:00:00,2006-03-10T00:00:00,,51
+4,907,Gonzalo,,Uriarte,Herrera,Masculino,1964-12-28T00:00:00,2006-03-10T00:00:00,,31
+4,908,Ignacio,,Urrutia,Bonilla,Masculino,1957-09-16T00:00:00,2006-03-10T00:00:00,,40
+4,912,Alfonso,,Vargas,Lyng,Masculino,1951-12-16T00:00:00,2006-03-10T00:00:00,,10
+4,916,Ximena,,Vidal,Lázaro,Femenino,1955-01-01T00:00:00,2006-03-10T00:00:00,,25
+4,962,Carlos,,Vilches,Guzmán,Masculino,1944-10-20T00:00:00,2006-03-10T00:00:00,,5
+4,918,Patricio,,Walker,Prieto,Masculino,1969-04-28T00:00:00,2006-03-10T00:00:00,,8
+4,800,Enrique,,Accorsi,Opazo,Masculino,1948-08-17T00:00:00,2006-03-10T00:00:00,,24
+4,802,Sergio,,Aguiló,Melo,Masculino,1953-02-09T00:00:00,2006-03-10T00:00:00,,37
+4,805,Claudio,,Alvarado,Andrade,Masculino,1960-02-07T00:00:00,2006-03-10T00:00:00,,58
+4,807,Rodrigo,,Alvarez,Zenteno,Masculino,1966-07-30T00:00:00,2006-03-10T00:00:00,,60
+4,806,Pedro Pablo,,Alvarez-Salamanca,Büchi,Masculino,1948-04-10T00:00:00,2006-03-10T00:00:00,,38
+4,810,Gabriel,,Ascencio,Mansilla,Masculino,1953-10-25T00:00:00,2006-03-10T00:00:00,,58
+4,811,Ramón,,Barros,Montero,Masculino,1958-03-05T00:00:00,2006-03-10T00:00:00,,35
+4,813,Germán,,Becker,Alvear,Masculino,1955-03-13T00:00:00,2006-03-10T00:00:00,,50
+4,842,Pablo,,Galilea,Carrillo,Masculino,1963-01-31T00:00:00,2006-03-10T00:00:00,,59
+4,821,Sergio,,Correa,De la Cerda,Masculino,1938-05-12T00:00:00,2006-03-10T00:00:00,,36
+4,826,Eduardo,,Díaz,Del Río,Masculino,1973-12-17T00:00:00,2006-03-10T00:00:00,,51
+4,150,Camilo,,Escalona,Medina,Masculino,1955-06-15T00:00:00,2006-03-10T00:00:00,,46
+4,155,José Antonio,,Galilea,Vidaurre,Masculino,1961-11-19T00:00:00,2006-03-10T00:00:00,,49
+4,159,Rosa,,González,Román,Femenino,1942-07-23T00:00:00,2006-03-10T00:00:00,,1
+4,164,Carlos,,Hidalgo,González,Masculino,1955-06-10T00:00:00,2006-03-10T00:00:00,,15
+4,855,Carlos Abel,,Jarpa,Wevar,Masculino,1944-11-24T00:00:00,2006-03-10T00:00:00,,41
+4,857,José Antonio,,Kast,Rist,Masculino,1966-01-18T00:00:00,2006-03-10T00:00:00,,30
+4,175,Cristián,,Leay,Morán,Masculino,1954-02-09T00:00:00,2006-03-10T00:00:00,,19
+4,179,Pablo,,Longueira,Montes,Masculino,1958-08-12T00:00:00,2006-03-10T00:00:00,,17
+4,864,Juan,,Masferrer,Pellizzari,Masculino,1940-11-19T00:00:00,2006-03-10T00:00:00,,34
+4,187,Darío,,Molina,Sanhueza,Masculino,1966-06-20T00:00:00,2006-03-10T00:00:00,,9
+4,872,Jaime,,Mulet,Martínez,Masculino,1963-08-03T00:00:00,2006-03-10T00:00:00,,6
+4,875,Iván,,Norambuena,Farías,Masculino,1958-09-04T00:00:00,2006-03-10T00:00:00,,46
+4,881,Osvaldo,,Palma,Flores,Masculino,1952-10-02T00:00:00,2006-03-10T00:00:00,,39
+4,885,José,,Pérez,Arriagada,Masculino,1940-12-29T00:00:00,2006-03-10T00:00:00,,47
+4,886,Jaime,,Quintana,Leal,Masculino,1967-10-22T00:00:00,2006-03-10T00:00:00,,49
+4,888,Alberto,,Robles,Pantoja,Masculino,1956-10-04T00:00:00,2006-03-10T00:00:00,,6
+4,894,Eduardo,,Saffirio,Suárez,Masculino,1958-08-12T00:00:00,2006-03-10T00:00:00,,50
+4,897,Alejandra,,Sepúlveda,Orbenes,Femenino,1965-11-13T00:00:00,2006-03-10T00:00:00,,34
+4,902,Jorge,,Tarud,Daccarett,Masculino,1953-07-19T00:00:00,2006-03-10T00:00:00,,39
+4,234,Mario,,Varela,Herrera,Masculino,1953-11-12T00:00:00,2006-03-10T00:00:00,,20
+4,917,Gastón,,Von Mühlenbrock,Zamora,Masculino,1954-12-26T00:00:00,2006-03-10T00:00:00,,54
+4,906,Jorge,,Ulloa,Aguillón,Masculino,1958-09-15T00:00:00,2006-03-10T00:00:00,,43
+4,910,Esteban,,Valenzuela,Van Treek,Masculino,1964-03-12T00:00:00,2006-03-10T00:00:00,,32
+4,914,Samuel,,Venegas,Rubio,Masculino,1938-04-01T00:00:00,2006-03-10T00:00:00,,15
+4,239,Edmundo,,Villouta,Concha,Masculino,1926-09-17T00:00:00,2006-03-10T00:00:00,,48
+4,804,Isabel,,Allende,Bussi,Femenino,1945-01-18T00:00:00,2006-03-10T00:00:00,,29
+4,808,Pedro,,Araya,Guerrero,Masculino,1974-06-16T00:00:00,2006-03-10T00:00:00,,4

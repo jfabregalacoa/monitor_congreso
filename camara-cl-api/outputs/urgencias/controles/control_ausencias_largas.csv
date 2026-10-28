@@ -4,7 +4,9 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 948,2014_18,782,2016-08-30,2017-08-24,Gaspar Rivas Sánchez
 1069,2022_26,768,2023-07-24,2023-12-21,Leonidas Romero Sáez
 1116,2022_26,721,2024-09-30,2024-11-27,Felipe Camaño Cárdenas
+847,2010_14,707,2012-07-31,2013-05-14,Carolina Goic Boroevic
 1027,2022_26,694,2024-11-11,2024-12-18,Jorge Durán Espinoza
+899,2006_10,589,2008-01-17,2009-01-13,Laura Soto González
 1164,2022_26,565,2024-11-04,2024-11-15,Marcela Riquelme Aliaga
 1030,2022_26,564,2024-11-06,2024-11-18,Camila Flores Oporto
 990,2022_26,562,2024-11-11,2024-11-20,Daniel Melo Contreras
@@ -15,19 +17,25 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 1168,2022_26,556,2024-11-11,2024-11-15,Jorge Saffirio Espinoza
 1074,2022_26,554,2024-11-12,2024-11-15,Marisela Santibáñez Novoa
 872,2022_26,554,2024-11-12,2024-11-15,Jaime Mulet Martínez
+851,2006_10,544,2008-06-17,2009-04-16,Amelia Herrera Silva
 1058,2022_26,525,2024-11-13,2025-01-15,Maite Orsini Pascal
 1048,2022_26,519,2023-11-07,2023-11-27,Carolina Marzán Pinto
 1015,2022_26,518,2022-10-03,2023-01-26,Jorge Brito Hasbún
+853,2010_14,493,2011-07-07,2012-01-05,Marta Isasi Barbieri
 1045,2018_22,489,2021-01-14,2021-08-11,Aracely Leuquén Uribe
 1035,2022_26,476,2024-11-12,2024-11-15,Carmen Hertz Cádiz
 1156,2022_26,474,2024-11-13,2024-11-15,Hernán Palma Pérez
 1070,2022_26,471,2022-11-07,2023-01-26,Patricio Rosas Barrientos
 1056,2022_26,461,2022-11-14,2023-01-26,Emilia Nuyado Ancapichún
+211,2002_06,445,2005-03-16,2006-03-07,Víctor Manuel Rebolledo González
 1030,2022_26,443,2022-10-03,2023-01-10,Camila Flores Oporto
 1025,2022_26,430,2023-11-14,2023-11-17,Catalina Del Real Mihovilovic
+891,2010_14,417,2012-08-13,2012-12-20,Karla Rubilar Barahona
 1036,2022_26,404,2023-11-15,2023-11-17,Tomás Hirsch Goldschmidt
 989,2022_26,359,2024-11-14,2024-11-27,Joaquín Lavín León
+853,2010_14,353,2010-07-27,2010-11-18,Marta Isasi Barbieri
 1075,2022_26,351,2024-11-13,2024-11-15,Diego Schalper Sepúlveda
+882,2006_10,349,2007-08-14,2008-03-13,Iván Paredes Fierro
 1035,2022_26,328,2023-11-15,2023-11-29,Carmen Hertz Cádiz
 1115,2022_26,323,2023-11-13,2023-11-16,Mercedes Bulnes Núñez
 1074,2022_26,321,2023-11-14,2023-11-16,Marisela Santibáñez Novoa
@@ -36,8 +44,10 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 1039,2018_22,303,2019-04-10,2019-09-05,Pamela Jiles Moreno
 866,2014_18,302,2016-11-03,2016-12-01,Fernando Meza Moncada
 1113,2022_26,301,2023-11-13,2023-11-16,Marta Bravo Salinas
+159,2002_06,290,2003-11-05,2004-05-19,Rosa González Román
 843,2014_18,288,2016-11-09,2016-12-01,René Manuel García García
 819,2014_18,285,2016-11-15,2016-12-01,Guillermo Ceroni Fuentes
+847,2006_10,284,2007-08-28,2008-01-03,Carolina Goic Boroevic
 1139,2022_26,282,2023-11-15,2023-11-17,Enrique Lee Flores
 1123,2022_26,274,2023-11-16,2023-11-20,Gonzalo De la Carrera Correa
 872,2022_26,274,2023-11-16,2023-11-20,Jaime Mulet Martínez
@@ -48,14 +58,20 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 1115,2022_26,268,2022-11-14,2022-11-23,Mercedes Bulnes Núñez
 1136,2022_26,268,2022-11-14,2022-11-23,Paula Labra Besserer
 1027,2022_26,263,2022-11-14,2022-11-17,Jorge Durán Espinoza
+891,2010_14,263,2010-09-28,2010-11-30,Karla Rubilar Barahona
 989,2022_26,258,2024-11-12,2024-11-14,Joaquín Lavín León
+825,2010_14,254,2013-01-02,2013-05-09,Roberto Delmastro Naso
+853,2010_14,252,2013-06-12,2013-08-08,Marta Isasi Barbieri
+866,2010_14,247,2011-11-02,2011-12-01,Fernando Meza Moncada
 1107,2022_26,237,2025-12-16,2026-03-05,María Francisca Bello Campos
+838,2010_14,236,2013-10-10,2014-01-08,Enrique Estay Peñaloza
 1104,2022_26,230,2025-04-08,2025-07-09,Chiara Barchiesi Chávez
 923,2014_18,230,2016-11-17,2016-11-28,Pedro Pablo Álvarez-Salamanca Ramírez
 961,2018_22,228,2019-11-21,2020-01-09,Pedro Velásquez Seguel
 879,2018_22,227,2021-03-30,2021-06-10,José Miguel Ortiz Novoa
 1171,2022_26,224,2023-11-16,2023-11-20,Emilia Schneider Videla
 931,2018_22,223,2020-11-11,2020-12-01,Juan Luis Castro González
+942,2010_14,222,2012-11-20,2012-11-28,Javier Macaya Danús
 1048,2022_26,221,2024-11-12,2024-11-14,Carolina Marzán Pinto
 866,2018_22,221,2019-10-29,2019-11-27,Fernando Meza Moncada
 968,2018_22,219,2018-11-13,2018-11-20,Jenny Álvarez Vera
@@ -77,22 +93,38 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 949,2018_22,211,2019-05-28,2019-08-22,Marcela Sabat Fernández
 999,2022_26,211,2024-11-15,2024-11-15,Jorge Rathgeb Schifferli
 1138,2022_26,207,2023-11-16,2023-11-17,Henry Leal Bizama
+864,2006_10,206,2008-10-16,2008-12-18,Juan Masferrer Pellizzari
 857,2014_18,205,2017-11-22,2017-12-14,José Antonio Kast Rist
 1181,2022_26,202,2023-11-16,2023-11-17,Nelson Venegas Salazar
 972,2018_22,202,2020-11-11,2020-11-19,Gabriel Boric Font
+863,2002_06,200,2004-08-11,2004-12-01,Rosauro Martínez Labbé
+838,2010_14,196,2010-10-26,2010-11-18,Enrique Estay Peñaloza
+800,2010_14,193,2012-11-13,2012-11-21,Enrique Accorsi Opazo
 854,2014_18,193,2016-04-19,2016-06-23,Enrique Jaramillo Becker
+895,2010_14,193,2012-11-13,2012-11-21,Felipe Salaberry Soto
+916,2010_14,193,2011-11-21,2011-12-01,Ximena Vidal Lázaro
+961,2010_14,193,2013-10-16,2013-12-05,Pedro Velásquez Seguel
 1035,2022_26,191,2025-10-27,2025-12-17,Carmen Hertz Cádiz
 1048,2022_26,190,2022-11-16,2022-11-23,Carolina Marzán Pinto
+931,2010_14,190,2012-11-20,2012-11-21,Juan Luis Castro González
 973,2022_26,190,2025-03-03,2025-06-02,Karol Cariola Oliva
 1073,2018_22,188,2019-11-14,2019-11-27,Juan Santana Castillo
+811,2010_14,188,2010-11-09,2010-11-30,Ramón Barros Montero
+849,2010_14,188,2013-06-12,2013-07-18,Patricio Hales Dib
+926,2010_14,187,2012-11-20,2012-11-21,Nino Baltolu Rasera
+960,2010_14,187,2012-11-20,2012-11-21,Orlando Vargas Pizarro
 961,2018_22,187,2021-09-29,2021-12-01,Pedro Velásquez Seguel
 1028,2022_26,185,2022-11-16,2022-11-17,Eduardo Durán Salinas
 1151,2022_26,185,2022-11-16,2022-11-17,Camila Musante Müller
+861,2010_14,184,2010-11-10,2010-11-30,Juan Lobos Krause
 1045,2018_22,182,2019-11-20,2020-01-02,Aracely Leuquén Uribe
 902,2014_18,180,2015-11-16,2015-11-19,Jorge Tarud Daccarett
 954,2014_18,180,2015-11-16,2015-11-19,Ernesto Silva Méndez
 1035,2022_26,179,2024-12-11,2025-01-29,Carmen Hertz Cádiz
 1033,2018_22,177,2020-11-17,2020-11-19,Renato Garín González
+839,2010_14,174,2010-11-10,2010-11-18,Ramón Farías Ponce
+855,2010_14,174,2010-11-10,2010-11-18,Carlos Abel Jarpa Wevar
+925,2010_14,174,2010-11-10,2010-11-18,Pepe Auth Stewart
 1077,2022_26,172,2023-11-16,2023-11-20,Raúl Soto Mardones
 1107,2022_26,172,2024-06-05,2024-09-24,María Francisca Bello Campos
 972,2018_22,172,2021-12-06,2022-03-07,Gabriel Boric Font
@@ -100,15 +132,23 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 989,2022_26,170,2023-11-15,2023-11-16,Joaquín Lavín León
 967,2018_22,168,2019-11-13,2019-11-26,Issa Kort Garriga
 911,2014_18,167,2017-11-09,2017-11-29,Patricio Vallespín López
+860,2010_14,166,2010-11-11,2010-11-18,Roberto León Ramírez
+804,2006_10,165,2008-11-19,2008-12-11,Isabel Allende Bussi
 856,2014_18,160,2018-01-03,2018-03-06,Tucapel Jiménez Fuentes
 1049,2018_22,154,2018-11-29,2019-01-24,Cosme Mellado Pino
 837,2014_18,154,2016-11-10,2016-11-17,Fidel Espinoza Sandoval
+949,2010_14,154,2011-11-16,2011-11-24,Marcela Sabat Fernández
 1005,2014_18,153,2016-11-15,2016-11-17,Osvaldo Urrutia Soto
 1030,2022_26,153,2023-11-17,2023-11-21,Camila Flores Oporto
+802,2010_14,153,2011-11-21,2011-11-24,Sergio Aguiló Melo
+934,2010_14,153,2011-11-21,2011-11-24,Fuad Chahin Valenzuela
+935,2010_14,153,2011-11-21,2011-11-24,Rojo Edwards Silva
 938,2014_18,153,2016-11-15,2016-11-17,Romilio Gutiérrez Pino
 1094,2022_26,151,2023-11-17,2023-11-20,Cristian Labbé Martínez
 1151,2022_26,151,2023-11-17,2023-11-20,Camila Musante Müller
 803,2022_26,151,2023-11-17,2023-11-20,René Alinco Bustos
+810,2010_14,150,2013-11-21,2013-12-05,Gabriel Ascencio Mansilla
+891,2010_14,150,2013-11-21,2013-12-05,Karla Rubilar Barahona
 948,2022_26,150,2023-11-17,2023-11-17,Gaspar Rivas Sánchez
 927,2014_18,149,2016-11-17,2016-12-01,Pedro Browne Urrejola
 938,2014_18,147,2017-07-04,2017-07-17,Romilio Gutiérrez Pino
@@ -117,30 +157,50 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 848,2014_18,145,2015-12-17,2016-03-09,Rodrigo González Torres
 961,2018_22,145,2020-08-19,2020-10-01,Pedro Velásquez Seguel
 1104,2022_26,144,2025-07-14,2025-09-08,Chiara Barchiesi Chávez
+853,2006_10,144,2008-06-04,2008-07-01,Marta Isasi Barbieri
+966,2010_14,144,2013-11-19,2013-11-28,Joel Rosales Guzmán
 1083,2018_22,143,2021-10-06,2021-11-24,Esteban Velásquez Núñez
 1013,2022_26,140,2022-11-16,2022-11-21,Alejandro Bernales Maldonado
+814,2010_14,140,2012-11-20,2012-11-22,Mario Bertolino Rendic
 927,2014_18,140,2017-07-17,2017-07-20,Pedro Browne Urrejola
 1019,2022_26,139,2026-01-12,2026-01-21,José Miguel Castro Bascuñán
 1082,2022_26,139,2023-11-16,2023-11-17,Cristóbal Urruticoechea Ríos
 1151,2022_26,139,2026-01-12,2026-01-21,Camila Musante Müller
+847,2006_10,139,2006-11-02,2006-11-23,Carolina Goic Boroevic
 856,2018_22,139,2018-11-15,2018-11-20,Tucapel Jiménez Fuentes
 857,2014_18,139,2017-08-09,2017-10-26,José Antonio Kast Rist
 868,2014_18,139,2017-11-22,2017-11-28,Nicolás Monckeberg Díaz
 869,2014_18,139,2017-07-06,2017-07-17,Manuel Monsalve Benavides
+880,2010_14,139,2011-08-02,2011-10-05,Clemira Pacheco Rivas
+883,2010_14,139,2013-06-20,2013-07-11,Denise Pascal Allende
+876,2010_14,138,2013-11-20,2013-11-28,Marco Antonio Núñez Lozano
 954,2014_18,138,2017-07-17,2017-07-17,Ernesto Silva Méndez
 866,2018_22,136,2021-04-13,2021-05-18,Fernando Meza Moncada
+909,2006_10,136,2006-11-07,2006-11-23,Ximena Valcarce Becerra
+939,2010_14,136,2010-11-09,2010-11-18,Gustavo Hasbún Selume
 1082,2022_26,135,2024-11-13,2024-11-13,Cristóbal Urruticoechea Ríos
+211,2002_06,135,2002-11-13,2002-12-04,Víctor Manuel Rebolledo González
+838,2010_14,135,2013-07-04,2013-07-18,Enrique Estay Peñaloza
 891,2014_18,135,2016-03-22,2016-04-19,Karla Rubilar Barahona
+960,2010_14,135,2013-11-21,2013-11-28,Orlando Vargas Pizarro
 1070,2018_22,134,2018-11-15,2018-11-16,Patricio Rosas Barrientos
 843,2018_22,134,2018-11-15,2018-11-16,René Manuel García García
 959,2018_22,134,2018-11-15,2018-11-16,Enrique Van Rysselberghe Herrera
 963,2018_22,134,2018-11-15,2018-11-16,Matías Walker Prieto
 994,2018_22,134,2018-11-15,2018-11-16,Paulina Núñez Urrutia
 1077,2022_26,133,2026-01-14,2026-01-21,Raúl Soto Mardones
+866,2010_14,133,2013-11-25,2013-12-03,Fernando Meza Moncada
+951,2010_14,133,2010-11-09,2010-11-16,David Sandoval Plaza
 959,2018_22,133,2021-10-13,2021-11-22,Enrique Van Rysselberghe Herrera
+889,2010_14,132,2010-11-04,2010-11-12,Manuel Rojas Molina
 992,2014_18,131,2015-12-15,2016-01-28,Juan Enrique Morano Cornejo
 1035,2018_22,130,2020-03-17,2020-05-06,Carmen Hertz Cádiz
+844,2006_10,130,2006-11-08,2006-11-23,Alejandro García-Huidobro Sanfuentes
+851,2006_10,130,2006-11-07,2006-11-16,Amelia Herrera Silva
+860,2006_10,130,2006-11-07,2006-11-16,Roberto León Ramírez
+891,2006_10,130,2006-11-14,2006-12-05,Karla Rubilar Barahona
 942,2018_22,130,2021-10-26,2021-11-22,Javier Macaya Danús
+806,2006_10,129,2006-11-07,2006-11-16,Pedro Pablo Alvarez-Salamanca Büchi
 872,2018_22,129,2021-10-26,2021-11-10,Jaime Mulet Martínez
 1013,2022_26,128,2023-11-17,2023-11-17,Alejandro Bernales Maldonado
 1025,2022_26,128,2024-11-14,2024-11-14,Catalina Del Real Mihovilovic
@@ -156,35 +216,59 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 1168,2022_26,128,2023-11-17,2023-11-17,Jorge Saffirio Espinoza
 1175,2022_26,128,2023-11-17,2023-11-17,Cristián Tapia Ramos
 1180,2022_26,128,2023-11-17,2023-11-17,Consuelo Veloso Ávila
+926,2010_14,128,2013-11-25,2013-11-28,Nino Baltolu Rasera
+946,2010_14,128,2013-11-25,2013-11-28,Leopoldo Pérez Lahsen
 1026,2018_22,127,2019-11-13,2019-11-19,Mario Desbordes Jiménez
 1088,2018_22,127,2021-10-27,2021-11-22,Camilo Morán Bahamondes
+863,2010_14,127,2010-11-10,2010-11-12,Rosauro Martínez Labbé
 1027,2018_22,126,2021-10-27,2021-11-10,Jorge Durán Espinoza
 813,2014_18,126,2017-11-09,2017-11-27,Germán Becker Alvear
+849,2006_10,126,2006-11-08,2006-11-16,Patricio Hales Dib
 874,2014_18,126,2017-11-22,2017-11-27,Claudia Nogueira Fernández
+177,2002_06,125,2005-06-15,2005-09-06,Felipe Letelier Norambuena
+802,2010_14,125,2013-11-19,2013-11-27,Sergio Aguiló Melo
 803,2022_26,124,2022-11-16,2022-11-17,René Alinco Bustos
+811,2010_14,124,2010-12-02,2010-12-22,Ramón Barros Montero
 1051,2022_26,123,2023-11-16,2023-11-16,Claudia Mix Jiménez
 1014,2018_22,122,2019-11-13,2019-11-16,Karim Bianchi Retamales
 1057,2022_26,122,2025-08-12,2025-09-17,Erika Olivera De La Fuente
 1078,2018_22,122,2019-11-13,2019-11-16,Jaime Tohá González
+833,2006_10,122,2006-11-14,2006-11-16,Marco Enríquez-Ominami Gumucio
 908,2014_18,122,2017-11-09,2017-11-22,Ignacio Urrutia Bonilla
 972,2014_18,122,2017-11-09,2017-11-22,Gabriel Boric Font
+934,2010_14,121,2013-03-13,2013-03-21,Fuad Chahin Valenzuela
 949,2014_18,121,2014-10-14,2014-11-04,Marcela Sabat Fernández
 1044,2018_22,120,2019-11-14,2019-11-16,Raúl Leiva Carvajal
 1048,2018_22,120,2019-11-14,2019-11-16,Carolina Marzán Pinto
 1087,2018_22,120,2019-11-14,2019-11-16,Gael Yeomans Araya
+164,2002_06,120,2004-11-16,2005-04-06,Carlos Hidalgo González
+833,2006_10,120,2009-11-03,2010-01-14,Marco Enríquez-Ominami Gumucio
 837,2018_22,120,2021-11-04,2021-11-29,Fidel Espinoza Sandoval
 846,2014_18,120,2016-11-17,2016-11-22,Joaquín Godoy Ibáñez
 1025,2018_22,119,2021-10-27,2021-11-04,Catalina Del Real Mihovilovic
+819,2010_14,119,2010-11-11,2010-11-12,Guillermo Ceroni Fuentes
+849,2010_14,119,2010-11-11,2010-11-12,Patricio Hales Dib
+857,2006_10,119,2008-11-18,2008-11-24,José Antonio Kast Rist
+885,2010_14,119,2010-11-11,2010-11-12,José Pérez Arriagada
+906,2010_14,119,2010-11-11,2010-11-12,Jorge Ulloa Aguillón
+908,2010_14,119,2010-11-11,2010-11-12,Ignacio Urrutia Bonilla
+923,2010_14,119,2010-11-11,2010-11-12,Pedro Pablo Álvarez-Salamanca Ramírez
+929,2010_14,119,2010-11-11,2010-11-12,Cristián Campos Jara
+944,2010_14,119,2010-11-11,2010-11-12,Andrea Molina Oliva
 961,2018_22,119,2020-11-11,2020-11-18,Pedro Velásquez Seguel
 1027,2018_22,118,2019-11-15,2019-11-16,Jorge Durán Espinoza
 1089,2018_22,118,2021-06-01,2021-07-29,Nora Cuevas Contreras
+841,2006_10,118,2008-11-18,2008-11-21,Renán Fuentealba Vildósola
 850,2014_18,118,2014-10-09,2014-10-21,Javier Hernández Hernández
 947,2014_18,118,2017-11-22,2017-11-22,Ricardo Rincón González
 949,2014_18,118,2017-11-22,2017-11-22,Marcela Sabat Fernández
 951,2014_18,118,2017-11-22,2017-11-22,David Sandoval Plaza
+958,2010_14,117,2013-05-08,2013-06-12,Joaquín Tuma Zedan
 1016,2018_22,116,2020-11-17,2020-11-24,Miguel Ángel Calisto Águila
 1071,2018_22,116,2020-03-03,2020-03-28,Gastón Saavedra Chandía
+908,2006_10,116,2008-11-18,2008-11-21,Ignacio Urrutia Bonilla
 1147,2022_26,115,2023-11-22,2023-12-21,Helia Molina Milman
+860,2010_14,115,2013-11-21,2013-11-26,Roberto León Ramírez
 1037,2018_22,114,2021-11-03,2021-11-22,Diego Ibáñez Cotroneo
 949,2018_22,114,2019-03-05,2019-05-09,Marcela Sabat Fernández
 1035,2022_26,113,2022-11-17,2022-11-23,Carmen Hertz Cádiz
@@ -198,13 +282,17 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 956,2018_22,112,2021-11-04,2021-11-22,Guillermo Teillier Del Valle
 959,2014_18,112,2016-11-17,2016-11-17,Enrique Van Rysselberghe Herrera
 1040,2022_26,111,2022-11-16,2022-11-17,Harry Jürgensen Rundshagen
+1068,2022_26,111,2022-03-21,2022-06-13,Camila Rojas Valderrama
 1074,2018_22,111,2021-11-04,2021-11-10,Marisela Santibáñez Novoa
 1110,2022_26,111,2022-11-16,2022-11-17,Carlos Bianchi Chelech
+843,2010_14,111,2010-11-12,2010-11-18,René Manuel García García
 850,2018_22,111,2021-11-04,2021-11-10,Javier Hernández Hernández
+858,2006_10,111,2008-11-18,2008-11-20,Juan Carlos Latorre Carmona
 948,2022_26,111,2024-12-16,2025-01-22,Gaspar Rivas Sánchez
 1017,2022_26,110,2022-11-17,2022-11-21,Álvaro Carter Fernández
 1031,2022_26,110,2022-11-17,2022-11-21,Juan Fuenzalida Cobo
 1137,2022_26,110,2025-11-17,2025-11-26,Tomás Lagomarsino Guzmán
+866,2002_06,110,2002-12-19,2003-01-22,Fernando Meza Moncada
 971,2014_18,110,2016-11-17,2016-11-22,Bernardo Berger Fett
 989,2022_26,110,2022-11-17,2022-11-21,Joaquín Lavín León
 952,2014_18,109,2016-11-17,2016-11-22,Alejandro Santana Tirachini
@@ -218,10 +306,12 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 74,2022_26,108,2022-11-17,2022-11-17,Jaime Naranjo Ortiz
 872,2022_26,108,2022-11-17,2022-11-17,Jaime Mulet Martínez
 976,2022_26,108,2022-11-17,2022-11-17,Juan Antonio Coloma Álamos
+921,2006_10,107,2008-11-19,2008-11-20,Lily Pérez San Martín
 1051,2018_22,106,2021-11-03,2021-11-04,Claudia Mix Jiménez
 972,2018_22,106,2021-11-03,2021-11-04,Gabriel Boric Font
 987,2018_22,106,2021-11-03,2021-11-04,Giorgio Jackson Drago
 1009,2018_22,105,2021-11-04,2021-11-10,Jorge Alessandri Vergara
+816,2010_14,105,2013-06-19,2013-07-09,Jorge Burgos Varela
 992,2014_18,105,2016-11-17,2016-11-24,Juan Enrique Morano Cornejo
 1006,2018_22,104,2021-11-04,2021-11-04,Camila Vallejo Dowling
 1036,2018_22,104,2021-11-04,2021-11-04,Tomás Hirsch Goldschmidt
@@ -231,12 +321,18 @@ diputado_id,periodo,votaciones_seguidas,desde,hasta,nombre
 1086,2018_22,104,2021-11-04,2021-11-04,Gonzalo Winter Etcheberry
 1094,2018_22,104,2021-11-04,2021-11-04,Cristian Labbé Martínez
 1152,2022_26,104,2023-11-17,2023-11-17,Gloria Naveillan Arriagada
+948,2010_14,104,2013-04-16,2013-06-06,Gaspar Rivas Sánchez
 973,2018_22,104,2021-11-04,2021-11-04,Karol Cariola Oliva
 1153,2022_26,103,2025-06-04,2025-07-02,Coca Ericka Ñanco Vásquez
+839,2010_14,103,2013-06-04,2013-06-18,Ramón Farías Ponce
 866,2018_22,103,2019-08-08,2019-08-22,Fernando Meza Moncada
 1016,2018_22,102,2020-03-12,2020-04-16,Miguel Ángel Calisto Águila
 1045,2018_22,102,2020-03-12,2020-04-16,Aracely Leuquén Uribe
 660,2018_22,102,2020-03-12,2020-04-16,Manuel Matta Aragay
+825,2010_14,102,2013-07-04,2013-07-11,Roberto Delmastro Naso
 885,2018_22,102,2020-03-12,2020-04-16,José Pérez Arriagada
+955,2010_14,102,2013-07-04,2013-07-11,Arturo Squella Ovalle
+826,2002_06,101,2002-11-19,2002-11-21,Eduardo Díaz Del Río
+874,2010_14,101,2013-07-09,2013-07-11,Claudia Nogueira Fernández
 1158,2022_26,100,2023-11-17,2023-11-17,Víctor Alejandro Pino Fuentes
 936,2018_22,100,2019-11-16,2019-11-27,Cristina Girardi Lavín

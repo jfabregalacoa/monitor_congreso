@@ -1,4 +1,125 @@
 periodo,diputado_id,nombre,primer_voto,ultimo_voto,salida_camara,reemplazante,salio,servicio_inicio,servicio_fin,fuente_servicio,fraccion_mandato,cuenta
+2002_06,132,Francisco Bayo Veloso,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,137,Eliana Caraball Martínez,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,140,Patricio Cornejo Vidaurrázaga,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,150,Camilo Escalona Medina,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,151,Mario Escobar Urbina,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,155,José Antonio Galilea Vidaurre,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,158,Guido Girardi Lavín,2002-06-11,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,159,Rosa González Román,2002-03-21,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,161,María Pía Guzmán Mena,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,164,Carlos Hidalgo González,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,165,Gonzalo Ibáñez Santa María,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,166,Carmen Ibáñez Soto,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,169,Víctor Jeame Barrueto,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,170,Jaime Jiménez Villavicencio,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,172,Carlos Kuschel Silva,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,173,Eduardo Lagos Herrera,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,175,Cristián Leay Morán,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,176,Juan Pablo Letelier Morel,2002-04-02,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,177,Felipe Letelier Norambuena,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,178,Arturo Longton Guerrero,2002-04-03,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,179,Pablo Longueira Montes,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,181,Zarko Luksic Sandoval,2002-04-02,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,185,María Eugenia Mella Gajardo,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,187,Darío Molina Sanhueza,2002-03-20,2006-01-10,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,190,Waldo Mora Longa,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,193,Pedro Muñoz Aburto,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,195,Alejandro Navarro Brain,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,202,Cristián Pareto Vergara,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,205,Aníbal Pérez Lobos,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,206,Ramón Pérez Opazo,2002-03-20,2005-06-07,2005-06-12,0,1,2002-03-11,2005-06-12,salida = Cámara (WSDiputado),0.815,1
+2002_06,208,Víctor Pérez Varela,2002-04-30,2006-01-18,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,209,Pablo Prieto Lorca,2002-03-20,2006-01-24,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,211,Víctor Manuel Rebolledo González,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,213,Edgardo Riveros Marín,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,220,Edmundo Salas De La Fuente,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,221,Leopoldo Sánchez Grunert,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,222,Rodolfo Seguel Molina,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,224,Exequiel Silva Ortiz,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,226,Boris Tapia Martínez,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,234,Mario Varela Herrera,2002-03-20,2005-11-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,239,Edmundo Villouta Concha,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,242,Néstor Jofré Núñez,2005-07-05,2006-01-10,2006-03-10,1,0,2005-07-05,2006-03-10,entrada = primer voto (aprox.),0.17,0
+2002_06,800,Enrique Accorsi Opazo,2002-04-04,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,802,Sergio Aguiló Melo,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,804,Isabel Allende Bussi,2002-04-04,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,805,Claudio Alvarado Andrade,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,806,Pedro Pablo Alvarez-Salamanca Büchi,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,807,Rodrigo Alvarez Zenteno,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,808,Pedro Araya Guerrero,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,810,Gabriel Ascencio Mansilla,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,811,Ramón Barros Montero,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,812,Eugenio Bauer Jouanne,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,813,Germán Becker Alvear,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,814,Mario Bertolino Rendic,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,816,Jorge Burgos Varela,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,817,Juan Bustos Ramírez,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,818,Alberto Cardemil Herrera,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,819,Guillermo Ceroni Fuentes,2002-04-02,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,821,Sergio Correa De la Cerda,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,822,María Angélica Cristi Marfil,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,823,Marcela Cubillos Sigall,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,825,Roberto Delmastro Naso,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,826,Eduardo Díaz Del Río,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,828,Julio Dittborn Cordua,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,830,Andrés Egaña Respaldiza,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,832,Francisco Encina Moriamez,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,834,Maximiano Errázuriz Eguiguren,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,837,Fidel Espinoza Sandoval,2002-03-21,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,840,Marcelo Forni Lobos,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,842,Pablo Galilea Carrillo,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,843,René Manuel García García,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,844,Alejandro García-Huidobro Sanfuentes,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,848,Rodrigo González Torres,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,849,Patricio Hales Dib,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,850,Javier Hernández Hernández,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,854,Enrique Jaramillo Becker,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,855,Carlos Abel Jarpa Wevar,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,857,José Antonio Kast Rist,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,859,Antonio Leal Labrín,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,862,Pablo Lorenzini Basso,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,863,Rosauro Martínez Labbé,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,864,Juan Masferrer Pellizzari,2002-04-02,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,865,Patricio Melero Abaroa,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,866,Fernando Meza Moncada,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,868,Nicolás Monckeberg Díaz,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,870,Carlos Montes Cisternas,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,871,Iván Moreira Barros,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,872,Jaime Mulet Martínez,2002-05-08,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,873,Adriana Muñoz D'Albora,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,875,Iván Norambuena Farías,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,877,Sergio Ojeda Uribe,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,878,Carlos Olivares Zepeda,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,879,José Miguel Ortiz Novoa,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,881,Osvaldo Palma Flores,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,882,Iván Paredes Fierro,2002-03-21,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,884,Darío Paya Mira,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,885,José Pérez Arriagada,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,886,Jaime Quintana Leal,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,887,Carlos Recondo Lavanderos,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,888,Alberto Robles Pantoja,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,889,Manuel Rojas Molina,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,890,Fulvio Rossi Ciocca,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,892,María Antonieta Saa Díaz,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,894,Eduardo Saffirio Suárez,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,895,Felipe Salaberry Soto,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,897,Alejandra Sepúlveda Orbenes,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,899,Laura Soto González,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,902,Jorge Tarud Daccarett,2002-03-20,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,903,Carolina Tohá Morales,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,904,Eugenio Tuma Zedan,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,906,Jorge Ulloa Aguillón,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,907,Gonzalo Uriarte Herrera,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,908,Ignacio Urrutia Bonilla,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,910,Esteban Valenzuela Van Treek,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,912,Alfonso Vargas Lyng,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,914,Samuel Venegas Rubio,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,916,Ximena Vidal Lázaro,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,917,Gastón Von Mühlenbrock Zamora,2002-03-20,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,918,Patricio Walker Prieto,2002-03-19,2006-03-07,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,921,Lily Pérez San Martín,2002-03-19,2006-03-08,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
+2002_06,962,Carlos Vilches Guzmán,2002-03-19,2006-01-24,2006-03-10,0,0,2002-03-11,2006-03-10,período completo,1,1
 2006_10,800,Enrique Accorsi Opazo,2006-03-14,2010-03-10,2010-03-10,0,0,2006-03-11,2010-03-10,período completo,1,1
 2006_10,801,René Aedo Ormeño,2006-03-14,2010-03-08,2010-03-10,0,0,2006-03-11,2010-03-10,período completo,1,1
 2006_10,802,Sergio Aguiló Melo,2006-03-14,2010-03-09,2010-03-10,0,0,2006-03-11,2010-03-10,período completo,1,1
@@ -568,7 +689,7 @@ periodo,diputado_id,nombre,primer_voto,ultimo_voto,salida_camara,reemplazante,sa
 2022_26,1063,Catalina Pérez Salinas,2022-03-21,2026-03-05,2026-03-10,0,0,2022-03-11,2026-03-10,período completo,1,1
 2022_26,1065,Guillermo Ramírez Diez,2022-03-21,2026-03-05,2026-03-10,0,0,2022-03-11,2026-03-10,período completo,1,1
 2022_26,1067,Hugo Rey Martínez,2022-03-21,2026-03-05,2026-03-10,0,0,2022-03-11,2026-03-10,período completo,1,1
-2022_26,1068,Camila Rojas Valderrama,2022-06-15,2026-03-05,2026-03-10,1,0,2022-06-15,2026-03-10,entrada = primer voto (aprox.),0.934,1
+2022_26,1068,Camila Rojas Valderrama,2022-06-15,2026-03-05,2026-03-10,0,0,2022-03-11,2026-03-10,período completo,1,1
 2022_26,1069,Leonidas Romero Sáez,2022-03-21,2026-03-05,2026-03-10,0,0,2022-03-11,2026-03-10,período completo,1,1
 2022_26,1070,Patricio Rosas Barrientos,2022-03-21,2026-03-05,2026-03-10,0,0,2022-03-11,2026-03-10,período completo,1,1
 2022_26,1073,Juan Santana Castillo,2022-03-21,2026-03-05,2026-03-10,0,0,2022-03-11,2026-03-10,período completo,1,1

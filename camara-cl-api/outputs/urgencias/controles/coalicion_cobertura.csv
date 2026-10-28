@@ -1,4 +1,29 @@
 periodo,gobierno,partido_alias,partido_nombre,diputados,en_tabla
+2002_06,Lagos,RN,Renovación Nacional,20,TRUE
+2002_06,Lagos,DC,Partido Demócrata Cristiano,22,TRUE
+2002_06,Lagos,PS,Partido Socialista,10,TRUE
+2002_06,Lagos,UDI,Unión Demócrata Independiente,34,TRUE
+2002_06,Lagos,PPD,Partido Por la Democracia,21,TRUE
+2002_06,Lagos,IND,Independientes,8,TRUE
+2002_06,Lagos,PR,Partido Radical de Chile,6,TRUE
+2006_10,Bachelet I,PPD,Partido Por la Democracia,21,TRUE
+2006_10,Bachelet I,RN,Renovación Nacional,20,TRUE
+2006_10,Bachelet I,PS,Partido Socialista,15,TRUE
+2006_10,Bachelet I,UDI,Unión Demócrata Independiente,33,TRUE
+2006_10,Bachelet I,IND,Independientes,9,TRUE
+2006_10,Bachelet I,DC,Partido Demócrata Cristiano,16,TRUE
+2006_10,Bachelet I,PRI,Partido Regionalista Independiente,3,TRUE
+2006_10,Bachelet I,PR,Partido Radical de Chile,6,TRUE
+2010_14,Piñera I,PPD,Partido Por la Democracia,18,TRUE
+2010_14,Piñera I,IC,Izquierda Ciudadana,1,TRUE
+2010_14,Piñera I,IND,Independientes,6,TRUE
+2010_14,Piñera I,PRI,Partido Regionalista Independiente,2,TRUE
+2010_14,Piñera I,UDI,Unión Demócrata Independiente,41,TRUE
+2010_14,Piñera I,DC,Partido Demócrata Cristiano,19,TRUE
+2010_14,Piñera I,RN,Renovación Nacional,17,TRUE
+2010_14,Piñera I,PS,Partido Socialista,11,TRUE
+2010_14,Piñera I,PR,Partido Radical de Chile,5,TRUE
+2010_14,Piñera I,PC,Partido Comunista,3,TRUE
 2014_18,Bachelet II,PS,Partido Socialista,16,TRUE
 2014_18,Bachelet II,UDI,Unión Demócrata Independiente,29,TRUE
 2014_18,Bachelet II,PC,Partido Comunista,6,TRUE
